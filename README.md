@@ -12,6 +12,10 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/wilkerHop/wilkerHop/output/github-snake.svg" align="center" />
+
+<br/>
+
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
