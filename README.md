@@ -4,7 +4,7 @@
 
 ### <div align="center">Hi! My name is Wilker and I am a web developer</div>
 
-- 🌱 I’m currently learning NestJs and Prisma
+- 🌱 I’m currently studing Web3 and ways to decentralize applications
 
 - 🗣️ Let's discuss about clean code and best pratices
 
