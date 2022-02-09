@@ -86,6 +86,11 @@
 
 <br/>
 
+<div align="center"><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=wilkerhop&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center" /></a></div>
+
+<br/>
+<br/>
+
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21qfse52eo5cxjldbvinppify&cover_image=true&theme=compact" /></div>
 
 <br/>
@@ -95,9 +100,7 @@
 </div>
 
 <br/>
-
-<div align="center"></div>
-<br />
+<br/>
 
 ---
 
