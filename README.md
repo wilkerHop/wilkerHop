@@ -100,8 +100,14 @@
 </div>
 
 <br/>
+
+## Crypto News
+
+<!-- Crypto News -->
+<!-- Crypto News -->
+<br/>
 <br/>
 
 ---
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Part of this document was generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
