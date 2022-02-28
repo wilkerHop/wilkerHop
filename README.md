@@ -105,7 +105,58 @@
 
 <!-- Crypto News -->
 <table width="100%">
-
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://lifehacker.com/is-the-crypto-bubble-going-to-burst-1848475768">
+<span>Lifehacker.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/976a59b09e0e681e692bd7517498e3f2.jpg" align="center" />
+</a>
+</td>
+<td valign="center" width="80%">
+Even if you aren’t paying attention to Bitcoin and other cryptocurrencies, you might have noticed that their value plummeted last week, with the total value of the market tumbling from a high of $3 trillion last year to about $1.5 trillion in a matter of days…
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/blockfi-sec-settlement-crypto-lender-203540418.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2021-10/b6e62070-2c30-11ec-b789-423a37a3a0f6" align="center" />
+</a>
+</td>
+<td valign="center" width="80%">
+US regulators are making it clear crypto companies must follow conventional rules. Crypto lender BlockFi has settled with the Securities and Exchange Commission over charges the company allegedly offered interest accounts without registering them under the Se…
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/uk-nft-seizure-tax-fraud-141015882.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2021-08/0d8e9ea0-01bd-11ec-b29f-973a1511272b" align="center" />
+</a>
+</td>
+<td valign="center" width="80%">
+The non-fungible token market is full of shady dealings, and British authorities hope to clean them up. BBC Newsreports HM Revenue and Customs has seized three NFTs as part of investigation into potential tax fraud. The suspects allegedly used 250 fake compan…
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/gumroad-box-brown-nft-sahil-lavinglia-210047306.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-02/e203fc00-8900-11ec-a9d8-8162a07ff2e3" align="center" />
+</a>
+</td>
+<td valign="center" width="80%">
+Just as many of the ugliest online fights begin these days, Brian "Box" Brown, an Eisner-winning illustrator and comic artist, sent a seemingly innocuous tweet. It read, in part, "my former regular freelance employer has let me know they'll be...Embracing NFT…
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/netflix-billion-dollar-bitcoin-launderers-192241113.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-02/74510970-89d5-11ec-bfaf-d4f39cae5191" align="center" />
+</a>
+</td>
+<td valign="center" width="80%">
+Netflix
+ is making a docuseries about one of the worst rappers of all time
+. Coincidentally, Heather "Razzlekhan" Morgan and her husband, Ilya Lichtenstein, were charged this week with conspiring to launder 119,754 bitcoin, which was stolen in the 2016 hack…
+</td>
 </table>
 <!-- Crypto News -->
 <br/>
