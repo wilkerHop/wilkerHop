@@ -1,0 +1,32 @@
+name: update news
+
+on:
+  schedule:
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+env:
+  URL: '${{secrets.URL}}'
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v2.5.1
+        with:
+          node-version: 16.x
+
+      - name: Install axios
+        run: npm i axios
+
+      - name: Fetch news
+        run: node scripts/news.js
+
+      - name: Update News
+        uses: EndBug/add-and-commit@latest
+        with:
+          message: 'docs: update news'
+          add: 'README.md'

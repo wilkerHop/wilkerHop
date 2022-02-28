@@ -2,7 +2,7 @@ const fs = require('fs');
 const axios = require('axios').default;
 
 const url = process.env.URL + new Date().toISOString().split('T')[0];
-
+console.log(url);
 const template = `<tr>
 <td valign="top" align="center" width="20%">
 <a href="{{url}}">
@@ -16,6 +16,8 @@ const template = `<tr>
 
 const app = async () => {
   const { data } = await axios.get(url);
+
+  console.log(data.articles.length);
 
   const news = data.articles.slice(0, 5).map((article) => {
     let md = template;
