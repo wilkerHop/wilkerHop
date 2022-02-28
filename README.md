@@ -104,6 +104,9 @@
 ## Crypto News
 
 <!-- Crypto News -->
+<table width="100%">
+
+</table>
 <!-- Crypto News -->
 <br/>
 <br/>
