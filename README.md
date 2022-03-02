@@ -137,6 +137,17 @@ The non-fungible token market is full of shady dealings, and British authorities
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/bit-connect-founder-indicted-by-justice-department-has-disappeared-003027814.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/d2d8e060-99bd-11ec-bf7b-0288f82cc03b" align="center" />
+</a>
+</td>
+<td valign="center" width="80%">
+SEC officials do not know the whereabouts of Satish Kumbhani, the founder of crypto trading platform BitConnect, who was charged
+ last week with defrauding investors of $2.4 billion in a Ponzi scheme. This puts the SEC in quite a bind, since they have to ser…
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.engadget.com/gumroad-box-brown-nft-sahil-lavinglia-210047306.html">
 <span>Engadget</span>
 <img src="https://s.yimg.com/os/creatr-uploaded-images/2022-02/e203fc00-8900-11ec-a9d8-8162a07ff2e3" align="center" />
@@ -144,18 +155,6 @@ The non-fungible token market is full of shady dealings, and British authorities
 </td>
 <td valign="center" width="80%">
 Just as many of the ugliest online fights begin these days, Brian "Box" Brown, an Eisner-winning illustrator and comic artist, sent a seemingly innocuous tweet. It read, in part, "my former regular freelance employer has let me know they'll be...Embracing NFT…
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/netflix-billion-dollar-bitcoin-launderers-192241113.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-02/74510970-89d5-11ec-bfaf-d4f39cae5191" align="center" />
-</a>
-</td>
-<td valign="center" width="80%">
-Netflix
- is making a docuseries about one of the worst rappers of all time
-. Coincidentally, Heather "Razzlekhan" Morgan and her husband, Ilya Lichtenstein, were charged this week with conspiring to launder 119,754 bitcoin, which was stolen in the 2016 hack…
 </td>
 </table>
 <!-- Crypto News -->
