@@ -107,54 +107,59 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://lifehacker.com/is-the-crypto-bubble-going-to-burst-1848475768">
-<span>Lifehacker.com</span>
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/976a59b09e0e681e692bd7517498e3f2.jpg" align="center" />
-</a>
-</td>
-<td valign="center" width="80%">
-Even if you aren’t paying attention to Bitcoin and other cryptocurrencies, you might have noticed that their value plummeted last week, with the total value of the market tumbling from a high of $3 trillion last year to about $1.5 trillion in a matter of days…
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/blockfi-sec-settlement-crypto-lender-203540418.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2021-10/b6e62070-2c30-11ec-b789-423a37a3a0f6" align="center" />
-</a>
-</td>
-<td valign="center" width="80%">
-US regulators are making it clear crypto companies must follow conventional rules. Crypto lender BlockFi has settled with the Securities and Exchange Commission over charges the company allegedly offered interest accounts without registering them under the Se…
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/uk-nft-seizure-tax-fraud-141015882.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2021-08/0d8e9ea0-01bd-11ec-b29f-973a1511272b" align="center" />
-</a>
-</td>
-<td valign="center" width="80%">
-The non-fungible token market is full of shady dealings, and British authorities hope to clean them up. BBC Newsreports HM Revenue and Customs has seized three NFTs as part of investigation into potential tax fraud. The suspects allegedly used 250 fake compan…
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.engadget.com/bit-connect-founder-indicted-by-justice-department-has-disappeared-003027814.html">
 <span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/d2d8e060-99bd-11ec-bf7b-0288f82cc03b" align="center" />
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/d2d8e060-99bd-11ec-bf7b-0288f82cc03b" align="center" alt="Engadget"/>
 </a>
 </td>
 <td valign="center" width="80%">
-SEC officials do not know the whereabouts of Satish Kumbhani, the founder of crypto trading platform BitConnect, who was charged
- last week with defrauding investors of $2.4 billion in a Ponzi scheme. This puts the SEC in quite a bind, since they have to ser…
+<h2>BitConnect founder indicted by Justice Department has disappeared</h2>
+<p>SEC officials do not know the whereabouts of Satish Kumbhani, the founder of crypto trading platform BitConnect, who was charged
+ last week with defrauding investors of $2.4 billion in a Ponzi scheme. This puts the SEC in quite a bind, since they have to ser…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/gumroad-box-brown-nft-sahil-lavinglia-210047306.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-02/e203fc00-8900-11ec-a9d8-8162a07ff2e3" align="center" />
+<a href="https://www.wired.com/story/web3-governance-tokens-cryptocurrency-content-moderation/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/621d66c7ea3b8f283853aa29/191:100/w_1280,c_limit/Web3-Threatens-to-Segregate-Our-Online-Lives.jpg" align="center" alt="Wired"/>
 </a>
 </td>
 <td valign="center" width="80%">
-Just as many of the ugliest online fights begin these days, Brian "Box" Brown, an Eisner-winning illustrator and comic artist, sent a seemingly innocuous tweet. It read, in part, "my former regular freelance employer has let me know they'll be...Embracing NFT…
+<h2>Web3 Threatens to Segregate Our Online Lives</h2>
+<p>Governance tokens seem like a tantalizing solution to content moderation struggles. They only give the appearance of democracy.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/markets/europe/cryptoverse-bitcoin-gains-conflict-currency-credentials-2022-03-01/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=75" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Cryptoverse: Bitcoin gains conflict currency credentials - Reuters</h2>
+<p>Bitcoin has leapt since Russia's invasion of Ukraine, bolstered by people in those countries looking to store and move money in anonymous and decentralised crypto.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/markets/europe/crypto-exchanges-wont-bar-russians-raising-fears-sanctions-backdoor-2022-03-02/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/K0Fx5fDR3Jr_oHxId0cEKX6Wuks=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KGZ65CTEZFOG7DLBBKK62KOUDU.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Analysis: Crypto exchanges won't bar Russians, raising fears of sanctions backdoor - Reuters</h2>
+<p>Some of the world's biggest cryptocurrency exchanges are staying put in Russia, breaking ranks with mainstream finance in a decision that experts say weakens Western attempts to isolate Moscow following the invasion of Ukraine.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/business/us-can-regulate-cryptocurrencies-without-new-law-think-tank-says-2022-03-01/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/jfSJG2eqGOZ80-1afCQyfxfV9HU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MEGD6ZXYX5IWXDL6LFMM6CTHD4.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>U.S. can regulate cryptocurrencies without new law, think tank says - Reuters</h2>
+<p>U.S. regulators can largely use existing laws to bring digital assets such as cryptocurrencies under their supervision without new congressional legislation, one of Washington's most influential liberal think tanks said on Tuesday.</p>
 </td>
 </table>
 <!-- Crypto News -->
