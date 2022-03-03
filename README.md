@@ -119,25 +119,14 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.wired.com/story/web3-governance-tokens-cryptocurrency-content-moderation/">
-<span>Wired</span>
-<img src="https://media.wired.com/photos/621d66c7ea3b8f283853aa29/191:100/w_1280,c_limit/Web3-Threatens-to-Segregate-Our-Online-Lives.jpg" align="center" alt="Wired"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Web3 Threatens to Segregate Our Online Lives</h2>
-<p>Governance tokens seem like a tantalizing solution to content moderation struggles. They only give the appearance of democracy.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/europe/cryptoverse-bitcoin-gains-conflict-currency-credentials-2022-03-01/">
+<a href="https://www.reuters.com/world/europe/ukraine-unveil-nfts-support-military-crypto-funding-push-continues-2022-03-03/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=75" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/KoZnkU0M3-TfJNobhz-3SCsUUiQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KCI5SWSPAFK2LBT55MRSXVHF64.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cryptoverse: Bitcoin gains conflict currency credentials - Reuters</h2>
-<p>Bitcoin has leapt since Russia's invasion of Ukraine, bolstered by people in those countries looking to store and move money in anonymous and decentralised crypto.</p>
+<h2>Ukraine to unveil NFTs to support military as crypto funding push continues - Reuters</h2>
+<p>Ukraine will unveil plans for NFTs to support its armed forces, its vice-prime minister said on Thursday, the latest move in Kyiv's efforts to raise funds in crypto assets after Russia invaded the country last week.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -152,14 +141,25 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/us-can-regulate-cryptocurrencies-without-new-law-think-tank-says-2022-03-01/">
+<a href="https://www.reuters.com/world/us/us-lawmakers-push-treasury-ensure-russia-cannot-use-cryptocurrency-avoid-2022-03-02/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/jfSJG2eqGOZ80-1afCQyfxfV9HU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MEGD6ZXYX5IWXDL6LFMM6CTHD4.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/V90W6ZRU7RqGgR0qBrA1KxZ3wQk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XS6QE47WCZMEBDGGWF2VXYOVHQ.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>U.S. can regulate cryptocurrencies without new law, think tank says - Reuters</h2>
-<p>U.S. regulators can largely use existing laws to bring digital assets such as cryptocurrencies under their supervision without new congressional legislation, one of Washington's most influential liberal think tanks said on Tuesday.</p>
+<h2>U.S. lawmakers push Treasury to ensure Russia cannot use cryptocurrency to avoid sanctions - Reuters</h2>
+<p>Senator Elizabeth Warren and three other Democratic lawmakers on Wednesday urged the Treasury Department to ensure the cryptocurrency industry is complying with sanctions imposed on Russia, expressing concern that digital assets could be used to undermine U.S…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/markets/asia/russia-crisis-is-big-cryptos-coming-of-age-moment-2022-03-03/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=77" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Russia crisis is Big Crypto's coming-of-age moment - Reuters</h2>
+<p>Major exchanges like Coinbase and Binance are still open to Russians despite the risk of sanctions evasion. If they fail to spot illicit transactions, regulators will crush the life out of them. If they pass the test – and they might – it may be their ticket …</p>
 </td>
 </table>
 <!-- Crypto News -->
