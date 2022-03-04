@@ -107,18 +107,6 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/bit-connect-founder-indicted-by-justice-department-has-disappeared-003027814.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/d2d8e060-99bd-11ec-bf7b-0288f82cc03b" align="center" alt="Engadget"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>BitConnect founder indicted by Justice Department has disappeared</h2>
-<p>SEC officials do not know the whereabouts of Satish Kumbhani, the founder of crypto trading platform BitConnect, who was charged
- last week with defrauding investors of $2.4 billion in a Ponzi scheme. This puts the SEC in quite a bind, since they have to ser…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/world/europe/ukraine-unveil-nfts-support-military-crypto-funding-push-continues-2022-03-03/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/KoZnkU0M3-TfJNobhz-3SCsUUiQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KCI5SWSPAFK2LBT55MRSXVHF64.jpg" align="center" alt="Reuters"/>
@@ -130,25 +118,25 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/europe/crypto-exchanges-wont-bar-russians-raising-fears-sanctions-backdoor-2022-03-02/">
+<a href="https://www.reuters.com/world/europe/close-loopholes-prevent-crypto-investors-bypassing-russia-sanctions-eu-lawmaker-2022-03-04/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/K0Fx5fDR3Jr_oHxId0cEKX6Wuks=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KGZ65CTEZFOG7DLBBKK62KOUDU.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/5JSnkq-paONYl6H_J_014A1hl8E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TNBFQDRKU5IGPMPZM74FWFM7WE.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Analysis: Crypto exchanges won't bar Russians, raising fears of sanctions backdoor - Reuters</h2>
-<p>Some of the world's biggest cryptocurrency exchanges are staying put in Russia, breaking ranks with mainstream finance in a decision that experts say weakens Western attempts to isolate Moscow following the invasion of Ukraine.</p>
+<h2>Close loopholes to prevent crypto investors bypassing Russia sanctions, EU lawmaker says - Reuters</h2>
+<p>The European Union should introduce measures to plug loopholes that could allow investors in cryptoassets to bypass sanctions on Russia over its invasion of Ukraine, a senior lawmaker said on Friday.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/us/us-lawmakers-push-treasury-ensure-russia-cannot-use-cryptocurrency-avoid-2022-03-02/">
+<a href="https://www.reuters.com/technology/cryptocurrencies-time-war-2022-03-04/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/V90W6ZRU7RqGgR0qBrA1KxZ3wQk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XS6QE47WCZMEBDGGWF2VXYOVHQ.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/o-neidYH62soGCDm3MOwoSkkRqc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AOEOU7DFBRN5ZA32VLFEUPFGKY.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>U.S. lawmakers push Treasury to ensure Russia cannot use cryptocurrency to avoid sanctions - Reuters</h2>
-<p>Senator Elizabeth Warren and three other Democratic lawmakers on Wednesday urged the Treasury Department to ensure the cryptocurrency industry is complying with sanctions imposed on Russia, expressing concern that digital assets could be used to undermine U.S…</p>
+<h2>Cryptocurrencies in a time of war - Reuters.com</h2>
+<p>Cryptocurrencies have been close to the headlines since Russia invaded Ukraine, with the ever-volatile bitcoin in demand in Russia and beyond.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -160,6 +148,17 @@
 <td valign="center" width="80%">
 <h2>Russia crisis is Big Crypto's coming-of-age moment - Reuters</h2>
 <p>Major exchanges like Coinbase and Binance are still open to Russians despite the risk of sanctions evasion. If they fail to spot illicit transactions, regulators will crush the life out of them. If they pass the test – and they might – it may be their ticket …</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/markets/asia/us-banks-costco-sweetgreen-2022-03-04/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=77" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>US banks, Costco, Sweetgreen - Reuters.com</h2>
+<p>U.S. stock index futures cut some losses on Friday after data pointed to solid jobs growth in February, although lingering concerns about the Ukraine conflict weighed on sentiment.</p>
 </td>
 </table>
 <!-- Crypto News -->
