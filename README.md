@@ -107,17 +107,6 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/europe/ukraine-unveil-nfts-support-military-crypto-funding-push-continues-2022-03-03/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/KoZnkU0M3-TfJNobhz-3SCsUUiQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KCI5SWSPAFK2LBT55MRSXVHF64.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Ukraine to unveil NFTs to support military as crypto funding push continues - Reuters</h2>
-<p>Ukraine will unveil plans for NFTs to support its armed forces, its vice-prime minister said on Thursday, the latest move in Kyiv's efforts to raise funds in crypto assets after Russia invaded the country last week.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/world/europe/close-loopholes-prevent-crypto-investors-bypassing-russia-sanctions-eu-lawmaker-2022-03-04/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/5JSnkq-paONYl6H_J_014A1hl8E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TNBFQDRKU5IGPMPZM74FWFM7WE.jpg" align="center" alt="Reuters"/>
@@ -140,14 +129,25 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/asia/russia-crisis-is-big-cryptos-coming-of-age-moment-2022-03-03/">
+<a href="https://www.reuters.com/markets/asia/us-airlines-recursion-pharma-veritex-2022-03-04/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=77" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Russia crisis is Big Crypto's coming-of-age moment - Reuters</h2>
-<p>Major exchanges like Coinbase and Binance are still open to Russians despite the risk of sanctions evasion. If they fail to spot illicit transactions, regulators will crush the life out of them. If they pass the test – and they might – it may be their ticket …</p>
+<h2>US airlines, Recursion Pharma, Veritex - Reuters</h2>
+<p>Wall Street's main indexes fell in a broad decline on Friday as the intensifying war in Ukraine overshadowed an acceleration in jobs growth last month that highlighted the strength of the U.S. economy.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/world/europe/switzerland-adopts-new-eu-sanctions-russia-2022-03-04/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/BSKWsfE9RVQT2rQSs7WAcwgdZSg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P4G3KIODNFIJXPODFSRO6Q6ZQQ.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Switzerland adopts new EU sanctions on Russia - Reuters</h2>
+<p>The Swiss government on Friday widened sanctions against Russia in step with further measures imposed by the European Union, tightening exports and financial services to the country over the biggest attack on a European state since World War Two.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
