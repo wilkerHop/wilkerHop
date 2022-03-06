@@ -107,58 +107,58 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/europe/close-loopholes-prevent-crypto-investors-bypassing-russia-sanctions-eu-lawmaker-2022-03-04/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/5JSnkq-paONYl6H_J_014A1hl8E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TNBFQDRKU5IGPMPZM74FWFM7WE.jpg" align="center" alt="Reuters"/>
+<a href="https://www.cnet.com/personal-finance/crypto/cryptocurrency-donations-pour-into-ukraine-this-week-in-bitcoin-and-crypto-news/">
+<span>CNET</span>
+<img src="https://www.cnet.com/a/img/ZqMWuhVOxJ8FqLi8Vs9ihQDJzPc=/1200x630/2022/03/04/c8f8f15b-e257-4dfd-9f64-a53be254530b/gettyimages-1320502852.jpg" align="center" alt="CNET"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Close loopholes to prevent crypto investors bypassing Russia sanctions, EU lawmaker says - Reuters</h2>
-<p>The European Union should introduce measures to plug loopholes that could allow investors in cryptoassets to bypass sanctions on Russia over its invasion of Ukraine, a senior lawmaker said on Friday.</p>
+<h2>Cryptocurrency Donations Pour Into Ukraine. This Week in Bitcoin and Crypto News - CNET</h2>
+<p>Nonfungible Tidbits: All the bitcoin, cryptocurrency and NFT news for the week ending March 6.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/cryptocurrencies-time-war-2022-03-04/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/o-neidYH62soGCDm3MOwoSkkRqc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AOEOU7DFBRN5ZA32VLFEUPFGKY.jpg" align="center" alt="Reuters"/>
+<a href="https://news.slashdot.org/story/22/03/05/2031254/ukraine-receives-42m-in-cryptocurrency-donations---plus-180-nfts-they-didnt-ask-for">
+<span>Slashdot.org</span>
+<img src="https://a.fsdn.com/sd/topics/money_64.png" align="center" alt="Slashdot.org"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cryptocurrencies in a time of war - Reuters.com</h2>
-<p>Cryptocurrencies have been close to the headlines since Russia invaded Ukraine, with the ever-volatile bitcoin in demand in Russia and beyond.</p>
+<h2>Ukraine Receives $42M in Cryptocurrency Donations - Plus 180 NFTs They Didn't Ask For</h2>
+<p>Thursday the Washington Post reported the Ukrainian government had already received more than $42 million in cryptocurrency donations since last Saturday — "plus digital artwork including a limited edition worth roughly $200,000," according to blockchain anal…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/asia/us-airlines-recursion-pharma-veritex-2022-03-04/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=77" align="center" alt="Reuters"/>
+<a href="https://readwrite.com/nft-2022-predictions-reflecting-and-evolving/">
+<span>ReadWrite</span>
+<img src="https://images.readwrite.com/wp-content/uploads/2022/01/NFT-2022-Predictions.jpg" align="center" alt="ReadWrite"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>US airlines, Recursion Pharma, Veritex - Reuters</h2>
-<p>Wall Street's main indexes fell in a broad decline on Friday as the intensifying war in Ukraine overshadowed an acceleration in jobs growth last month that highlighted the strength of the U.S. economy.</p>
+<h2>NFT 2022 Predictions, Reflecting, and Evolving</h2>
+<p>Last year, Clubhouse rooms were booming, artists were learning about NFTs, and nobody knew what would happen next. The space has grown exponentially in the last year, much above anyone’s expectations. For example, from 1/1 auctions on Foundation to the PFP co…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/europe/switzerland-adopts-new-eu-sanctions-russia-2022-03-04/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/BSKWsfE9RVQT2rQSs7WAcwgdZSg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P4G3KIODNFIJXPODFSRO6Q6ZQQ.jpg" align="center" alt="Reuters"/>
+<a href="https://hipertextual.com/2022/03/guerra-navegadores-nuevos">
+<span>Hipertextual</span>
+<img src="https://hipertextual.com/wp-content/uploads/2019/12/hipertextual-mejores-extensiones-chrome-firefox-safari-2019-2019824323.jpg" align="center" alt="Hipertextual"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Switzerland adopts new EU sanctions on Russia - Reuters</h2>
-<p>The Swiss government on Friday widened sanctions against Russia in step with further measures imposed by the European Union, tightening exports and financial services to the country over the biggest attack on a European state since World War Two.</p>
+<h2>Vuelve la ‘Guerra de los Navegadores’: Chrome pierde por primera vez terreno gracias a Safari, Brave o Edge</h2>
+<p>Chrome está perdiendo por primera vez en una década terreno frente a nuevas y viejas alternativas en el mundo de los navegadores.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/asia/us-banks-costco-sweetgreen-2022-03-04/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=77" align="center" alt="Reuters"/>
+<a href="https://thenextweb.com/news/crypto-helping-both-sides-in-war-wont-save-russia-from-sanctions">
+<span>The Next Web</span>
+<img src="https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FBitcoinRU.jpg&signature=e37991a5036a366664c1d14b2c62141e" align="center" alt="The Next Web"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>US banks, Costco, Sweetgreen - Reuters.com</h2>
-<p>U.S. stock index futures cut some losses on Friday after data pointed to solid jobs growth in February, although lingering concerns about the Ukraine conflict weighed on sentiment.</p>
+<h2>Crypto is helping both sides in the Ukraine war, but it won’t save Russia from sanctions</h2>
+<p>War is expensive. The United States spent about US$1.1 trillion (£830 billion) on the 2003 Iraq war in today’s money, while the Falklands war cost the UK the equivalent of about £2.6 billion. Funding is, therefore, an important resource in any conflict, simil…</p>
 </td>
 </table>
 <!-- Crypto News -->
