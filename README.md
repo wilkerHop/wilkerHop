@@ -107,58 +107,60 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.cnet.com/personal-finance/crypto/cryptocurrency-donations-pour-into-ukraine-this-week-in-bitcoin-and-crypto-news/">
-<span>CNET</span>
-<img src="https://www.cnet.com/a/img/ZqMWuhVOxJ8FqLi8Vs9ihQDJzPc=/1200x630/2022/03/04/c8f8f15b-e257-4dfd-9f64-a53be254530b/gettyimages-1320502852.jpg" align="center" alt="CNET"/>
+<a href="https://www.engadget.com/telegram-explained-2022-163035068.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/dd1bfbe0-9e25-11ec-b7f1-555f42dbc5eb" align="center" alt="Engadget"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cryptocurrency Donations Pour Into Ukraine. This Week in Bitcoin and Crypto News - CNET</h2>
-<p>Nonfungible Tidbits: All the bitcoin, cryptocurrency and NFT news for the week ending March 6.</p>
+<h2>How Telegram found itself at the heart of the Ukrainian conflict</h2>
+<p>Since its launch in 2013, Telegram has grown from a simple messaging app to a broadcast network. Its user base isn’t as vast as WhatsApp’s, and its broadcast platform is a fraction the size of Twitter, but it’s nonetheless showing its use. While Telegram has …</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://news.slashdot.org/story/22/03/05/2031254/ukraine-receives-42m-in-cryptocurrency-donations---plus-180-nfts-they-didnt-ask-for">
+<a href="https://www.reuters.com/technology/uk-watchdog-says-it-lacks-power-assess-tie-up-between-binance-unit-eqonex-2022-03-07/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/X4tHq6FgmJlpK175HBIOVAIMh1I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7OD4DFMVORNKVD6RTGXI64HEDQ.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>UK watchdog says it lacks power to assess tie-up between Binance unit and Eqonex - Reuters.com</h2>
+<p>Britain's financial watchdog said on Monday it lacked the power to assess the "fitness and propriety" of the new beneficial owners of custodian Digivault, after an arm of crypto exchange Binance issued a $36 million loan to Digivault's parent.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/technology/exclusive-nft-startup-immutable-valued-25-bln-temasek-led-financing-2022-03-07/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=77" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>EXCLUSIVE NFT startup Immutable valued at $2.5 bln in Temasek-led financing - Reuters.com</h2>
+<p>Australian NFT startup Immutable has raised fresh funding from investors led by Singapore's Temasek in a round that values it at $2.5 billion, the company said on Monday, as it taps a surge in interest in cryptocurrency and NFT ventures.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://tech.slashdot.org/story/22/03/07/1534233/stanford-cryptography-researchers-are-building-espresso-a-privacy-focused-blockchain">
 <span>Slashdot.org</span>
-<img src="https://a.fsdn.com/sd/topics/money_64.png" align="center" alt="Slashdot.org"/>
+<img src="https://a.fsdn.com/sd/topics/technology_64.png" align="center" alt="Slashdot.org"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Ukraine Receives $42M in Cryptocurrency Donations - Plus 180 NFTs They Didn't Ask For</h2>
-<p>Thursday the Washington Post reported the Ukrainian government had already received more than $42 million in cryptocurrency donations since last Saturday — "plus digital artwork including a limited edition worth roughly $200,000," according to blockchain anal…</p>
+<h2>Stanford Cryptography Researchers Are Building Espresso, a Privacy-focused Blockchain</h2>
+<p>An anonymous reader shares a report: If blockchain technology is to reach true mass adoption, it will have to become cheaper and more efficient. Low transaction throughput on some of the most popular blockchains, most notably Ethereum, has kept gas fees high …</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://readwrite.com/nft-2022-predictions-reflecting-and-evolving/">
-<span>ReadWrite</span>
-<img src="https://images.readwrite.com/wp-content/uploads/2022/01/NFT-2022-Predictions.jpg" align="center" alt="ReadWrite"/>
+<a href="https://developers.slashdot.org/story/22/03/06/209214/ukranian-programmers-continue-working-while-being-bombed">
+<span>Slashdot.org</span>
+<img src="https://a.fsdn.com/sd/topics/programming_64.png" align="center" alt="Slashdot.org"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>NFT 2022 Predictions, Reflecting, and Evolving</h2>
-<p>Last year, Clubhouse rooms were booming, artists were learning about NFTs, and nobody knew what would happen next. The space has grown exponentially in the last year, much above anyone’s expectations. For example, from 1/1 auctions on Foundation to the PFP co…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://hipertextual.com/2022/03/guerra-navegadores-nuevos">
-<span>Hipertextual</span>
-<img src="https://hipertextual.com/wp-content/uploads/2019/12/hipertextual-mejores-extensiones-chrome-firefox-safari-2019-2019824323.jpg" align="center" alt="Hipertextual"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Vuelve la ‘Guerra de los Navegadores’: Chrome pierde por primera vez terreno gracias a Safari, Brave o Edge</h2>
-<p>Chrome está perdiendo por primera vez en una década terreno frente a nuevas y viejas alternativas en el mundo de los navegadores.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://thenextweb.com/news/crypto-helping-both-sides-in-war-wont-save-russia-from-sanctions">
-<span>The Next Web</span>
-<img src="https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FBitcoinRU.jpg&signature=e37991a5036a366664c1d14b2c62141e" align="center" alt="The Next Web"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Crypto is helping both sides in the Ukraine war, but it won’t save Russia from sanctions</h2>
-<p>War is expensive. The United States spent about US$1.1 trillion (£830 billion) on the 2003 Iraq war in today’s money, while the Falklands war cost the UK the equivalent of about £2.6 billion. Funding is, therefore, an important resource in any conflict, simil…</p>
+<h2>Ukranian Programmers Continue Working While Being Bombed</h2>
+<p>CNBC reminds us that Ukraine is also home "to a massive community of software developers who work remotely for companies all over the U.S. and Europe. 
+
+"There were 200,000 Ukrainian developers in the country in 2020, according to Amsterdam-based software dev…</p>
 </td>
 </table>
 <!-- Crypto News -->
