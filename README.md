@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=wilkerHop&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=wilkerhop&label=VIEWS%20COUNT&style=for-the-badge&color=878787" align="center" />
 </div>
 
 <br/>
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wilkerHop&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wilkerhop&show_icons=true&theme=dracula&hide_border=true" align="center" /></div>
 
-<br/>
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=wilkerhop&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center" /></div>
 
-<div align="center"><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=wilkerhop&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center" /></a></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkerhop&hide=brainfuck,mathematica&layout=compact&theme=dracula&hide_border=true" align="center" /></div>
 
 <br/>
 <br/>
