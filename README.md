@@ -118,6 +118,28 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.wired.com/story/crypto-russia-ukraine-sanctions/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/6226a83bd53a49d05c483fa6/191:100/w_1280,c_limit/business-crypto-war-1130490519.jpg" align="center" alt="Wired"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>War Is Calling Crypto’s ‘Neutrality’ Into Question</h2>
+<p>War in Ukraine and Western sanctions against Russia have made cryptocurrency a hot potato for international politics.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.wired.com/story/peak-scam-tv/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/6226590c44425e17cb3600c6/191:100/w_1280,c_limit/Culture_The%20Dropout_Hulu.jpg" align="center" alt="Wired"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>The Diminishing Returns of Streaming’s Glut of Grifters</h2>
+<p>From 'The Dropout' to 'Inventing Anna,' nothing represents this era of television better than the prevalence of scammer programming.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/technology/uk-watchdog-says-it-lacks-power-assess-tie-up-between-binance-unit-eqonex-2022-03-07/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/X4tHq6FgmJlpK175HBIOVAIMh1I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7OD4DFMVORNKVD6RTGXI64HEDQ.jpg" align="center" alt="Reuters"/>
@@ -129,38 +151,14 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/exclusive-nft-startup-immutable-valued-25-bln-temasek-led-financing-2022-03-07/">
+<a href="https://www.reuters.com/technology/crypto-exchanges-staying-russia-will-face-global-backlash-ukraine-minister-2022-03-08/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=77" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/xSIaagbESjCWK4rGjJrjZ5UYd8I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HLRFXLC4S5JLDPCWMHPY6QWYOI.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>EXCLUSIVE NFT startup Immutable valued at $2.5 bln in Temasek-led financing - Reuters.com</h2>
-<p>Australian NFT startup Immutable has raised fresh funding from investors led by Singapore's Temasek in a round that values it at $2.5 billion, the company said on Monday, as it taps a surge in interest in cryptocurrency and NFT ventures.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://tech.slashdot.org/story/22/03/07/1534233/stanford-cryptography-researchers-are-building-espresso-a-privacy-focused-blockchain">
-<span>Slashdot.org</span>
-<img src="https://a.fsdn.com/sd/topics/technology_64.png" align="center" alt="Slashdot.org"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Stanford Cryptography Researchers Are Building Espresso, a Privacy-focused Blockchain</h2>
-<p>An anonymous reader shares a report: If blockchain technology is to reach true mass adoption, it will have to become cheaper and more efficient. Low transaction throughput on some of the most popular blockchains, most notably Ethereum, has kept gas fees high …</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://developers.slashdot.org/story/22/03/06/209214/ukranian-programmers-continue-working-while-being-bombed">
-<span>Slashdot.org</span>
-<img src="https://a.fsdn.com/sd/topics/programming_64.png" align="center" alt="Slashdot.org"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Ukranian Programmers Continue Working While Being Bombed</h2>
-<p>CNBC reminds us that Ukraine is also home "to a massive community of software developers who work remotely for companies all over the U.S. and Europe. 
-
-"There were 200,000 Ukrainian developers in the country in 2020, according to Amsterdam-based software dev…</p>
+<h2>Crypto exchanges staying in Russia will face global backlash -Ukraine minister - Reuters.com</h2>
+<p>Major cryptocurrency exchanges staying put in Russia after its invasion of Ukraine will suffer a public backlash against their business around the world, a Ukrainian government official said on Tuesday, urging the companies to change course.</p>
 </td>
 </table>
 <!-- Crypto News -->
