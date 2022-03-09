@@ -94,14 +94,38 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/telegram-explained-2022-163035068.html">
+<a href="https://www.engadget.com/senator-elizabeth-warren-drafts-bill-to-target-use-of-crypto-by-sanctioned-russians-020446730.html">
 <span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/dd1bfbe0-9e25-11ec-b7f1-555f42dbc5eb" align="center" alt="Engadget"/>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/20a73550-9f4d-11ec-8f72-df9ad1e9ee69" align="center" alt="Engadget"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>How Telegram found itself at the heart of the Ukrainian conflict</h2>
-<p>Since its launch in 2013, Telegram has grown from a simple messaging app to a broadcast network. Its user base isn’t as vast as WhatsApp’s, and its broadcast platform is a fraction the size of Twitter, but it’s nonetheless showing its use. While Telegram has …</p>
+<h2>Senator Elizabeth Warren drafts bill to target use of crypto by sanctioned Russians</h2>
+<p>Sen. Elizabeth Warren (D-MA) is preparing a bill in response to fears
+ that Russian nationals may be using cryptocurrency to evade sanctions. The draft legislation
+, first reported by NBC, would require banks and other financial institutions to both identif…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/president-biden-executive-order-cryptocurrency-strategy-142547135.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/7e2dd020-9fa3-11ec-bbff-700466e2f2d4" align="center" alt="Engadget"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Biden's executive order on cryptocurrency opens the door for a US coin</h2>
+<p>The US government has addressed cryptocurrency in the past, but now it's taking a more comprehensive look. President Biden has signed an executive order detailing the country's first "whole-of-government" strategy for exploring cryptocurrency and other digita…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/limewire-nft-marketplace-no-crypto-090040288.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/76a3c960-9ed9-11ec-b56b-1658fe87cacc" align="center" alt="Engadget"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>LimeWire is back... as an NFT marketplace</h2>
+<p>In the Internet age, nothing is gone forever, and everything can be resurrected time and again as an easy way to sell products. Sadly, whatever residual affection our parents’ generation had for brands like Polaroid and Atari has been strip-mined to sell, wel…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -124,28 +148,6 @@
 <td valign="center" width="80%">
 <h2>The Diminishing Returns of Streaming’s Glut of Grifters</h2>
 <p>From 'The Dropout' to 'Inventing Anna,' nothing represents this era of television better than the prevalence of scammer programming.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/uk-watchdog-says-it-lacks-power-assess-tie-up-between-binance-unit-eqonex-2022-03-07/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/X4tHq6FgmJlpK175HBIOVAIMh1I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7OD4DFMVORNKVD6RTGXI64HEDQ.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>UK watchdog says it lacks power to assess tie-up between Binance unit and Eqonex - Reuters.com</h2>
-<p>Britain's financial watchdog said on Monday it lacked the power to assess the "fitness and propriety" of the new beneficial owners of custodian Digivault, after an arm of crypto exchange Binance issued a $36 million loan to Digivault's parent.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/crypto-exchanges-staying-russia-will-face-global-backlash-ukraine-minister-2022-03-08/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/xSIaagbESjCWK4rGjJrjZ5UYd8I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HLRFXLC4S5JLDPCWMHPY6QWYOI.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Crypto exchanges staying in Russia will face global backlash -Ukraine minister - Reuters.com</h2>
-<p>Major cryptocurrency exchanges staying put in Russia after its invasion of Ukraine will suffer a public backlash against their business around the world, a Ukrainian government official said on Tuesday, urging the companies to change course.</p>
 </td>
 </table>
 <!-- Crypto News -->
