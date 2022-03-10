@@ -129,25 +129,25 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.wired.com/story/crypto-russia-ukraine-sanctions/">
-<span>Wired</span>
-<img src="https://media.wired.com/photos/6226a83bd53a49d05c483fa6/191:100/w_1280,c_limit/business-crypto-war-1130490519.jpg" align="center" alt="Wired"/>
+<a href="https://www.theverge.com/2022/3/10/22969798/crypto-executive-order-biden-reaction-digital-assets">
+<span>The Verge</span>
+<img src="https://cdn.vox-cdn.com/thumbor/Cc25lbecHTviBbtDHrkDsMPMUcw=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10418911/jbareham_180313_1777__bitcoin_cryptocurrency_0003.jpg" align="center" alt="The Verge"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>War Is Calling Crypto’s ‘Neutrality’ Into Question</h2>
-<p>War in Ukraine and Western sanctions against Russia have made cryptocurrency a hot potato for international politics.</p>
+<h2>Why the cryptocurrency community is celebrating Biden’s executive order</h2>
+<p>The executive order acknowledges innovation in the crypto industry and pushes to keep the US competitive. That’s reassuring to crypto insiders.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.wired.com/story/peak-scam-tv/">
-<span>Wired</span>
-<img src="https://media.wired.com/photos/6226590c44425e17cb3600c6/191:100/w_1280,c_limit/Culture_The%20Dropout_Hulu.jpg" align="center" alt="Wired"/>
+<a href="https://gizmodo.com/biden-tells-feds-figure-out-this-whole-crypto-thing-1848627638">
+<span>Gizmodo.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9f94073c0c12c2e7ab2e27f7198e8415.jpg" align="center" alt="Gizmodo.com"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>The Diminishing Returns of Streaming’s Glut of Grifters</h2>
-<p>From 'The Dropout' to 'Inventing Anna,' nothing represents this era of television better than the prevalence of scammer programming.</p>
+<h2>Biden to Feds: Figure Out This Crypto Thing, Stat</h2>
+<p>Joe Biden is dipping his toes into crypto. On Wednesday, the president signed a first-of-its-kind executive order outlining a path to regulation of cryptocurrencies and encouraging federal agencies to study the creation of a U.S. digital dollar on the blockch…</p>
 </td>
 </table>
 <!-- Crypto News -->
