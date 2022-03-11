@@ -94,38 +94,14 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/senator-elizabeth-warren-drafts-bill-to-target-use-of-crypto-by-sanctioned-russians-020446730.html">
+<a href="https://www.engadget.com/cameo-steven-galanis-crypto-colonialism-140038311.html">
 <span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/20a73550-9f4d-11ec-8f72-df9ad1e9ee69" align="center" alt="Engadget"/>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/dae51680-a0c9-11ec-bbde-0e147dd32240" align="center" alt="Engadget"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Senator Elizabeth Warren drafts bill to target use of crypto by sanctioned Russians</h2>
-<p>Sen. Elizabeth Warren (D-MA) is preparing a bill in response to fears
- that Russian nationals may be using cryptocurrency to evade sanctions. The draft legislation
-, first reported by NBC, would require banks and other financial institutions to both identif…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/president-biden-executive-order-cryptocurrency-strategy-142547135.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/7e2dd020-9fa3-11ec-bbff-700466e2f2d4" align="center" alt="Engadget"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Biden's executive order on cryptocurrency opens the door for a US coin</h2>
-<p>The US government has addressed cryptocurrency in the past, but now it's taking a more comprehensive look. President Biden has signed an executive order detailing the country's first "whole-of-government" strategy for exploring cryptocurrency and other digita…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/limewire-nft-marketplace-no-crypto-090040288.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/76a3c960-9ed9-11ec-b56b-1658fe87cacc" align="center" alt="Engadget"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>LimeWire is back... as an NFT marketplace</h2>
-<p>In the Internet age, nothing is gone forever, and everything can be resurrected time and again as an easy way to sell products. Sadly, whatever residual affection our parents’ generation had for brands like Polaroid and Atari has been strip-mined to sell, wel…</p>
+<h2>Cameo CEO favorably compares Web3 boom to the colonization of the Americas</h2>
+<p>Last Thursday to celebrate the closing of a new $400 million round, the venture capital firm M13 held an invite-only schmoozing opportunity in the former offices of Musical.ly, opening with a introductory chat on "the future of crypto, the decentralized web, …</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -140,14 +116,36 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://gizmodo.com/biden-tells-feds-figure-out-this-whole-crypto-thing-1848627638">
-<span>Gizmodo.com</span>
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9f94073c0c12c2e7ab2e27f7198e8415.jpg" align="center" alt="Gizmodo.com"/>
+<a href="https://www.nytimes.com/2022/03/10/opinion/florida-gay-bill.html">
+<span>New York Times</span>
+<img src="https://static01.nyt.com/images/2022/03/10/opinion/10swisher-image/10swisher-image-facebookJumbo.jpg" align="center" alt="New York Times"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Biden to Feds: Figure Out This Crypto Thing, Stat</h2>
-<p>Joe Biden is dipping his toes into crypto. On Wednesday, the president signed a first-of-its-kind executive order outlining a path to regulation of cryptocurrencies and encouraging federal agencies to study the creation of a U.S. digital dollar on the blockch…</p>
+<h2>Florida Lawmakers Advance Homophobia to DeSantis’s Desk</h2>
+<p></p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/business/exclusive-russians-liquidating-crypto-uae-seek-safe-havens-2022-03-11/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/2ehWZ21e81_-xsiQX8I54_4JzRg=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7GADTWELMZMOHPMWACDA25UQJQ.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>EXCLUSIVE Russians liquidating crypto in the UAE to seek safe havens - Reuters.com</h2>
+<p>Crypto firms in the United Arab Emirates (UAE) are being deluged with requests to liquidate billions of dollars of virtual currency as Russians seek a safe haven for their fortunes, company executives and financial sources said.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/technology/us-treasury-launches-campaign-educate-public-about-crypto-risks-2022-03-10/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/XC72gRN_fa4xEEem8ljzWq73aA0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJRN3GN6OFNHDOALARIXH7GOJ4.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>U.S. Treasury launches campaign to educate public about crypto risks - Reuters.com</h2>
+<p>The U.S. Treasury Department is launching an initiative to raise awareness about the risks of investing in cryptocurrencies as the digital asset moves from the fringes of the financial system to the mainstream, a top official said.</p>
 </td>
 </table>
 <!-- Crypto News -->
