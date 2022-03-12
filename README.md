@@ -105,17 +105,6 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.theverge.com/2022/3/10/22969798/crypto-executive-order-biden-reaction-digital-assets">
-<span>The Verge</span>
-<img src="https://cdn.vox-cdn.com/thumbor/Cc25lbecHTviBbtDHrkDsMPMUcw=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10418911/jbareham_180313_1777__bitcoin_cryptocurrency_0003.jpg" align="center" alt="The Verge"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Why the cryptocurrency community is celebrating Biden’s executive order</h2>
-<p>The executive order acknowledges innovation in the crypto industry and pushes to keep the US competitive. That’s reassuring to crypto insiders.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.nytimes.com/2022/03/10/opinion/florida-gay-bill.html">
 <span>New York Times</span>
 <img src="https://static01.nyt.com/images/2022/03/10/opinion/10swisher-image/10swisher-image-facebookJumbo.jpg" align="center" alt="New York Times"/>
@@ -138,14 +127,25 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/us-treasury-launches-campaign-educate-public-about-crypto-risks-2022-03-10/">
+<a href="https://www.reuters.com/business/finance/us-treasury-department-stresses-that-russia-sanctions-extend-cryptocurrency-2022-03-11/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/XC72gRN_fa4xEEem8ljzWq73aA0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJRN3GN6OFNHDOALARIXH7GOJ4.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/PbtcIEc7eHVnC0mAWWONFszR0VM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4A5EHAD32NILVER3KJMFN6NAZU.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>U.S. Treasury launches campaign to educate public about crypto risks - Reuters.com</h2>
-<p>The U.S. Treasury Department is launching an initiative to raise awareness about the risks of investing in cryptocurrencies as the digital asset moves from the fringes of the financial system to the mainstream, a top official said.</p>
+<h2>U.S. Treasury Department stresses that Russia sanctions extend to cryptocurrency - Reuters</h2>
+<p>The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) issued new guidance on Friday clarifying that U.S. citizens and digital asset firms are required to comply with sanctions against Russia, even when facilitating transactions in cryptocurre…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/markets/europe/eu-unveils-fourth-set-sanctions-against-russia-2022-03-11/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/5rM5fcQ74ivf1hKrPWlhknByMjw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PGH6PJKSGFJU3BL4VR47ESK42M.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>EU unveils fourth set of sanctions against Russia - Reuters.com</h2>
+<p>The European Union will suspend Moscow's privileged trade and economic treatment, crack down on its use of crypto-assets and ban exports to Russia of EU luxury goods and import of iron and steel goods, the head of the European Commission said on Friday.</p>
 </td>
 </table>
 <!-- Crypto News -->
