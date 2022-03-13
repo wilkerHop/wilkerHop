@@ -94,58 +94,60 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/cameo-steven-galanis-crypto-colonialism-140038311.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/dae51680-a0c9-11ec-bbde-0e147dd32240" align="center" alt="Engadget"/>
+<a href="https://www.wired.com/story/how-to-make-money-from-crypto/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/622bcc6ef48a924e02bd4f56/191:100/w_1280,c_limit/money-crypto-gear-6228-000847.jpg" align="center" alt="Wired"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cameo CEO favorably compares Web3 boom to the colonization of the Americas</h2>
-<p>Last Thursday to celebrate the closing of a new $400 million round, the venture capital firm M13 held an invite-only schmoozing opportunity in the former offices of Musical.ly, opening with a introductory chat on "the future of crypto, the decentralized web, …</p>
+<h2>How People Actually Make Money From Cryptocurrencies</h2>
+<p>Power traders use “staking” and “yield farming” to generate passive income, but there are risks.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.nytimes.com/2022/03/10/opinion/florida-gay-bill.html">
-<span>New York Times</span>
-<img src="https://static01.nyt.com/images/2022/03/10/opinion/10swisher-image/10swisher-image-facebookJumbo.jpg" align="center" alt="New York Times"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Florida Lawmakers Advance Homophobia to DeSantis’s Desk</h2>
-<p></p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/exclusive-russians-liquidating-crypto-uae-seek-safe-havens-2022-03-11/">
+<a href="https://www.reuters.com/markets/asia/factors-watch-march-13-2022-03-13/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/2ehWZ21e81_-xsiQX8I54_4JzRg=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7GADTWELMZMOHPMWACDA25UQJQ.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=79" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>EXCLUSIVE Russians liquidating crypto in the UAE to seek safe havens - Reuters.com</h2>
-<p>Crypto firms in the United Arab Emirates (UAE) are being deluged with requests to liquidate billions of dollars of virtual currency as Russians seek a safe haven for their fortunes, company executives and financial sources said.</p>
+<h2>Factors to watch - March 13 - Reuters.com</h2>
+<p>Here are some factors that may affect Middle East stock markets on Sunday. Reuters has not verified the press reports and does not vouch for their accuracy.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/us-treasury-department-stresses-that-russia-sanctions-extend-cryptocurrency-2022-03-11/">
+<a href="https://www.reuters.com/world/europe/fighting-rages-outside-kyiv-ukraine-says-it-hopes-humanitarian-corridors-can-2022-03-12/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/PbtcIEc7eHVnC0mAWWONFszR0VM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4A5EHAD32NILVER3KJMFN6NAZU.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/Pm1d9mlMKvaeModdsiz_6UL7nFI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QXST76RE5RKQNI6PGEMFJ6DLCY.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>U.S. Treasury Department stresses that Russia sanctions extend to cryptocurrency - Reuters</h2>
-<p>The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) issued new guidance on Friday clarifying that U.S. citizens and digital asset firms are required to comply with sanctions against Russia, even when facilitating transactions in cryptocurre…</p>
+<h2>Fighting rages outside Kyiv, Ukraine says it hopes humanitarian corridors can open - Reuters</h2>
+<p>Fighting raged northwest of Kyiv on Saturday, with the bulk of Russian ground forces 25 km (16 miles) from the centre of the Ukrainian capital, while several other cities were encircled and under heavy shelling, the UK Defence Ministry said.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/europe/eu-unveils-fourth-set-sanctions-against-russia-2022-03-11/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/5rM5fcQ74ivf1hKrPWlhknByMjw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PGH6PJKSGFJU3BL4VR47ESK42M.jpg" align="center" alt="Reuters"/>
+<a href="https://amp.theguardian.com/commentisfree/2022/mar/12/dont-get-carried-away-in-the-rush-of-dao-idealism-blockchain-cryptofed">
+<span>The Guardian</span>
+<img src="https://i.guim.co.uk/img/media/b04e8761ad85f273a779085c5750e837d8f55721/0_416_6240_3744/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=aa1001ad4d4b3ee3d8b68c4fa22356a0" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>EU unveils fourth set of sanctions against Russia - Reuters.com</h2>
-<p>The European Union will suspend Moscow's privileged trade and economic treatment, crack down on its use of crypto-assets and ban exports to Russia of EU luxury goods and import of iron and steel goods, the head of the European Commission said on Friday.</p>
+<h2>Are blockchain-based DAOs really a utopian revolution in the making? | John Naughton</h2>
+<p>Decentralised Autonomous Organisations are member-owned communities promising transparency, democracy and security – but the financial reality doesn’t always stack upIn 2003, a guy called Benjamin Hoff, who was then employed as a tree-pruner in the Portland J…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://news.slashdot.org/story/22/03/12/0541251/why-isnt-bitcoin-booming">
+<span>Slashdot.org</span>
+<img src="https://a.fsdn.com/sd/topics/bitcoin_64.png" align="center" alt="Slashdot.org"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Why Isn't Bitcoin Booming?</h2>
+<p>"Bitcoin was seen by many of its libertarian-leaning fans as a kind of doomsday insurance," argues a columnist in the New York Times, "a form of 'digital gold' that would be a source of stability as the world grew more chaotic and unpredictable.... 
+
+"But Bit…</p>
 </td>
 </table>
 <!-- Crypto News -->
