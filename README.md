@@ -105,6 +105,39 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/breakingviews/war-crowdfunding-is-weapon-that-cuts-two-ways-2022-03-14/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/KoZnkU0M3-TfJNobhz-3SCsUUiQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KCI5SWSPAFK2LBT55MRSXVHF64.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Breakingviews - War crowdfunding is weapon that cuts two ways - Reuters.com</h2>
+<p>Crowdfunding has been supercharged as a weapon of war. Ukraine has raised more than $100 million <a href="https://www.elliptic.co/blog/live-updates-millions-in-crypto-crowdfunded-for-the-ukrainian-military" target="_blank">through cryptocurrencies</a> and a c…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/business/us-options-remain-toward-russia-including-full-trade-embargo-cnbc-2022-03-14/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/U_u0LIMXrj6FHeVkq_68bFE2SmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BFU7ATRTSBOCRJKFL2TGYJ356I.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>U.S. options remain toward Russia, including full trade embargo -CNBC - Reuters.com</h2>
+<p>Options the United States could still take toward Russia amid Moscow's invasion of Ukraine include a full trade embargo and blocking Russia's access to international waterways, U.S. Deputy Treasury Secretary Wally Adeyemo told CNBC on Monday.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/technology/russians-demand-vpns-skyrockets-after-meta-block-2022-03-14/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/AlHS0EK92Mm2WdctruLKhtC01Sw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LCDPEA7LFJJZNMVQ2I446N6VJA.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Russians' demand for VPNs skyrockets after Meta block - Reuters.com</h2>
+<p>As Russia blocked access to Meta Platforms Inc's <a href="https://www.reuters.com/companies/FB.O" target="_blank">(FB.O)</a> flagship social media platforms, Facebook and Instagram, demand from internet users for tools to skirt the restrictions skyrocketed, d…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/markets/asia/factors-watch-march-13-2022-03-13/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=79" align="center" alt="Reuters"/>
@@ -113,41 +146,6 @@
 <td valign="center" width="80%">
 <h2>Factors to watch - March 13 - Reuters.com</h2>
 <p>Here are some factors that may affect Middle East stock markets on Sunday. Reuters has not verified the press reports and does not vouch for their accuracy.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/europe/fighting-rages-outside-kyiv-ukraine-says-it-hopes-humanitarian-corridors-can-2022-03-12/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/Pm1d9mlMKvaeModdsiz_6UL7nFI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QXST76RE5RKQNI6PGEMFJ6DLCY.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Fighting rages outside Kyiv, Ukraine says it hopes humanitarian corridors can open - Reuters</h2>
-<p>Fighting raged northwest of Kyiv on Saturday, with the bulk of Russian ground forces 25 km (16 miles) from the centre of the Ukrainian capital, while several other cities were encircled and under heavy shelling, the UK Defence Ministry said.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/commentisfree/2022/mar/12/dont-get-carried-away-in-the-rush-of-dao-idealism-blockchain-cryptofed">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/b04e8761ad85f273a779085c5750e837d8f55721/0_416_6240_3744/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=aa1001ad4d4b3ee3d8b68c4fa22356a0" align="center" alt="The Guardian"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Are blockchain-based DAOs really a utopian revolution in the making? | John Naughton</h2>
-<p>Decentralised Autonomous Organisations are member-owned communities promising transparency, democracy and security – but the financial reality doesn’t always stack upIn 2003, a guy called Benjamin Hoff, who was then employed as a tree-pruner in the Portland J…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://news.slashdot.org/story/22/03/12/0541251/why-isnt-bitcoin-booming">
-<span>Slashdot.org</span>
-<img src="https://a.fsdn.com/sd/topics/bitcoin_64.png" align="center" alt="Slashdot.org"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Why Isn't Bitcoin Booming?</h2>
-<p>"Bitcoin was seen by many of its libertarian-leaning fans as a kind of doomsday insurance," argues a columnist in the New York Times, "a form of 'digital gold' that would be a source of stability as the world grew more chaotic and unpredictable.... 
-
-"But Bit…</p>
 </td>
 </table>
 <!-- Crypto News -->
