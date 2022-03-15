@@ -94,14 +94,36 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.wired.com/story/how-to-make-money-from-crypto/">
-<span>Wired</span>
-<img src="https://media.wired.com/photos/622bcc6ef48a924e02bd4f56/191:100/w_1280,c_limit/money-crypto-gear-6228-000847.jpg" align="center" alt="Wired"/>
+<a href="https://www.reuters.com/business/finance/cryptoverse-bitcoins-scared-commitment-mr-biden-2022-03-15/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/i10edZVPsxREr8RdI0IEqVA7_Wk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q6ZG6GESYJO5BMD7TONXPMFZEE.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>How People Actually Make Money From Cryptocurrencies</h2>
-<p>Power traders use “staking” and “yield farming” to generate passive income, but there are risks.</p>
+<h2>Cryptoverse: Bitcoin's scared of commitment, Mr Biden - Reuters.com</h2>
+<p>Bitcoin loves flirting with the mainstream. But now, as the U.S. president says he wants to get serious, it may be getting cold crypto feet.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/business/finance/binance-gets-its-first-gulf-crypto-licence-bahrain-2022-03-15/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/cbUdOKKkMQoFIi77cKvHQ4u9JKA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AXN4X4H57RJ2HJHXNHCO7PV7J4.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Binance gets its first Gulf crypto licence in Bahrain - Reuters.com</h2>
+<p>The world's largest cryptocurrency exchange Binance has been given a crypto-asset service provider licence by Bahrain's central bank, its first such licence in the Gulf Cooperation Council (GCC), the company and the bank said on Tuesday.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/business/finance/investors-turn-crypto-funds-companies-russia-ukraine-crisis-escalates-2022-03-14/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/pH1IQi_8NpsOmcNR-4FDqi_DTnI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NMCBWRRT2ZPRZNXMUSR6LRBLSY.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Investors turn to crypto funds, companies as Russia-Ukraine crisis escalates - Reuters.com</h2>
+<p>Global investors are scooping up stakes in cryptocurrency funds and companies, as they seek exposure to a sector many believe could withstand the fallout from the Russia-Ukraine conflict.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -116,36 +138,14 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/us-options-remain-toward-russia-including-full-trade-embargo-cnbc-2022-03-14/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/U_u0LIMXrj6FHeVkq_68bFE2SmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BFU7ATRTSBOCRJKFL2TGYJ356I.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>U.S. options remain toward Russia, including full trade embargo -CNBC - Reuters.com</h2>
-<p>Options the United States could still take toward Russia amid Moscow's invasion of Ukraine include a full trade embargo and blocking Russia's access to international waterways, U.S. Deputy Treasury Secretary Wally Adeyemo told CNBC on Monday.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/russians-demand-vpns-skyrockets-after-meta-block-2022-03-14/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/AlHS0EK92Mm2WdctruLKhtC01Sw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LCDPEA7LFJJZNMVQ2I446N6VJA.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Russians' demand for VPNs skyrockets after Meta block - Reuters.com</h2>
-<p>As Russia blocked access to Meta Platforms Inc's <a href="https://www.reuters.com/companies/FB.O" target="_blank">(FB.O)</a> flagship social media platforms, Facebook and Instagram, demand from internet users for tools to skirt the restrictions skyrocketed, d…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/asia/factors-watch-march-13-2022-03-13/">
+<a href="https://www.reuters.com/technology/consensys-valuation-more-than-doubles-over-7-bln-after-latest-funding-2022-03-15/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=79" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Factors to watch - March 13 - Reuters.com</h2>
-<p>Here are some factors that may affect Middle East stock markets on Sunday. Reuters has not verified the press reports and does not vouch for their accuracy.</p>
+<h2>ConsenSys valuation more than doubles to over $7 bln after latest funding - Reuters.com</h2>
+<p>Blockchain technology firm ConsenSys said on Tuesday its valuation had more than doubled to over $7 billion after its latest funding round that included investments from SoftBank Vision Fund 2 <a href="https://www.reuters.com/companies/9984.T" target="_blank"…</p>
 </td>
 </table>
 <!-- Crypto News -->
