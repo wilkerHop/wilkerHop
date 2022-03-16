@@ -94,6 +94,28 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/mark-zuckerberg-confirms-nf-ts-are-coming-to-instagram-204435805.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/6aac6860-a49c-11ec-b2f7-9565bd6900b6" align="center" alt="Engadget"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Mark Zuckerberg confirms NFTs are coming to Instagram</h2>
+<p>Love them or hate them, NFTs will soon be coming to Instagram. Speaking at SXSW, Mark Zuckerberg confirmed that digital collectibles would be arriving on Instagram “in the near term.”“We're working on bringing NFTs to Instagram in the near term," he said. He …</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/business/finance/dubai-grants-crypto-exchange-binance-virtual-asset-licence-2022-03-16/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/_nH5xu_HdlarTAZ6D1Q7RKR-qa4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GOELKB3NABJRPCOU7VZOBDAFBI.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Dubai grants crypto exchange Binance a virtual asset licence - Reuters</h2>
+<p>The world's largest cryptocurrency exchange Binance has been granted a licence to conduct some operations in Dubai, the company said on Wednesday, from where it plans to carry out regional business.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/business/finance/cryptoverse-bitcoins-scared-commitment-mr-biden-2022-03-15/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/i10edZVPsxREr8RdI0IEqVA7_Wk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q6ZG6GESYJO5BMD7TONXPMFZEE.jpg" align="center" alt="Reuters"/>
@@ -113,28 +135,6 @@
 <td valign="center" width="80%">
 <h2>Binance gets its first Gulf crypto licence in Bahrain - Reuters.com</h2>
 <p>The world's largest cryptocurrency exchange Binance has been given a crypto-asset service provider licence by Bahrain's central bank, its first such licence in the Gulf Cooperation Council (GCC), the company and the bank said on Tuesday.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/investors-turn-crypto-funds-companies-russia-ukraine-crisis-escalates-2022-03-14/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/pH1IQi_8NpsOmcNR-4FDqi_DTnI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NMCBWRRT2ZPRZNXMUSR6LRBLSY.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Investors turn to crypto funds, companies as Russia-Ukraine crisis escalates - Reuters.com</h2>
-<p>Global investors are scooping up stakes in cryptocurrency funds and companies, as they seek exposure to a sector many believe could withstand the fallout from the Russia-Ukraine conflict.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/breakingviews/war-crowdfunding-is-weapon-that-cuts-two-ways-2022-03-14/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/KoZnkU0M3-TfJNobhz-3SCsUUiQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KCI5SWSPAFK2LBT55MRSXVHF64.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Breakingviews - War crowdfunding is weapon that cuts two ways - Reuters.com</h2>
-<p>Crowdfunding has been supercharged as a weapon of war. Ukraine has raised more than $100 million <a href="https://www.elliptic.co/blog/live-updates-millions-in-crypto-crowdfunded-for-the-ukrainian-military" target="_blank">through cryptocurrencies</a> and a c…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
