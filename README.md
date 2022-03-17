@@ -94,14 +94,36 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/mark-zuckerberg-confirms-nf-ts-are-coming-to-instagram-204435805.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/6aac6860-a49c-11ec-b2f7-9565bd6900b6" align="center" alt="Engadget"/>
+<a href="https://www.wired.com/story/conti-ransomware-crypto-payments/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/62328918b1a170ff09f499a3/191:100/w_1280,c_limit/security-conti-ransomware.jpg" align="center" alt="Wired"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Mark Zuckerberg confirms NFTs are coming to Instagram</h2>
-<p>Love them or hate them, NFTs will soon be coming to Instagram. Speaking at SXSW, Mark Zuckerberg confirmed that digital collectibles would be arriving on Instagram “in the near term.”“We're working on bringing NFTs to Instagram in the near term," he said. He …</p>
+<h2>Conti Leak: A Ransomware Gang's Chats Expose Its Crypto Plans</h2>
+<p>Leaked files from cybercrime group Conti show it started building a crypto payment platform, a social network—and even had plans for a casino.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.wired.com/story/ukraine-digital-ministry-war/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/62327dc8c404ebbcf282c7ee/191:100/w_1280,c_limit/Ministry-DigitalTransformation-Team-Ukraine-Business.jpg" align="center" alt="Wired"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Ukraine’s Digital Ministry Is a Formidable War Machine</h2>
+<p>A government department run by savvy tech “freaks” has become a surprise defense against Russia.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.theverge.com/2022/3/17/22982122/russia-youtube-crypto-creators-pay-ruble">
+<span>The Verge</span>
+<img src="https://cdn.vox-cdn.com/thumbor/MG_NhB7wSIBIl3S_LG-y-r7iPmg=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9442221/cryptocurrency_0004__00000_.jpg" align="center" alt="The Verge"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>If you’re a Russian YouTuber, how do you get paid now?</h2>
+<p>Russian creators are shut off from the global financial system. Some of them are turning to cryptocurrency.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -116,36 +138,14 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/cryptoverse-bitcoins-scared-commitment-mr-biden-2022-03-15/">
+<a href="https://www.reuters.com/technology/crypto-exchanges-face-fork-road-over-russia-lse-group-chief-says-2022-03-16/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/i10edZVPsxREr8RdI0IEqVA7_Wk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q6ZG6GESYJO5BMD7TONXPMFZEE.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/JV9_2z7D2Ppeuej6tQZPYYnu69M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YLIKWS7CWVKU5APZEJUFPV3R2U.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cryptoverse: Bitcoin's scared of commitment, Mr Biden - Reuters.com</h2>
-<p>Bitcoin loves flirting with the mainstream. But now, as the U.S. president says he wants to get serious, it may be getting cold crypto feet.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/binance-gets-its-first-gulf-crypto-licence-bahrain-2022-03-15/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/cbUdOKKkMQoFIi77cKvHQ4u9JKA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AXN4X4H57RJ2HJHXNHCO7PV7J4.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Binance gets its first Gulf crypto licence in Bahrain - Reuters.com</h2>
-<p>The world's largest cryptocurrency exchange Binance has been given a crypto-asset service provider licence by Bahrain's central bank, its first such licence in the Gulf Cooperation Council (GCC), the company and the bank said on Tuesday.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/consensys-valuation-more-than-doubles-over-7-bln-after-latest-funding-2022-03-15/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=79" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>ConsenSys valuation more than doubles to over $7 bln after latest funding - Reuters.com</h2>
-<p>Blockchain technology firm ConsenSys said on Tuesday its valuation had more than doubled to over $7 billion after its latest funding round that included investments from SoftBank Vision Fund 2 <a href="https://www.reuters.com/companies/9984.T" target="_blank"…</p>
+<h2>Crypto exchanges face 'fork in the road' over Russia, LSE Group chief says - Reuters</h2>
+<p>Cryptocurrency exchanges are risking long-term damage to their industry for remaining in Russia as Western governments seek to isolate Moscow, the head of the London Stock Exchange Group said on Wednesday, calling it a "watershed moment."</p>
 </td>
 </table>
 <!-- Crypto News -->
