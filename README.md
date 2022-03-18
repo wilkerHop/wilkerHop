@@ -127,25 +127,25 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/dubai-grants-crypto-exchange-binance-virtual-asset-licence-2022-03-16/">
+<a href="https://www.reuters.com/business/finance/binance-says-users-ontario-restricted-using-its-platform-regulator-2022-03-17/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/_nH5xu_HdlarTAZ6D1Q7RKR-qa4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GOELKB3NABJRPCOU7VZOBDAFBI.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/hxh7eXotztSh8YJ4e2EuLz1MToo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UYO5X24OK5KS5KR3VXAIIBMVCQ.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Dubai grants crypto exchange Binance a virtual asset licence - Reuters</h2>
-<p>The world's largest cryptocurrency exchange Binance has been granted a licence to conduct some operations in Dubai, the company said on Wednesday, from where it plans to carry out regional business.</p>
+<h2>Binance says users in Ontario restricted from using its platform - regulator - Reuters</h2>
+<p>Binance, the world's largest crypto exchange by trading volume, has confirmed in an undertaking to the Ontario Securities Commission (OSC) that it would stop opening new accounts for users in the Canadian province, the regulator said on Thursday.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/crypto-exchanges-face-fork-road-over-russia-lse-group-chief-says-2022-03-16/">
+<a href="https://www.reuters.com/world/us-democrats-introduce-bill-curb-russian-crypto-use-amid-ukraine-crisis-2022-03-17/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/JV9_2z7D2Ppeuej6tQZPYYnu69M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YLIKWS7CWVKU5APZEJUFPV3R2U.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/iIrl4Ryg-3TEZxKAt4DRDnEHBdk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W2BQYS4MXNI2FGH6NW56AOGSA4.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Crypto exchanges face 'fork in the road' over Russia, LSE Group chief says - Reuters</h2>
-<p>Cryptocurrency exchanges are risking long-term damage to their industry for remaining in Russia as Western governments seek to isolate Moscow, the head of the London Stock Exchange Group said on Wednesday, calling it a "watershed moment."</p>
+<h2>U.S. Democrats introduce bill to curb Russian crypto use amid Ukraine crisis - Reuters.com</h2>
+<p>Democratic U.S. senators introduced a bill on Thursday that would enable the president to sanction foreign cryptocurrency firms doing business with sanctioned Russian entities and prevent them from transacting with U.S. customers.</p>
 </td>
 </table>
 <!-- Crypto News -->
