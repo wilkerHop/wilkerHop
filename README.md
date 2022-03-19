@@ -94,58 +94,58 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.wired.com/story/conti-ransomware-crypto-payments/">
-<span>Wired</span>
-<img src="https://media.wired.com/photos/62328918b1a170ff09f499a3/191:100/w_1280,c_limit/security-conti-ransomware.jpg" align="center" alt="Wired"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Conti Leak: A Ransomware Gang's Chats Expose Its Crypto Plans</h2>
-<p>Leaked files from cybercrime group Conti show it started building a crypto payment platform, a social network—and even had plans for a casino.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.wired.com/story/ukraine-digital-ministry-war/">
-<span>Wired</span>
-<img src="https://media.wired.com/photos/62327dc8c404ebbcf282c7ee/191:100/w_1280,c_limit/Ministry-DigitalTransformation-Team-Ukraine-Business.jpg" align="center" alt="Wired"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Ukraine’s Digital Ministry Is a Formidable War Machine</h2>
-<p>A government department run by savvy tech “freaks” has become a surprise defense against Russia.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.theverge.com/2022/3/17/22982122/russia-youtube-crypto-creators-pay-ruble">
-<span>The Verge</span>
-<img src="https://cdn.vox-cdn.com/thumbor/MG_NhB7wSIBIl3S_LG-y-r7iPmg=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9442221/cryptocurrency_0004__00000_.jpg" align="center" alt="The Verge"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>If you’re a Russian YouTuber, how do you get paid now?</h2>
-<p>Russian creators are shut off from the global financial system. Some of them are turning to cryptocurrency.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/binance-says-users-ontario-restricted-using-its-platform-regulator-2022-03-17/">
+<a href="https://www.reuters.com/technology/us-treasury-official-sees-modest-uptick-crypto-illicit-finance-transactions-2022-03-18/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/hxh7eXotztSh8YJ4e2EuLz1MToo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UYO5X24OK5KS5KR3VXAIIBMVCQ.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/JV9_2z7D2Ppeuej6tQZPYYnu69M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YLIKWS7CWVKU5APZEJUFPV3R2U.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Binance says users in Ontario restricted from using its platform - regulator - Reuters</h2>
-<p>Binance, the world's largest crypto exchange by trading volume, has confirmed in an undertaking to the Ontario Securities Commission (OSC) that it would stop opening new accounts for users in the Canadian province, the regulator said on Thursday.</p>
+<h2>U.S. Treasury official sees modest uptick in crypto illicit finance, but transactions small - Reuters</h2>
+<p>U.S. officials have observed an uptick in the use of digital assets to facilitate illicit finance since Russia invaded Ukraine, but the transaction volume is too small to play a big role in helping Moscow evade sweeping sanctions, a senior Treasury official s…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/us-democrats-introduce-bill-curb-russian-crypto-use-amid-ukraine-crisis-2022-03-17/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/iIrl4Ryg-3TEZxKAt4DRDnEHBdk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W2BQYS4MXNI2FGH6NW56AOGSA4.jpg" align="center" alt="Reuters"/>
+<a href="https://www.cnet.com/personal-finance/crypto/is-the-us-developing-a-digital-dollar-this-weeks-top-bitcoin-crypto-news/">
+<span>CNET</span>
+<img src="https://www.cnet.com/a/img/resize/e4de87a14a5ecf108a98c5c482fbcfc2c36906c6/2022/02/04/c5b1979c-a2d6-412c-9866-e1545badf003/gettyimages-1305088166.jpg?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>U.S. Democrats introduce bill to curb Russian crypto use amid Ukraine crisis - Reuters.com</h2>
-<p>Democratic U.S. senators introduced a bill on Thursday that would enable the president to sanction foreign cryptocurrency firms doing business with sanctioned Russian entities and prevent them from transacting with U.S. customers.</p>
+<h2>Is the US Developing a Digital Dollar? This Week's Top Bitcoin & Crypto News - CNET</h2>
+<p>Nonfungible Tidbits: All the bitcoin, cryptocurrency and NFT news for the week ending March 18.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.entrepreneur.com/article/419458">
+<span>Entrepreneur</span>
+<img src="https://assets.entrepreneur.com/content/3x2/2000/1647365573-GettyImages-1367477512.jpg" align="center" alt="Entrepreneur"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Web3 Could See Its Own Dot-Com Boom. Here's How To Survive The Bust.</h2>
+<p>The Web3 movement can learn a lot from Enron or Theranos, but history tells us it won't. In the absence of honesty, here's 3 tips to keep your Web3 investment from tanking.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://news.slashdot.org/story/22/03/17/2246200/binance-says-users-in-ontario-restricted-from-using-its-platform">
+<span>Slashdot.org</span>
+<img src="https://a.fsdn.com/sd/topics/bitcoin_64.png" align="center" alt="Slashdot.org"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Binance Says Users In Ontario Restricted From Using Its Platform</h2>
+<p>An anonymous reader quotes a report from Reuters: Binance, the world's largest crypto exchange by trading volume, has confirmed in an undertaking to the Ontario Securities Commission (OSC) that it would stop opening new accounts for users in the Canadian prov…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://entertainment.slashdot.org/story/22/03/18/221201/spotify-draws-up-plans-to-join-nft-digital-collectibles-craze">
+<span>Slashdot.org</span>
+<img src="https://a.fsdn.com/sd/topics/bitcoin_64.png" align="center" alt="Slashdot.org"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Spotify Draws Up Plans To Join NFT Digital Collectibles Craze</h2>
+<p>Spotify may be the latest service to adopt NFTs. According to the Financial Times, the company is "drawing up plans to add blockchain technology and non-fungible tokens to its streaming service, fueling excitement in the crypto and music industries about the …</p>
 </td>
 </table>
 <!-- Crypto News -->
