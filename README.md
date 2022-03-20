@@ -94,17 +94,6 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/us-treasury-official-sees-modest-uptick-crypto-illicit-finance-transactions-2022-03-18/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/JV9_2z7D2Ppeuej6tQZPYYnu69M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YLIKWS7CWVKU5APZEJUFPV3R2U.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>U.S. Treasury official sees modest uptick in crypto illicit finance, but transactions small - Reuters</h2>
-<p>U.S. officials have observed an uptick in the use of digital assets to facilitate illicit finance since Russia invaded Ukraine, but the transaction volume is too small to play a big role in helping Moscow evade sweeping sanctions, a senior Treasury official s…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.cnet.com/personal-finance/crypto/is-the-us-developing-a-digital-dollar-this-weeks-top-bitcoin-crypto-news/">
 <span>CNET</span>
 <img src="https://www.cnet.com/a/img/resize/e4de87a14a5ecf108a98c5c482fbcfc2c36906c6/2022/02/04/c5b1979c-a2d6-412c-9866-e1545badf003/gettyimages-1305088166.jpg?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
@@ -127,17 +116,6 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://news.slashdot.org/story/22/03/17/2246200/binance-says-users-in-ontario-restricted-from-using-its-platform">
-<span>Slashdot.org</span>
-<img src="https://a.fsdn.com/sd/topics/bitcoin_64.png" align="center" alt="Slashdot.org"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Binance Says Users In Ontario Restricted From Using Its Platform</h2>
-<p>An anonymous reader quotes a report from Reuters: Binance, the world's largest crypto exchange by trading volume, has confirmed in an undertaking to the Ontario Securities Commission (OSC) that it would stop opening new accounts for users in the Canadian prov…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://entertainment.slashdot.org/story/22/03/18/221201/spotify-draws-up-plans-to-join-nft-digital-collectibles-craze">
 <span>Slashdot.org</span>
 <img src="https://a.fsdn.com/sd/topics/bitcoin_64.png" align="center" alt="Slashdot.org"/>
@@ -146,6 +124,28 @@
 <td valign="center" width="80%">
 <h2>Spotify Draws Up Plans To Join NFT Digital Collectibles Craze</h2>
 <p>Spotify may be the latest service to adopt NFTs. According to the Financial Times, the company is "drawing up plans to add blockchain technology and non-fungible tokens to its streaming service, fueling excitement in the crypto and music industries about the …</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.entrepreneur.com/article/420014">
+<span>Entrepreneur</span>
+<img src="https://assets.entrepreneur.com/content/3x2/2000/1647372482-GettyImages-1316107530.jpg" align="center" alt="Entrepreneur"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>The 5 Best High-Return Investments</h2>
+<p>With inflation now likely an enduring presence, it's more vital than ever to devote financial resources to vehicles with the most robust returns.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.psfk.com/2022/03/friends-with-benefits-dao-uses-web3-tools-to-build-community.html">
+<span>PSFK</span>
+<img src="https://cdn1.psfk.com/wp-content/uploads/2022/03/a304f5dc053c23a5cc837f2897ddcd507a292092-1200x628.jpeg" align="center" alt="PSFK"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Friends With Benefits DAO Uses Web3 Tools To Build Community</h2>
+<p>Setting comparisons to the legendary Silicon Valley forum where, in 1976, Steve Jobs and Steve Wozniak debuted the first Apple computer aside, what Friends With Benefits (FWB) currently exists as is equal parts music discovery platform, online publication, st…</p>
 </td>
 </table>
 <!-- Crypto News -->
