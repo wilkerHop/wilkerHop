@@ -94,58 +94,58 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.cnet.com/personal-finance/crypto/is-the-us-developing-a-digital-dollar-this-weeks-top-bitcoin-crypto-news/">
-<span>CNET</span>
-<img src="https://www.cnet.com/a/img/resize/e4de87a14a5ecf108a98c5c482fbcfc2c36906c6/2022/02/04/c5b1979c-a2d6-412c-9866-e1545badf003/gettyimages-1305088166.jpg?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
+<a href="https://www.reuters.com/lifestyle/sports/naomi-osaka-takes-equity-stake-crypto-exchange-ftx-2022-03-21/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/IVrFlY0WCJlahfJs8IBzfaF_plU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQQZWEA6MBLUXLJO3YFMDUSO7E.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Is the US Developing a Digital Dollar? This Week's Top Bitcoin & Crypto News - CNET</h2>
-<p>Nonfungible Tidbits: All the bitcoin, cryptocurrency and NFT news for the week ending March 18.</p>
+<h2>Naomi Osaka takes equity stake in crypto exchange FTX - Reuters</h2>
+<p>Tennis star Naomi Osaka has taken an equity stake in FTX and will be receiving compensation in crypto, the Bahamas-based cryptocurrency exchange, one of the most valuable startups in the world, said on Monday.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.entrepreneur.com/article/419458">
-<span>Entrepreneur</span>
-<img src="https://assets.entrepreneur.com/content/3x2/2000/1647365573-GettyImages-1367477512.jpg" align="center" alt="Entrepreneur"/>
+<a href="https://www.reuters.com/technology/global-regulators-monitor-crypto-use-ukraine-war-2022-03-21/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/MgbUIwqu4zdmULljjG5DZTB1eJo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MPHITGKCEVJXXOHR2ZADA5NWPQ.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Web3 Could See Its Own Dot-Com Boom. Here's How To Survive The Bust.</h2>
-<p>The Web3 movement can learn a lot from Enron or Theranos, but history tells us it won't. In the absence of honesty, here's 3 tips to keep your Web3 investment from tanking.</p>
+<h2>Global regulators monitor crypto use in Ukraine war - Reuters</h2>
+<p>The global Financial Stability Board is closely scrutinising the use of cryptoassets during the war in Ukraine after concerns they could be used to evade Western sanctions on Russia.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://entertainment.slashdot.org/story/22/03/18/221201/spotify-draws-up-plans-to-join-nft-digital-collectibles-craze">
+<a href="https://www.reuters.com/business/finance/euroclear-joins-bank-backed-blockchain-payment-system-2022-03-21/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/O5lPvW9PSEAdHQ964GSspUQf2tA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EMIOCQFTSFLCFNZWPAKDUZ7HEY.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Euroclear joins bank-backed blockchain payment system - Reuters.com</h2>
+<p>Securities settlement house Euroclear said on Monday it had joined a consortium of banks building a payment system for tokenised assets in the latest sign of established institutions teaming up with newcomers in crypto tech.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://slashdot.org/story/22/03/21/1734206/india-to-tax-each-crypto-investment-independently">
 <span>Slashdot.org</span>
 <img src="https://a.fsdn.com/sd/topics/bitcoin_64.png" align="center" alt="Slashdot.org"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Spotify Draws Up Plans To Join NFT Digital Collectibles Craze</h2>
-<p>Spotify may be the latest service to adopt NFTs. According to the Financial Times, the company is "drawing up plans to add blockchain technology and non-fungible tokens to its streaming service, fueling excitement in the crypto and music industries about the …</p>
+<h2>India To Tax Each Crypto Investment Independently</h2>
+<p>India's proposed taxation law of virtual digital assets won't permit individuals to offset loss from one asset against profit of another, the Ministry of Finance said Monday in a move that the head of the nation's top cryptocurrency exchange termed as "detrim…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.entrepreneur.com/article/420014">
-<span>Entrepreneur</span>
-<img src="https://assets.entrepreneur.com/content/3x2/2000/1647372482-GettyImages-1316107530.jpg" align="center" alt="Entrepreneur"/>
+<a href="https://www.businessinsider.com/chainalysis-shows-how-us-government-can-fight-illicit-crypto-activities-2022-3">
+<span>Business Insider</span>
+<img src="https://i.insider.com/62388b081d30a30019f500d6?width=1200&format=jpeg" align="center" alt="Business Insider"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>The 5 Best High-Return Investments</h2>
-<p>With inflation now likely an enduring presence, it's more vital than ever to devote financial resources to vehicles with the most robust returns.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.psfk.com/2022/03/friends-with-benefits-dao-uses-web3-tools-to-build-community.html">
-<span>PSFK</span>
-<img src="https://cdn1.psfk.com/wp-content/uploads/2022/03/a304f5dc053c23a5cc837f2897ddcd507a292092-1200x628.jpeg" align="center" alt="PSFK"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Friends With Benefits DAO Uses Web3 Tools To Build Community</h2>
-<p>Setting comparisons to the legendary Silicon Valley forum where, in 1976, Steve Jobs and Steve Wozniak debuted the first Apple computer aside, what Friends With Benefits (FWB) currently exists as is equal parts music discovery platform, online publication, st…</p>
+<h2>Blockchain company outlines US roadmap for fighting illicit crypto activities</h2>
+<p>Blockchain fintech Chainalysis proposed steps the US government can take to clamp down on sanctions evasion and other illicit activities using crypto.</p>
 </td>
 </table>
 <!-- Crypto News -->
