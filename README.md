@@ -94,6 +94,17 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/technology/cryptoverse-remember-when-bitcoin-was-anonymous-2022-03-22/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/c8lOZeoWLIRW0T_RNTBsFOF2F6w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T3V4ZRYO6BPIJKJVNY7C6YYUJQ.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Cryptoverse: Remember when bitcoin was 'anonymous'? - Reuters</h2>
+<p>Bitcoin just isn't anonymous enough for a growing cohort of crypto users who are seeking greater seclusion.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/lifestyle/sports/naomi-osaka-takes-equity-stake-crypto-exchange-ftx-2022-03-21/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/IVrFlY0WCJlahfJs8IBzfaF_plU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQQZWEA6MBLUXLJO3YFMDUSO7E.jpg" align="center" alt="Reuters"/>
@@ -116,36 +127,25 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/euroclear-joins-bank-backed-blockchain-payment-system-2022-03-21/">
+<a href="https://www.reuters.com/technology/crypto-sector-posts-outflows-2nd-straight-week-coinshares-2022-03-21/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/O5lPvW9PSEAdHQ964GSspUQf2tA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EMIOCQFTSFLCFNZWPAKDUZ7HEY.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/3iNqaBkzYtY1Aecu1r8NKsQy9fY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HAYZDEPRC5IKHIA5FTVUYXIAFM.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Euroclear joins bank-backed blockchain payment system - Reuters.com</h2>
-<p>Securities settlement house Euroclear said on Monday it had joined a consortium of banks building a payment system for tokenised assets in the latest sign of established institutions teaming up with newcomers in crypto tech.</p>
+<h2>Crypto sector posts outflows for 2nd straight week -CoinShares - Reuters</h2>
+<p>Cryptocurrency investment products and funds showed net outflows for a second straight week, a report from digital asset manager CoinShares showed on Monday, on persistent concerns about regulation and the possible fallout from the Russia-Ukraine conflict.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://slashdot.org/story/22/03/21/1734206/india-to-tax-each-crypto-investment-independently">
-<span>Slashdot.org</span>
-<img src="https://a.fsdn.com/sd/topics/bitcoin_64.png" align="center" alt="Slashdot.org"/>
+<a href="https://www.reuters.com/world/uk/britains-advertising-watchdog-clamps-down-crypto-firms-2022-03-22/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/JToBtt0Z8IMmU-XRCZ4Pfp-0zMg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OEKWXTHHUBOD7ARIR2LCZ4TT5A.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>India To Tax Each Crypto Investment Independently</h2>
-<p>India's proposed taxation law of virtual digital assets won't permit individuals to offset loss from one asset against profit of another, the Ministry of Finance said Monday in a move that the head of the nation's top cryptocurrency exchange termed as "detrim…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.businessinsider.com/chainalysis-shows-how-us-government-can-fight-illicit-crypto-activities-2022-3">
-<span>Business Insider</span>
-<img src="https://i.insider.com/62388b081d30a30019f500d6?width=1200&format=jpeg" align="center" alt="Business Insider"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Blockchain company outlines US roadmap for fighting illicit crypto activities</h2>
-<p>Blockchain fintech Chainalysis proposed steps the US government can take to clamp down on sanctions evasion and other illicit activities using crypto.</p>
+<h2>Britain's advertising watchdog clamps down on crypto firms - Reuters.com</h2>
+<p>Britain's advertising watchdog on Tuesday stepped up scrutiny of cryptocurrency ads, ordering more than 50 companies in the industry to tell consumers that digital assets are unregulated and volatile.</p>
 </td>
 </table>
 <!-- Crypto News -->
