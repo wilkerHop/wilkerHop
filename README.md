@@ -94,6 +94,17 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/technology/bored-ape-nft-startup-yuga-labs-valued-4-bln-after-funding-2022-03-22/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=79" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>"Bored Ape" NFT-startup Yuga Labs valued at $4 bln after funding - Reuters</h2>
+<p>Yuga Labs, the company behind the "Bored Ape Yacht Club" collection of NFTs, said on Tuesday it was valued at $4 billion after a $450 million funding round led by a16z crypto, Andreessen Horowitz's crypto fund.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/technology/cryptoverse-remember-when-bitcoin-was-anonymous-2022-03-22/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/c8lOZeoWLIRW0T_RNTBsFOF2F6w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T3V4ZRYO6BPIJKJVNY7C6YYUJQ.jpg" align="center" alt="Reuters"/>
@@ -105,36 +116,25 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/lifestyle/sports/naomi-osaka-takes-equity-stake-crypto-exchange-ftx-2022-03-21/">
+<a href="https://www.reuters.com/world/middle-east/dubai-firm-cypher-capital-says-launches-100-mln-digital-asset-fund-2022-03-23/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/IVrFlY0WCJlahfJs8IBzfaF_plU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQQZWEA6MBLUXLJO3YFMDUSO7E.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/P079hjjuQA1XHJambv7DJmsFjuk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GPX5YBMNRRLCLF4FVWWOS5CMQU.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Naomi Osaka takes equity stake in crypto exchange FTX - Reuters</h2>
-<p>Tennis star Naomi Osaka has taken an equity stake in FTX and will be receiving compensation in crypto, the Bahamas-based cryptocurrency exchange, one of the most valuable startups in the world, said on Monday.</p>
+<h2>Dubai firm Cypher Capital says launches $100 mln digital asset fund - Reuters.com</h2>
+<p>Dubai-based venture capital firm Cypher Capital on Wednesday announced it was launching a $100 million seed fund aimed at investing in digital assets including crypto currencies.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/global-regulators-monitor-crypto-use-ukraine-war-2022-03-21/">
+<a href="https://www.reuters.com/video/watch/idspRC?now=true">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/MgbUIwqu4zdmULljjG5DZTB1eJo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MPHITGKCEVJXXOHR2ZADA5NWPQ.jpg" align="center" alt="Reuters"/>
+<img src="https://ajo.prod.reuters.tv/api/v2/img/623a4c61e4b09631b0e47194-1647987809285?location=LANDSCAPE" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Global regulators monitor crypto use in Ukraine war - Reuters</h2>
-<p>The global Financial Stability Board is closely scrutinising the use of cryptoassets during the war in Ukraine after concerns they could be used to evade Western sanctions on Russia.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/crypto-sector-posts-outflows-2nd-straight-week-coinshares-2022-03-21/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/3iNqaBkzYtY1Aecu1r8NKsQy9fY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HAYZDEPRC5IKHIA5FTVUYXIAFM.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Crypto sector posts outflows for 2nd straight week -CoinShares - Reuters</h2>
-<p>Cryptocurrency investment products and funds showed net outflows for a second straight week, a report from digital asset manager CoinShares showed on Monday, on persistent concerns about regulation and the possible fallout from the Russia-Ukraine conflict.</p>
+<h2>Using coal waste to power crypto in Pennsylvania - Reuters</h2>
+<p>Stronghold Digital Mining, a company based in western Pennsylvania, burns waste from abandoned coal mines to generate the electricity that powers hundreds of supercomputers running around the clock to mint bitcoin.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
