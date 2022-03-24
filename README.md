@@ -94,25 +94,14 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/bored-ape-nft-startup-yuga-labs-valued-4-bln-after-funding-2022-03-22/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=79" align="center" alt="Reuters"/>
+<a href="https://www.nytimes.com/2022/03/24/your-money/bitcoin-investing-cryptocurrency.html">
+<span>New York Times</span>
+<img src="https://static01.nyt.com/images/2022/03/24/business/00cryto-invest/00cryto-invest-facebookJumbo.jpg" align="center" alt="New York Times"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>"Bored Ape" NFT-startup Yuga Labs valued at $4 bln after funding - Reuters</h2>
-<p>Yuga Labs, the company behind the "Bored Ape Yacht Club" collection of NFTs, said on Tuesday it was valued at $4 billion after a $450 million funding round led by a16z crypto, Andreessen Horowitz's crypto fund.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/cryptoverse-remember-when-bitcoin-was-anonymous-2022-03-22/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/c8lOZeoWLIRW0T_RNTBsFOF2F6w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T3V4ZRYO6BPIJKJVNY7C6YYUJQ.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Cryptoverse: Remember when bitcoin was 'anonymous'? - Reuters</h2>
-<p>Bitcoin just isn't anonymous enough for a growing cohort of crypto users who are seeking greater seclusion.</p>
+<h2>Everyone Has Crypto FOMO, but Does It Belong in Your Portfolio?</h2>
+<p>A growing array of investment options make it easier to put digital tokens alongside traditional investments. Here’s what to know.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -127,25 +116,36 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/video/watch/idspRC?now=true">
+<a href="https://www.reuters.com/technology/crypto-offshoot-defi-throws-up-new-risks-investors-global-regulators-say-2022-03-24/">
 <span>Reuters</span>
-<img src="https://ajo.prod.reuters.tv/api/v2/img/623a4c61e4b09631b0e47194-1647987809285?location=LANDSCAPE" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/vnNWLxThSXvKv9t8sHb4szDr8GU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3MCUU6JGXZO5BMHOCTFTMGV4H4.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Using coal waste to power crypto in Pennsylvania - Reuters</h2>
-<p>Stronghold Digital Mining, a company based in western Pennsylvania, burns waste from abandoned coal mines to generate the electricity that powers hundreds of supercomputers running around the clock to mint bitcoin.</p>
+<h2>Crypto offshoot DeFi throws up new risks for investors, global regulators say - Reuters.com</h2>
+<p>Decentralised finance - or DeFi - is throwing up new risks for investors as it evolves to mirror traditional markets, a global body for securities regulators said on Thursday, adding to a chorus of warnings about the fast-growing crypto offshoot.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/uk/britains-advertising-watchdog-clamps-down-crypto-firms-2022-03-22/">
+<a href="https://www.reuters.com/world/asia-pacific/thailand-ban-use-digital-assets-payments-april-sec-2022-03-23/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/JToBtt0Z8IMmU-XRCZ4Pfp-0zMg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OEKWXTHHUBOD7ARIR2LCZ4TT5A.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/hQUFyg89hsElzlhGfkPIvaoHxbY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IB36Y4ZKDRLJNA3LRDQAHS7UGM.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Britain's advertising watchdog clamps down on crypto firms - Reuters.com</h2>
-<p>Britain's advertising watchdog on Tuesday stepped up scrutiny of cryptocurrency ads, ordering more than 50 companies in the industry to tell consumers that digital assets are unregulated and volatile.</p>
+<h2>Thailand to ban use of digital assets as payments from April - SEC - Reuters.com</h2>
+<p>Thailand has issued rules to ban digital assets from being used to pay for goods and services from April 1, the market regulator said on Wednesday.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/world/europe/freeze-seize-eu-struggles-target-oligarchs-assets-2022-03-24/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/xbgcstbpkIeXJ5D-FUVDSjJoEnY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BWZXHED6GJMP3MRAERWTPP6HXA.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Freeze and seize? EU struggles to target oligarchs' assets - Reuters.com</h2>
+<p>Oligarchs' wealth remains largely untouched in the European Union, weeks after Brussels approved measures to freeze the assets of dozens of billionaires and top officials linked to Russia following its invasion of Ukraine.</p>
 </td>
 </table>
 <!-- Crypto News -->
