@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=wilkerhop&label=VIEWS%20COUNT&style=for-the-badge&color=878787" align="center" />
+<a href="https://wakatime.com/@bc2cf556-71f0-4f0c-8959-b70f09169463"><img src="https://wakatime.com/badge/user/bc2cf556-71f0-4f0c-8959-b70f09169463.svg" alt="Total time coded since Mar 8 2022" /></a>
 </div>
 
 <br/>
@@ -10,6 +10,9 @@
 <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=wilkerhop&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center" /></div>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkerhop&hide=brainfuck,mathematica&layout=compact&theme=dracula&hide_border=true" align="center" /></div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=wilkerhop&label=VIEWS%20COUNT&style=for-the-badge&color=878787" align="center" />
+</div>
 
 <br/>
 <br/>
