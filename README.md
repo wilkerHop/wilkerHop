@@ -97,6 +97,39 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/google-says-it-thwarted-north-korean-cyberattacks-in-early-2022-181739881.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/eace0c30-ab9d-11ec-8cef-6ad5c6e21c6a" align="center" alt="Engadget"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Google says it thwarted North Korean cyberattacks in early 2022</h2>
+<p>Google's Threat Analysis Group announced on Thursday that it had discovered a pair of North Korean hacking cadres going by the monikers Operation Dream Job and Operation AppleJeus in February that were leveraging a remote code execution exploit in the Chrome …</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/the-morning-after-the-inventor-of-the-gif-has-died-111813462.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/550a22e0-ab4a-11ec-badf-02a3bbee2ca1" align="center" alt="Engadget"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>The Morning After: The inventor of the GIF has died</h2>
+<p>Continue reading.GIF inventor Stephen Wilhite has died from COVID-19 at the age of 74, NPR has reported. He worked at CompuServe when he developed the Graphics Interchange Format, designed to allow photo transfers over slow modem connections, inventing the fo…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.wired.com/story/plaintext-crypto-war-ukraine/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/623d0300fa4cae5fe89eb208/191:100/w_1280,c_limit/Ukraine-Crypto-Plaintext-Business-1237956497.jpg" align="center" alt="Wired"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Crypto Goes to War in Ukraine</h2>
+<p>Plus: Prophecies of digital cash, Russia’s virtual isolation, and bleak conditions for black tie.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.nytimes.com/2022/03/24/your-money/bitcoin-investing-cryptocurrency.html">
 <span>New York Times</span>
 <img src="https://static01.nyt.com/images/2022/03/24/business/00cryto-invest/00cryto-invest-facebookJumbo.jpg" align="center" alt="New York Times"/>
@@ -108,47 +141,14 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/middle-east/dubai-firm-cypher-capital-says-launches-100-mln-digital-asset-fund-2022-03-23/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/P079hjjuQA1XHJambv7DJmsFjuk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GPX5YBMNRRLCLF4FVWWOS5CMQU.jpg" align="center" alt="Reuters"/>
+<a href="https://www.nytimes.com/2022/03/24/nyregion/thomas-spieker-bitcoin-scheme.html">
+<span>New York Times</span>
+<img src="https://static01.nyt.com/images/2022/03/24/nyregion/24ny-bitcoin1/24ny-bitcoin1-facebookJumbo.jpg" align="center" alt="New York Times"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Dubai firm Cypher Capital says launches $100 mln digital asset fund - Reuters.com</h2>
-<p>Dubai-based venture capital firm Cypher Capital on Wednesday announced it was launching a $100 million seed fund aimed at investing in digital assets including crypto currencies.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/crypto-offshoot-defi-throws-up-new-risks-investors-global-regulators-say-2022-03-24/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/vnNWLxThSXvKv9t8sHb4szDr8GU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3MCUU6JGXZO5BMHOCTFTMGV4H4.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Crypto offshoot DeFi throws up new risks for investors, global regulators say - Reuters.com</h2>
-<p>Decentralised finance - or DeFi - is throwing up new risks for investors as it evolves to mirror traditional markets, a global body for securities regulators said on Thursday, adding to a chorus of warnings about the fast-growing crypto offshoot.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/asia-pacific/thailand-ban-use-digital-assets-payments-april-sec-2022-03-23/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/hQUFyg89hsElzlhGfkPIvaoHxbY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IB36Y4ZKDRLJNA3LRDQAHS7UGM.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Thailand to ban use of digital assets as payments from April - SEC - Reuters.com</h2>
-<p>Thailand has issued rules to ban digital assets from being used to pay for goods and services from April 1, the market regulator said on Wednesday.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/europe/freeze-seize-eu-struggles-target-oligarchs-assets-2022-03-24/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/xbgcstbpkIeXJ5D-FUVDSjJoEnY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BWZXHED6GJMP3MRAERWTPP6HXA.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Freeze and seize? EU struggles to target oligarchs' assets - Reuters.com</h2>
-<p>Oligarchs' wealth remains largely untouched in the European Union, weeks after Brussels approved measures to freeze the assets of dozens of billionaires and top officials linked to Russia following its invasion of Ukraine.</p>
+<h2>Ex-Party Producer Charged in $2.7 Million Bitcoin-Laundering Scheme</h2>
+<p>Thomas Spieker’s clients included dark-web drug dealers and a cellphone-hacking identity thief, prosecutors said.</p>
 </td>
 </table>
 <!-- Crypto News -->
