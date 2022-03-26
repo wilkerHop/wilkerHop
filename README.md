@@ -97,17 +97,6 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/google-says-it-thwarted-north-korean-cyberattacks-in-early-2022-181739881.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/eace0c30-ab9d-11ec-8cef-6ad5c6e21c6a" align="center" alt="Engadget"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Google says it thwarted North Korean cyberattacks in early 2022</h2>
-<p>Google's Threat Analysis Group announced on Thursday that it had discovered a pair of North Korean hacking cadres going by the monikers Operation Dream Job and Operation AppleJeus in February that were leveraging a remote code execution exploit in the Chrome …</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.engadget.com/the-morning-after-the-inventor-of-the-gif-has-died-111813462.html">
 <span>Engadget</span>
 <img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/550a22e0-ab4a-11ec-badf-02a3bbee2ca1" align="center" alt="Engadget"/>
@@ -130,25 +119,36 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.nytimes.com/2022/03/24/your-money/bitcoin-investing-cryptocurrency.html">
-<span>New York Times</span>
-<img src="https://static01.nyt.com/images/2022/03/24/business/00cryto-invest/00cryto-invest-facebookJumbo.jpg" align="center" alt="New York Times"/>
+<a href="https://www.reuters.com/technology/ukraine-launches-nft-museum-war-crypto-crowdfunding-push-2022-03-25/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/K0GrN2cdYzFwCLIrwZG4Jtylhss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KKNPCRPB4FINFOPCGATCUVDDDU.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Everyone Has Crypto FOMO, but Does It Belong in Your Portfolio?</h2>
-<p>A growing array of investment options make it easier to put digital tokens alongside traditional investments. Here’s what to know.</p>
+<h2>Ukraine launches NFT 'Museum of War' in crypto crowdfunding push - Reuters</h2>
+<p>Ukraine started auctioning off a collection of non-fungible tokens (NFTs) on Friday in an expansion of a cryptocurrency fundraising push that Kyiv says has already collected more than $65 million for its war effort.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.nytimes.com/2022/03/24/nyregion/thomas-spieker-bitcoin-scheme.html">
-<span>New York Times</span>
-<img src="https://static01.nyt.com/images/2022/03/24/nyregion/24ny-bitcoin1/24ny-bitcoin1-facebookJumbo.jpg" align="center" alt="New York Times"/>
+<a href="https://www.reuters.com/business/sustainable-business/how-save-amazon-brazil-company-says-nfts-are-answer-2022-03-26/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/gR5-VgbTM88KlC4CckEEqQAyaCk=/877x459/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3IEBSHG7VPPPNLQDRZX646BSQ.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Ex-Party Producer Charged in $2.7 Million Bitcoin-Laundering Scheme</h2>
-<p>Thomas Spieker’s clients included dark-web drug dealers and a cellphone-hacking identity thief, prosecutors said.</p>
+<h2>How to save the Amazon? Brazil company says NFTs are the answer - Reuters.com</h2>
+<p>A Brazilian company that owns 410 square kilometers (158 square miles) of Amazon rainforest is offering a new way to fund conservation: selling non-fungible tokens (NFTs) that allow buyers to sponsor the preservation of specific areas of jungle.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://amp.theguardian.com/tv-and-radio/2022/mar/25/moon-knight-to-slow-horses-the-seven-best-shows-to-stream-this-week">
+<span>The Guardian</span>
+<img src="https://i.guim.co.uk/img/media/b2badf59582415efc4270a6120e114b80ae7bb94/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=694d91cdc63debb018abd55fc82b1740" align="center" alt="The Guardian"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Moon Knight to Slow Horses: the seven best shows to stream this week</h2>
+<p>Oscar Isaac is Marvel’s trippiest superhero to date, while Gary Oldman and Kristin Scott Thomas star in a new spy thriller about a motley band of MI5 outcasts Continue reading...</p>
 </td>
 </table>
 <!-- Crypto News -->
