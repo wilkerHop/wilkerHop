@@ -97,39 +97,6 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/the-morning-after-the-inventor-of-the-gif-has-died-111813462.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/550a22e0-ab4a-11ec-badf-02a3bbee2ca1" align="center" alt="Engadget"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>The Morning After: The inventor of the GIF has died</h2>
-<p>Continue reading.GIF inventor Stephen Wilhite has died from COVID-19 at the age of 74, NPR has reported. He worked at CompuServe when he developed the Graphics Interchange Format, designed to allow photo transfers over slow modem connections, inventing the fo…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.wired.com/story/plaintext-crypto-war-ukraine/">
-<span>Wired</span>
-<img src="https://media.wired.com/photos/623d0300fa4cae5fe89eb208/191:100/w_1280,c_limit/Ukraine-Crypto-Plaintext-Business-1237956497.jpg" align="center" alt="Wired"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Crypto Goes to War in Ukraine</h2>
-<p>Plus: Prophecies of digital cash, Russia’s virtual isolation, and bleak conditions for black tie.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/ukraine-launches-nft-museum-war-crypto-crowdfunding-push-2022-03-25/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/K0GrN2cdYzFwCLIrwZG4Jtylhss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KKNPCRPB4FINFOPCGATCUVDDDU.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Ukraine launches NFT 'Museum of War' in crypto crowdfunding push - Reuters</h2>
-<p>Ukraine started auctioning off a collection of non-fungible tokens (NFTs) on Friday in an expansion of a cryptocurrency fundraising push that Kyiv says has already collected more than $65 million for its war effort.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/business/sustainable-business/how-save-amazon-brazil-company-says-nfts-are-answer-2022-03-26/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/gR5-VgbTM88KlC4CckEEqQAyaCk=/877x459/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3IEBSHG7VPPPNLQDRZX646BSQ.jpg" align="center" alt="Reuters"/>
@@ -141,14 +108,47 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/tv-and-radio/2022/mar/25/moon-knight-to-slow-horses-the-seven-best-shows-to-stream-this-week">
+<a href="https://amp.theguardian.com/world/2022/mar/26/dubai-throws-open-the-doors-for-the-rich-russians-escaping-sanctions">
 <span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/b2badf59582415efc4270a6120e114b80ae7bb94/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=694d91cdc63debb018abd55fc82b1740" align="center" alt="The Guardian"/>
+<img src="https://i.guim.co.uk/img/media/7838bda6a6162c3a2e7ebc0a78fafa2a75628b42/0_187_5616_3370/master/5616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=9ba7629bae14380985a96ee58017cc57" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Moon Knight to Slow Horses: the seven best shows to stream this week</h2>
-<p>Oscar Isaac is Marvel’s trippiest superhero to date, while Gary Oldman and Kristin Scott Thomas star in a new spy thriller about a motley band of MI5 outcasts Continue reading...</p>
+<h2>Dubai throws open the doors for the rich Russians escaping sanctions</h2>
+<p>Roman Abramovich said to be among those looking for a luxury base in the UAE, which is unafraid to snub the westOn the tarmac of Dubai airport, half way along its main runway, a small terminal has been doing brisk business this month. Daily flights have disgo…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.entrepreneur.com/article/422986">
+<span>Entrepreneur</span>
+<img src="https://assets.entrepreneur.com/content/3x2/2000/1648074676-Ent-OCRoundup.jpeg" align="center" alt="Entrepreneur"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Score 10 Online Courses for an Extra 50 Percent Off</h2>
+<p>Learn something new from our Best of Digital Sale.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://readwrite.com/war-impacts-on-storing-assets-like-crypto-gold-and-more/">
+<span>ReadWrite</span>
+<img src="https://images.readwrite.com/wp-content/uploads/2022/03/War-Impact-on-Assets.jpg" align="center" alt="ReadWrite"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>War Impacts On Storing Assets Like Crypto, Gold and More</h2>
+<p>Whenever a War happens between two countries, there are consequences that the whole world needs to face. The recent conflict between Russia and Ukraine has caused the oil prices to go high, and people now might be worried about their assets like cryptocurrenc…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.androidpolice.com/malware-cryptocurrency-wallets-steal-from-ios-and-android-users/">
+<span>Android Police</span>
+<img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2019/10/2019-10-07-Samsung-Android-Security-01.png" align="center" alt="Android Police"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Malware disguised as cryptocurrency wallets used to steal from iOS and Android users</h2>
+<p>Are your tokens safe?</p>
 </td>
 </table>
 <!-- Crypto News -->
