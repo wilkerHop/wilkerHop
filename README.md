@@ -97,58 +97,58 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/sustainable-business/how-save-amazon-brazil-company-says-nfts-are-answer-2022-03-26/">
+<a href="https://www.wired.com/story/digital-cash-ecash-act/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/623e070e57d4f7aedf2dbfdd/191:100/w_1280,c_limit/Digital-Money-Ditch-the-Blockchain-Security.jpg" align="center" alt="Wired"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>The Future of Digital Cash Is Not on the Blockchain</h2>
+<p>If you want the privacy of paper money, you need something that leaves no paper trail.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/world/asia-pacific/japan-revise-foreign-exchange-law-end-crypto-loophole-sanctions-russia-2022-03-28/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/gR5-VgbTM88KlC4CckEEqQAyaCk=/877x459/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3IEBSHG7VPPPNLQDRZX646BSQ.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/jPU_jArlOrBwDXjwUtBLHoPCtJg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T7T7Z5NW4ZILLKI6IP56WTBTMA.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>How to save the Amazon? Brazil company says NFTs are the answer - Reuters.com</h2>
-<p>A Brazilian company that owns 410 square kilometers (158 square miles) of Amazon rainforest is offering a new way to fund conservation: selling non-fungible tokens (NFTs) that allow buyers to sponsor the preservation of specific areas of jungle.</p>
+<h2>Japan to revise foreign exchange law to end crypto loophole for sanctions on Russia - Reuters.com</h2>
+<p>Japan will revise its foreign exchange law to prevent Russia from evading Western financial sanctions following Moscow's invasion of Ukraine through cryptocurrency assets, top government officials said on Monday.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/world/2022/mar/26/dubai-throws-open-the-doors-for-the-rich-russians-escaping-sanctions">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/7838bda6a6162c3a2e7ebc0a78fafa2a75628b42/0_187_5616_3370/master/5616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=9ba7629bae14380985a96ee58017cc57" align="center" alt="The Guardian"/>
+<a href="https://www.reuters.com/world/europe/istanbul-dubai-russians-pile-into-property-shelter-sanctions-2022-03-28/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/myNM_SQeaF1cuRRUNxUPNc0bVuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BA3IL36PS5OD7HHO22THKRMTAE.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Dubai throws open the doors for the rich Russians escaping sanctions</h2>
-<p>Roman Abramovich said to be among those looking for a luxury base in the UAE, which is unafraid to snub the westOn the tarmac of Dubai airport, half way along its main runway, a small terminal has been doing brisk business this month. Daily flights have disgo…</p>
+<h2>In Istanbul and Dubai, Russians pile into property to shelter from sanctions - Reuters.com</h2>
+<p>Wealthy Russians are pouring money into real estate in Turkey and the United Arab Emirates, seeking a financial haven in the wake of Moscow's invasion of Ukraine and Western sanctions, according to many property companies.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.entrepreneur.com/article/422986">
+<a href="https://www.reuters.com/world/europe/turkey-faces-risks-acting-sanctions-safe-haven-russians-2022-03-28/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/k760iiiRKHJ95WvZZWxurXyA5-8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BSJL6I3AEVO4JPQN427Z5PJBU4.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Turkey faces risks acting as sanctions 'safe haven' for Russians - Reuters.com</h2>
+<p>Since Russia's invasion of Ukraine sparked a flurry of Western sanctions on Moscow, at least one oligarch and thousands of other Russians have arrived in Turkey, seen as a safe place to stay, invest and hold assets despite its NATO membership.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.entrepreneur.com/article/423178">
 <span>Entrepreneur</span>
-<img src="https://assets.entrepreneur.com/content/3x2/2000/1648074676-Ent-OCRoundup.jpeg" align="center" alt="Entrepreneur"/>
+<img src="https://assets.entrepreneur.com/content/3x2/2000/1648240391-Ent-LearnBasicsRoundup.jpeg" align="center" alt="Entrepreneur"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Score 10 Online Courses for an Extra 50 Percent Off</h2>
-<p>Learn something new from our Best of Digital Sale.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://readwrite.com/war-impacts-on-storing-assets-like-crypto-gold-and-more/">
-<span>ReadWrite</span>
-<img src="https://images.readwrite.com/wp-content/uploads/2022/03/War-Impact-on-Assets.jpg" align="center" alt="ReadWrite"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>War Impacts On Storing Assets Like Crypto, Gold and More</h2>
-<p>Whenever a War happens between two countries, there are consequences that the whole world needs to face. The recent conflict between Russia and Ukraine has caused the oil prices to go high, and people now might be worried about their assets like cryptocurrenc…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.androidpolice.com/malware-cryptocurrency-wallets-steal-from-ios-and-android-users/">
-<span>Android Police</span>
-<img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2019/10/2019-10-07-Samsung-Android-Security-01.png" align="center" alt="Android Police"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Malware disguised as cryptocurrency wallets used to steal from iOS and Android users</h2>
-<p>Are your tokens safe?</p>
+<h2>6 Side Hustles You Can Start Today</h2>
+<p>These Upskillist Courses can help you start a side hustle.</p>
 </td>
 </table>
 <!-- Crypto News -->
