@@ -97,6 +97,19 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/apex-legends-ps5-xbox-series-xs-120-fps-100503453.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/044b6360-af40-11ec-aafc-ad37e53ff4b2" align="center" alt="Engadget"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>'Apex Legends' will get dedicated PS5 and Xbox Series X/S updates today</h2>
+<p>The long-awaited current-gen versions of Apex Legends
+ are almost here. Respawn Entertainment will release native PS5 and Xbox Series X/S versions of the battle royale when the Warriors Collection event
+ goes live today.All three consoles will support 4K ou…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.wired.com/story/digital-cash-ecash-act/">
 <span>Wired</span>
 <img src="https://media.wired.com/photos/623e070e57d4f7aedf2dbfdd/191:100/w_1280,c_limit/Digital-Money-Ditch-the-Blockchain-Security.jpg" align="center" alt="Wired"/>
@@ -108,47 +121,36 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/asia-pacific/japan-revise-foreign-exchange-law-end-crypto-loophole-sanctions-russia-2022-03-28/">
+<a href="https://www.reuters.com/technology/blockchain-company-ronin-hit-by-615-million-crypto-heist-2022-03-29/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/jPU_jArlOrBwDXjwUtBLHoPCtJg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T7T7Z5NW4ZILLKI6IP56WTBTMA.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=80" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Japan to revise foreign exchange law to end crypto loophole for sanctions on Russia - Reuters.com</h2>
-<p>Japan will revise its foreign exchange law to prevent Russia from evading Western financial sanctions following Moscow's invasion of Ukraine through cryptocurrency assets, top government officials said on Monday.</p>
+<h2>Blockchain company Ronin hit by $615 million crypto heist - Reuters</h2>
+<p>Blockchain company Ronin said on Tuesday that hackers stole cryptocurrency worth almost $615 million from its systems, in what would be one of the largest cryptocurrency heists on record.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/europe/istanbul-dubai-russians-pile-into-property-shelter-sanctions-2022-03-28/">
+<a href="https://www.reuters.com/technology/cryptoverse-buoyant-bitcoin-helps-market-cruise-past-2-trillion-2022-03-29/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/myNM_SQeaF1cuRRUNxUPNc0bVuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BA3IL36PS5OD7HHO22THKRMTAE.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/hQUFyg89hsElzlhGfkPIvaoHxbY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IB36Y4ZKDRLJNA3LRDQAHS7UGM.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>In Istanbul and Dubai, Russians pile into property to shelter from sanctions - Reuters.com</h2>
-<p>Wealthy Russians are pouring money into real estate in Turkey and the United Arab Emirates, seeking a financial haven in the wake of Moscow's invasion of Ukraine and Western sanctions, according to many property companies.</p>
+<h2>Cryptoverse: Buoyant bitcoin helps market cruise past $2 trillion - Reuters</h2>
+<p>As a bleak first quarter draws to a close, crypto seems to have the wind in its sails. It has pushed through the $2 trillion barrier and is proving surprisingly resilient amid global chaos.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/europe/turkey-faces-risks-acting-sanctions-safe-haven-russians-2022-03-28/">
+<a href="https://www.reuters.com/business/finance/messi-signs-20-million-deal-promote-crypto-fan-token-firm-socios-2022-03-29/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/k760iiiRKHJ95WvZZWxurXyA5-8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BSJL6I3AEVO4JPQN427Z5PJBU4.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/Dl3_Nt44fMmuwvZ88oZxja20Xg4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IQSKKJDPP5JBVETSYYZUEGVDTY.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Turkey faces risks acting as sanctions 'safe haven' for Russians - Reuters.com</h2>
-<p>Since Russia's invasion of Ukraine sparked a flurry of Western sanctions on Moscow, at least one oligarch and thousands of other Russians have arrived in Turkey, seen as a safe place to stay, invest and hold assets despite its NATO membership.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.entrepreneur.com/article/423178">
-<span>Entrepreneur</span>
-<img src="https://assets.entrepreneur.com/content/3x2/2000/1648240391-Ent-LearnBasicsRoundup.jpeg" align="center" alt="Entrepreneur"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>6 Side Hustles You Can Start Today</h2>
-<p>These Upskillist Courses can help you start a side hustle.</p>
+<h2>Messi signs $20 million deal to promote crypto fan token firm Socios - Reuters.com</h2>
+<p>Lionel Messi has signed an agreement worth more than $20 million to promote digital fan token company Socios.com, a source close to the deal told Reuters on Tuesday.</p>
 </td>
 </table>
 <!-- Crypto News -->
