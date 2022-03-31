@@ -97,30 +97,6 @@
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/axie-infnity-ronin-network-crypto-theft-194014547.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/6875e130-af90-11ec-ae65-a8e40222540c" align="center" alt="Engadget"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Hackers swipe nearly $600 million from a 'play to earn' crypto game</h2>
-<p>Digital thieves just pulled off another major crypto heist. Motherboard has learned hackers stole 173,600 Ethereum (about $591.2 million) from the Ronin blockchain that powers Axie Infinity, a popular "play to earn" game where players can receive crypto in ex…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/apex-legends-ps5-xbox-series-xs-120-fps-100503453.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-03/044b6360-af40-11ec-aafc-ad37e53ff4b2" align="center" alt="Engadget"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>'Apex Legends' will get dedicated PS5 and Xbox Series X/S updates today</h2>
-<p>The long-awaited current-gen versions of Apex Legends
- are almost here. Respawn Entertainment will release native PS5 and Xbox Series X/S versions of the battle royale when the Warriors Collection event
- goes live today.All three consoles will support 4K ou…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/technology/ronins-615-million-crypto-heist-2022-03-30/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/wi5YBLbMmVbe6N_0tS8zPRU6cvg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VLMVBBYF3JP4BEXCUZEOGSBQKQ.jpg" align="center" alt="Reuters"/>
@@ -143,14 +119,36 @@
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/blockchain-company-ronin-hit-by-615-million-crypto-heist-2022-03-29/">
+<a href="https://www.reuters.com/technology/binance-steps-up-hiring-activity-crypto-hub-dubai-2022-03-31/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=80" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/_nH5xu_HdlarTAZ6D1Q7RKR-qa4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GOELKB3NABJRPCOU7VZOBDAFBI.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Blockchain company Ronin hit by $615 million crypto heist - Reuters</h2>
-<p>Blockchain company Ronin said on Tuesday that hackers stole cryptocurrency worth almost $615 million from its systems, in what would be one of the largest cryptocurrency heists on record.</p>
+<h2>Binance steps up hiring, activity in crypto hub Dubai - Reuters.com</h2>
+<p>Binance, the largest crypto exchange by trading volume, is recruiting over 100 positions in the United Arab Emirates (UAE) and is helping to shape Dubai's new virtual assets' regulations, its regional head said.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/world/europe/eu-lawmakers-set-tighten-up-crypto-transfers-2022-03-31/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/hQUFyg89hsElzlhGfkPIvaoHxbY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IB36Y4ZKDRLJNA3LRDQAHS7UGM.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>EU lawmakers set to tighten up on crypto transfers - Reuters.com</h2>
+<p>European Union lawmakers were set on Thursday to back tougher safeguards for transfers of bitcoin and other cryptocurrencies, in the latest sign that regulators are tightening up on the freewheeling sector.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/business/finance/us-sec-says-crypto-safekeeping-arrangements-should-be-treated-liability-2022-03-31/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/aZbDTblfA7PvYaZb68U0gy-DZRk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CVNYPY5GUFPSXFBBXXBK6YLC4U.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>U.S. SEC says crypto safekeeping arrangements should be treated as liability - Reuters.com</h2>
+<p>U.S. listed companies that hold cryptocurrencies on behalf of users and customers should account for those assets as a liability on their balance sheet and disclose the related risks to investors, the securities regulator said on Thursday.</p>
 </td>
 </table>
 <!-- Crypto News -->
