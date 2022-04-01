@@ -82,6 +82,16 @@
 _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 
 <!-- Wakatime Stats -->
+
+### Languages
+1. 🥇 **TypeScript** with **9 hrs 5 mins** of pleasure.
+2. 🥈 **SQL** with **2 hrs 9 mins** of work.
+3. 🥉 **JSON** with **2 hrs 1 min** of playing.
+4. 🏅 **YAML** with **1 hr 9 mins** of extreme thinking.
+5. 🎖️ **Bash** with **45 mins** of worrying bugs would appear.
+
+And more **2 hrs 23 mins** of 😁🖱💻🔌 (diverse file extensions).
+
 <!-- Wakatime Stats -->
 
 ## Contribution Graph
