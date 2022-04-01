@@ -77,6 +77,13 @@
 
 <br/>
 
+## My Coding this week
+
+_Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
+
+<!-- Wakatime Stats -->
+<!-- Wakatime Stats -->
+
 ## Contribution Graph
 
 <img src="https://raw.githubusercontent.com/wilkerHop/wilkerHop/output/github-snake.svg" align="center" />

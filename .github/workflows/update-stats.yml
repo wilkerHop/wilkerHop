@@ -1,0 +1,36 @@
+name: update stats
+
+on:
+  schedule:
+    - cron: '0 */1 * * *'
+  push: { paths: ['scripts/wakatime.js'] }
+  workflow_dispatch:
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v2.5.1
+        with:
+          node-version: 16.x
+
+      - name: Install axios
+        run: npm i axios qs mongodb
+
+      - name: Fetch Wakatime stats
+        run: node scripts/wakatime.js
+        env:
+          MONGODB_URI: '${{secrets.MONGODB_URI}}'
+          WAKATIME_CLIENT_ID: '${{secrets.WAKATIME_CLIENT_ID}}'
+          WAKATIME_CLIENT_SECRET: '${{secrets.WAKATIME_CLIENT_SECRET}}'
+          WAKATIME_REDIRECT_URI: '${{secrets.WAKATIME_REDIRECT_URI}}'
+
+      - name: Update News
+        uses: EndBug/add-and-commit@latest
+        with:
+          message: 'docs: update news'
+          add: 'README.md'
+          default_author: github_actions
