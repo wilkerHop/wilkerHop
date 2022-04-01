@@ -83,7 +83,7 @@ _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 
 <!-- Wakatime Stats -->
 
-### Languages
+### Top Languages
 1. 🥇 **TypeScript** with **9 hrs 5 mins** of pleasure.
 2. 🥈 **SQL** with **2 hrs 9 mins** of work.
 3. 🥉 **JSON** with **2 hrs 1 min** of playing.
