@@ -11,6 +11,8 @@ const createLanguageStatsWithOther = (languages) => {
     a.name === 'Other' ? -1 : 1
   );
 
+  // TODO: sum the other with the remaining languages
+  // TODO: randomize the order of the languages end texts
   return `
 1. 🥇 **${first.name}** with **${first.text}** of pleasure.
 2. 🥈 **${second.name}** with **${second.text}** of work.
@@ -75,7 +77,7 @@ const app = async () => {
   const readme = fs.readFileSync('README.md', 'utf8');
   const [head, , tail] = readme.split('<!-- Wakatime Stats -->');
 
-  const languages = `\n\n### Languages${l}\n\n`;
+  const languages = `\n\n### Top Languages${l}\n\n`;
 
   const newReadme = [head, languages, tail].join('<!-- Wakatime Stats -->');
 
