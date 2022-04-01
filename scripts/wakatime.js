@@ -77,7 +77,7 @@ const app = async () => {
   const readme = fs.readFileSync('README.md', 'utf8');
   const [head, , tail] = readme.split('<!-- Wakatime Stats -->');
 
-  const languages = `\n\n### Top Languages${l}\n\n`;
+  const languages = `\n\n### Top Languages\n\n_Powered by [Wakatime](https://wakatime.com/@wilkerHop)_\n${l}\n\n`;
 
   const newReadme = [head, languages, tail].join('<!-- Wakatime Stats -->');
 
