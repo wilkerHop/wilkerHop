@@ -1,0 +1,23 @@
+{
+  "name": "wilkerhop",
+  "version": "1.0.0",
+  "description": "Wilker Ribeiro's personal scripts for README.md",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilkerHop/wilkerHop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilkerHop/wilkerHop/issues"
+  },
+  "homepage": "https://github.com/wilkerHop/wilkerHop#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "mongodb": "^4.4.1",
+    "qs": "^6.10.3"
+  }
+}

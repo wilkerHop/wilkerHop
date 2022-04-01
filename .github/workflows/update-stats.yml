@@ -11,14 +11,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - uses: actions/setup-node@v2.5.1
         with:
           node-version: 16.x
 
       - name: Install axios
-        run: npm i axios qs mongodb
+        run: npm ci
 
       - name: Fetch Wakatime stats
         run: node scripts/wakatime.js
