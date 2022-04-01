@@ -5,9 +5,6 @@ on:
     - cron: '0 18 * * *'
   workflow_dispatch:
 
-env:
-  URL: '${{secrets.URL}}'
-
 jobs:
   update-news:
     runs-on: ubuntu-latest
@@ -24,9 +21,12 @@ jobs:
 
       - name: Fetch news
         run: node scripts/news.js
+        env:
+          URL: '${{secrets.URL}}'
 
       - name: Update News
         uses: EndBug/add-and-commit@latest
         with:
           message: 'docs: update news'
           add: 'README.md'
+          default_author: github_actions
