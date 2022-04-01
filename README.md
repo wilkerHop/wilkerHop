@@ -115,36 +115,14 @@ And more **2 hrs 23 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/ronins-615-million-crypto-heist-2022-03-30/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/wi5YBLbMmVbe6N_0tS8zPRU6cvg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VLMVBBYF3JP4BEXCUZEOGSBQKQ.jpg" align="center" alt="Reuters"/>
+<a href="https://arstechnica.com/gaming/2022/04/game-dev-group-says-addressing-nft-gamings-ethical-issues-is-a-priority/">
+<span>Ars Technica</span>
+<img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/axie2-760x380.png" align="center" alt="Ars Technica"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Explainer: Ronin's $615 million crypto heist - Reuters.com</h2>
-<p>Hackers have stolen cryptocurrency worth almost $615 million from a blockchain project linked to popular online game Axie Infinity, the latest cyberheist to hit the digital asset sector.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/few-crypto-firms-get-reprieve-britains-financial-watchdog-2022-03-30/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/rEotzMmWawizhDYFcAKlVUEvHJw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EK2JS6RPSZLXJKPJQRVK6PB5IM.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Few crypto firms get reprieve from Britain's financial watchdog - Reuters.com</h2>
-<p>Britain's financial watchdog said on Wednesday it has extended temporary licences for only a "small number" of cryptocurrency firms ahead of an April 1 cut-off date to prove sufficient money laundering controls.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/binance-steps-up-hiring-activity-crypto-hub-dubai-2022-03-31/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/_nH5xu_HdlarTAZ6D1Q7RKR-qa4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GOELKB3NABJRPCOU7VZOBDAFBI.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Binance steps up hiring, activity in crypto hub Dubai - Reuters.com</h2>
-<p>Binance, the largest crypto exchange by trading volume, is recruiting over 100 positions in the United Arab Emirates (UAE) and is helping to shape Dubai's new virtual assets' regulations, its regional head said.</p>
+<h2>Game dev group says addressing NFT gaming’s “ethical issues” is a “priority”</h2>
+<p>IGDA director tells Ars the space is a "socio-political explosion waiting to happen."</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -156,6 +134,28 @@ And more **2 hrs 23 mins** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>EU lawmakers set to tighten up on crypto transfers - Reuters.com</h2>
 <p>European Union lawmakers were set on Thursday to back tougher safeguards for transfers of bitcoin and other cryptocurrencies, in the latest sign that regulators are tightening up on the freewheeling sector.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/world/europe/eu-lawmakers-back-new-tracing-rule-crypto-transfers-2022-03-31/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=82" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>EU lawmakers back new tracing rule for crypto transfers - Reuters.com</h2>
+<p>European Union lawmakers backednew safeguards for tracing transfers of bitcoin and other cryptocurrencies on Thursday, in the latest sign that regulators are tightening up on the freewheeling sector.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/technology/binance-steps-up-hiring-activity-crypto-hub-dubai-2022-03-31/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/_nH5xu_HdlarTAZ6D1Q7RKR-qa4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GOELKB3NABJRPCOU7VZOBDAFBI.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Binance steps up hiring, activity in crypto hub Dubai - Reuters.com</h2>
+<p>Binance, the largest crypto exchange by trading volume, is recruiting over 100 positions in the United Arab Emirates (UAE) and is helping to shape Dubai's new virtual assets' regulations, its regional head said.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
