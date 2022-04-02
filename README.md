@@ -126,47 +126,47 @@ And more **2 hrs 42 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/europe/eu-lawmakers-set-tighten-up-crypto-transfers-2022-03-31/">
+<a href="https://www.reuters.com/business/finance/indonesia-impose-vat-income-tax-crypto-assets-may-2022-04-01/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/hQUFyg89hsElzlhGfkPIvaoHxbY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IB36Y4ZKDRLJNA3LRDQAHS7UGM.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/jbjBvSgRKTPKtg34PDSlfhKDIac=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WO2P2B5BZFO4ND3OBHVB2KUT3U.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>EU lawmakers set to tighten up on crypto transfers - Reuters.com</h2>
-<p>European Union lawmakers were set on Thursday to back tougher safeguards for transfers of bitcoin and other cryptocurrencies, in the latest sign that regulators are tightening up on the freewheeling sector.</p>
+<h2>Indonesia to impose VAT, income tax on crypto assets from May - Reuters</h2>
+<p>Indonesia plans to charge value-added tax (VAT) on crypto asset transactions and an income tax on capital gains from such investments at 0.1% each, starting from May 1, a tax official said on Friday, amid a boom in digital asset trading.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/europe/eu-lawmakers-back-new-tracing-rule-crypto-transfers-2022-03-31/">
+<a href="https://www.reuters.com/business/finance/bitcoin-miner-primeblock-go-public-via-125-bln-spac-deal-2022-04-01/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=82" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/o5iqudncXsCLcT6hQVOQmg2FMVM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IUEV4W5TM5PNZDHVWCSO33GK6Q.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>EU lawmakers back new tracing rule for crypto transfers - Reuters.com</h2>
-<p>European Union lawmakers backednew safeguards for tracing transfers of bitcoin and other cryptocurrencies on Thursday, in the latest sign that regulators are tightening up on the freewheeling sector.</p>
+<h2>Bitcoin miner PrimeBlock to go public via $1.25 bln SPAC deal - Reuters</h2>
+<p>Prime Blockchain Inc, a bitcoin mining and infrastructure startup, on Friday agreed to go public in the United States by merging with a blank-check firm in a deal that would value the combined company at $1.25 billion including debt.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/binance-steps-up-hiring-activity-crypto-hub-dubai-2022-03-31/">
+<a href="https://www.reuters.com/business/taiwan-puppeteers-look-nfts-keep-their-art-alive-2022-04-01/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/_nH5xu_HdlarTAZ6D1Q7RKR-qa4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GOELKB3NABJRPCOU7VZOBDAFBI.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/MIVP0AN-T06gnJ8jCZZ8DdV7BMg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU35BDCB7FPEHANXENMTX2QMJY.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Binance steps up hiring, activity in crypto hub Dubai - Reuters.com</h2>
-<p>Binance, the largest crypto exchange by trading volume, is recruiting over 100 positions in the United Arab Emirates (UAE) and is helping to shape Dubai's new virtual assets' regulations, its regional head said.</p>
+<h2>Taiwan puppeteers look to NFTs to keep their art alive - Reuters.com</h2>
+<p>A group of Taiwanese puppeteers are looking to use non-fungible tokens, or NFTs, to help bring their traditional art form into the modern era and keep it relevant for a new audience.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/us-sec-says-crypto-safekeeping-arrangements-should-be-treated-liability-2022-03-31/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/aZbDTblfA7PvYaZb68U0gy-DZRk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CVNYPY5GUFPSXFBBXXBK6YLC4U.jpg" align="center" alt="Reuters"/>
+<a href="https://slashdot.org/story/22/03/31/2321218/father-son-team-helps-people-brute-force-their-lost-bitcoin-wallets">
+<span>Slashdot.org</span>
+<img src="https://a.fsdn.com/sd/topics/bitcoin_64.png" align="center" alt="Slashdot.org"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>U.S. SEC says crypto safekeeping arrangements should be treated as liability - Reuters.com</h2>
-<p>U.S. listed companies that hold cryptocurrencies on behalf of users and customers should account for those assets as a liability on their balance sheet and disclose the related risks to investors, the securities regulator said on Thursday.</p>
+<h2>Father-Son Team Helps People Brute-Force Their Lost Bitcoin Wallets</h2>
+<p>Hundreds of people have lost access to their cryptocurrency, and recovering those lost Bitcoins has become a lucrative business. "Motherboard talks to some of the people trying to get back their crypto, and the people who are making that happen in the newest …</p>
 </td>
 </table>
 <!-- Crypto News -->
