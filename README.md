@@ -115,58 +115,59 @@ And more **2 hrs 42 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://arstechnica.com/gaming/2022/04/game-dev-group-says-addressing-nft-gamings-ethical-issues-is-a-priority/">
-<span>Ars Technica</span>
-<img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/axie2-760x380.png" align="center" alt="Ars Technica"/>
+<a href="https://www.wired.com/story/nfts-cryptocurrency-law-copyright/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/62477ba4a8eca935d76e6f8a/191:100/w_1280,c_limit/The%20Future%20of%20NFTs%20Lies%20With%20the%20Courts%20(0;00;00;02).jpg" align="center" alt="Wired"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Game dev group says addressing NFT gaming’s “ethical issues” is a “priority”</h2>
-<p>IGDA director tells Ars the space is a "socio-political explosion waiting to happen."</p>
+<h2>The Future of NFTs Lies With the Courts</h2>
+<p>As the first cases involving NFTs hit the dockets, courts will decide questions around ownership, art, and commerce.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/indonesia-impose-vat-income-tax-crypto-assets-may-2022-04-01/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/jbjBvSgRKTPKtg34PDSlfhKDIac=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WO2P2B5BZFO4ND3OBHVB2KUT3U.jpg" align="center" alt="Reuters"/>
+<a href="https://venturebeat.com/2022/04/02/daos-could-revolutionize-how-startups-are-run/">
+<span>VentureBeat</span>
+<img src="https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323419199.jpg?w=1200&strip=all" align="center" alt="VentureBeat"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Indonesia to impose VAT, income tax on crypto assets from May - Reuters</h2>
-<p>Indonesia plans to charge value-added tax (VAT) on crypto asset transactions and an income tax on capital gains from such investments at 0.1% each, starting from May 1, a tax official said on Friday, amid a boom in digital asset trading.</p>
+<h2>DAOs could revolutionize how startups are run</h2>
+<p>Unlike traditional companies, DAOs give almost anyone the chance to contribute to a shared project and have a say in the project's direction.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/bitcoin-miner-primeblock-go-public-via-125-bln-spac-deal-2022-04-01/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/o5iqudncXsCLcT6hQVOQmg2FMVM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IUEV4W5TM5PNZDHVWCSO33GK6Q.jpg" align="center" alt="Reuters"/>
+<a href="https://venturebeat.com/2022/04/03/evan-cheng-interview-how-mysten-labs-hopes-to-bring-scale-to-blockchain-games/">
+<span>VentureBeat</span>
+<img src="https://venturebeat.com/wp-content/uploads/2022/04/evan-cheng.jpg?w=1200&strip=all" align="center" alt="VentureBeat"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Bitcoin miner PrimeBlock to go public via $1.25 bln SPAC deal - Reuters</h2>
-<p>Prime Blockchain Inc, a bitcoin mining and infrastructure startup, on Friday agreed to go public in the United States by merging with a blank-check firm in a deal that would value the combined company at $1.25 billion including debt.</p>
+<h2>Evan Cheng interview: How Mysten Labs hopes to bring scale to blockchain games</h2>
+<p>Evan Cheng, CEO of blockchain tech company Mysten Labs, says the best way to convince people about blockchain games is to show them.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/taiwan-puppeteers-look-nfts-keep-their-art-alive-2022-04-01/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/MIVP0AN-T06gnJ8jCZZ8DdV7BMg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU35BDCB7FPEHANXENMTX2QMJY.jpg" align="center" alt="Reuters"/>
+<a href="https://thenextweb.com/news/why-bitcoin-miners-wont-go-for-climate-friendly-alternative">
+<span>The Next Web</span>
+<img src="https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fmining-1.jpg&signature=f93c09beff2b0f64f8c70aa1a9bd0fec" align="center" alt="The Next Web"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Taiwan puppeteers look to NFTs to keep their art alive - Reuters.com</h2>
-<p>A group of Taiwanese puppeteers are looking to use non-fungible tokens, or NFTs, to help bring their traditional art form into the modern era and keep it relevant for a new audience.</p>
+<h2>Here’s why bitcoin miners won’t go for a more climate-friendly alternative</h2>
+<p>Fewer and fewer people are using bitcoin for digital payments. Nevertheless, bitcoin transactions are consuming more energy than ever before – the same amount as the whole of Thailand. With a carbon footprint equivalent to the Czech Republic’s (around 114 mil…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://slashdot.org/story/22/03/31/2321218/father-son-team-helps-people-brute-force-their-lost-bitcoin-wallets">
-<span>Slashdot.org</span>
-<img src="https://a.fsdn.com/sd/topics/bitcoin_64.png" align="center" alt="Slashdot.org"/>
+<a href="https://www.fastcompany.com/90736959/behind-the-crypto-hype-is-an-ideology-of-social-change">
+<span>Fast Company</span>
+<img src="https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/p-1-behind-the-crypto-hype-is-an-ideology-of-social-change.jpg" align="center" alt="Fast Company"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Father-Son Team Helps People Brute-Force Their Lost Bitcoin Wallets</h2>
-<p>Hundreds of people have lost access to their cryptocurrency, and recovering those lost Bitcoins has become a lucrative business. "Motherboard talks to some of the people trying to get back their crypto, and the people who are making that happen in the newest …</p>
+<h2>Behind the crypto hype is an ideology of social change</h2>
+<p>To enthusiasts, using crypto is a way to change the world and take power away from governments.
+Ads for blockchain, NFTs and cryptocurrencies like Bitcoin seem to be everywhere. Crypto technologies are being promoted as a replacement for banks; a new way to b…</p>
 </td>
 </table>
 <!-- Crypto News -->
