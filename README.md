@@ -126,48 +126,47 @@ And more **3 hrs 8 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://venturebeat.com/2022/04/02/daos-could-revolutionize-how-startups-are-run/">
-<span>VentureBeat</span>
-<img src="https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323419199.jpg?w=1200&strip=all" align="center" alt="VentureBeat"/>
+<a href="https://www.cnn.com/2022/04/04/investing/premarket-stocks-trading/index.html">
+<span>CNN</span>
+<img src="https://cdn.cnn.com/cnnnext/dam/assets/220404080046-starbucks-california-061020-file-restricted-super-tease.jpg" align="center" alt="CNN"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>DAOs could revolutionize how startups are run</h2>
-<p>Unlike traditional companies, DAOs give almost anyone the chance to contribute to a shared project and have a say in the project's direction.</p>
+<h2>Why Starbucks stopped rewarding its stockholders</h2>
+<p>Just three weeks ago, Starbucks announced that it had big plans to lavish its shareholders with new rewards. The company said it was reinstating its stock buyback program, touting a $20 billion commitment over the next three years.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://venturebeat.com/2022/04/03/evan-cheng-interview-how-mysten-labs-hopes-to-bring-scale-to-blockchain-games/">
-<span>VentureBeat</span>
-<img src="https://venturebeat.com/wp-content/uploads/2022/04/evan-cheng.jpg?w=1200&strip=all" align="center" alt="VentureBeat"/>
+<a href="https://www.reuters.com/technology/nearly-half-crypto-owners-first-bought-digital-assets-2021-survey-2022-04-04/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/Kmi9eY_1PNgAPHY0v64HeWwG-3k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GSBCIJVWRFKT7MCZRPZKRKZXTU.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Evan Cheng interview: How Mysten Labs hopes to bring scale to blockchain games</h2>
-<p>Evan Cheng, CEO of blockchain tech company Mysten Labs, says the best way to convince people about blockchain games is to show them.</p>
+<h2>Nearly half of crypto owners first bought digital assets in 2021 -survey - Reuters.com</h2>
+<p>Almost half of all cryptocurrency owners in the United States, Latin America and Asia Pacific purchased the digital assets for the first time in 2021, according to a new survey from U.S. cryptocurrency exchange Gemini.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://thenextweb.com/news/why-bitcoin-miners-wont-go-for-climate-friendly-alternative">
-<span>The Next Web</span>
-<img src="https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fmining-1.jpg&signature=f93c09beff2b0f64f8c70aa1a9bd0fec" align="center" alt="The Next Web"/>
+<a href="https://www.reuters.com/business/finance/uk-says-it-will-regulate-stable-coin-payments-2022-04-04/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/RicOCu1pHdRgqy5BQWt0jIlwoKM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IAPD72PCWFJYPLIQDQM25UYNR4.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Here’s why bitcoin miners won’t go for a more climate-friendly alternative</h2>
-<p>Fewer and fewer people are using bitcoin for digital payments. Nevertheless, bitcoin transactions are consuming more energy than ever before – the same amount as the whole of Thailand. With a carbon footprint equivalent to the Czech Republic’s (around 114 mil…</p>
+<h2>UK says it will regulate stable-coin payments - Reuters.com</h2>
+<p>Britain's finance ministry said on Monday it intended to legislate to regulate some stablecoins when they are used as a means of payment.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.fastcompany.com/90736959/behind-the-crypto-hype-is-an-ideology-of-social-change">
-<span>Fast Company</span>
-<img src="https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/p-1-behind-the-crypto-hype-is-an-ideology-of-social-change.jpg" align="center" alt="Fast Company"/>
+<a href="https://amp.theguardian.com/business/nils-pratley-on-finance/2022/apr/04/elon-musks-29bn-stake-in-twitter-comes-with-few-upsides">
+<span>The Guardian</span>
+<img src="https://i.guim.co.uk/img/media/d825f2fe4baac8fb15f6c9272d144bcc9b60a0dd/0_98_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=94c3898c1ef84bf191e52a9cce33aaaf" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Behind the crypto hype is an ideology of social change</h2>
-<p>To enthusiasts, using crypto is a way to change the world and take power away from governments.
-Ads for blockchain, NFTs and cryptocurrencies like Bitcoin seem to be everywhere. Crypto technologies are being promoted as a replacement for banks; a new way to b…</p>
+<h2>Elon Musk’s $2.9bn Twitter stake comes with few upsides | nils pratley</h2>
+<p>The Tesla boss could lose focus on the electric car revolution if he gets sucked into disputes over social media and free speechThe hearts of Tesla shareholders must sink every time Elon Musk takes on another pet project. At least this one is with his own mon…</p>
 </td>
 </table>
 <!-- Crypto News -->
