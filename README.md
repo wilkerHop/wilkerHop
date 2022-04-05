@@ -115,14 +115,36 @@ And more **1 hr 37 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.wired.com/story/nfts-cryptocurrency-law-copyright/">
-<span>Wired</span>
-<img src="https://media.wired.com/photos/62477ba4a8eca935d76e6f8a/191:100/w_1280,c_limit/The%20Future%20of%20NFTs%20Lies%20With%20the%20Courts%20(0;00;00;02).jpg" align="center" alt="Wired"/>
+<a href="https://lifehacker.com/these-windows-apps-are-outdated-risky-or-scammy-1848707239">
+<span>Lifehacker.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/eabb254cb2c8d17e8ec7375aaf9ef580.jpg" align="center" alt="Lifehacker.com"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>The Future of NFTs Lies With the Courts</h2>
-<p>As the first cases involving NFTs hit the dockets, courts will decide questions around ownership, art, and commerce.</p>
+<h2>These Windows Apps Are Outdated, Risky, or Scammy</h2>
+<p>Every computer develops some cruft over time: the small app you installed years ago and forgot about, or a cleaning utility you downloaded when you wanted to free up some space, but is still running in the background. Plus, Windows comes with its own bloatwar…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.wired.com/story/twitter-crypto-strategy/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/624b7db8c736857145d140ef/191:100/w_1280,c_limit/twitter-crypto-1192300351.jpg" align="center" alt="Wired"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>What Twitter Is Really Planning for Crypto</h2>
+<p>The duo behind Twitter Crypto say NFT profile pics and crypto tipping are just the beginning.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.wired.com/story/blockchain-copyright-portrait-piracy/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/624b7a7d7942145182a3e93d/191:100/w_1280,c_limit/ideas-portraits-nft.jpg" align="center" alt="Wired"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>In the World of NFTs, Who's Making Money Off Your Image?</h2>
+<p>Celebrities struggle with ownership of their image. It's time to prevent “portrait piracy" before the rest of us need to worry too.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -145,28 +167,6 @@ And more **1 hr 37 mins** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>Nearly half of crypto owners first bought digital assets in 2021 -survey - Reuters.com</h2>
 <p>Almost half of all cryptocurrency owners in the United States, Latin America and Asia Pacific purchased the digital assets for the first time in 2021, according to a new survey from U.S. cryptocurrency exchange Gemini.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/uk-says-it-will-regulate-stable-coin-payments-2022-04-04/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/RicOCu1pHdRgqy5BQWt0jIlwoKM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IAPD72PCWFJYPLIQDQM25UYNR4.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>UK says it will regulate stable-coin payments - Reuters.com</h2>
-<p>Britain's finance ministry said on Monday it intended to legislate to regulate some stablecoins when they are used as a means of payment.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/business/nils-pratley-on-finance/2022/apr/04/elon-musks-29bn-stake-in-twitter-comes-with-few-upsides">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/d825f2fe4baac8fb15f6c9272d144bcc9b60a0dd/0_98_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=94c3898c1ef84bf191e52a9cce33aaaf" align="center" alt="The Guardian"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Elon Musk’s $2.9bn Twitter stake comes with few upsides | nils pratley</h2>
-<p>The Tesla boss could lose focus on the electric car revolution if he gets sucked into disputes over social media and free speechThe hearts of Tesla shareholders must sink every time Elon Musk takes on another pet project. At least this one is with his own mon…</p>
 </td>
 </table>
 <!-- Crypto News -->
