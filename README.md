@@ -115,28 +115,6 @@ And more **2 hrs 42 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.wired.com/story/spreadsheets-are-hot-and-cranking-out-complex-code/">
-<span>Wired</span>
-<img src="https://media.wired.com/photos/624cca5eb340f55b37084fd5/191:100/w_1280,c_limit/ideas-sexy-spreadsheets.jpg" align="center" alt="Wired"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Spreadsheets Are Hot—and Cranking Out Complex Code</h2>
-<p>The venerable (and yes, super dull) piece of officeware is getting reinvented as a tool for non-coders to automate and simplify their lives.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.theverge.com/2022/4/6/23013420/jack-dorsey-block-hardware-crypto-wallet-bitcoin-rock-preview">
-<span>The Verge</span>
-<img src="https://cdn.vox-cdn.com/thumbor/I1VjqJu8AxIA9X9dFd7iiIQlvt8=/0x70:3602x1956/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23371526/FPqv_e0VIAAF2nH.jpeg" align="center" alt="The Verge"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>This might be Jack Dorsey’s ‘rockey’ hardware crypto wallet</h2>
-<p>The hardware lead for Block, formerly Square, has shared images of what appears to be the company’s upcoming crypto wallet. It’s a bit geometric and looks like a rock.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/business/finance/yellen-says-us-crypto-rules-should-support-innovation-manage-risks-2022-04-07/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/sBWUvemJW0ryqtlCm2qpRiwhcus=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XW2TXYEQFZNPVKYUBO65KACFFU.jpg" align="center" alt="Reuters"/>
@@ -148,25 +126,47 @@ And more **2 hrs 42 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/crypto-exchange-binance-among-investors-bail-out-victims-615-mln-heist-2022-04-06/">
+<a href="https://www.reuters.com/business/us-fdic-asks-banks-info-crypto-activities-cites-potential-systemic-risks-2022-04-07/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/vXwV58Mbr9k7YjA-Q3W5OaRzjhw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GE4PWSGPXBOCNANOY7KXM76X2Q.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/vSViJTxePYiHDcSfFtxu3Il6ncg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/52YE7NANKJJUTBH6LKPFLPS5YQ.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Crypto exchange Binance among investors to bail out victims of $615 mln heist - Reuters.com</h2>
-<p>Crypto exchange Binance is leading investors' contribution to a bailout of victims of a $615 million digital coin theft, the company targeted in the heist said on Wednesday.</p>
+<h2>U.S. FDIC asks banks for info on crypto activities, cites potential 'systemic risks' - Reuters</h2>
+<p>The U.S. Federal Deposit Insurance Corporation (FDIC) on Thursday said the thousands of banks it supervises should notify the regulator of any crypto-related activities they have or are planning.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/article/binance-funding-idUSKCN2LY1AQ">
+<a href="https://www.reuters.com/business/finance/eu-targets-crypto-wallets-latest-round-russia-sanctions-2022-04-08/">
 <span>Reuters</span>
-<img src="https://static.reuters.com/resources/r/?m=02&d=20220406&t=2&i=1596544164&r=LYNXNPEI350NS&w=800" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/_cqaKvwDapNL9i7qM2CrWAYXiLA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T5DKRYL5LJILZMKXPGDRMVNEL4.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Binance's U.S. unit valued at $4.5 billion in seed funding round - Reuters.com</h2>
-<p>Crypto exchange Binance's U.S. unit said on Wednesday it had raised over $200 million in a seed funding round, at a pre-money valuation of $4.5 billion.</p>
+<h2>EU targets crypto wallets in latest round of Russia sanctions - Reuters</h2>
+<p>The European Union on Friday targeted crypto wallets, banks, currencies and trusts in its fifth package of sanctions on Russia in a bid to close potential loopholes which could allow Russians to move money abroad.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/technology/crypto-gaming-collide-high-risk-play-to-earn-economies-2022-04-08/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/CbQ5Z-GP4mFSBlpi3UHychAXFiw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HNXWAKSD3VNX5K3QU4TPSBECPU.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Crypto and gaming collide in high-risk 'play-to-earn' economies - Reuters.com</h2>
+<p>Jarindr Thitadilaka says he made as much as $2,000 a month last year from his collection of digital pets, which he would breed and send into battle to win cryptocurrencies.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/business/finance/payments-company-bolt-buy-crypto-firm-wyre-15-bln-deal-wsj-2022-04-07/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=82" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Payments company Bolt to buy Wyre in cryptocurrency push - Reuters</h2>
+<p>Online checkout company Bolt Financial Inc said on Thursday it is buying cryptocurrency infrastructure provider Wyre Payments Inc in a bid to enable digital-currency payments on its platform.</p>
 </td>
 </table>
 <!-- Crypto News -->
