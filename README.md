@@ -115,25 +115,25 @@ And more **2 hrs 30 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/yellen-says-us-crypto-rules-should-support-innovation-manage-risks-2022-04-07/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/sBWUvemJW0ryqtlCm2qpRiwhcus=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XW2TXYEQFZNPVKYUBO65KACFFU.jpg" align="center" alt="Reuters"/>
+<a href="https://www.wired.com/story/wing-fedex-drone-delivery/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/6250955c84c1b7c74e9ffd36/191:100/w_1280,c_limit/Wing-Aircraft-Drone-Delivery-Gear.jpg" align="center" alt="Wired"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Yellen says U.S. crypto rules should support innovation, manage risks - Reuters</h2>
-<p>U.S. Treasury Secretary Janet Yellen said on Thursday crypto asset regulations should support responsible innovation while managing risks, sticking to the contours of a recent White House executive order that was well-received by the crypto market.</p>
+<h2>The Ice Cream You Ordered Is Here. A Drone Just Delivered It</h2>
+<p>Plus: Google beefs up its image search, Lego and Epic lay bricks together, and other consumer tech news from this week.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/us-fdic-asks-banks-info-crypto-activities-cites-potential-systemic-risks-2022-04-07/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/vSViJTxePYiHDcSfFtxu3Il6ncg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/52YE7NANKJJUTBH6LKPFLPS5YQ.jpg" align="center" alt="Reuters"/>
+<a href="https://www.wired.com/story/tsa-amtrak-cash-app-breach-microsoft-gru-obama-disinformation/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/6250b609c82cb96e10cc0692/191:100/w_1280,c_limit/Amtrak-TSA-Security-Roundup-Security-1190440972.jpg" align="center" alt="Wired"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>U.S. FDIC asks banks for info on crypto activities, cites potential 'systemic risks' - Reuters</h2>
-<p>The U.S. Federal Deposit Insurance Corporation (FDIC) on Thursday said the thousands of banks it supervises should notify the regulator of any crypto-related activities they have or are planning.</p>
+<h2>TSA’s Terrorist Watch List Comes for Amtrak Passengers</h2>
+<p>Plus: Microsoft seizes Russian GRU domains, Cash App’s data breach, and Obama’s disinfo admission.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -159,14 +159,14 @@ And more **2 hrs 30 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/payments-company-bolt-buy-crypto-firm-wyre-15-bln-deal-wsj-2022-04-07/">
+<a href="https://www.reuters.com/world/us/global-markets-flows-urgent-2022-04-08/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=82" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/tva2X1k3rlv6J5QONou3gxrQ30c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SCAZ5YXT2RPYJIVRQVBAF6DSME.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Payments company Bolt to buy Wyre in cryptocurrency push - Reuters</h2>
-<p>Online checkout company Bolt Financial Inc said on Thursday it is buying cryptocurrency infrastructure provider Wyre Payments Inc in a bid to enable digital-currency payments on its platform.</p>
+<h2>A "recession shock" is coming, BofA warns - Reuters.com</h2>
+<p>The macro-economic picture is deteriorating fast and could push the U.S. economy into recession as the Federal Reserve tightens its monetary policy to tame surging inflation, BofA strategists warned in a weekly research note.</p>
 </td>
 </table>
 <!-- Crypto News -->
