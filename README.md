@@ -137,36 +137,38 @@ And more **2 hrs 30 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/eu-targets-crypto-wallets-latest-round-russia-sanctions-2022-04-08/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/_cqaKvwDapNL9i7qM2CrWAYXiLA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T5DKRYL5LJILZMKXPGDRMVNEL4.jpg" align="center" alt="Reuters"/>
+<a href="https://www.cnet.com/personal-finance/crypto/this-weeks-most-exciting-crypto-news-uk-announces-nft-and-more/">
+<span>CNET</span>
+<img src="https://www.cnet.com/a/img/resize/e4de87a14a5ecf108a98c5c482fbcfc2c36906c6/2022/02/04/c5b1979c-a2d6-412c-9866-e1545badf003/gettyimages-1305088166.jpg?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>EU targets crypto wallets in latest round of Russia sanctions - Reuters</h2>
-<p>The European Union on Friday targeted crypto wallets, banks, currencies and trusts in its fifth package of sanctions on Russia in a bid to close potential loopholes which could allow Russians to move money abroad.</p>
+<h2>This Week's Most Exciting Crypto News: UK Announces NFT and More - CNET</h2>
+<p>ESPN and Tom Brady are also selling NFTs, and you won't believe how much these stick figures cost.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/crypto-gaming-collide-high-risk-play-to-earn-economies-2022-04-08/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/CbQ5Z-GP4mFSBlpi3UHychAXFiw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HNXWAKSD3VNX5K3QU4TPSBECPU.jpg" align="center" alt="Reuters"/>
+<a href="https://news.slashdot.org/story/22/04/09/1857230/crypto-use-is-more-prevalent-in-corrupt-countries-imf-study-finds">
+<span>Slashdot.org</span>
+<img src="https://a.fsdn.com/sd/topics/money_64.png" align="center" alt="Slashdot.org"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Crypto and gaming collide in high-risk 'play-to-earn' economies - Reuters.com</h2>
-<p>Jarindr Thitadilaka says he made as much as $2,000 a month last year from his collection of digital pets, which he would breed and send into battle to win cryptocurrencies.</p>
+<h2>Crypto Use Is More Prevalent in Corrupt Countries, IMF Study Finds</h2>
+<p>"According to a new International Money Fund (IMF) report, cryptocurrency is much more popular in countries with insecure currencies and corrupt governments..." reports The Street, adding that the report concludes "the best way forward is not fight, but to le…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/us/global-markets-flows-urgent-2022-04-08/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/tva2X1k3rlv6J5QONou3gxrQ30c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SCAZ5YXT2RPYJIVRQVBAF6DSME.jpg" align="center" alt="Reuters"/>
+<a href="https://slashdot.org/story/22/04/09/2058201/is-twitter-dying-tweets-elon-musk">
+<span>Slashdot.org</span>
+<img src="https://a.fsdn.com/sd/topics/twitter_64.png" align="center" alt="Slashdot.org"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>A "recession shock" is coming, BofA warns - Reuters.com</h2>
-<p>The macro-economic picture is deteriorating fast and could push the U.S. economy into recession as the Federal Reserve tightens its monetary policy to tame surging inflation, BofA strategists warned in a weekly research note.</p>
+<h2>'Is Twitter Dying?' Tweets Elon Musk</h2>
+<p>The newest member of Twitter's board of directors just tweeted "Is Twitter dying?" 
+
+That would be Elon Musk — who'd preceded the question with a list of Twitter's ten most-followed accounts, noting that most of them "tweet rarely and post very little content…</p>
 </td>
 </table>
 <!-- Crypto News -->
