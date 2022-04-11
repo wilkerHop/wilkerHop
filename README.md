@@ -115,25 +115,14 @@ And more **2 hrs 4 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.wired.com/story/wing-fedex-drone-delivery/">
-<span>Wired</span>
-<img src="https://media.wired.com/photos/6250955c84c1b7c74e9ffd36/191:100/w_1280,c_limit/Wing-Aircraft-Drone-Delivery-Gear.jpg" align="center" alt="Wired"/>
+<a href="https://www.reuters.com/technology/delivery-app-rappi-begins-accepting-cryptocurrency-mexico-2022-04-11/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/LoJA8Qm1Y1Hlr2BG5wdPnjGAQV0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/76W7QLIVGJNSXGYSVM6YIZ4JNU.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>The Ice Cream You Ordered Is Here. A Drone Just Delivered It</h2>
-<p>Plus: Google beefs up its image search, Lego and Epic lay bricks together, and other consumer tech news from this week.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.wired.com/story/tsa-amtrak-cash-app-breach-microsoft-gru-obama-disinformation/">
-<span>Wired</span>
-<img src="https://media.wired.com/photos/6250b609c82cb96e10cc0692/191:100/w_1280,c_limit/Amtrak-TSA-Security-Roundup-Security-1190440972.jpg" align="center" alt="Wired"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>TSA’s Terrorist Watch List Comes for Amtrak Passengers</h2>
-<p>Plus: Microsoft seizes Russian GRU domains, Cash App’s data breach, and Obama’s disinfo admission.</p>
+<h2>Delivery app Rappi begins accepting cryptocurrency in Mexico - Reuters</h2>
+<p>Colombian delivery app Rappi, which offers on-demand deliveries of food and other goods across Latin America, said on Monday it has launched a cryptocurrency payment pilot program in Mexico.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -148,27 +137,37 @@ And more **2 hrs 4 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://news.slashdot.org/story/22/04/09/1857230/crypto-use-is-more-prevalent-in-corrupt-countries-imf-study-finds">
-<span>Slashdot.org</span>
-<img src="https://a.fsdn.com/sd/topics/money_64.png" align="center" alt="Slashdot.org"/>
+<a href="https://markets.businessinsider.com/news/stocks/twitter-stock-price-elon-musk-decides-wont-join-board-2022-4">
+<span>Business Insider</span>
+<img src="https://i.insider.com/6253e97f8394f20018d43256?width=1200&format=jpeg" align="center" alt="Business Insider"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Crypto Use Is More Prevalent in Corrupt Countries, IMF Study Finds</h2>
-<p>"According to a new International Money Fund (IMF) report, cryptocurrency is much more popular in countries with insecure currencies and corrupt governments..." reports The Street, adding that the report concludes "the best way forward is not fight, but to le…</p>
+<h2>Twitter falls 5% after Elon Musk turns down its offer to join the board</h2>
+<p>Joining the board would have prevented Elon Musk from owning more than 14.9% of Twitter's common stock.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://slashdot.org/story/22/04/09/2058201/is-twitter-dying-tweets-elon-musk">
+<a href="https://slashdot.org/story/22/04/11/0422227/is-bitcoin-struggling-to-find-its-star-power-after-miami-conference">
 <span>Slashdot.org</span>
-<img src="https://a.fsdn.com/sd/topics/twitter_64.png" align="center" alt="Slashdot.org"/>
+<img src="https://a.fsdn.com/sd/topics/bitcoin_64.png" align="center" alt="Slashdot.org"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>'Is Twitter Dying?' Tweets Elon Musk</h2>
-<p>The newest member of Twitter's board of directors just tweeted "Is Twitter dying?" 
-
-That would be Elon Musk — who'd preceded the question with a list of Twitter's ten most-followed accounts, noting that most of them "tweet rarely and post very little content…</p>
+<h2>Is Bitcoin Struggling to Find Its Star Power After Miami Conference?</h2>
+<p>Fast Company reviews the Bitcoin 2022 conference held in Miami this week — arguing that it was actually Ethereum that sparked 2021's boom in cryptocurrenies. (And that with NFTs and DAOs, Ethereum still remains the flashier, main driver of popular crypto cult…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://yro.slashdot.org/story/22/04/10/211208/inside-the-bitcoin-bust-of-the-webs-biggest-child-abuse-site">
+<span>Slashdot.org</span>
+<img src="https://a.fsdn.com/sd/topics/crime_64.png" align="center" alt="Slashdot.org"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Inside the Bitcoin Bust of the Web's Biggest Child Abuse Site</h2>
+<p>Chainalysis is a software for tracing cryptocurrency, "to turn the digital underworld's preferred means of exchange into its Achilles' heel," writes Wired. 
+This week they describe what happened when that company's co-founder discovered that for two yeras, hu…</p>
 </td>
 </table>
 <!-- Crypto News -->
