@@ -115,6 +115,17 @@ And more **2 hrs 8 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/business/cryptoverse-10-billion-reasons-bitcoin-could-become-reserve-currency-2022-04-12/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/sJekSAyVZew4r9prtuVAPUET5ws=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O2SCLFEKTZPMLESUYUADTUAGOQ.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Cryptoverse: 10 billion reasons bitcoin could become a reserve currency - Reuters</h2>
+<p>A crypto platform's pledge to amass $10 billion worth of bitcoin to back its own "stablecoin" is firing up the market. It's part of a wider movement to crown bitcoin as the reserve currency of a new age.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/technology/delivery-app-rappi-begins-accepting-cryptocurrency-mexico-2022-04-11/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/LoJA8Qm1Y1Hlr2BG5wdPnjGAQV0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/76W7QLIVGJNSXGYSVM6YIZ4JNU.jpg" align="center" alt="Reuters"/>
@@ -126,14 +137,25 @@ And more **2 hrs 8 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.cnet.com/personal-finance/crypto/this-weeks-most-exciting-crypto-news-uk-announces-nft-and-more/">
-<span>CNET</span>
-<img src="https://www.cnet.com/a/img/resize/e4de87a14a5ecf108a98c5c482fbcfc2c36906c6/2022/02/04/c5b1979c-a2d6-412c-9866-e1545badf003/gettyimages-1305088166.jpg?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
+<a href="https://www.reuters.com/business/startup-bloxroute-gains-new-funding-latest-web3-bet-softbank-2022-04-12/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=82" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>This Week's Most Exciting Crypto News: UK Announces NFT and More - CNET</h2>
-<p>ESPN and Tom Brady are also selling NFTs, and you won't believe how much these stick figures cost.</p>
+<h2>Startup bloXroute gains new funding, the latest Web3 bet for SoftBank - Reuters</h2>
+<p>U.S. startup bloXroute said on Tuesday it had raised $70 million in new funding led by SoftBank's <a href="https://www.reuters.com/companies/9984.T" target="_blank">(9984.T)</a> Vision Fund 2, the latest investment in a decentralized blockchain technology com…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/technology/china-gaming-firms-toe-line-paving-way-end-licence-freeze-2022-04-12/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/HZ7CbSfQlJYtUVncXSqQ6DnLybY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5AC65MX56JMTPM3CR6DZRIU27E.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>China gaming firms toe the line, paving the way to end licence freeze - Reuters</h2>
+<p>China lifted a nine-month freeze on gaming licences after companies, including industry leader Tencent <a href="https://www.reuters.com/companies/0700.HK" target="_blank">(0700.HK)</a>, made major adjustments to their business practices and due to the ban's e…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -145,29 +167,6 @@ And more **2 hrs 8 mins** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>Twitter falls 5% after Elon Musk turns down its offer to join the board</h2>
 <p>Joining the board would have prevented Elon Musk from owning more than 14.9% of Twitter's common stock.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://slashdot.org/story/22/04/11/0422227/is-bitcoin-struggling-to-find-its-star-power-after-miami-conference">
-<span>Slashdot.org</span>
-<img src="https://a.fsdn.com/sd/topics/bitcoin_64.png" align="center" alt="Slashdot.org"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Is Bitcoin Struggling to Find Its Star Power After Miami Conference?</h2>
-<p>Fast Company reviews the Bitcoin 2022 conference held in Miami this week — arguing that it was actually Ethereum that sparked 2021's boom in cryptocurrenies. (And that with NFTs and DAOs, Ethereum still remains the flashier, main driver of popular crypto cult…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://yro.slashdot.org/story/22/04/10/211208/inside-the-bitcoin-bust-of-the-webs-biggest-child-abuse-site">
-<span>Slashdot.org</span>
-<img src="https://a.fsdn.com/sd/topics/crime_64.png" align="center" alt="Slashdot.org"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Inside the Bitcoin Bust of the Web's Biggest Child Abuse Site</h2>
-<p>Chainalysis is a software for tracing cryptocurrency, "to turn the digital underworld's preferred means of exchange into its Achilles' heel," writes Wired. 
-This week they describe what happened when that company's co-founder discovered that for two yeras, hu…</p>
 </td>
 </table>
 <!-- Crypto News -->
