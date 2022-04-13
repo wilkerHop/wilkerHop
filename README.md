@@ -115,58 +115,58 @@ And more **1 hr 16 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/cryptoverse-10-billion-reasons-bitcoin-could-become-reserve-currency-2022-04-12/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/sJekSAyVZew4r9prtuVAPUET5ws=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O2SCLFEKTZPMLESUYUADTUAGOQ.jpg" align="center" alt="Reuters"/>
+<a href="https://arstechnica.com/tech-policy/2022/04/wikipedia-community-votes-to-stop-accepting-cryptocurrency-donations/">
+<span>Ars Technica</span>
+<img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-922703938-760x380.jpg" align="center" alt="Ars Technica"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cryptoverse: 10 billion reasons bitcoin could become a reserve currency - Reuters</h2>
-<p>A crypto platform's pledge to amass $10 billion worth of bitcoin to back its own "stablecoin" is firing up the market. It's part of a wider movement to crown bitcoin as the reserve currency of a new age.</p>
+<h2>Wikipedia community votes to stop accepting cryptocurrency donations</h2>
+<p>Critics argue the bitcoin and ethereum networks consume too much energy.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/delivery-app-rappi-begins-accepting-cryptocurrency-mexico-2022-04-11/">
+<a href="https://www.reuters.com/article/us-crypto-currency-payment-idUSKCN2M50U7">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/LoJA8Qm1Y1Hlr2BG5wdPnjGAQV0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/76W7QLIVGJNSXGYSVM6YIZ4JNU.jpg" align="center" alt="Reuters"/>
+<img src="https://static.reuters.com/resources/r/?m=02&d=20220413&t=2&i=1597109294&r=LYNXNPEI3C0F7&w=800" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Delivery app Rappi begins accepting cryptocurrency in Mexico - Reuters</h2>
-<p>Colombian delivery app Rappi, which offers on-demand deliveries of food and other goods across Latin America, said on Monday it has launched a cryptocurrency payment pilot program in Mexico.</p>
+<h2>Nexo and Mastercard launch 'world first' crypto-backed payment card - Reuters</h2>
+<p>Crypto lender Nexo said it has teamed up with global payments company Mastercard to launch on Wednesday what it calls the world's first "crypto-backed" payment card.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/startup-bloxroute-gains-new-funding-latest-web3-bet-softbank-2022-04-12/">
+<a href="https://www.reuters.com/technology/nexo-mastercard-launch-world-first-crypto-backed-payment-card-2022-04-13/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=82" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/w-F6GCaOAxdIeNuSNTNZrv1iAG0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SD4J3WE3NFLOBOEPXMYHXAW6N4.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Startup bloXroute gains new funding, the latest Web3 bet for SoftBank - Reuters</h2>
-<p>U.S. startup bloXroute said on Tuesday it had raised $70 million in new funding led by SoftBank's <a href="https://www.reuters.com/companies/9984.T" target="_blank">(9984.T)</a> Vision Fund 2, the latest investment in a decentralized blockchain technology com…</p>
+<h2>Nexo and Mastercard launch 'world first' crypto-backed payment card - Reuters</h2>
+<p>Crypto lender Nexo said it has teamed up with global payments company Mastercard <a href="https://www.reuters.com/companies/MA.N" target="_blank">(MA.N)</a> to launch on Wednesday what it calls the world's first "crypto-backed" payment card.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/china-gaming-firms-toe-line-paving-way-end-licence-freeze-2022-04-12/">
+<a href="https://www.reuters.com/business/finance/binance-ceo-praises-pro-crypto-france-it-pursues-base-there-2022-04-13/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/HZ7CbSfQlJYtUVncXSqQ6DnLybY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5AC65MX56JMTPM3CR6DZRIU27E.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/_nH5xu_HdlarTAZ6D1Q7RKR-qa4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GOELKB3NABJRPCOU7VZOBDAFBI.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>China gaming firms toe the line, paving the way to end licence freeze - Reuters</h2>
-<p>China lifted a nine-month freeze on gaming licences after companies, including industry leader Tencent <a href="https://www.reuters.com/companies/0700.HK" target="_blank">(0700.HK)</a>, made major adjustments to their business practices and due to the ban's e…</p>
+<h2>Binance CEO praises 'pro-crypto' France as it pursues base there - Reuters</h2>
+<p>Binance boss Changpeng Zhao praised France for its "pro-crypto" regulations on Wednesday, as the world's biggest cryptocurrency exchange pursues plans to make Paris its European base.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://markets.businessinsider.com/news/stocks/twitter-stock-price-elon-musk-decides-wont-join-board-2022-4">
-<span>Business Insider</span>
-<img src="https://i.insider.com/6253e97f8394f20018d43256?width=1200&format=jpeg" align="center" alt="Business Insider"/>
+<a href="https://www.reuters.com/video/watch/idOV992706042022RP1">
+<span>Reuters</span>
+<img src="https://static.reuters.com/resources/r/?d=20220412&i=OV992706042022RP1&r=OV992706042022RP1&t=2" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Twitter falls 5% after Elon Musk turns down its offer to join the board</h2>
-<p>Joining the board would have prevented Elon Musk from owning more than 14.9% of Twitter's common stock.</p>
+<h2>Think crypto is not for Wall Street? Think again! - Reuters</h2>
+<p>A top U.S. banking regulator is warning of growing risks, as some of the biggest banks operating in the U.S. start to capitalize on the popularity of cryptocurrencies to offer related services to clients.</p>
 </td>
 </table>
 <!-- Crypto News -->
