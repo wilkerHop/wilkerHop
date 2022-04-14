@@ -115,6 +115,17 @@ And more **1 hr 13 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/wikipedia-editors-vote-to-block-cryptocurrency-donations-113549175.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2021-07/9f595ce0-de17-11eb-bef2-e1b1456d84ae" align="center" alt="Engadget"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Wikipedia editors vote to block cryptocurrency donations</h2>
+<p>Wikipedia editors have voted in favor of dropping cryptocurrency from the Wikimedia Foundation's donation options. As Ars Technica reports, an editor for the online encyclopedia called GorillaWarfare wrote a proposal for the foundation to stop accepting crypt…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://arstechnica.com/tech-policy/2022/04/wikipedia-community-votes-to-stop-accepting-cryptocurrency-donations/">
 <span>Ars Technica</span>
 <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-922703938-760x380.jpg" align="center" alt="Ars Technica"/>
@@ -156,17 +167,6 @@ And more **1 hr 13 mins** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>Binance CEO praises 'pro-crypto' France as it pursues base there - Reuters</h2>
 <p>Binance boss Changpeng Zhao praised France for its "pro-crypto" regulations on Wednesday, as the world's biggest cryptocurrency exchange pursues plans to make Paris its European base.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/video/watch/idOV992706042022RP1">
-<span>Reuters</span>
-<img src="https://static.reuters.com/resources/r/?d=20220412&i=OV992706042022RP1&r=OV992706042022RP1&t=2" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Think crypto is not for Wall Street? Think again! - Reuters</h2>
-<p>A top U.S. banking regulator is warning of growing risks, as some of the biggest banks operating in the U.S. start to capitalize on the popularity of cryptocurrencies to offer related services to clients.</p>
 </td>
 </table>
 <!-- Crypto News -->
