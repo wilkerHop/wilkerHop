@@ -115,6 +115,17 @@ And more **1 hr 50 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/operas-crypto-browser-ios-113713720.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-04/d7564890-bca3-11ec-b7ff-a905e1f2a795" align="center" alt="Engadget"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Opera's crypto browser is now available on iOS</h2>
+<p>Opera launched its dedicated "Crypto Browser" into beta back in January, promising to make Web3 as accessible as any Web2 website. The company released the browser for Windows, Mac and Android users back then, but the version for iOS devices still wasn't read…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.engadget.com/wikipedia-editors-vote-to-block-cryptocurrency-donations-113549175.html">
 <span>Engadget</span>
 <img src="https://s.yimg.com/os/creatr-uploaded-images/2021-07/9f595ce0-de17-11eb-bef2-e1b1456d84ae" align="center" alt="Engadget"/>
@@ -126,47 +137,36 @@ And more **1 hr 50 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://arstechnica.com/tech-policy/2022/04/wikipedia-community-votes-to-stop-accepting-cryptocurrency-donations/">
-<span>Ars Technica</span>
-<img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-922703938-760x380.jpg" align="center" alt="Ars Technica"/>
+<a href="https://www.theverge.com/2022/4/14/23025739/north-korean-hacker-lazarus-axie-infinity-cryptocurrency-hack-theft-us-blames">
+<span>The Verge</span>
+<img src="https://cdn.vox-cdn.com/thumbor/n8TGCqcud7UHPIbtgxLi10Owa5I=/0x52:1018x585/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23374959/Screen_Shot_2022_03_30_at_10.10.00_AM.png" align="center" alt="The Verge"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Wikipedia community votes to stop accepting cryptocurrency donations</h2>
-<p>Critics argue the bitcoin and ethereum networks consume too much energy.</p>
+<h2>US blames North Korean hacker group for $625 million Axie Infinity theft</h2>
+<p>The US Department of Treasury has attributed the $625 Axie Infinity theft to Lazarus, a North Korean hacking group with ties to the country’s intelligence agency.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/article/us-crypto-currency-payment-idUSKCN2M50U7">
-<span>Reuters</span>
-<img src="https://static.reuters.com/resources/r/?m=02&d=20220413&t=2&i=1597109294&r=LYNXNPEI3C0F7&w=800" align="center" alt="Reuters"/>
+<a href="https://www.bbc.co.uk/news/business-61011151">
+<span>BBC News</span>
+<img src="https://ichef.bbci.co.uk/news/1024/branded_news/15635/production/_124150678_gettyimages-953097142.jpg" align="center" alt="BBC News"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Nexo and Mastercard launch 'world first' crypto-backed payment card - Reuters</h2>
-<p>Crypto lender Nexo said it has teamed up with global payments company Mastercard to launch on Wednesday what it calls the world's first "crypto-backed" payment card.</p>
+<h2>Crypto boss says fraudsters have 'special place in hell'</h2>
+<p>An executive at one of the largest cryptocurrency exchanges hits out at scammers who target the vulnerable.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/nexo-mastercard-launch-world-first-crypto-backed-payment-card-2022-04-13/">
+<a href="https://www.reuters.com/business/finance/last-minute-tax-tips-us-crypto-investors-2022-04-14/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/w-F6GCaOAxdIeNuSNTNZrv1iAG0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SD4J3WE3NFLOBOEPXMYHXAW6N4.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/sJekSAyVZew4r9prtuVAPUET5ws=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O2SCLFEKTZPMLESUYUADTUAGOQ.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Nexo and Mastercard launch 'world first' crypto-backed payment card - Reuters</h2>
-<p>Crypto lender Nexo said it has teamed up with global payments company Mastercard <a href="https://www.reuters.com/companies/MA.N" target="_blank">(MA.N)</a> to launch on Wednesday what it calls the world's first "crypto-backed" payment card.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/binance-ceo-praises-pro-crypto-france-it-pursues-base-there-2022-04-13/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/_nH5xu_HdlarTAZ6D1Q7RKR-qa4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GOELKB3NABJRPCOU7VZOBDAFBI.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Binance CEO praises 'pro-crypto' France as it pursues base there - Reuters</h2>
-<p>Binance boss Changpeng Zhao praised France for its "pro-crypto" regulations on Wednesday, as the world's biggest cryptocurrency exchange pursues plans to make Paris its European base.</p>
+<h2>Last-minute tax tips for U.S. crypto investors - Reuters</h2>
+<p>When accountant Zach Gordon gets calls from clients about how to handle cryptocurrency on their taxes, there is a common theme.</p>
 </td>
 </table>
 <!-- Crypto News -->
