@@ -115,25 +115,14 @@ And more **1 hr 30 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/operas-crypto-browser-ios-113713720.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-04/d7564890-bca3-11ec-b7ff-a905e1f2a795" align="center" alt="Engadget"/>
+<a href="https://amp.theguardian.com/politics/2022/apr/17/cryptocurrency-firm-linked-to-philip-hammond-still-lacks-uk-approval-copper-technologies">
+<span>The Guardian</span>
+<img src="https://i.guim.co.uk/img/media/a23bb9d28ecdbaf5de9f4ec5b64974942e8c9b06/0_238_1390_833/master/1390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22ed06c7c9e2e08d421b353ea16d0b2a" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Opera's crypto browser is now available on iOS</h2>
-<p>Opera launched its dedicated "Crypto Browser" into beta back in January, promising to make Web3 as accessible as any Web2 website. The company released the browser for Windows, Mac and Android users back then, but the version for iOS devices still wasn't read…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/asia-pacific/covid-crypto-amulets-young-thais-seek-fortune-telling-upgrades-2022-04-15/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/dpTfbdrh-KrIuJ4CjNQL_2_M4yQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P4VSNAUT4VOFLHGLEMLZCTJTQE.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>COVID to crypto-amulets: young Thais seek fortune-telling upgrades - Reuters</h2>
-<p>Thai masters student Dhidhaj Sumedhsvast didn't believe in fortune-telling or supernatural powers until the coronavirus pandemic started two years ago.</p>
+<h2>Cryptocurrency firm linked to Philip Hammond still lacks UK approval</h2>
+<p>Former chancellor’s hopes of $15m windfall from stake in Copper Technologies at riskThe former chancellor Philip Hammond could see the value of his stake in the cryptocurrency firm Copper plunge after the company suffered a blow to its hopes of winning approv…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -148,14 +137,14 @@ And more **1 hr 30 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.cnet.com/personal-finance/taxes/crypto-taxes-online-tax-software-to-report-bitcoin-nfts-and-digital-currencies/">
-<span>CNET</span>
-<img src="https://www.cnet.com/a/img/resize/38d7bb50951f584ce2868b875dcd7098955cdfe2/2022/02/03/b3a23c2a-b3e5-4632-9a2f-af0701451abd/hero-image-sizes-hero-main-1600x900.jpg?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
+<a href="https://amp.theguardian.com/lifeandstyle/2022/apr/17/gold-leaves-meet-the-30000-pound-houseplants-sparking-a-new-green-crimewave">
+<span>The Guardian</span>
+<img src="https://i.guim.co.uk/img/media/1fe1ce5df269480f13eb187571f4928d8bcbee8c/0_2676_5792_3475/master/5792.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=93c8faaf17b4dedac18286b361e8c447" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Crypto Taxes: Online Tax Software to Report Bitcoin, NFTs and Digital Currencies - CNET</h2>
-<p>You must report cryptocurrency trades or income on your 2021 tax return. Crypto tax software can help.</p>
+<h2>Pots of gold: the world’s most expensive house plants</h2>
+<p>With people paying upwards of £40,000, the rise of the ‘It plant’ has sparked a speculative frenzy not seen since tulipmania – and with it a green-fingered crimewaveLast month, a Reddit member posted on the popular forum “Am I The Asshole?” to report a fallin…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -167,6 +156,17 @@ And more **1 hr 30 mins** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>This Week's Top Bitcoin and Crypto News: NFT of Jack Dorsey's Tweet Flops at Auction - CNET</h2>
 <p>Also: Amazon may sell NFTs in the future, Wikipedia votes to end crypto donations, and the Dallas Cowboys have a new blockchain sponsorship.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.cnet.com/personal-finance/taxes/cash-app-taxes-review-2022-online-tax-software-with-no-fees-ever/">
+<span>CNET</span>
+<img src="https://www.cnet.com/a/img/resize/37fa8cfa5a4274c07e0b7df72bc6862fd579f62f/2022/02/18/d2291374-8db5-42ce-860d-8091f6f4efec/cashapp.png?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Cash App Taxes Review 2022: Online Tax Software With No Fees Ever - CNET</h2>
+<p>Formerly Credit Karma Tax, Cash App Taxes offers robust tax software that's completely free for federal and state returns.</p>
 </td>
 </table>
 <!-- Crypto News -->
