@@ -115,6 +115,28 @@ And more **1 hr 30 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.wired.com/story/crypto-reshape-taxes-cities/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/6259cf995a8825a1b128c337/191:100/w_1280,c_limit/Crypto-Is-Poised-to-Reshape-Taxes%E2%80%94and-Cities.jpg" align="center" alt="Wired"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Crypto Is Poised to Reshape Taxes—and Cities</h2>
+<p>Tokens like CityCoins could turn taxes into another investment vehicle, for better or worse.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.androidcentral.com/apps-software/google-pay-wallet-interface">
+<span>Android Central</span>
+<img src="https://cdn.mos.cms.futurecdn.net/FqasRwWZkMw7eVJJvMb2ok-1200-80.jpg" align="center" alt="Android Central"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>New Google 'Wallet' interface shows what could be in store for Google Pay</h2>
+<p>New images show off the rumored Google Wallet interface, which would be used to store digital cards and make payments through Google Pay.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://amp.theguardian.com/politics/2022/apr/17/cryptocurrency-firm-linked-to-philip-hammond-still-lacks-uk-approval-copper-technologies">
 <span>The Guardian</span>
 <img src="https://i.guim.co.uk/img/media/a23bb9d28ecdbaf5de9f4ec5b64974942e8c9b06/0_238_1390_833/master/1390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22ed06c7c9e2e08d421b353ea16d0b2a" align="center" alt="The Guardian"/>
@@ -123,17 +145,6 @@ And more **1 hr 30 mins** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>Cryptocurrency firm linked to Philip Hammond still lacks UK approval</h2>
 <p>Former chancellor’s hopes of $15m windfall from stake in Copper Technologies at riskThe former chancellor Philip Hammond could see the value of his stake in the cryptocurrency firm Copper plunge after the company suffered a blow to its hopes of winning approv…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/technology/2022/apr/16/nft-blockchain-north-korea-hack-ronin-axie-infinity">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/56e60d5034ecdee30a6660d74211bc551d209c7e/0_131_6486_3892/master/6486.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=57923ff21a44e630f4023376fd2bbd9e" align="center" alt="The Guardian"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>North Korea, NFTs and a hit video game: inside a $500m cryptocurrency theft</h2>
-<p>Another high-profile hack has raised more questions about the vulnerabilities of the blockchainLate last month, hackers made off with what was then worth more than $500m from the systems of cryptocurrency network Ronin, in what is believed to be the second-la…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -148,25 +159,14 @@ And more **1 hr 30 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.cnet.com/personal-finance/crypto/this-weeks-top-bitcoin-and-crypto-news-nft-of-jack-dorseys-tweet-flops-at-auction/">
-<span>CNET</span>
-<img src="https://www.cnet.com/a/img/resize/e4de87a14a5ecf108a98c5c482fbcfc2c36906c6/2022/02/04/c5b1979c-a2d6-412c-9866-e1545badf003/gettyimages-1305088166.jpg?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
+<a href="https://www.businessinsider.com/personal-finance/fidelity-vs-robinhood">
+<span>Business Insider</span>
+<img src="https://i.insider.com/61e1fe627c6a20001842393a?width=1200&format=jpeg" align="center" alt="Business Insider"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>This Week's Top Bitcoin and Crypto News: NFT of Jack Dorsey's Tweet Flops at Auction - CNET</h2>
-<p>Also: Amazon may sell NFTs in the future, Wikipedia votes to end crypto donations, and the Dallas Cowboys have a new blockchain sponsorship.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.cnet.com/personal-finance/taxes/cash-app-taxes-review-2022-online-tax-software-with-no-fees-ever/">
-<span>CNET</span>
-<img src="https://www.cnet.com/a/img/resize/37fa8cfa5a4274c07e0b7df72bc6862fd579f62f/2022/02/18/d2291374-8db5-42ce-860d-8091f6f4efec/cashapp.png?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Cash App Taxes Review 2022: Online Tax Software With No Fees Ever - CNET</h2>
-<p>Formerly Credit Karma Tax, Cash App Taxes offers robust tax software that's completely free for federal and state returns.</p>
+<h2>Fidelity vs. Robinhood: How the investing apps compare</h2>
+<p>Fidelity is best for most investors since it offers a wider range of account types and assets, but Robinhood best suits options and crypto traders.</p>
 </td>
 </table>
 <!-- Crypto News -->
