@@ -126,47 +126,47 @@ And more **1 hr 26 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.androidcentral.com/apps-software/google-pay-wallet-interface">
-<span>Android Central</span>
-<img src="https://cdn.mos.cms.futurecdn.net/FqasRwWZkMw7eVJJvMb2ok-1200-80.jpg" align="center" alt="Android Central"/>
+<a href="https://gizmodo.com/you-can-now-go-see-fantastic-beasts-with-dogecoin-at-am-1848805758">
+<span>Gizmodo.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9c1a5c315585258a257319589a2c2bf5.jpg" align="center" alt="Gizmodo.com"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>New Google 'Wallet' interface shows what could be in store for Google Pay</h2>
-<p>New images show off the rumored Google Wallet interface, which would be used to store digital cards and make payments through Google Pay.</p>
+<h2>You Can Now Go See Fantastic Beasts With Dogecoin at AMC Theaters</h2>
+<p>Dogecoiners unite! Movie theater chain AMC has welcomed some more cryptocurrencies as payment options for online and mobile purchases. In a tweet on April 15, AMC CEO Adam Aron announced that moviegoers can now pay for movie tickets and concessions using Doge…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/politics/2022/apr/17/cryptocurrency-firm-linked-to-philip-hammond-still-lacks-uk-approval-copper-technologies">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/a23bb9d28ecdbaf5de9f4ec5b64974942e8c9b06/0_238_1390_833/master/1390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22ed06c7c9e2e08d421b353ea16d0b2a" align="center" alt="The Guardian"/>
+<a href="https://www.reuters.com/technology/european-crypto-industry-steps-up-efforts-influence-eu-policy-2022-04-19/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/G_EATzJifHIp0qDaoy689XQ1Odo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JRTUL6VEDZP6JEIB3BPHLKFNPQ.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cryptocurrency firm linked to Philip Hammond still lacks UK approval</h2>
-<p>Former chancellor’s hopes of $15m windfall from stake in Copper Technologies at riskThe former chancellor Philip Hammond could see the value of his stake in the cryptocurrency firm Copper plunge after the company suffered a blow to its hopes of winning approv…</p>
+<h2>European crypto industry steps up efforts to influence EU policy - Reuters</h2>
+<p>More than 40 crypto business leaders have asked the European Union not to require crypto firms to disclose transaction details and dial down attempts to bring to heel rapidly growing decentralised finance platforms.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/lifeandstyle/2022/apr/17/gold-leaves-meet-the-30000-pound-houseplants-sparking-a-new-green-crimewave">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/1fe1ce5df269480f13eb187571f4928d8bcbee8c/0_2676_5792_3475/master/5792.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=93c8faaf17b4dedac18286b361e8c447" align="center" alt="The Guardian"/>
+<a href="https://www.reuters.com/business/cryptoverse-gold-coins-glimmer-amid-global-gloom-2022-04-19/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/MYPjiTvDmkpj83pq52dCwN3BMmI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SGURYPDRIBJUPBTD6PMZBFHKZA.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Pots of gold: the world’s most expensive house plants</h2>
-<p>With people paying upwards of £40,000, the rise of the ‘It plant’ has sparked a speculative frenzy not seen since tulipmania – and with it a green-fingered crimewaveLast month, a Reddit member posted on the popular forum “Am I The Asshole?” to report a fallin…</p>
+<h2>Cryptoverse: Gold coins glimmer amid the global gloom - Reuters</h2>
+<p>A fledgling class of crypto that feasts on risk is outshining a wider market paralyzed by war and inflation.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.businessinsider.com/personal-finance/fidelity-vs-robinhood">
-<span>Business Insider</span>
-<img src="https://i.insider.com/61e1fe627c6a20001842393a?width=1200&format=jpeg" align="center" alt="Business Insider"/>
+<a href="https://www.reuters.com/business/australias-cba-rebuffs-reports-partnership-with-crypto-trading-platform-2022-04-19/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/4_8aucePrIjQ5I85vdk7EUZeW24=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AYC42OP3R5MBLJFL2TS2CI5TTI.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Fidelity vs. Robinhood: How the investing apps compare</h2>
-<p>Fidelity is best for most investors since it offers a wider range of account types and assets, but Robinhood best suits options and crypto traders.</p>
+<h2>Australia's CBA rebuffs reports of partnership with crypto trading platform - Reuters</h2>
+<p>Commonwealth Bank of Australia <a href="https://www.reuters.com/companies/CBA.AX" target="_blank">(CBA.AX)</a> warned of a fake news article doing rounds on social media platforms alleging the country's No. 1 lender to have partnered with a cryptocurrency tra…</p>
 </td>
 </table>
 <!-- Crypto News -->
