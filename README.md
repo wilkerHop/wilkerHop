@@ -115,28 +115,6 @@ And more **1 hr 21 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.wired.com/story/crypto-reshape-taxes-cities/">
-<span>Wired</span>
-<img src="https://media.wired.com/photos/6259cf995a8825a1b128c337/191:100/w_1280,c_limit/Crypto-Is-Poised-to-Reshape-Taxes%E2%80%94and-Cities.jpg" align="center" alt="Wired"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Crypto Is Poised to Reshape Taxes—and Cities</h2>
-<p>Tokens like CityCoins could turn taxes into another investment vehicle, for better or worse.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://gizmodo.com/you-can-now-go-see-fantastic-beasts-with-dogecoin-at-am-1848805758">
-<span>Gizmodo.com</span>
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9c1a5c315585258a257319589a2c2bf5.jpg" align="center" alt="Gizmodo.com"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>You Can Now Go See Fantastic Beasts With Dogecoin at AMC Theaters</h2>
-<p>Dogecoiners unite! Movie theater chain AMC has welcomed some more cryptocurrencies as payment options for online and mobile purchases. In a tweet on April 15, AMC CEO Adam Aron announced that moviegoers can now pay for movie tickets and concessions using Doge…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/technology/european-crypto-industry-steps-up-efforts-influence-eu-policy-2022-04-19/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/G_EATzJifHIp0qDaoy689XQ1Odo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JRTUL6VEDZP6JEIB3BPHLKFNPQ.jpg" align="center" alt="Reuters"/>
@@ -167,6 +145,28 @@ And more **1 hr 21 mins** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>Australia's CBA rebuffs reports of partnership with crypto trading platform - Reuters</h2>
 <p>Commonwealth Bank of Australia <a href="https://www.reuters.com/companies/CBA.AX" target="_blank">(CBA.AX)</a> warned of a fake news article doing rounds on social media platforms alleging the country's No. 1 lender to have partnered with a cryptocurrency tra…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/world/un-panel-coordinator-urges-stepped-up-focus-north-korea-cyber-crime-2022-04-20/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=83" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>U.N. panel coordinator urges stepped up focus on North Korea cyber crime - Reuters</h2>
+<p>The coordinator for the U.N. body monitoring enforcement of sanctions on North Korea said on Wednesday a stepped up focus was needed on cybercrime, which had become fundamental to Pyongyang's ability to finance its banned weapons programs.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/business/finance/ukraine-conflict-test-resilience-global-financial-system-imf-2022-04-19/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/VBBCU363L_e2LFKaVFXVJI6TA64=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OT3HKIOCKVIZTJIKXIHUCJ3EV4.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Ukraine conflict to test resilience of global financial system: IMF - Reuters</h2>
+<p>Russia's invasion of Ukraine has driven up financial stability risks "on several fronts" and will test the resilience of the global financial system at a time when interest rates are rising sharply, the International Monetary Fund (IMF) warned in its biannual…</p>
 </td>
 </table>
 <!-- Crypto News -->
