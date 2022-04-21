@@ -14,4 +14,4 @@ jobs:
       - name: print github.ref
         run: |
           echo '${{ github.ref }}'
-          node -p '${{ github.ref }}.split("/").at(-1)'
+          node -p '`${{ github.ref }}`.split(`/`).at(-1)'
