@@ -1,0 +1,14 @@
+name: Tests
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: print github.ref
+        run: |
+          echo '${{ github.ref }}'
+          echo '${{ github.ref.split("/").at(-1) }}'
