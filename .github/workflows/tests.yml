@@ -8,7 +8,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/setup-node@v3
+        with: { node-version: 16.x }
+
       - name: print github.ref
         run: |
           echo '${{ github.ref }}'
-          echo '${{ github.ref.split("/").at(-1) }}'
+          node -p '${{ github.ref }}.split("/").at(-1)'
