@@ -115,36 +115,14 @@ And more **1 hr 21 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/european-crypto-industry-steps-up-efforts-influence-eu-policy-2022-04-19/">
+<a href="https://www.reuters.com/legal/legalindustry/digital-currency-forum-law-enforcement-regulation-search-crypto-savvy-2022-04-21/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/G_EATzJifHIp0qDaoy689XQ1Odo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JRTUL6VEDZP6JEIB3BPHLKFNPQ.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/Gp-bLvBDv3-2g6-hsKYIWV0KicU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BT3DV4I6BJNQBL3JI4HWYNGSYQ.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>European crypto industry steps up efforts to influence EU policy - Reuters</h2>
-<p>More than 40 crypto business leaders have asked the European Union not to require crypto firms to disclose transaction details and dial down attempts to bring to heel rapidly growing decentralised finance platforms.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/cryptoverse-gold-coins-glimmer-amid-global-gloom-2022-04-19/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/MYPjiTvDmkpj83pq52dCwN3BMmI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SGURYPDRIBJUPBTD6PMZBFHKZA.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Cryptoverse: Gold coins glimmer amid the global gloom - Reuters</h2>
-<p>A fledgling class of crypto that feasts on risk is outshining a wider market paralyzed by war and inflation.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/australias-cba-rebuffs-reports-partnership-with-crypto-trading-platform-2022-04-19/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/4_8aucePrIjQ5I85vdk7EUZeW24=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AYC42OP3R5MBLJFL2TS2CI5TTI.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Australia's CBA rebuffs reports of partnership with crypto trading platform - Reuters</h2>
-<p>Commonwealth Bank of Australia <a href="https://www.reuters.com/companies/CBA.AX" target="_blank">(CBA.AX)</a> warned of a fake news article doing rounds on social media platforms alleging the country's No. 1 lender to have partnered with a cryptocurrency tra…</p>
+<h2>Digital Currency Forum: Law enforcement, regulation & the search for crypto-savvy investigators - Reuters</h2>
+<p>NEW YORK — One has to feel for law-enforcement personnel and government regulators in the era of cyber crime and crypto-mania. Cyber thieves stole $6.9 billion in 2021, according to <i>Forbes</i>, and every indication is that 2022 will be worse, no matter wha…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -159,14 +137,36 @@ And more **1 hr 21 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/ukraine-conflict-test-resilience-global-financial-system-imf-2022-04-19/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/VBBCU363L_e2LFKaVFXVJI6TA64=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OT3HKIOCKVIZTJIKXIHUCJ3EV4.jpg" align="center" alt="Reuters"/>
+<a href="https://amp.theguardian.com/business/2022/apr/20/boe-asks-financial-firms-for-24m-more-track-risks-crypto-assets">
+<span>The Guardian</span>
+<img src="https://i.guim.co.uk/img/media/f147d67473f8face33fd28a164f7311b78717d1b/0_194_7566_4540/master/7566.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85709777ce6daa385992784b8b24b135" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Ukraine conflict to test resilience of global financial system: IMF - Reuters</h2>
-<p>Russia's invasion of Ukraine has driven up financial stability risks "on several fronts" and will test the resilience of the global financial system at a time when interest rates are rising sharply, the International Monetary Fund (IMF) warned in its biannual…</p>
+<h2>BoE asks financial firms for £24m more to keep track of risks from crypto assets</h2>
+<p>Levy increase needed to hire 100 extra staff in response to ‘new policy responsibilities’, says regulator bodyThe Bank of England is asking lenders and insurers to pay an extra £24m so it can hire 100 extra staff and keep track of new risks, including those l…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.entrepreneur.com/article/425287">
+<span>Entrepreneur</span>
+<img src="https://assets.entrepreneur.com/content/3x2/2000/1650478062-GettyImages-1332494885.jpg" align="center" alt="Entrepreneur"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Secret Service Has Seized More Than $100 Million in Crypto Over the Past 7 Years</h2>
+<p>The Secret Service is keeping close tabs on fraudulent activity, seizing more than $102 million in crypto in 254 cases since 2015.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.businessinsider.com/more-us-consumers-are-making-purchases-with-crypto-2022-4">
+<span>Business Insider</span>
+<img src="https://i.insider.com/6260146dd2039d0019ba79e8?width=1200&format=jpeg" align="center" alt="Business Insider"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Customers want to pay with their crypto</h2>
+<p>US crypto owners are increasingly using their digital holdings to make purchases online and in-store.</p>
 </td>
 </table>
 <!-- Crypto News -->
