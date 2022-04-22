@@ -115,6 +115,17 @@ And more **36 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/business/finance/us-bank-regulator-accuses-crypto-bank-compliance-issues-2022-04-21/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/S4JI382whRYHYjMSGJOcEmSMhvA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HSNR3QMF4ROSRK4OIEJSVYEJL4.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>U.S. bank regulator accuses crypto bank of compliance issues - Reuters</h2>
+<p>The Office of the Comptroller of the Currency on Thursday said flagship crypto bank Anchorage Digital Bank National Association violated rules for monitoring for suspicious activity and preventing money laundering.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/legal/legalindustry/digital-currency-forum-law-enforcement-regulation-search-crypto-savvy-2022-04-21/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/Gp-bLvBDv3-2g6-hsKYIWV0KicU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BT3DV4I6BJNQBL3JI4HWYNGSYQ.jpg" align="center" alt="Reuters"/>
@@ -126,47 +137,36 @@ And more **36 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/un-panel-coordinator-urges-stepped-up-focus-north-korea-cyber-crime-2022-04-20/">
+<a href="https://www.reuters.com/technology/twitter-stripe-pilot-cryptocurrency-payments-creators-2022-04-22/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=83" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/NTD2JIkWomh-SjohA_vs8Cm0cKM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V4EEOCXOM5MOTKBYKH2UYHO4WE.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>U.N. panel coordinator urges stepped up focus on North Korea cyber crime - Reuters</h2>
-<p>The coordinator for the U.N. body monitoring enforcement of sanctions on North Korea said on Wednesday a stepped up focus was needed on cybercrime, which had become fundamental to Pyongyang's ability to finance its banned weapons programs.</p>
+<h2>Twitter, Stripe pilot cryptocurrency payments for creators - Reuters</h2>
+<p>Twitter Inc <a href="https://www.reuters.com/companies/TWTR.N" target="_blank">(TWTR.N)</a> and digital payments processor Stripe Inc will pilot cryptocurrency payouts for select users of the social media site's content monetization products, the companies an…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/business/2022/apr/20/boe-asks-financial-firms-for-24m-more-track-risks-crypto-assets">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/f147d67473f8face33fd28a164f7311b78717d1b/0_194_7566_4540/master/7566.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85709777ce6daa385992784b8b24b135" align="center" alt="The Guardian"/>
+<a href="https://www.reuters.com/technology/how-crypto-giant-binance-built-ties-russian-fsb-linked-agency-2022-04-22/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/81I_Lji_RZoUtVEPtwkn2zNDhCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QJ5P2FLF75OF3EB6M5QHUG2SY4.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>BoE asks financial firms for £24m more to keep track of risks from crypto assets</h2>
-<p>Levy increase needed to hire 100 extra staff in response to ‘new policy responsibilities’, says regulator bodyThe Bank of England is asking lenders and insurers to pay an extra £24m so it can hire 100 extra staff and keep track of new risks, including those l…</p>
+<h2>Special Report: How crypto giant Binance built ties to a Russian FSB-linked agency - Reuters</h2>
+<p>In April 2021, Russia's financial intelligence unit met in Moscow with the regional head of Binance, the world's largest crypto exchange. The Russians wanted Binance to agree to hand over client data, including names and addresses, to help them fight crime, a…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.entrepreneur.com/article/425287">
-<span>Entrepreneur</span>
-<img src="https://assets.entrepreneur.com/content/3x2/2000/1650478062-GettyImages-1332494885.jpg" align="center" alt="Entrepreneur"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Secret Service Has Seized More Than $100 Million in Crypto Over the Past 7 Years</h2>
-<p>The Secret Service is keeping close tabs on fraudulent activity, seizing more than $102 million in crypto in 254 cases since 2015.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.businessinsider.com/more-us-consumers-are-making-purchases-with-crypto-2022-4">
+<a href="https://www.businessinsider.com/personal-finance/bribery">
 <span>Business Insider</span>
-<img src="https://i.insider.com/6260146dd2039d0019ba79e8?width=1200&format=jpeg" align="center" alt="Business Insider"/>
+<img src="https://i.insider.com/6261c9d1db73840018a58224?width=1200&format=jpeg" align="center" alt="Business Insider"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Customers want to pay with their crypto</h2>
-<p>US crypto owners are increasingly using their digital holdings to make purchases online and in-store.</p>
+<h2>Bribery: A quid-pro-quo exchange to influence someone's actions</h2>
+<p>Bribery is an exchange where money or favor is given or promised to influence the judgment or conduct of a person in a position of authority.</p>
 </td>
 </table>
 <!-- Crypto News -->
