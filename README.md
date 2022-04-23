@@ -115,25 +115,25 @@ And more **23 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/us-bank-regulator-accuses-crypto-bank-compliance-issues-2022-04-21/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/S4JI382whRYHYjMSGJOcEmSMhvA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HSNR3QMF4ROSRK4OIEJSVYEJL4.jpg" align="center" alt="Reuters"/>
+<a href="https://www.nytimes.com/2022/04/22/podcasts/jordan-belfort-confederate-statues-narrated-articles.html">
+<span>New York Times</span>
+<img src="https://static01.nyt.com/images/2022/04/12/business/22narrated-1/00belfort1-facebookJumbo.jpg" align="center" alt="New York Times"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>U.S. bank regulator accuses crypto bank of compliance issues - Reuters</h2>
-<p>The Office of the Comptroller of the Currency on Thursday said flagship crypto bank Anchorage Digital Bank National Association violated rules for monitoring for suspicious activity and preventing money laundering.</p>
+<h2>The Wolf of Crypto and the Confederate Statue Remover: The Week in Narrated Articles</h2>
+<p>Five articles from around The Times, narrated just for you.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/legal/legalindustry/digital-currency-forum-law-enforcement-regulation-search-crypto-savvy-2022-04-21/">
+<a href="https://www.reuters.com/legal/litigation/crypto-platform-investors-sue-spac-execs-over-accounting-2022-04-22/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/Gp-bLvBDv3-2g6-hsKYIWV0KicU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BT3DV4I6BJNQBL3JI4HWYNGSYQ.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/W6RhncZtXQJvKejBLGPWn_Sfa6c=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2PITTKICPJPNTHIXNY6VX6IYAQ.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Digital Currency Forum: Law enforcement, regulation & the search for crypto-savvy investigators - Reuters</h2>
-<p>NEW YORK — One has to feel for law-enforcement personnel and government regulators in the era of cyber crime and crypto-mania. Cyber thieves stole $6.9 billion in 2021, according to <i>Forbes</i>, and every indication is that 2022 will be worse, no matter wha…</p>
+<h2>Crypto platform investors sue SPAC execs over accounting - Reuters</h2>
+<p>Shareholders in cryptocurrency platform Bakkt Holdings Inc sued the investment managers who took the company public via a blank check company, alleging they misled investors by improperly classifying shares.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -159,14 +159,14 @@ And more **23 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.businessinsider.com/personal-finance/bribery">
-<span>Business Insider</span>
-<img src="https://i.insider.com/6261c9d1db73840018a58224?width=1200&format=jpeg" align="center" alt="Business Insider"/>
+<a href="https://news.slashdot.org/story/22/04/23/0611251/dirk-hohndel-early-linux-contributor-joins-foundation-supporting-blockchain-platform-cardano">
+<span>Slashdot.org</span>
+<img src="https://a.fsdn.com/sd/topics/money_64.png" align="center" alt="Slashdot.org"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Bribery: A quid-pro-quo exchange to influence someone's actions</h2>
-<p>Bribery is an exchange where money or favor is given or promised to influence the judgment or conduct of a person in a position of authority.</p>
+<h2>Dirk Hohndel, Early Linux Contributor, Joins Foundation Supporting Blockchain Platform Cardano</h2>
+<p>Dirk Hohndel gets frequently mentioned on Slashdot. He was a very early contributor to Linux (and for the last five years the chief open source officer and vice president at VMware). But he's also the guy who interviews Linus Torvalds in the keynote sessions …</p>
 </td>
 </table>
 <!-- Crypto News -->
