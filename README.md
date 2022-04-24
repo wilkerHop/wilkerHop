@@ -115,50 +115,6 @@ And more **23 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.nytimes.com/2022/04/22/podcasts/jordan-belfort-confederate-statues-narrated-articles.html">
-<span>New York Times</span>
-<img src="https://static01.nyt.com/images/2022/04/12/business/22narrated-1/00belfort1-facebookJumbo.jpg" align="center" alt="New York Times"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>The Wolf of Crypto and the Confederate Statue Remover: The Week in Narrated Articles</h2>
-<p>Five articles from around The Times, narrated just for you.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/legal/litigation/crypto-platform-investors-sue-spac-execs-over-accounting-2022-04-22/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/W6RhncZtXQJvKejBLGPWn_Sfa6c=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2PITTKICPJPNTHIXNY6VX6IYAQ.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Crypto platform investors sue SPAC execs over accounting - Reuters</h2>
-<p>Shareholders in cryptocurrency platform Bakkt Holdings Inc sued the investment managers who took the company public via a blank check company, alleging they misled investors by improperly classifying shares.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/twitter-stripe-pilot-cryptocurrency-payments-creators-2022-04-22/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/NTD2JIkWomh-SjohA_vs8Cm0cKM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V4EEOCXOM5MOTKBYKH2UYHO4WE.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Twitter, Stripe pilot cryptocurrency payments for creators - Reuters</h2>
-<p>Twitter Inc <a href="https://www.reuters.com/companies/TWTR.N" target="_blank">(TWTR.N)</a> and digital payments processor Stripe Inc will pilot cryptocurrency payouts for select users of the social media site's content monetization products, the companies an…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/how-crypto-giant-binance-built-ties-russian-fsb-linked-agency-2022-04-22/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/81I_Lji_RZoUtVEPtwkn2zNDhCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QJ5P2FLF75OF3EB6M5QHUG2SY4.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Special Report: How crypto giant Binance built ties to a Russian FSB-linked agency - Reuters</h2>
-<p>In April 2021, Russia's financial intelligence unit met in Moscow with the regional head of Binance, the world's largest crypto exchange. The Russians wanted Binance to agree to hand over client data, including names and addresses, to help them fight crime, a…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://news.slashdot.org/story/22/04/23/0611251/dirk-hohndel-early-linux-contributor-joins-foundation-supporting-blockchain-platform-cardano">
 <span>Slashdot.org</span>
 <img src="https://a.fsdn.com/sd/topics/money_64.png" align="center" alt="Slashdot.org"/>
@@ -167,6 +123,50 @@ And more **23 mins** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>Dirk Hohndel, Early Linux Contributor, Joins Foundation Supporting Blockchain Platform Cardano</h2>
 <p>Dirk Hohndel gets frequently mentioned on Slashdot. He was a very early contributor to Linux (and for the last five years the chief open source officer and vice president at VMware). But he's also the guy who interviews Linus Torvalds in the keynote sessions …</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://thenextweb.com/news/can-you-truly-own-anything-in-the-metaverse-not-really-says-a-law-professor">
+<span>The Next Web</span>
+<img src="https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FDecentraland-art-hed.jpg&signature=213081ce2a9aa2ae7e534e0f1f5ea901" align="center" alt="The Next Web"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Can you truly own anything in the metaverse? Not really, says a law professor</h2>
+<p>In 2021, an investment firm bought 2,000 acres of real estate for about US$4 million. Normally this would not make headlines, but in this case the land was virtual. It existed only in a metaverse platform called The Sandbox. By buying 792 non-fungible tokens …</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.genbeta.com/a-fondo/siete-servicios-web-almacenamiento-gratuitos-mayores-velocidades-descarga-subida">
+<span>Genbeta.com</span>
+<img src="https://i.blogs.es/cb68dc/destacada/840_560.jpg" align="center" alt="Genbeta.com"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Siete servicios web de almacenamiento gratuitos con las mayores velocidades de descarga y subida</h2>
+<p>En Genbeta ya hemos hablado en varias ocasiones de servicios de almacenamiento, así como de sitios web que permiten alojar y compartir archivos sin la necesidad de registrarse. En esta ocasión, hemos querido ofreceros una lista de los servicios de almacenamie…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.makeuseof.com/what-is-a-crypto-private-key/">
+<span>MakeUseOf</span>
+<img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/bitcoin-key-1.jpg" align="center" alt="MakeUseOf"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>What Are Crypto Private Keys and Why Are They Important?</h2>
+<p>Just like paper money, you should protect your cryptocurrency holdings. But to do so, you should know what a crypto private key is and how it works.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.makeuseof.com/m1-macbook-air-vs-ipad-air/">
+<span>MakeUseOf</span>
+<img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/m1-macbook-air-vs-ipad-air.jpg" align="center" alt="MakeUseOf"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>MacBook Air vs. iPad Air: Which M1 Machine Should You Buy?</h2>
+<p>Torn between buying the M1 MacBook Air and the M1 iPad Air? This detailed comparison will help you come to a decision.</p>
 </td>
 </table>
 <!-- Crypto News -->
