@@ -115,58 +115,58 @@ And more **24 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://news.slashdot.org/story/22/04/23/0611251/dirk-hohndel-early-linux-contributor-joins-foundation-supporting-blockchain-platform-cardano">
+<a href="https://www.reuters.com/technology/abu-dhabi-licences-kraken-operate-crypto-exchange-2022-04-25/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=89" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Abu Dhabi licences Kraken to operate crypto exchange - Reuters</h2>
+<p>Abu Dhabi Global Market (ADGM) said on Monday it has licenced the Kraken group to operate a regulated virtual asset exchange platform in the financial free zone.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/technology/graphic-chip-price-drop-raises-questions-whether-end-shortage-is-sight-2022-04-25/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/06S_mKAgWmdIuV4ujynF0CvQWn8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OOWILSQWCJPX7IT7LLQ5ST5VMQ.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Graphic chip price drop raises questions on whether end of shortage is in sight - Reuters</h2>
+<p>A sharp drop in graphic chip prices could presage an unexpectedly quick ending to a global chip crunch that has crippled manufacturing from smartphones to cars, and the issue will be a central one for companies reporting results this week.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/lifestyle/sports/exclusive-boxing-usyk-mounts-ukraine-relief-effort-ahead-joshua-fight-2022-04-25/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/jciyetOIlstG_EmMBNHijz9lUpw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IYAMAXVIQVKULK4LL7QTKLKTFQ.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>EXCLUSIVE Boxing-Usyk mounts Ukraine relief effort ahead of Joshua fight - Reuters</h2>
+<p>Olympic gold medallist Oleksandr Usyk will harness the star power of his rematch with Briton Anthony Joshua to raise relief funds for his native Ukraine, the unified heavyweight champion told Reuters.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://news.slashdot.org/story/22/04/25/1648233/ftx-ceo-sam-bankman-fried-says-likening-crypto-yield-farming-to-ponzi-scheme-a-reasonable-response">
 <span>Slashdot.org</span>
 <img src="https://a.fsdn.com/sd/topics/money_64.png" align="center" alt="Slashdot.org"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Dirk Hohndel, Early Linux Contributor, Joins Foundation Supporting Blockchain Platform Cardano</h2>
-<p>Dirk Hohndel gets frequently mentioned on Slashdot. He was a very early contributor to Linux (and for the last five years the chief open source officer and vice president at VMware). But he's also the guy who interviews Linus Torvalds in the keynote sessions …</p>
+<h2>FTX CEO Sam Bankman-Fried Says Likening Crypto Yield Farming To Ponzi Scheme a 'Reasonable Response'</h2>
+<p>Sam Bankman-Fried, chief executive and founder of Bahama-based crypto-exchange FTX and one of the most influential people in crypto, offered his insights into yield farming, projects that deliver tokens to buyers for staking. An excerpt from the podcast: Bloo…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://thenextweb.com/news/can-you-truly-own-anything-in-the-metaverse-not-really-says-a-law-professor">
-<span>The Next Web</span>
-<img src="https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FDecentraland-art-hed.jpg&signature=213081ce2a9aa2ae7e534e0f1f5ea901" align="center" alt="The Next Web"/>
+<a href="https://www.businessinsider.com/personal-finance/impact-app-review">
+<span>Business Insider</span>
+<img src="https://i.insider.com/625edf61d2039d0019ba5bed?width=1200&format=jpeg" align="center" alt="Business Insider"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Can you truly own anything in the metaverse? Not really, says a law professor</h2>
-<p>In 2021, an investment firm bought 2,000 acres of real estate for about US$4 million. Normally this would not make headlines, but in this case the land was virtual. It existed only in a metaverse platform called The Sandbox. By buying 792 non-fungible tokens …</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.genbeta.com/a-fondo/siete-servicios-web-almacenamiento-gratuitos-mayores-velocidades-descarga-subida">
-<span>Genbeta.com</span>
-<img src="https://i.blogs.es/cb68dc/destacada/840_560.jpg" align="center" alt="Genbeta.com"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Siete servicios web de almacenamiento gratuitos con las mayores velocidades de descarga y subida</h2>
-<p>En Genbeta ya hemos hablado en varias ocasiones de servicios de almacenamiento, así como de sitios web que permiten alojar y compartir archivos sin la necesidad de registrarse. En esta ocasión, hemos querido ofreceros una lista de los servicios de almacenamie…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.makeuseof.com/what-is-a-crypto-private-key/">
-<span>MakeUseOf</span>
-<img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/bitcoin-key-1.jpg" align="center" alt="MakeUseOf"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>What Are Crypto Private Keys and Why Are They Important?</h2>
-<p>Just like paper money, you should protect your cryptocurrency holdings. But to do so, you should know what a crypto private key is and how it works.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.makeuseof.com/m1-macbook-air-vs-ipad-air/">
-<span>MakeUseOf</span>
-<img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/m1-macbook-air-vs-ipad-air.jpg" align="center" alt="MakeUseOf"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>MacBook Air vs. iPad Air: Which M1 Machine Should You Buy?</h2>
-<p>Torn between buying the M1 MacBook Air and the M1 iPad Air? This detailed comparison will help you come to a decision.</p>
+<h2>IMPACT app review: Choose from 13 socially responsible investing categories</h2>
+<p>IMPACT is an Interactive Brokers-owned app offering socially responsible investing for those who want to make a difference with their investments.</p>
 </td>
 </table>
 <!-- Crypto News -->
