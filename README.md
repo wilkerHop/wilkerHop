@@ -115,6 +115,39 @@ And more **40 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/how-messy-might-twitter-get-under-musk-002717320.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-04/38578160-c4e0-11ec-bdff-5e1a260e3f6d" align="center" alt="Engadget"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>How messy might Twitter get under Musk</h2>
+<p>Tesla and SpaceX CEO Elon Musk added Twitter to his stable of companies on Monday, purchasing the social media platform for $44 billion dollars. Whether he made this purchase to finally realize his aspirations as a "free speech absolutist" or just did it to p…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.theverge.com/2022/4/25/23041415/bored-ape-yacht-club-nft-hack-instagram">
+<span>The Verge</span>
+<img src="https://cdn.vox-cdn.com/thumbor/rVEmV_irhLRha08S9D3dyv1AKOI=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23307862/acastro_2203011_5082_0001.jpg" align="center" alt="The Verge"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Thief steals $1 million of Bored Ape Yacht Club NFTs with Instagram hack</h2>
+<p>After compromising the official Instagram account for the Bored Ape Yacht Club NFT project, a hacker used a phishing link to steal more than 100 NFTs from victims, the most valuable of which was worth $350,000.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.theverge.com/23041249/elon-musk-free-speech-decoder-interview-podcast-cindy-cohn">
+<span>The Verge</span>
+<img src="https://cdn.vox-cdn.com/thumbor/mMduL7-qCbHxPGI1VVPkDLuS7Bc=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23415131/VRG_ILLO_Decoder_Cindy_Cohn.jpg" align="center" alt="The Verge"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Government surveillance, Elon Musk, and free speech, with EFF executive director Cindy Cohn</h2>
+<p>On the frontier of fighting the NSA, combatting censorship, and holding platforms like Apple, Meta, and Google accountable. Plus, the Elon Musk and Twitter saga.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/technology/abu-dhabi-licences-kraken-operate-crypto-exchange-2022-04-25/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=89" align="center" alt="Reuters"/>
@@ -126,47 +159,14 @@ And more **40 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/graphic-chip-price-drop-raises-questions-whether-end-shortage-is-sight-2022-04-25/">
+<a href="https://www.reuters.com/technology/revolut-ceo-eyes-expansion-into-mortgages-crypto-wallets-2022-04-26/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/06S_mKAgWmdIuV4ujynF0CvQWn8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OOWILSQWCJPX7IT7LLQ5ST5VMQ.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/5Dz-5n6oLzFVgOJFD5qTnLfdEEI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NAVPQ3WZMNPS5NCPRUFJ4XPL5E.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Graphic chip price drop raises questions on whether end of shortage is in sight - Reuters</h2>
-<p>A sharp drop in graphic chip prices could presage an unexpectedly quick ending to a global chip crunch that has crippled manufacturing from smartphones to cars, and the issue will be a central one for companies reporting results this week.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/lifestyle/sports/exclusive-boxing-usyk-mounts-ukraine-relief-effort-ahead-joshua-fight-2022-04-25/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/jciyetOIlstG_EmMBNHijz9lUpw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IYAMAXVIQVKULK4LL7QTKLKTFQ.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>EXCLUSIVE Boxing-Usyk mounts Ukraine relief effort ahead of Joshua fight - Reuters</h2>
-<p>Olympic gold medallist Oleksandr Usyk will harness the star power of his rematch with Briton Anthony Joshua to raise relief funds for his native Ukraine, the unified heavyweight champion told Reuters.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://news.slashdot.org/story/22/04/25/1648233/ftx-ceo-sam-bankman-fried-says-likening-crypto-yield-farming-to-ponzi-scheme-a-reasonable-response">
-<span>Slashdot.org</span>
-<img src="https://a.fsdn.com/sd/topics/money_64.png" align="center" alt="Slashdot.org"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>FTX CEO Sam Bankman-Fried Says Likening Crypto Yield Farming To Ponzi Scheme a 'Reasonable Response'</h2>
-<p>Sam Bankman-Fried, chief executive and founder of Bahama-based crypto-exchange FTX and one of the most influential people in crypto, offered his insights into yield farming, projects that deliver tokens to buyers for staking. An excerpt from the podcast: Bloo…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.businessinsider.com/personal-finance/impact-app-review">
-<span>Business Insider</span>
-<img src="https://i.insider.com/625edf61d2039d0019ba5bed?width=1200&format=jpeg" align="center" alt="Business Insider"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>IMPACT app review: Choose from 13 socially responsible investing categories</h2>
-<p>IMPACT is an Interactive Brokers-owned app offering socially responsible investing for those who want to make a difference with their investments.</p>
+<h2>Revolut CEO eyes expansion into mortgages, crypto wallets - Reuters</h2>
+<p>Digital banking platform Revolut is working on expanding into decentralized cryptocurrency wallets and is also looking at the mortgage sector, its CEO said, as the London-based company pushes ahead with its strategy to become a so-called "superapp".</p>
 </td>
 </table>
 <!-- Crypto News -->
