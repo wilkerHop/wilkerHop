@@ -115,36 +115,25 @@ And more **29 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/how-messy-might-twitter-get-under-musk-002717320.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-04/38578160-c4e0-11ec-bdff-5e1a260e3f6d" align="center" alt="Engadget"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>How messy might Twitter get under Musk</h2>
-<p>Tesla and SpaceX CEO Elon Musk added Twitter to his stable of companies on Monday, purchasing the social media platform for $44 billion dollars. Whether he made this purchase to finally realize his aspirations as a "free speech absolutist" or just did it to p…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.theverge.com/23041249/elon-musk-free-speech-decoder-interview-podcast-cindy-cohn">
-<span>The Verge</span>
-<img src="https://cdn.vox-cdn.com/thumbor/mMduL7-qCbHxPGI1VVPkDLuS7Bc=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23415131/VRG_ILLO_Decoder_Cindy_Cohn.jpg" align="center" alt="The Verge"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Government surveillance, Elon Musk, and free speech, with EFF executive director Cindy Cohn</h2>
-<p>On the frontier of fighting the NSA, combatting censorship, and holding platforms like Apple, Meta, and Google accountable. Plus, the Elon Musk and Twitter saga.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/revolut-ceo-eyes-expansion-into-mortgages-crypto-wallets-2022-04-26/">
+<a href="https://www.reuters.com/video/watch/idOV407426042022RP1">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/5Dz-5n6oLzFVgOJFD5qTnLfdEEI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NAVPQ3WZMNPS5NCPRUFJ4XPL5E.jpg" align="center" alt="Reuters"/>
+<img src="https://static.reuters.com/resources/r/?d=20220427&i=OV407426042022RP1&r=OV407426042022RP1&t=2" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Revolut CEO eyes expansion into mortgages, crypto wallets - Reuters</h2>
-<p>Digital banking platform Revolut is working on expanding into decentralized cryptocurrency wallets and is also looking at the mortgage sector, its CEO said, as the London-based company pushes ahead with its strategy to become a so-called "superapp".</p>
+<h2>Cryptoverse: Twitter coins, digital roubles - Reuters</h2>
+<p>From crypto payments for Twitter content creators, to Russia's plans for a digital rouble, we round up the week's big stories in cryptocurrencies. Grace Lee reports.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/video/watch/idsvwe?now=true">
+<span>Reuters</span>
+<img src="https://ajo.prod.reuters.tv/api/v2/img/626a2602e4b085d396fd675c-1651123714329?location=LANDSCAPE" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Crypto gains ground in US-sanctioned Cuba - Reuters.com</h2>
+<p>The Cuban central bank issued regulations on Tuesday for virtual asset service providers, after giving a nod last year to the personal use of cryptocurrencies, a move some experts said could help the Communist-run Caribbean island skirt stiff U.S. sanctions.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -159,14 +148,25 @@ And more **29 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/cryptoverse-ether-prepares-epic-merge-quest-eclipse-bitcoin-2022-04-26/">
+<a href="https://www.reuters.com/business/finance/ftx-chief-welcomes-more-regulation-cftc-weighs-its-crypto-derivatives-proposal-2022-04-28/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/Xpd4XRkm7eEYPo9_LKBQhpcDyBo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PKJQY4TBEVMRZNVN3OPZ7XHXLY.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/bR24nKf7RQi1pus8Pl8rSDLsYno=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W4CQDYPB4ZJNJPFVMW5VJ2CONY.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cryptoverse: Ether prepares for epic 'merge' in quest to eclipse bitcoin - Reuters.com</h2>
-<p>Ether has promised to do better. It has promised to go to the next level, edging out crypto rivals and even outshining the godfather, bitcoin. But the clock's ticking.</p>
+<h2>FTX chief welcomes more regulation as CFTC weighs its crypto derivatives proposal - Reuters.com</h2>
+<p>Crypto exchange FTX's move to seek regulatory approval for direct trading in cryptocurrency derivatives will leave the door open for more oversight of the business in the United States, the company's chief executive officer said.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/world/africa/bitcoin-adoption-by-central-african-republic-baffles-cryptoverse-2022-04-28/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/sBWUvemJW0ryqtlCm2qpRiwhcus=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XW2TXYEQFZNPVKYUBO65KACFFU.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Analysis: Bitcoin adoption by Central African Republic baffles cryptoverse - Reuters.com</h2>
+<p>Central African Republic's adoption of bitcoin, while many of the world's largest economies stay wary of it, has puzzled the cryptocurrency world and residents of the gold and diamond-producing country, and prompted caution from the IMF.</p>
 </td>
 </table>
 <!-- Crypto News -->
