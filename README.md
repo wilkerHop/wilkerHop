@@ -115,14 +115,14 @@ And more **1 hr** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/video/watch/idOV407426042022RP1">
+<a href="https://www.reuters.com/breakingviews/crypto-moves-herald-era-blockchain-buyout-2022-04-29/">
 <span>Reuters</span>
-<img src="https://static.reuters.com/resources/r/?d=20220427&i=OV407426042022RP1&r=OV407426042022RP1&t=2" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/JV9_2z7D2Ppeuej6tQZPYYnu69M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YLIKWS7CWVKU5APZEJUFPV3R2U.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cryptoverse: Twitter coins, digital roubles - Reuters</h2>
-<p>From crypto payments for Twitter content creators, to Russia's plans for a digital rouble, we round up the week's big stories in cryptocurrencies. Grace Lee reports.</p>
+<h2>Breakingviews - Crypto moves herald era of the blockchain buyout - Reuters</h2>
+<p>Private equity groups have sat on the sidelines of the crypto boom, which has seen the value of bitcoin and ether rally by 400% and 1,400% over the past two years. An EY survey found that <a href="https://www.ey.com/en_gl/private-equity/will-seeing-what-lies-…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -137,14 +137,14 @@ And more **1 hr** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/crypto-firms-seek-clearer-us-rules-their-interest-bearing-products-2022-04-27/">
+<a href="https://www.reuters.com/legal/transactional/grat-planning-with-crypto-volatile-relationship-or-match-made-heaven-2022-04-29/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/bR24nKf7RQi1pus8Pl8rSDLsYno=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W4CQDYPB4ZJNJPFVMW5VJ2CONY.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/ttUO51MQn-WsSMVZTBaYEF2CSmI=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GSKVTZCYRBNSJBLRK7CRZFU5TU.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Crypto firms seek clearer U.S. rules on their interest-bearing products - Reuters</h2>
-<p>Cryptocurrency companies said they remain unsure of U.S. regulations governing products that allow customers to earn interest on holdings instead of trading them, months after such an interest-bearing product drew a $100 million fine from a federal regulator …</p>
+<h2>GRAT planning with crypto: volatile relationship or match made in heaven? - Reuters</h2>
+<p>"Crypto" continues its reign as the newest and hottest form of investing. It has drawn significant attraction among millennials, or those individuals aged 27-41, where most millionaires in this generation have <a href="https://cnb.cx/37IEA7u" target="_blank">…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
