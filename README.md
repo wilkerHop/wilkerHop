@@ -115,6 +115,17 @@ And more **2 hrs 1 min** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.theverge.com/2022/4/30/23050263/telegram-lets-users-send-cryptocurrency-chats-toncoin-ton">
+<span>The Verge</span>
+<img src="https://cdn.vox-cdn.com/thumbor/UdhpgI5DTqayp4dfCSt4IyIxBMA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10668743/acastro_180417_1777_telegram_0002.jpg" align="center" alt="The Verge"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Telegram now lets users send cryptocurrency through TON blockchain spinoff</h2>
+<p>Telegram is now letting users send cryptocurrency payments through The Open Network (TON), the blockchain built off of Telegram’s abandoned crypto efforts.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/breakingviews/crypto-moves-herald-era-blockchain-buyout-2022-04-29/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/JV9_2z7D2Ppeuej6tQZPYYnu69M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YLIKWS7CWVKU5APZEJUFPV3R2U.jpg" align="center" alt="Reuters"/>
@@ -123,17 +134,6 @@ And more **2 hrs 1 min** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>Breakingviews - Crypto moves herald era of the blockchain buyout - Reuters</h2>
 <p>Private equity groups have sat on the sidelines of the crypto boom, which has seen the value of bitcoin and ether rally by 400% and 1,400% over the past two years. An EY survey found that <a href="https://www.ey.com/en_gl/private-equity/will-seeing-what-lies-…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/video/watch/idsvwe?now=true">
-<span>Reuters</span>
-<img src="https://ajo.prod.reuters.tv/api/v2/img/626a2602e4b085d396fd675c-1651123714329?location=LANDSCAPE" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Crypto gains ground in US-sanctioned Cuba - Reuters.com</h2>
-<p>The Cuban central bank issued regulations on Tuesday for virtual asset service providers, after giving a nod last year to the personal use of cryptocurrencies, a move some experts said could help the Communist-run Caribbean island skirt stiff U.S. sanctions.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -148,25 +148,25 @@ And more **2 hrs 1 min** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/ftx-chief-welcomes-more-regulation-cftc-weighs-its-crypto-derivatives-proposal-2022-04-28/">
+<a href="https://www.reuters.com/breakingviews/us-consumers-holding-up-better-than-amazon-2022-04-29/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/bR24nKf7RQi1pus8Pl8rSDLsYno=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W4CQDYPB4ZJNJPFVMW5VJ2CONY.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/Ysi4-FSY7dJJImLlpXKQmMrFQrU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GM3S6G7MYNLMPFPV3C27FWVFUM.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>FTX chief welcomes more regulation as CFTC weighs its crypto derivatives proposal - Reuters.com</h2>
-<p>Crypto exchange FTX's move to seek regulatory approval for direct trading in cryptocurrency derivatives will leave the door open for more oversight of the business in the United States, the company's chief executive officer said.</p>
+<h2>Breakingviews - U.S. consumers holding up better than Amazon - Reuters</h2>
+<p>U.S. consumers aren’t letting price hikes get in the way of spending. But Amazon.com <a href="https://www.reuters.com/companies/AMZN.O" target="_blank">(AMZN.O)</a> is struggling. That’s because people’s habits are shifting.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/africa/bitcoin-adoption-by-central-african-republic-baffles-cryptoverse-2022-04-28/">
+<a href="https://www.reuters.com/world/us/worlds-first-nft-museum-seattle-aims-pull-back-curtain-blockchain-art-2022-04-29/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/sBWUvemJW0ryqtlCm2qpRiwhcus=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XW2TXYEQFZNPVKYUBO65KACFFU.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/xr8l9dAuhSvyvGdXZHs094VZIak=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UYHU7IPKQJMYRDTOJGOKPSP5AU.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Analysis: Bitcoin adoption by Central African Republic baffles cryptoverse - Reuters.com</h2>
-<p>Central African Republic's adoption of bitcoin, while many of the world's largest economies stay wary of it, has puzzled the cryptocurrency world and residents of the gold and diamond-producing country, and prompted caution from the IMF.</p>
+<h2>World's first NFT museum in Seattle aims to 'pull back the curtain' on blockchain art - Reuters</h2>
+<p>The world's first permanent NFT art museum has opened in Seattle, aiming to "pull back the curtain" on blockchain-based digital art.</p>
 </td>
 </table>
 <!-- Crypto News -->
