@@ -126,47 +126,47 @@ And more **2 hrs 1 min** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/breakingviews/crypto-moves-herald-era-blockchain-buyout-2022-04-29/">
+<a href="https://www.reuters.com/technology/bored-ape-nft-company-raises-around-285-million-crypto-virtual-land-sale-2022-05-01/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/JV9_2z7D2Ppeuej6tQZPYYnu69M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YLIKWS7CWVKU5APZEJUFPV3R2U.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/0PKQmL_5XfHCc8930wUO0EAn2Sg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TDGIJVYRNNPJ5FHTOSE24F6IVY.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Breakingviews - Crypto moves herald era of the blockchain buyout - Reuters</h2>
-<p>Private equity groups have sat on the sidelines of the crypto boom, which has seen the value of bitcoin and ether rally by 400% and 1,400% over the past two years. An EY survey found that <a href="https://www.ey.com/en_gl/private-equity/will-seeing-what-lies-…</p>
+<h2>Bored Ape NFT company raises around $285 million of crypto in virtual land sale - Reuters.com</h2>
+<p>The company behind the "Bored Ape" series of NFTs has raised around $285 million worth of cryptocurrency by selling tokens which represent land in a virtual world game it says it is building.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/legal/transactional/grat-planning-with-crypto-volatile-relationship-or-match-made-heaven-2022-04-29/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/ttUO51MQn-WsSMVZTBaYEF2CSmI=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GSKVTZCYRBNSJBLRK7CRZFU5TU.jpg" align="center" alt="Reuters"/>
+<a href="https://amp.theguardian.com/commentisfree/2022/apr/30/the-red-wall-boris-johnson-should-worry-more-about-disgusted-of-tunbridge-wells">
+<span>The Guardian</span>
+<img src="https://i.guim.co.uk/img/media/563e3a0e2275f00f4fe9ee0acbf87be0696da9a1/0_182_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=13248ce3a93f9b733837420e979c40bd" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>GRAT planning with crypto: volatile relationship or match made in heaven? - Reuters</h2>
-<p>"Crypto" continues its reign as the newest and hottest form of investing. It has drawn significant attraction among millennials, or those individuals aged 27-41, where most millionaires in this generation have <a href="https://cnb.cx/37IEA7u" target="_blank">…</p>
+<h2>The red wall? Boris Johnson should worry more about Disgusted of Tunbridge Wells | Nick Cohen</h2>
+<p>The only constituency that matters to the PM now is the rightwing press and party MPsLike a cornered thug lashing out, Boris Johnson hides his weakness by pretending to be strong. In every respect that matters his administration isn’t a government but a taxpa…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/breakingviews/us-consumers-holding-up-better-than-amazon-2022-04-29/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/Ysi4-FSY7dJJImLlpXKQmMrFQrU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GM3S6G7MYNLMPFPV3C27FWVFUM.jpg" align="center" alt="Reuters"/>
+<a href="https://due.com/blog/financial-inclusivity/">
+<span>Due.com</span>
+<img src="https://assets.entrepreneur.com/providers/due/hero-image-due-426486.jpeg" align="center" alt="Due.com"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Breakingviews - U.S. consumers holding up better than Amazon - Reuters</h2>
-<p>U.S. consumers aren’t letting price hikes get in the way of spending. But Amazon.com <a href="https://www.reuters.com/companies/AMZN.O" target="_blank">(AMZN.O)</a> is struggling. That’s because people’s habits are shifting.</p>
+<h2>Financial Trends Closing the Wealth Gap and Bringing Inclusivity</h2>
+<p>Financial inclusion is one of the more ambitious goals countries, leaders, businesses, communities, and individuals around the world are trying to achieve. Little by little, financial inclusivity is causing progress...</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/us/worlds-first-nft-museum-seattle-aims-pull-back-curtain-blockchain-art-2022-04-29/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/xr8l9dAuhSvyvGdXZHs094VZIak=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UYHU7IPKQJMYRDTOJGOKPSP5AU.jpg" align="center" alt="Reuters"/>
+<a href="https://readwrite.com/a-detailed-guide-on-nft-marketplace-development-use-cases-prerequisites-and-features/">
+<span>ReadWrite</span>
+<img src="https://images.readwrite.com/wp-content/uploads/2022/04/NFT-Marketplace.jpg" align="center" alt="ReadWrite"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>World's first NFT museum in Seattle aims to 'pull back the curtain' on blockchain art - Reuters</h2>
-<p>The world's first permanent NFT art museum has opened in Seattle, aiming to "pull back the curtain" on blockchain-based digital art.</p>
+<h2>A Detailed Guide on NFT Marketplace Development: Use cases, Prerequisites and Features</h2>
+<p>Digital collectibles make news worldwide, and people are incredibly excited about owning rare digital assets. As a result, non-fungible tokens soon joined the race of investment plans for individuals. NFTs worth billions are being traded on digital platforms …</p>
 </td>
 </table>
 <!-- Crypto News -->
