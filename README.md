@@ -115,14 +115,14 @@ And more **2 hrs** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.theverge.com/2022/4/30/23050263/telegram-lets-users-send-cryptocurrency-chats-toncoin-ton">
-<span>The Verge</span>
-<img src="https://cdn.vox-cdn.com/thumbor/UdhpgI5DTqayp4dfCSt4IyIxBMA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10668743/acastro_180417_1777_telegram_0002.jpg" align="center" alt="The Verge"/>
+<a href="https://gizmodo.com/warren-buffett-all-bitcoin-world-25-dollars-assets-valu-1848866967">
+<span>Gizmodo.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bbc389f90510758bf8f4131a7e2cbacd.png" align="center" alt="Gizmodo.com"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Telegram now lets users send cryptocurrency through TON blockchain spinoff</h2>
-<p>Telegram is now letting users send cryptocurrency payments through The Open Network (TON), the blockchain built off of Telegram’s abandoned crypto efforts.</p>
+<h2>Warren Buffett Says He Wouldn't Take All the Bitcoin in the World for $25</h2>
+<p>Warren Buffett has always been a bitcoin skeptic. But the billionaire investor had his most harsh words yet for the cryptocurrency over the weekend. Buffett made it clear that his opposition to crypto has nothing to do with whether people can make money tradi…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -137,36 +137,36 @@ And more **2 hrs** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/commentisfree/2022/apr/30/the-red-wall-boris-johnson-should-worry-more-about-disgusted-of-tunbridge-wells">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/563e3a0e2275f00f4fe9ee0acbf87be0696da9a1/0_182_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=13248ce3a93f9b733837420e979c40bd" align="center" alt="The Guardian"/>
+<a href="https://www.reuters.com/breakingviews/jetblue-antitrust-risk-haunts-spirit-2022-05-02/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/7E7BlSdTVFbWgWUwP0iF47vwB3M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VKBEDQ4MWNO3TNEXKNROKNZBCM.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>The red wall? Boris Johnson should worry more about Disgusted of Tunbridge Wells | Nick Cohen</h2>
-<p>The only constituency that matters to the PM now is the rightwing press and party MPsLike a cornered thug lashing out, Boris Johnson hides his weakness by pretending to be strong. In every respect that matters his administration isn’t a government but a taxpa…</p>
+<h2>JetBlue antitrust risk haunts Spirit - Reuters</h2>
+<p>Shares of budget U.S. carrier Spirit Airlines <a href="https://www.reuters.com/companies/SAVE.N" target="_blank">(SAVE.N)</a> fell 8% on Monday after it <a href="https://www.prnewswire.com/news-releases/spirit-airlines-board-of-directors-reiterates-support-fo…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://due.com/blog/financial-inclusivity/">
-<span>Due.com</span>
-<img src="https://assets.entrepreneur.com/providers/due/hero-image-due-426486.jpeg" align="center" alt="Due.com"/>
+<a href="https://www.entrepreneur.com/article/423884">
+<span>Entrepreneur</span>
+<img src="https://assets.entrepreneur.com/content/3x2/2000/1650898955-GettyImages-1364715854.jpg" align="center" alt="Entrepreneur"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Financial Trends Closing the Wealth Gap and Bringing Inclusivity</h2>
-<p>Financial inclusion is one of the more ambitious goals countries, leaders, businesses, communities, and individuals around the world are trying to achieve. Little by little, financial inclusivity is causing progress...</p>
+<h2>How to Make Smart Crypto Investment Decisions Using Data Analytics</h2>
+<p>New Web3 investors will need AI data analytics to navigate this new industry. Here's how to use it to make better, smarter crypto investment choices.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://readwrite.com/a-detailed-guide-on-nft-marketplace-development-use-cases-prerequisites-and-features/">
-<span>ReadWrite</span>
-<img src="https://images.readwrite.com/wp-content/uploads/2022/04/NFT-Marketplace.jpg" align="center" alt="ReadWrite"/>
+<a href="https://www.npr.org/2022/05/02/1095770735/madison-cawthorn-allegations">
+<span>NPR</span>
+<img src="https://media.npr.org/assets/img/2022/04/30/ap22100666281713_wide-3d4816b55a8f8d7ef46f8882bdb392d8a2a99c5b.jpg?s=1400" align="center" alt="NPR"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>A Detailed Guide on NFT Marketplace Development: Use cases, Prerequisites and Features</h2>
-<p>Digital collectibles make news worldwide, and people are incredibly excited about owning rare digital assets. As a result, non-fungible tokens soon joined the race of investment plans for individuals. NFTs worth billions are being traded on digital platforms …</p>
+<h2>Rep. Madison Cawthorn is under mounting pressure from scandals ahead of midterms</h2>
+<p>In the wake of scandals following the far-right North Carolina congressman, from salacious pictures to alleged insider trading, Cawthorn's star seems to be falling almost as fast as it rose.</p>
 </td>
 </table>
 <!-- Crypto News -->
