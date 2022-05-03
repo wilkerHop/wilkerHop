@@ -126,47 +126,47 @@ And more **1 hr 46 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/bored-ape-nft-company-raises-around-285-million-crypto-virtual-land-sale-2022-05-01/">
+<a href="https://www.reuters.com/business/finance/cryptoverse-venture-capitalists-catch-crypto-fever-2022-05-03/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/0PKQmL_5XfHCc8930wUO0EAn2Sg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TDGIJVYRNNPJ5FHTOSE24F6IVY.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/mhnlNnjhE1y-CQ7JRZnTaDhnC_s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5O2YCJEQRNIP3KJAD2CMYQT3HM.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Bored Ape NFT company raises around $285 million of crypto in virtual land sale - Reuters.com</h2>
-<p>The company behind the "Bored Ape" series of NFTs has raised around $285 million worth of cryptocurrency by selling tokens which represent land in a virtual world game it says it is building.</p>
+<h2>Cryptoverse: Venture capitalists catch crypto fever - Reuters</h2>
+<p>Cryptoverse: Venture capitalists catch crypto fever  Reuters</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/breakingviews/jetblue-antitrust-risk-haunts-spirit-2022-05-02/">
+<a href="https://www.reuters.com/technology/us-sec-ramps-up-crypto-fraud-oversight-by-adding-20-employees-2022-05-03/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/7E7BlSdTVFbWgWUwP0iF47vwB3M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VKBEDQ4MWNO3TNEXKNROKNZBCM.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/5cgY6haxzOGKhiSwFyxd3ntVc78=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W3E3ZQ546ZO47PO2F3D7PIZWBQ.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>JetBlue antitrust risk haunts Spirit - Reuters</h2>
-<p>Shares of budget U.S. carrier Spirit Airlines <a href="https://www.reuters.com/companies/SAVE.N" target="_blank">(SAVE.N)</a> fell 8% on Monday after it <a href="https://www.prnewswire.com/news-releases/spirit-airlines-board-of-directors-reiterates-support-fo…</p>
+<h2>U.S. SEC ramps up crypto fraud oversight by adding 20 employees - Reuters</h2>
+<p>The U.S. Securities and Exchange Commission (SEC) said on Tuesday it will add 20 positions to its enforcement unit for crypto markets in its push to curb fraudulent activities in the hot digital space.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.entrepreneur.com/article/423884">
-<span>Entrepreneur</span>
-<img src="https://assets.entrepreneur.com/content/3x2/2000/1650898955-GettyImages-1364715854.jpg" align="center" alt="Entrepreneur"/>
+<a href="https://www.reuters.com/technology/citadel-securities-founder-griffin-likens-crypto-value-abstract-art-2022-05-02/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/1KWEb-7Xz12_TvLKD38Q1hKcrRw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NDFUCNJL2FO7HLNMNVL5BVTS6Q.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>How to Make Smart Crypto Investment Decisions Using Data Analytics</h2>
-<p>New Web3 investors will need AI data analytics to navigate this new industry. Here's how to use it to make better, smarter crypto investment choices.</p>
+<h2>Citadel Securities founder Griffin likens crypto value to abstract art - Reuters</h2>
+<p>Ken Griffin, the billionaire founder of Citadel Securities, one of the world's biggest market-making firms, said on Monday he envisions the company entering the cryptocurrency market as a combination of a liquidity provider and an exchange.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.npr.org/2022/05/02/1095770735/madison-cawthorn-allegations">
-<span>NPR</span>
-<img src="https://media.npr.org/assets/img/2022/04/30/ap22100666281713_wide-3d4816b55a8f8d7ef46f8882bdb392d8a2a99c5b.jpg?s=1400" align="center" alt="NPR"/>
+<a href="https://www.reuters.com/world/africa/bitcoins-african-outpost-raises-several-red-flags-2022-05-03/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/QmgPzsTbb3ksaGQqxcXEzTq294A=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BLOPVBCVWBK6JKVHF2LQC4XFKY.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Rep. Madison Cawthorn is under mounting pressure from scandals ahead of midterms</h2>
-<p>In the wake of scandals following the far-right North Carolina congressman, from salacious pictures to alleged insider trading, Cawthorn's star seems to be falling almost as fast as it rose.</p>
+<h2>Bitcoin's African outpost raises several red flags - Reuters</h2>
+<p>Bitcoin’s latest fans are about as far as you can get from Silicon Valley crypto bros. War-torn Central African Republic (CAR) on Wednesday adopted the digital currency as legal tender <a href="/world/africa/central-african-republic-adopts-bitcoin-an-official…</p>
 </td>
 </table>
 <!-- Crypto News -->
