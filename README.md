@@ -115,17 +115,6 @@ And more **2 hrs 2 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://gizmodo.com/warren-buffett-all-bitcoin-world-25-dollars-assets-valu-1848866967">
-<span>Gizmodo.com</span>
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bbc389f90510758bf8f4131a7e2cbacd.png" align="center" alt="Gizmodo.com"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Warren Buffett Says He Wouldn't Take All the Bitcoin in the World for $25</h2>
-<p>Warren Buffett has always been a bitcoin skeptic. But the billionaire investor had his most harsh words yet for the cryptocurrency over the weekend. Buffett made it clear that his opposition to crypto has nothing to do with whether people can make money tradi…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/business/finance/cryptoverse-venture-capitalists-catch-crypto-fever-2022-05-03/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/mhnlNnjhE1y-CQ7JRZnTaDhnC_s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5O2YCJEQRNIP3KJAD2CMYQT3HM.jpg" align="center" alt="Reuters"/>
@@ -148,14 +137,25 @@ And more **2 hrs 2 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/citadel-securities-founder-griffin-likens-crypto-value-abstract-art-2022-05-02/">
+<a href="https://www.reuters.com/video/watch/idOV544103052022RP1">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/1KWEb-7Xz12_TvLKD38Q1hKcrRw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NDFUCNJL2FO7HLNMNVL5BVTS6Q.jpg" align="center" alt="Reuters"/>
+<img src="https://static.reuters.com/resources/r/?d=20220503&i=OV544103052022RP1&r=OV544103052022RP1&t=2" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Citadel Securities founder Griffin likens crypto value to abstract art - Reuters</h2>
-<p>Ken Griffin, the billionaire founder of Citadel Securities, one of the world's biggest market-making firms, said on Monday he envisions the company entering the cryptocurrency market as a combination of a liquidity provider and an exchange.</p>
+<h2>Cryptoverse: VCs double down on investments - Reuters</h2>
+<p>From venture capitalists catching crypto fever to the spread of virtual currencies in Cuba and Panama, we round up the week's big stories in cryptocurrencies. Kristy Kilburn reports.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/breakingviews/goldmans-financial-alchemy-extends-crypto-too-2022-05-04/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/1RLBKXa7PoGKcv722niq_QAZQ08=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YXYSDJG4DVJDVF3Y6VT4XZ6FMA.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Breakingviews - Goldman's financial alchemy extends to crypto too - Reuters.com</h2>
+<p>Trust Goldman Sachs <a href="https://www.reuters.com/companies/GS.N" target="_blank">(GS.N)</a> to find an angle for investment banks in the cryptocurrency sector. David Solomon’s $100 billion group made a bitcoin-backed loan to $27 billion exchange Coinbase …</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
