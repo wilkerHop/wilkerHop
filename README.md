@@ -115,36 +115,14 @@ And more **2 hrs 30 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/cryptoverse-venture-capitalists-catch-crypto-fever-2022-05-03/">
+<a href="https://www.reuters.com/markets/us/crypto-warnings-invoke-us-subprime-bust-2008-all-that-2022-05-05/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/mhnlNnjhE1y-CQ7JRZnTaDhnC_s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5O2YCJEQRNIP3KJAD2CMYQT3HM.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/tTTEj5Fay7cYA-z3yzuFlk7muOc=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GTZHVIHEXRLHTKK4Y7RFQ3S2H4.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cryptoverse: Venture capitalists catch crypto fever - Reuters</h2>
-<p>Cryptoverse: Venture capitalists catch crypto fever  Reuters</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/us-sec-ramps-up-crypto-fraud-oversight-by-adding-20-employees-2022-05-03/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/5cgY6haxzOGKhiSwFyxd3ntVc78=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W3E3ZQ546ZO47PO2F3D7PIZWBQ.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>U.S. SEC ramps up crypto fraud oversight by adding 20 employees - Reuters</h2>
-<p>The U.S. Securities and Exchange Commission (SEC) said on Tuesday it will add 20 positions to its enforcement unit for crypto markets in its push to curb fraudulent activities in the hot digital space.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/video/watch/idOV544103052022RP1">
-<span>Reuters</span>
-<img src="https://static.reuters.com/resources/r/?d=20220503&i=OV544103052022RP1&r=OV544103052022RP1&t=2" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Cryptoverse: VCs double down on investments - Reuters</h2>
-<p>From venture capitalists catching crypto fever to the spread of virtual currencies in Cuba and Panama, we round up the week's big stories in cryptocurrencies. Kristy Kilburn reports.</p>
+<h2>Column: Crypto warnings invoke U.S. subprime bust, 2008, and all that - Reuters.com</h2>
+<p>Regulators comparing the crypto craze to the U.S. subprime mortgage bust of the 2000s may seem like scaremongering, but the more crypto integrates with traditional investing and markets, the more prescient these warning may become.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -159,14 +137,36 @@ And more **2 hrs 30 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/africa/bitcoins-african-outpost-raises-several-red-flags-2022-05-03/">
+<a href="https://www.reuters.com/business/retail-consumer/gucci-jumps-crypto-bandwagon-with-us-project-2022-05-05/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/QmgPzsTbb3ksaGQqxcXEzTq294A=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BLOPVBCVWBK6JKVHF2LQC4XFKY.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/aLPEIt4kysCMpwdBeNLdWl6_YxU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/353HRRTJVVKDLIMZK5Y3V2JP3I.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Bitcoin's African outpost raises several red flags - Reuters</h2>
-<p>Bitcoin’s latest fans are about as far as you can get from Silicon Valley crypto bros. War-torn Central African Republic (CAR) on Wednesday adopted the digital currency as legal tender <a href="/world/africa/central-african-republic-adopts-bitcoin-an-official…</p>
+<h2>Gucci jumps on the crypto bandwagon with U.S. project - Reuters.com</h2>
+<p>Gucci's high-end handbags and other luxury products can now be bought using cryptocurrencies, including bitcoin, in some U.S. stores, the Italian company said, as digital currencies move to broader acceptance.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/technology/crypto-exchange-coinbase-opens-up-nft-marketplace-all-users-2022-05-04/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/-HW_K2fwvRYLeHP4I00MqlCbAII=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7CLO3WASGNLOHGLA7RJPPTXG2U.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Crypto exchange Coinbase opens up NFT marketplace to all users - Reuters.com</h2>
+<p>Coinbase Global Inc <a href="https://www.reuters.com/companies/COIN.O" target="_blank">(COIN.O)</a> is opening up its non-fungible token (NFT) marketplace to all users, the U.S. cryptocurrency exchange said in a Twitter post on Wednesday, a platform which it …</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/technology/binance-registers-with-frances-market-regulator-2022-05-04/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/81I_Lji_RZoUtVEPtwkn2zNDhCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QJ5P2FLF75OF3EB6M5QHUG2SY4.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Binance registers with France's market regulator - Reuters</h2>
+<p>Cryptocurrency exchange Binance has registered with France's market regulator, Chief Executive Officer Changpeng Zhao said in a tweet on Wednesday, advancing the company's plan to make Paris its European base.</p>
 </td>
 </table>
 <!-- Crypto News -->
