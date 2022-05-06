@@ -115,6 +115,39 @@ And more **2 hrs 50 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://gizmodo.com/bitcoin-cryptocurrency-biggest-heists-2022-so-far-1848883482">
+<span>Gizmodo.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d1604fa912e79afc9467f1664e33ba57.jpg" align="center" alt="Gizmodo.com"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>10 of the Biggest Crypto Heists of 2022...So Far</h2>
+<p>Web3 is off to a rip-roaring start. The theoretical transformation of digital society via the blockchain is supposed to usher in a bold new decentralized internet powered by cryptocurrency. The revolution has begun, the crypto ads tell us! The world is changi…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://gizmodo.com/brinks-says-it-will-secure-crypto-backups-in-secret-vau-1848886712">
+<span>Gizmodo.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3204af91d4ad873f7eb6088dcb00d2db.jpg" align="center" alt="Gizmodo.com"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Armored Truck Firm Brink's Says It Will Secure Crypto Backups in Secret Vaults</h2>
+<p>The security company best known for making giant armored trucks and inspiring elaborate heist fantasies from bored suburban kids is getting in on crypto.Read more...</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://gizmodo.com/fidelity-wants-bitcoin-added-to-401-k-retirement-plans-1848885502">
+<span>Gizmodo.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2413ade0375c0f5b3affe4029f35315c.jpg" align="center" alt="Gizmodo.com"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Fidelity Wants to Include Bitcoin in 401(k) Plans; Elizabeth Warren and the Labor Department Have Concerns</h2>
+<p>The nation's largest retirement plan provider is getting pushback for allowing investors to put a portion of their savings into cryptocurrency.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/markets/us/crypto-warnings-invoke-us-subprime-bust-2008-all-that-2022-05-05/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/tTTEj5Fay7cYA-z3yzuFlk7muOc=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GTZHVIHEXRLHTKK4Y7RFQ3S2H4.jpg" align="center" alt="Reuters"/>
@@ -126,17 +159,6 @@ And more **2 hrs 50 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/breakingviews/goldmans-financial-alchemy-extends-crypto-too-2022-05-04/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/1RLBKXa7PoGKcv722niq_QAZQ08=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YXYSDJG4DVJDVF3Y6VT4XZ6FMA.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Breakingviews - Goldman's financial alchemy extends to crypto too - Reuters.com</h2>
-<p>Trust Goldman Sachs <a href="https://www.reuters.com/companies/GS.N" target="_blank">(GS.N)</a> to find an angle for investment banks in the cryptocurrency sector. David Solomon’s $100 billion group made a bitcoin-backed loan to $27 billion exchange Coinbase …</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/business/retail-consumer/gucci-jumps-crypto-bandwagon-with-us-project-2022-05-05/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/aLPEIt4kysCMpwdBeNLdWl6_YxU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/353HRRTJVVKDLIMZK5Y3V2JP3I.jpg" align="center" alt="Reuters"/>
@@ -145,28 +167,6 @@ And more **2 hrs 50 mins** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>Gucci jumps on the crypto bandwagon with U.S. project - Reuters.com</h2>
 <p>Gucci's high-end handbags and other luxury products can now be bought using cryptocurrencies, including bitcoin, in some U.S. stores, the Italian company said, as digital currencies move to broader acceptance.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/crypto-exchange-coinbase-opens-up-nft-marketplace-all-users-2022-05-04/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/-HW_K2fwvRYLeHP4I00MqlCbAII=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7CLO3WASGNLOHGLA7RJPPTXG2U.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Crypto exchange Coinbase opens up NFT marketplace to all users - Reuters.com</h2>
-<p>Coinbase Global Inc <a href="https://www.reuters.com/companies/COIN.O" target="_blank">(COIN.O)</a> is opening up its non-fungible token (NFT) marketplace to all users, the U.S. cryptocurrency exchange said in a Twitter post on Wednesday, a platform which it …</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/binance-registers-with-frances-market-regulator-2022-05-04/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/81I_Lji_RZoUtVEPtwkn2zNDhCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QJ5P2FLF75OF3EB6M5QHUG2SY4.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Binance registers with France's market regulator - Reuters</h2>
-<p>Cryptocurrency exchange Binance has registered with France's market regulator, Chief Executive Officer Changpeng Zhao said in a tweet on Wednesday, advancing the company's plan to make Paris its European base.</p>
 </td>
 </table>
 <!-- Crypto News -->
