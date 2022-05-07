@@ -115,6 +115,17 @@ And more **2 hrs 32 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/us-treasury-sanctions-virtual-currency-mixer-north-korea-203502517.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2021-11/0db21000-4246-11ec-a8de-edfca39c0e00" align="center" alt="Engadget"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>US Treasury issues first-ever sanctions against a cryptocurrency mixer</h2>
+<p>Cryptocurrency mixers are sometimes used to help online criminals launder their stolen money by hiding its true origins, and the US Treasury is now ready to clamp down on them when hostile governments are involved. The department has issued its first sanction…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://gizmodo.com/bitcoin-cryptocurrency-biggest-heists-2022-so-far-1848883482">
 <span>Gizmodo.com</span>
 <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d1604fa912e79afc9467f1664e33ba57.jpg" align="center" alt="Gizmodo.com"/>
@@ -126,47 +137,36 @@ And more **2 hrs 32 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://gizmodo.com/brinks-says-it-will-secure-crypto-backups-in-secret-vau-1848886712">
-<span>Gizmodo.com</span>
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3204af91d4ad873f7eb6088dcb00d2db.jpg" align="center" alt="Gizmodo.com"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Armored Truck Firm Brink's Says It Will Secure Crypto Backups in Secret Vaults</h2>
-<p>The security company best known for making giant armored trucks and inspiring elaborate heist fantasies from bored suburban kids is getting in on crypto.Read more...</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://gizmodo.com/fidelity-wants-bitcoin-added-to-401-k-retirement-plans-1848885502">
-<span>Gizmodo.com</span>
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2413ade0375c0f5b3affe4029f35315c.jpg" align="center" alt="Gizmodo.com"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Fidelity Wants to Include Bitcoin in 401(k) Plans; Elizabeth Warren and the Labor Department Have Concerns</h2>
-<p>The nation's largest retirement plan provider is getting pushback for allowing investors to put a portion of their savings into cryptocurrency.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/us/crypto-warnings-invoke-us-subprime-bust-2008-all-that-2022-05-05/">
+<a href="https://www.reuters.com/breakingviews/stars-align-uae-become-global-crypto-hub-2022-05-06/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/tTTEj5Fay7cYA-z3yzuFlk7muOc=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GTZHVIHEXRLHTKK4Y7RFQ3S2H4.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/15xj7YSgs91NUIebjYLWZDbVA3A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OMWLF3RKCJNXZHLJQG7W5I2SHQ.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Column: Crypto warnings invoke U.S. subprime bust, 2008, and all that - Reuters.com</h2>
-<p>Regulators comparing the crypto craze to the U.S. subprime mortgage bust of the 2000s may seem like scaremongering, but the more crypto integrates with traditional investing and markets, the more prescient these warning may become.</p>
+<h2>Breakingviews - Stars align for UAE to become a global crypto hub - Reuters</h2>
+<p>Dubai and Abu Dhabi are making a play for the cryptocurrency crown. Big crypto exchanges like FTX, <a href="https://www.prnewswire.com/news-releases/ftx-trading-ltd-closes-400m-series-c-round-301471084.html" target="_blank">last valued</a> at $32 billion, are…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/retail-consumer/gucci-jumps-crypto-bandwagon-with-us-project-2022-05-05/">
+<a href="https://www.reuters.com/technology/us-sec-charges-nvidia-with-inadequate-disclosures-about-impact-cryptomining-2022-05-06/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/aLPEIt4kysCMpwdBeNLdWl6_YxU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/353HRRTJVVKDLIMZK5Y3V2JP3I.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/C3gJAlFgV9HC7n1xfw9LTXIRRCQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JSYJOX6QRZP4LKWE4FD3AM7KXE.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Gucci jumps on the crypto bandwagon with U.S. project - Reuters.com</h2>
-<p>Gucci's high-end handbags and other luxury products can now be bought using cryptocurrencies, including bitcoin, in some U.S. stores, the Italian company said, as digital currencies move to broader acceptance.</p>
+<h2>U.S. SEC charges Nvidia with 'inadequate disclosures' about impact of cryptomining - Reuters</h2>
+<p>The U.S. Securities and Exchange Commission said Friday it had settled charges against technology company Nvidia Corporation <a href="https://www.reuters.com/companies/NVDA.O" target="_blank">(NVDA.O)</a> for what it called "inadequate disclosures" concerning…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/technology/jefferies-says-ceo-handlers-instagram-account-hacked-2022-05-06/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/lIIe0mPdcnebaB6HMpEaIuBLhCQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TYQFWQ4ENJMUVHK76O3PVOACTE.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Jefferies says CEO Handler's Instagram account hacked - Reuters</h2>
+<p>Investment bank Jefferies Financial Group Inc <a href="https://www.reuters.com/companies/JEF.N" target="_blank">(JEF.N)</a> said on Friday the Instagram account of its Chief Executive Officer Rich Handler had been hacked.</p>
 </td>
 </table>
 <!-- Crypto News -->
