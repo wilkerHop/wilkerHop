@@ -115,58 +115,59 @@ And more **2 hrs 32 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/us-treasury-sanctions-virtual-currency-mixer-north-korea-203502517.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2021-11/0db21000-4246-11ec-a8de-edfca39c0e00" align="center" alt="Engadget"/>
+<a href="https://amp.theguardian.com/technology/2022/may/07/elon-musks-takeover-financing-deal-could-clip-twitters-wings">
+<span>The Guardian</span>
+<img src="https://i.guim.co.uk/img/media/946b1366d7296ef755c1c33b6baf58fe8641b95b/0_102_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=34e8426b4d078029b3f3ede88d512341" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>US Treasury issues first-ever sanctions against a cryptocurrency mixer</h2>
-<p>Cryptocurrency mixers are sometimes used to help online criminals launder their stolen money by hiding its true origins, and the US Treasury is now ready to clamp down on them when hostile governments are involved. The department has issued its first sanction…</p>
+<h2>Elon Musk’s takeover financing deal could clip Twitter’s wings</h2>
+<p>The Tesla tycoon’s complex bid for the social media platform will load the tech firm with debtIf you want to know who the world’s richest man has on speed dial, then a regulatory filing on Thursday provided an insight. Elon Musk announced a score of new backe…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://gizmodo.com/bitcoin-cryptocurrency-biggest-heists-2022-so-far-1848883482">
-<span>Gizmodo.com</span>
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d1604fa912e79afc9467f1664e33ba57.jpg" align="center" alt="Gizmodo.com"/>
+<a href="https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason">
+<span>Newleftreview.org</span>
+<img src="https://newleftreview.org/media/W1siZiIsIjIwMjIvMDQvMTMvZzF2dHlvczYxX05MUjEzM180X0NhcmRfVGVtcGxhdGUucG5nIl1d?sha=734b1ce5f1941ec5" align="center" alt="Newleftreview.org"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>10 of the Biggest Crypto Heists of 2022...So Far</h2>
-<p>Web3 is off to a rip-roaring start. The theoretical transformation of digital society via the blockchain is supposed to usher in a bold new decentralized internet powered by cryptocurrency. The revolution has begun, the crypto ads tell us! The world is changi…</p>
+<h2>Critique of Techno-Feudal Reason</h2>
+<p>Countering current claims that digital capitalism is issuing in a ‘neofeudal’ age, as the rentier barons of Silicon Valley and Wall Street extract non-productive fortunes from their users and debtors, Evgeny Morozov returns to classic debates over the transit…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/breakingviews/stars-align-uae-become-global-crypto-hub-2022-05-06/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/15xj7YSgs91NUIebjYLWZDbVA3A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OMWLF3RKCJNXZHLJQG7W5I2SHQ.jpg" align="center" alt="Reuters"/>
+<a href="https://www.rockpapershotgun.com/the-sunday-papers-639">
+<span>Rock Paper Shotgun</span>
+<img src="https://assets2.rockpapershotgun.com/the-sunday-papers-big.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-sunday-papers-big.jpg" align="center" alt="Rock Paper Shotgun"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Breakingviews - Stars align for UAE to become a global crypto hub - Reuters</h2>
-<p>Dubai and Abu Dhabi are making a play for the cryptocurrency crown. Big crypto exchanges like FTX, <a href="https://www.prnewswire.com/news-releases/ftx-trading-ltd-closes-400m-series-c-round-301471084.html" target="_blank">last valued</a> at $32 billion, are…</p>
+<h2>The Sunday Papers</h2>
+<p>Sundays are for training for an off-road 10k that's scarily close. Before you sweat profusely, let's read this week's best writing about games (and game related things).
+ Read more</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/us-sec-charges-nvidia-with-inadequate-disclosures-about-impact-cryptomining-2022-05-06/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/C3gJAlFgV9HC7n1xfw9LTXIRRCQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JSYJOX6QRZP4LKWE4FD3AM7KXE.jpg" align="center" alt="Reuters"/>
+<a href="https://www.cnet.com/personal-finance/crypto/nvidia-fined-5-5m-by-sec-over-cryptomining-disclosures-this-weeks-bitcoin-and-crypto-news/">
+<span>CNET</span>
+<img src="https://www.cnet.com/a/img/resize/941676ec40a5f484a5a3421c0fab4fc66d83adf2/2022/04/23/ddcb4d2b-32be-43f0-b48f-f6d31e44bec9/crypto-story-1.png?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>U.S. SEC charges Nvidia with 'inadequate disclosures' about impact of cryptomining - Reuters</h2>
-<p>The U.S. Securities and Exchange Commission said Friday it had settled charges against technology company Nvidia Corporation <a href="https://www.reuters.com/companies/NVDA.O" target="_blank">(NVDA.O)</a> for what it called "inadequate disclosures" concerning…</p>
+<h2>Nvidia Fined Over Cryptomining Disclosures. This Week's Bitcoin and Crypto News - CNET</h2>
+<p>All the bitcoin, cryptocurrency and NFT news for the week ending May 6.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/jefferies-says-ceo-handlers-instagram-account-hacked-2022-05-06/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/lIIe0mPdcnebaB6HMpEaIuBLhCQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TYQFWQ4ENJMUVHK76O3PVOACTE.jpg" align="center" alt="Reuters"/>
+<a href="https://www.presse-citron.net/cryptomonnaies-que-prevoient-les-nouvelles-regles-europeennes/">
+<span>Presse-citron</span>
+<img src="https://www.presse-citron.net/app/uploads/2021/04/Bitcoins-BTC.jpg" align="center" alt="Presse-citron"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Jefferies says CEO Handler's Instagram account hacked - Reuters</h2>
-<p>Investment bank Jefferies Financial Group Inc <a href="https://www.reuters.com/companies/JEF.N" target="_blank">(JEF.N)</a> said on Friday the Instagram account of its Chief Executive Officer Rich Handler had been hacked.</p>
+<h2>Cryptomonnaies : que prévoient les nouvelles règles européennes ?</h2>
+<p>Deux nouveaux textes devraient prochainement entrer en vigueur. Ils font très peur aux professionnels du secteur.</p>
 </td>
 </table>
 <!-- Crypto News -->
