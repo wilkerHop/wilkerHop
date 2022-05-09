@@ -115,59 +115,59 @@ And more **2 hrs 32 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/technology/2022/may/07/elon-musks-takeover-financing-deal-could-clip-twitters-wings">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/946b1366d7296ef755c1c33b6baf58fe8641b95b/0_102_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=34e8426b4d078029b3f3ede88d512341" align="center" alt="The Guardian"/>
+<a href="https://arstechnica.com/gadgets/2022/05/nicehash-software-unlocks-full-cryptomining-performance-for-most-nvidia-gpus/">
+<span>Ars Technica</span>
+<img src="https://cdn.arstechnica.net/wp-content/uploads/2018/03/30770561533_a4ea9f1dd9_o-760x380.jpg" align="center" alt="Ars Technica"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Elon Musk’s takeover financing deal could clip Twitter’s wings</h2>
-<p>The Tesla tycoon’s complex bid for the social media platform will load the tech firm with debtIf you want to know who the world’s richest man has on speed dial, then a regulatory filing on Thursday provided an insight. Elon Musk announced a score of new backe…</p>
+<h2>NiceHash software unlocks full crypto-mining performance for most Nvidia GPUs</h2>
+<p>But the workaround still can't defeat the newest version of Nvidia's LHR tech.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason">
-<span>Newleftreview.org</span>
-<img src="https://newleftreview.org/media/W1siZiIsIjIwMjIvMDQvMTMvZzF2dHlvczYxX05MUjEzM180X0NhcmRfVGVtcGxhdGUucG5nIl1d?sha=734b1ce5f1941ec5" align="center" alt="Newleftreview.org"/>
+<a href="https://www.reuters.com/video/watch/idRCV00B137">
+<span>Reuters</span>
+<img src="https://static.reuters.com/resources/r/?d=20220509&i=RCV00B137&r=RCV00B137&t=2" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Critique of Techno-Feudal Reason</h2>
-<p>Countering current claims that digital capitalism is issuing in a ‘neofeudal’ age, as the rentier barons of Silicon Valley and Wall Street extract non-productive fortunes from their users and debtors, Evgeny Morozov returns to classic debates over the transit…</p>
+<h2>BVTV: UAE's crypto ambition - Reuters</h2>
+<p>The world’s leading financial regulators are dubious about cryptocurrencies, but Dubai and Abu Dhabi are welcoming the likes of Binance to their shores. Crypto entails obvious risks, argues Karen Kwok. But for the UAE at least, it also presents an opportunity.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.rockpapershotgun.com/the-sunday-papers-639">
-<span>Rock Paper Shotgun</span>
-<img src="https://assets2.rockpapershotgun.com/the-sunday-papers-big.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-sunday-papers-big.jpg" align="center" alt="Rock Paper Shotgun"/>
+<a href="https://www.reuters.com/business/finance/bitcoin-falls-lowest-since-january-line-with-tumbling-stock-markets-2022-05-09/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/B0qAxA8TjZ596MlWtB1mhDiQ1HM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SBR5WIGRUVJBRNZBI6EL6DOKVA.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>The Sunday Papers</h2>
-<p>Sundays are for training for an off-road 10k that's scarily close. Before you sweat profusely, let's read this week's best writing about games (and game related things).
- Read more</p>
+<h2>Bitcoin falls to lowest since January, in line with tumbling stock markets - Reuters</h2>
+<p>Bitcoin fell to its lowest level since January on Monday as slumping equity markets continued to hurt cryptocurrencies, which are currently trading in line with so-called riskier assets like tech stocks.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.cnet.com/personal-finance/crypto/nvidia-fined-5-5m-by-sec-over-cryptomining-disclosures-this-weeks-bitcoin-and-crypto-news/">
-<span>CNET</span>
-<img src="https://www.cnet.com/a/img/resize/941676ec40a5f484a5a3421c0fab4fc66d83adf2/2022/04/23/ddcb4d2b-32be-43f0-b48f-f6d31e44bec9/crypto-story-1.png?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
+<a href="https://due.com/blog/protecting-retirement-savings-from-volatile-crypto-digital-investments/">
+<span>Due.com</span>
+<img src="https://assets.entrepreneur.com/providers/due/hero-image-due-427128.jpeg" align="center" alt="Due.com"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Nvidia Fined Over Cryptomining Disclosures. This Week's Bitcoin and Crypto News - CNET</h2>
-<p>All the bitcoin, cryptocurrency and NFT news for the week ending May 6.</p>
+<h2>Protecting Retirement Savings from Volatile Crypto Digital Investments</h2>
+<p>Did you hear? You may be able to allocate some of your 401(k) retirement savings to bitcoin and other cryptocurrencies. Case in point, retirement juggernaut Fidelity. Fidelity launched a plan...</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.presse-citron.net/cryptomonnaies-que-prevoient-les-nouvelles-regles-europeennes/">
-<span>Presse-citron</span>
-<img src="https://www.presse-citron.net/app/uploads/2021/04/Bitcoins-BTC.jpg" align="center" alt="Presse-citron"/>
+<a href="https://news.slashdot.org/story/22/05/09/0026233/cryptocurrency-markets-drop-200b-bitcoin-down-50-since-november">
+<span>Slashdot.org</span>
+<img src="https://a.fsdn.com/sd/topics/bitcoin_64.png" align="center" alt="Slashdot.org"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cryptomonnaies : que prévoient les nouvelles règles européennes ?</h2>
-<p>Deux nouveaux textes devraient prochainement entrer en vigueur. Ils font très peur aux professionnels du secteur.</p>
+<h2>Cryptocurrency Markets Drop $200B, Bitcoin Down 50% Since November</h2>
+<p>40 days ago Bitcoin sold for $47,454. It's price now is $34,007 — a drop of 28%. 
+About a third of that drop happened this week, as "Bitcoin, ethereum and other major cryptocurrencies have fallen sharply," Forbes reports, "wiping around $200 billion from the …</p>
 </td>
 </table>
 <!-- Crypto News -->
