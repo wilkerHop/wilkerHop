@@ -115,6 +115,17 @@ And more **4 hrs 57 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.wired.com/story/bitcoin-2022-conference-harassment/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/627a89e3e37e715cb7d760d2/191:100/w_1280,c_limit/Bitcoin_Miami_Biz_GettyImages-1239817123.jpg" align="center" alt="Wired"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Miami’s Bitcoin Conference Left a Trail of Harassment</h2>
+<p>For some women, inappropriate conduct from other conference-goers continued to haunt them online.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://arstechnica.com/gadgets/2022/05/nicehash-software-unlocks-full-cryptomining-performance-for-most-nvidia-gpus/">
 <span>Ars Technica</span>
 <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/03/30770561533_a4ea9f1dd9_o-760x380.jpg" align="center" alt="Ars Technica"/>
@@ -123,6 +134,17 @@ And more **4 hrs 57 mins** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>NiceHash software unlocks full crypto-mining performance for most Nvidia GPUs</h2>
 <p>But the workaround still can't defeat the newest version of Nvidia's LHR tech.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://arstechnica.com/gaming/2022/05/amd-updates-radeon-gpu-line-higher-clocks-for-three-50-suffix-refreshes/">
+<span>Ars Technica</span>
+<img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/rx6000-50s-listing-760x380.png" align="center" alt="Ars Technica"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>AMD updates Radeon GPU line: Higher clocks for three “50” suffix refreshes</h2>
+<p>AMD is also using the occasion to formally usher in FSR "2.0" upscaling.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -137,37 +159,14 @@ And more **4 hrs 57 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/bitcoin-falls-lowest-since-january-line-with-tumbling-stock-markets-2022-05-09/">
+<a href="https://www.reuters.com/business/finance/crypto-exchange-kucoin-valued-10-billion-latest-funding-round-2022-05-10/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/B0qAxA8TjZ596MlWtB1mhDiQ1HM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SBR5WIGRUVJBRNZBI6EL6DOKVA.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/uaRMemG2BOm18f2icuiOZhFLrGg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UAJVRUKTFNIHVLZGS5ODAF3OSM.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Bitcoin falls to lowest since January, in line with tumbling stock markets - Reuters</h2>
-<p>Bitcoin fell to its lowest level since January on Monday as slumping equity markets continued to hurt cryptocurrencies, which are currently trading in line with so-called riskier assets like tech stocks.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://due.com/blog/protecting-retirement-savings-from-volatile-crypto-digital-investments/">
-<span>Due.com</span>
-<img src="https://assets.entrepreneur.com/providers/due/hero-image-due-427128.jpeg" align="center" alt="Due.com"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Protecting Retirement Savings from Volatile Crypto Digital Investments</h2>
-<p>Did you hear? You may be able to allocate some of your 401(k) retirement savings to bitcoin and other cryptocurrencies. Case in point, retirement juggernaut Fidelity. Fidelity launched a plan...</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://news.slashdot.org/story/22/05/09/0026233/cryptocurrency-markets-drop-200b-bitcoin-down-50-since-november">
-<span>Slashdot.org</span>
-<img src="https://a.fsdn.com/sd/topics/bitcoin_64.png" align="center" alt="Slashdot.org"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Cryptocurrency Markets Drop $200B, Bitcoin Down 50% Since November</h2>
-<p>40 days ago Bitcoin sold for $47,454. It's price now is $34,007 — a drop of 28%. 
-About a third of that drop happened this week, as "Bitcoin, ethereum and other major cryptocurrencies have fallen sharply," Forbes reports, "wiping around $200 billion from the …</p>
+<h2>Crypto exchange KuCoin valued at $10 billion in latest funding round - Reuters</h2>
+<p>Cryptocurrency exchange KuCoin raised $150 million in a series B funding round led by Jump Crypto, the company said on Tuesday, giving it a valuation of $10 billion.</p>
 </td>
 </table>
 <!-- Crypto News -->
