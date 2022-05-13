@@ -126,47 +126,47 @@ And more **7 hrs 51 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.theverge.com/2022/5/11/23067404/meme-stocks-gamestop-crypto-sell">
+<a href="https://www.wired.com/story/terra-luna-collapse/">
+<span>Wired</span>
+<img src="https://media.wired.com/photos/627d5bac0c454f12d5142672/191:100/w_1280,c_limit/Terra-Luna-Stable-Coins-Business-1382597134.jpg" align="center" alt="Wired"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Terra’s Crypto Meltdown Was Inevitable</h2>
+<p>An epic crash in algorithmic stablecoins spells trouble for the entire industry.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.theverge.com/2022/5/12/23069232/terra-luna-collapse-stablecoins-crypto-crash-bitcoin">
 <span>The Verge</span>
-<img src="https://cdn.vox-cdn.com/thumbor/_j_krxtWpgGt8ENPzl6VgprxuCI=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11503879/mdoying_180419_1777_0454_6.jpg" align="center" alt="The Verge"/>
+<img src="https://cdn.vox-cdn.com/thumbor/rUaR5RqYmvfihRfA_BzIMNOzcio=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10576389/acastro_180402_2428_001.jpg" align="center" alt="The Verge"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>What happens to the foot soldiers of the meme trading revolution?</h2>
-<p>Coinbase, Block, PayPal and Robinhood have fallen farther than the stock market at large. Meme stocks have crashed. Crypto has cratered. What now for retail investors?</p>
+<h2>Stablecoins are struggling to survive the crypto crash</h2>
+<p>After the Terra stablecoin broke its dollar peg and dropped to less than 30 cents, investors have been watching closely for repercussions across cryptocurrency markets.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.cnn.com/2022/05/12/football/lionel-messi-forbes-rich-list-spt-intl/index.html">
-<span>CNN</span>
-<img src="https://cdn.cnn.com/cnnnext/dam/assets/220419154748-lionel-messi-psg-deportes-super-tease.jpg" align="center" alt="CNN"/>
+<a href="https://gizmodo.com/luna-price-do-kwon-police-south-korea-home-apartment-bi-1848921120">
+<span>Gizmodo.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d62e38808d3d2cdf010c64d6b23acc82.png" align="center" alt="Gizmodo.com"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Messi tops Forbes' highest-paid athlete list</h2>
-<p>Despite a disappointing season on the pitch, Paris Saint-Germain star Lionel Messi was the highest-paid athlete in the world over the last 12 months, according to Forbes.</p>
+<h2>Crypto Investor Who Lost Big Money Spooks Luna Founder's Wife at Home: Report</h2>
+<p>Do Kwon, the founder of the cryptocurrency Luna and the stablecoin TerraUSD, and his wife have reportedly been in contact with police after a possible investor in the coin “trespassed” at their home, according to a new report from South Korea’s largest newspa…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/breakingviews/coinbase-is-conjoined-crypto-2022-05-11/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/bCqaEgNN3wAahdG6wS4NZ38B2CI=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JBCJGBY24FPTFLDV7LMOTJ5THQ.jpg" align="center" alt="Reuters"/>
+<a href="https://gizmodo.com/elon-musk-says-deal-to-buy-twitter-is-temporarily-on-ho-1848921266">
+<span>Gizmodo.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/93a2d2089e11716ed191c08c872388c3.jpg" align="center" alt="Gizmodo.com"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Coinbase is conjoined to crypto - Reuters</h2>
-<p>Coinbase Global <a href="https://www.reuters.com/companies/COIN.O" target="_blank">(COIN.O)</a> went for a ride when digital collectibles like Bitcoin soared. The excitement meant more customers, rising trading volumes and rocketing fees. Last year’s revenue …</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/video/watch/idOV755212052022RP1">
-<span>Reuters</span>
-<img src="https://static.reuters.com/resources/r/?d=20220512&i=OV755212052022RP1&r=OV755212052022RP1&t=2" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Luxury London store launches real-time crypto price tags - Reuters.com</h2>
-<p>Fashion designer Philipp Plein has opened a flagship luxury store in London accepting payments in cryptocurrencies.</p>
+<h2>Elon Musk Says Deal to Buy Twitter Is Temporarily 'On Hold', Surprising No One</h2>
+<p>After bullying Twitter employees and saying he wants the former president of the swamp, and the U.S., Donald Trump back on the platform, Tesla CEO Elon Musk did what everyone thought he might do anyway. He thought long and hard about what it meant to really b…</p>
 </td>
 </table>
 <!-- Crypto News -->
