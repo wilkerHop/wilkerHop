@@ -115,39 +115,6 @@ And more **7 hrs 40 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/facebook-pay-meta-pay-124855687.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-05/8d9135f0-d1e6-11ec-b9eb-aceea39cce40" align="center" alt="Engadget"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Facebook Pay will soon become Meta Pay</h2>
-<p>Meta started renaming its products after the company switched its name: The Oculus Quest and Facebook Portal devices, for instance, are now known as the Meta Quest and Meta Portal. It's only natural for the company to also plan the future of its payments expe…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.wired.com/story/terra-luna-collapse/">
-<span>Wired</span>
-<img src="https://media.wired.com/photos/627d5bac0c454f12d5142672/191:100/w_1280,c_limit/Terra-Luna-Stable-Coins-Business-1382597134.jpg" align="center" alt="Wired"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Terra’s Crypto Meltdown Was Inevitable</h2>
-<p>An epic crash in algorithmic stablecoins spells trouble for the entire industry.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.theverge.com/2022/5/12/23069232/terra-luna-collapse-stablecoins-crypto-crash-bitcoin">
-<span>The Verge</span>
-<img src="https://cdn.vox-cdn.com/thumbor/rUaR5RqYmvfihRfA_BzIMNOzcio=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10576389/acastro_180402_2428_001.jpg" align="center" alt="The Verge"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Stablecoins are struggling to survive the crypto crash</h2>
-<p>After the Terra stablecoin broke its dollar peg and dropped to less than 30 cents, investors have been watching closely for repercussions across cryptocurrency markets.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://gizmodo.com/luna-price-do-kwon-police-south-korea-home-apartment-bi-1848921120">
 <span>Gizmodo.com</span>
 <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d62e38808d3d2cdf010c64d6b23acc82.png" align="center" alt="Gizmodo.com"/>
@@ -167,6 +134,39 @@ And more **7 hrs 40 mins** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>Elon Musk Says Deal to Buy Twitter Is Temporarily 'On Hold', Surprising No One</h2>
 <p>After bullying Twitter employees and saying he wants the former president of the swamp, and the U.S., Donald Trump back on the platform, Tesla CEO Elon Musk did what everyone thought he might do anyway. He thought long and hard about what it meant to really b…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/video/watch/idOV770613052022RP1">
+<span>Reuters</span>
+<img src="https://static.reuters.com/resources/r/?d=20220513&i=OV770613052022RP1&r=OV770613052022RP1&t=2" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>'Stablecoin' collapse crushes crypto - Reuters</h2>
+<p>Cryptocurrencies nursed large losses early Friday with bitcoin set for a record losing streak as the collapse of TerraUSD, a so-called stablecoin, rippled through markets. Tom Scally reports.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/video/watch/idsv8I?now=true">
+<span>Reuters</span>
+<img src="https://ajo.prod.reuters.tv/api/v2/img/627e6d5ae4b09631b0e48930-1652452698077?location=LANDSCAPE" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>'Stablecoin' collapse crushes crypto - Reuters</h2>
+<p>05/13 Cryptocurrencies nursed large losses early Friday with bitcoin set for a record losing streak as the collapse of TerraUSD, a so-called stablecoin, rippled through markets.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/video/watch/idOV787113052022RP1">
+<span>Reuters</span>
+<img src="https://static.reuters.com/resources/r/?d=20220513&i=OV787113052022RP1&r=OV787113052022RP1&t=2" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Crypto exchange CEO reveals stake in Robinhood - Reuters</h2>
+<p>Samuel Bankman-Fried, the chief executive and founder of cryptocurrency exchange FTX, revealed a 7.6% stake in Robinhood Markets, capitalizing on the weakness of the shares of the trading app to build a position. This report produced by Chris Dignam.</p>
 </td>
 </table>
 <!-- Crypto News -->
