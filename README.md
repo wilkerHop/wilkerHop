@@ -115,58 +115,58 @@ And more **7 hrs 57 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/africa/nigerias-markets-regulator-publishes-rules-crypto-assets-2022-05-14/">
+<a href="https://www.nytimes.com/2022/05/16/us/politics/red-boxes-campaign-finance-democrats.html">
+<span>New York Times</span>
+<img src="https://static01.nyt.com/images/2022/05/16/us/16-POL-REDBOX-PRINT/00pol-REDBOX-facebookJumbo.jpg" align="center" alt="New York Times"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>The Little Red Boxes Making a Mockery of Campaign Finance Laws</h2>
+<p>Democratic candidates are all-but scripting ads for super PACs and dark-money groups to do their bidding — in plain sight.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/markets/us/bitcoin-back-below-30000-european-regulators-renew-crypto-warnings-2022-05-16/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/gm1j85goMkOf2thMB8gVUkUppdc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LTDRZMY7PZPZTFEFXXRPDXOJ7M.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/w_UfuRFkdp1SRGWX-3lqEk79I7o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DE6HJWA3QZLT3ANRYUBAZSA75M.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Nigeria's markets regulator publishes rules on crypto assets - Reuters</h2>
-<p>Nigeria's markets regulator has published a set of regulations for digital assets, signalling Africa's most populous country is trying to find a middle ground between an outright ban on crypto assets and their unregulated use.</p>
+<h2>Bitcoin back below $30000; European regulators renew crypto warnings - Reuters</h2>
+<p>Cryptocurrencies resumed their slide on Monday, giving up the gains they had eked out over the weekend, as regulators continued to circle.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/tv-and-radio/2022/may/15/saturday-night-live-selena-gomez-host">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/e4774aa050ee0fc14152840c060ed9b01f50ac2c/0_147_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb6a4e4563e33b484e61025687f66b5c" align="center" alt="The Guardian"/>
+<a href="https://www.reuters.com/business/finance/grayscale-launch-digital-assets-etf-uk-italy-germany-2022-05-16/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/UVSoGQ9NG6BvY8CstDvfo0deyKY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R7N6LDX4M5OQHKCX7PVLQSRVTA.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Saturday Night Live: Selena Gomez fronts laziest episode of season</h2>
-<p>The star can’t quite lift a forgettable and mostly unfunny episode that lampoons the Depp-Heard trial and Netflix hit Old EnoughSaturday Night Live opens with a special report from MSNBC’s Nicole Wallace (Kate McKinnon). Despite the myriad catastrophes curren…</p>
+<h2>Grayscale to launch digital assets ETF in UK, Italy, Germany - Reuters.com</h2>
+<p>Grayscale will list an exchange-traded fund (ETF) in Europe made up of companies representing the "Future of Finance", the world's largest cryptocurrency asset manager said in a statement on Monday.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://markets.businessinsider.com/news/currencies/tether-dollar-peg-exposed-risk-stablecoin-assets-confidence-terra-luna-2022-5">
-<span>Business Insider</span>
-<img src="https://markets.businessinsider.com/public/assets/MI/US/og-image-logo-social.png" align="center" alt="Business Insider"/>
+<a href="https://www.reuters.com/breakingviews/vodafones-new-investor-looks-passive-aggressive-2022-05-16/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/BKJ5V-aZZNeOHDd4LHGE0I78zZE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PITTL5KG6VMMDKPZKXXHD67X4A.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Tether losing its one-to-one US dollar peg exposed its vulnerability and a way to build confidence in the stablecoin</h2>
-<p>Tether has regained its US dollar peg. But experts say losing it earlier could be a wakeup call for the largest stablecoin by market capitalization.</p>
+<h2>Vodafone's new investor looks passive-aggressive - Reuters.com</h2>
+<p>A cryptic new name isn’t the only puzzling thing about e& <a href="https://www.reuters.com/companies/ETISALAT.AD" target="_blank">(ETISALAT.AD)</a>. The Gulf-based telecom giant formerly known as Etisalat has splurged $4.4 billion on a <a href="https://eand.c…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.entrepreneur.com/article/426944">
-<span>Entrepreneur</span>
-<img src="https://assets.entrepreneur.com/content/3x2/2000/1651782673-Ent-BegginnersGuidetoCrypto.jpeg" align="center" alt="Entrepreneur"/>
+<a href="https://www.reuters.com/markets/europe/covid-lockdowns-may-end-china-is-still-sneezing-2022-05-16/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/CndX4el7SXMXeb6CDv0uHIq_Ov8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3OXUTSMAJFKKVEVDZW4WXCWKKU.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Here's a Beginner's Guide to Crypto, NFTs, and the Metaverse</h2>
-<p>Catch up on all the blockchain's spinoff technologies.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.entrepreneur.com/article/423776">
-<span>Entrepreneur</span>
-<img src="https://assets.entrepreneur.com/content/3x2/2000/1651509960-GettyImages-1388034008.jpg" align="center" alt="Entrepreneur"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>The New Creative Economy Within Web 3.0</h2>
-<p>Web 3.0 will be a place where anyone can share information without worrying about censorship, and people can create content without worrying about getting paid for it.</p>
+<h2>COVID lockdowns may end but China is still sneezing - Reuters.com</h2>
+<p>COVID lockdowns may end but China is still sneezing  Reuters.com</p>
 </td>
 </table>
 <!-- Crypto News -->
