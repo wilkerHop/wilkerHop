@@ -115,6 +115,28 @@ And more **5 hrs 34 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.theverge.com/23076663/nebula-youtube-creator-business-future-startup-ceo-dave-wiskus">
+<span>The Verge</span>
+<img src="https://cdn.vox-cdn.com/thumbor/dAEi6gyySWPiNCXUL1KIsSU21R0=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23478900/VRG_ILLO_5230_Decoder_DaveWiskus_s.jpg" align="center" alt="The Verge"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>The videos that don’t work on YouTube and the future of the creator business with Nebula CEO Dave Wiskus</h2>
+<p>The economics of running a creator-owned streaming service that’s an alternative to the YouTube algorithm, negotiating brand deals, and partnering with Curiosity Stream.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://gizmodo.com/luna-foundation-terra-bitcoin-crypto-lfg-1848933191">
+<span>Gizmodo.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f8f25ce9a57b3454932cdead4c3278b6.jpg" align="center" alt="Gizmodo.com"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Luna Foundation Tried to Prop Up Terra’s Crumbling Base With Billions in Bitcoin, But It Still Failed</h2>
+<p>As a kid, I remember when my father tried to use a broom handle in a last ditch effort to support a roof that was collapsing from the weight of nearly three feet of snow. You can guess how well that went. In a similar vein, Terra blockchain reportedly spent $…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.nytimes.com/2022/05/16/us/politics/red-boxes-campaign-finance-democrats.html">
 <span>New York Times</span>
 <img src="https://static01.nyt.com/images/2022/05/16/us/16-POL-REDBOX-PRINT/00pol-REDBOX-facebookJumbo.jpg" align="center" alt="New York Times"/>
@@ -126,47 +148,25 @@ And more **5 hrs 34 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/us/bitcoin-back-below-30000-european-regulators-renew-crypto-warnings-2022-05-16/">
+<a href="https://www.reuters.com/markets/europe/cryptoverse-stablecoins-wend-wobbly-way-into-unknown-2022-05-17/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/w_UfuRFkdp1SRGWX-3lqEk79I7o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DE6HJWA3QZLT3ANRYUBAZSA75M.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/dNdPt1vCqDS8QQ7YM3pkS8UT9FY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WZFWF66YJ5M6BP6PQUTL3MZ7DQ.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Bitcoin back below $30000; European regulators renew crypto warnings - Reuters</h2>
-<p>Cryptocurrencies resumed their slide on Monday, giving up the gains they had eked out over the weekend, as regulators continued to circle.</p>
+<h2>Cryptoverse: Stablecoins wend wobbly way into the unknown - Reuters.com</h2>
+<p>Stablecoins, the safe and strait-laced cousins of crypto, are looking distinctly dicey.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/grayscale-launch-digital-assets-etf-uk-italy-germany-2022-05-16/">
+<a href="https://www.reuters.com/markets/europe/small-players-lose-faith-crypto-after-sell-off-2022-05-17/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/UVSoGQ9NG6BvY8CstDvfo0deyKY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R7N6LDX4M5OQHKCX7PVLQSRVTA.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/6U8A_9TLEefvl0p1lDql8g2sMD4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3OL24TUV5JL5XGOPKVWKS7JCI4.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Grayscale to launch digital assets ETF in UK, Italy, Germany - Reuters.com</h2>
-<p>Grayscale will list an exchange-traded fund (ETF) in Europe made up of companies representing the "Future of Finance", the world's largest cryptocurrency asset manager said in a statement on Monday.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/breakingviews/vodafones-new-investor-looks-passive-aggressive-2022-05-16/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/BKJ5V-aZZNeOHDd4LHGE0I78zZE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PITTL5KG6VMMDKPZKXXHD67X4A.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Vodafone's new investor looks passive-aggressive - Reuters.com</h2>
-<p>A cryptic new name isn’t the only puzzling thing about e& <a href="https://www.reuters.com/companies/ETISALAT.AD" target="_blank">(ETISALAT.AD)</a>. The Gulf-based telecom giant formerly known as Etisalat has splurged $4.4 billion on a <a href="https://eand.c…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/europe/covid-lockdowns-may-end-china-is-still-sneezing-2022-05-16/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/CndX4el7SXMXeb6CDv0uHIq_Ov8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3OXUTSMAJFKKVEVDZW4WXCWKKU.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>COVID lockdowns may end but China is still sneezing - Reuters.com</h2>
-<p>COVID lockdowns may end but China is still sneezing  Reuters.com</p>
+<h2>Small players lose faith in crypto after sell-off - Reuters.com</h2>
+<p>Nofe Isah, a 25-year old based in Nigeria, has been investing in crypto since January. Last week, she lost all of her $5,000 in savings as cryptocurrency luna went into free fall.</p>
 </td>
 </table>
 <!-- Crypto News -->
