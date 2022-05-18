@@ -115,6 +115,17 @@ And more **3 hrs 36 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://lifehacker.com/beware-the-latest-android-malware-on-google-play-1848939703">
+<span>Lifehacker.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5b90a9433d93297f2c49fcd922d9faf8.jpg" align="center" alt="Lifehacker.com"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Beware the Latest Android Malware on Google Play</h2>
+<p>Android users take heed: there’s a new piece of malware cropping up on the Google Play Store, and it’s coming for your data. Dubbed “Facestealer,” this new malware can steal personal information on your phone, hijack your social media passwords by forcing fak…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.theverge.com/23076663/nebula-youtube-creator-business-future-startup-ceo-dave-wiskus">
 <span>The Verge</span>
 <img src="https://cdn.vox-cdn.com/thumbor/dAEi6gyySWPiNCXUL1KIsSU21R0=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23478900/VRG_ILLO_5230_Decoder_DaveWiskus_s.jpg" align="center" alt="The Verge"/>
@@ -126,25 +137,14 @@ And more **3 hrs 36 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://gizmodo.com/luna-foundation-terra-bitcoin-crypto-lfg-1848933191">
-<span>Gizmodo.com</span>
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f8f25ce9a57b3454932cdead4c3278b6.jpg" align="center" alt="Gizmodo.com"/>
+<a href="https://www.bbc.co.uk/news/business-60566575">
+<span>BBC News</span>
+<img src="https://ichef.bbci.co.uk/news/1024/branded_news/11E29/production/_123475237_brianjung.jpg" align="center" alt="BBC News"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Luna Foundation Tried to Prop Up Terra’s Crumbling Base With Billions in Bitcoin, But It Still Failed</h2>
-<p>As a kid, I remember when my father tried to use a broom handle in a last ditch effort to support a roof that was collapsing from the weight of nearly three feet of snow. You can guess how well that went. In a similar vein, Terra blockchain reportedly spent $…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.nytimes.com/2022/05/16/us/politics/red-boxes-campaign-finance-democrats.html">
-<span>New York Times</span>
-<img src="https://static01.nyt.com/images/2022/05/16/us/16-POL-REDBOX-PRINT/00pol-REDBOX-facebookJumbo.jpg" align="center" alt="New York Times"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>The Little Red Boxes Making a Mockery of Campaign Finance Laws</h2>
-<p>Democratic candidates are all-but scripting ads for super PACs and dark-money groups to do their bidding — in plain sight.</p>
+<h2>How Gen Z is hooked on cryptocurrency and NFTs</h2>
+<p>A growing number of young people are getting into crypto trading - despite the risks.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
