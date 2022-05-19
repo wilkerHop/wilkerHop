@@ -126,47 +126,47 @@ And more **3 hrs 43 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.theverge.com/23076663/nebula-youtube-creator-business-future-startup-ceo-dave-wiskus">
-<span>The Verge</span>
-<img src="https://cdn.vox-cdn.com/thumbor/dAEi6gyySWPiNCXUL1KIsSU21R0=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23478900/VRG_ILLO_5230_Decoder_DaveWiskus_s.jpg" align="center" alt="The Verge"/>
+<a href="https://www.reuters.com/technology/g7-countries-urge-swift-regulation-crypto-assets-draft-2022-05-19/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/XsA-mJuk-UfiaqX_lbwtVZ8Egp4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TK5SKXCQMNPBFOQOZZTJB55GHQ.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>The videos that don’t work on YouTube and the future of the creator business with Nebula CEO Dave Wiskus</h2>
-<p>The economics of running a creator-owned streaming service that’s an alternative to the YouTube algorithm, negotiating brand deals, and partnering with Curiosity Stream.</p>
+<h2>G7 countries urge swift regulation of crypto assets - draft - Reuters</h2>
+<p>The world's top financial leaders called on Thursday for the swift and comprehensive regulation of cryptocurrencies following turmoil that has seen the demise of the Terra stablecoin last week, a draft communique showed on Thursday.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.bbc.co.uk/news/business-60566575">
-<span>BBC News</span>
-<img src="https://ichef.bbci.co.uk/news/1024/branded_news/11E29/production/_123475237_brianjung.jpg" align="center" alt="BBC News"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>How Gen Z is hooked on cryptocurrency and NFTs</h2>
-<p>A growing number of young people are getting into crypto trading - despite the risks.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/europe/cryptoverse-stablecoins-wend-wobbly-way-into-unknown-2022-05-17/">
+<a href="https://www.reuters.com/technology/official-correction-update-2-top-stablecoin-tether-boosts-us-treasuries-holdings-2022-05-19/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/dNdPt1vCqDS8QQ7YM3pkS8UT9FY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WZFWF66YJ5M6BP6PQUTL3MZ7DQ.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cryptoverse: Stablecoins wend wobbly way into the unknown - Reuters.com</h2>
-<p>Stablecoins, the safe and strait-laced cousins of crypto, are looking distinctly dicey.</p>
+<h2>OFFICIAL CORRECTION UPDATE 2 Top stablecoin Tether boosts U.S. Treasuries holdings - Reuters</h2>
+<p>Tether, the world's largest stablecoin, said on Thursday it has boosted its holdings of U.S. government debt while cutting exposure to riskier assets, the first look at its reserves since the token was rocked by the crypto sector's recent sell-off.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/europe/small-players-lose-faith-crypto-after-sell-off-2022-05-17/">
+<a href="https://www.reuters.com/markets/europe/crypto-crash-leaves-el-salvador-with-no-easy-exit-worsening-crisis-2022-05-19/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/6U8A_9TLEefvl0p1lDql8g2sMD4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3OL24TUV5JL5XGOPKVWKS7JCI4.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/oDdrMrkNRKCwVAGqmoQ29gdaHcI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QDA7HEPP75P3NNYPIW6LUQIZTE.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Small players lose faith in crypto after sell-off - Reuters.com</h2>
-<p>Nofe Isah, a 25-year old based in Nigeria, has been investing in crypto since January. Last week, she lost all of her $5,000 in savings as cryptocurrency luna went into free fall.</p>
+<h2>Analysis: Crypto crash leaves El Salvador with no easy exit from worsening crisis - Reuters</h2>
+<p>El Salvador's big bet on bitcoin, which the Central American nation has been buying since September, has soured in recent weeks as a cryptocurrency rout shaved over a third of the value of the government's holdings, Reuters calculations show.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/markets/currencies/crypto-loving-skoreans-bet-luna-rising-ashes-worrying-regulator-2022-05-19/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/R0CA9nxbbHpdtPDv8fs24QQwjZA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5FVAN7WCNZOY3PAYFNGHSJ4JHM.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Crypto-loving S.Koreans bet on Luna rising from ashes, worrying regulator - Reuters</h2>
+<p>Reckoning they have little to lose with prices so ridiculously low, South Korean speculators in recent days have piled into Luna, a cryptocurrency that lost 99.99% of its value last week after its paired stablecoin TerraUSD collapsed.</p>
 </td>
 </table>
 <!-- Crypto News -->
