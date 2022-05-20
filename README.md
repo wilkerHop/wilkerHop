@@ -115,14 +115,14 @@ And more **1 hr 26 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://lifehacker.com/beware-the-latest-android-malware-on-google-play-1848939703">
-<span>Lifehacker.com</span>
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5b90a9433d93297f2c49fcd922d9faf8.jpg" align="center" alt="Lifehacker.com"/>
+<a href="https://www.theverge.com/2022/5/20/23131647/terra-luna-do-kwon-stablecoin-anchor">
+<span>The Verge</span>
+<img src="https://cdn.vox-cdn.com/thumbor/IVL0qTILLdUK0KGUt8E3CQahHro=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22413649/acastro_210329_1777_nft_0004.jpg" align="center" alt="The Verge"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Beware the Latest Android Malware on Google Play</h2>
-<p>Android users take heed: there’s a new piece of malware cropping up on the Google Play Store, and it’s coming for your data. Dubbed “Facestealer,” this new malware can steal personal information on your phone, hijack your social media passwords by forcing fak…</p>
+<h2>How the Anchor protocol helped sink Terra</h2>
+<p>If a 20 percent interest rate sounds too good to be true, it probably is. Ultimately, Anchor weighed its investors down when Terra ran aground.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
