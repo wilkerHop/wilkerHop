@@ -126,47 +126,47 @@ And more **53 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/g7-countries-urge-swift-regulation-crypto-assets-draft-2022-05-19/">
+<a href="https://www.reuters.com/breakingviews/review-war-digital-payment-fails-hit-target-2022-05-20/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/XsA-mJuk-UfiaqX_lbwtVZ8Egp4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TK5SKXCQMNPBFOQOZZTJB55GHQ.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/WPWWFqLXMDoUcr83-KoW2i18bJo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QXDDOTSATJNEXI35WO3UAIZWF4.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>G7 countries urge swift regulation of crypto assets - draft - Reuters</h2>
-<p>The world's top financial leaders called on Thursday for the swift and comprehensive regulation of cryptocurrencies following turmoil that has seen the demise of the Terra stablecoin last week, a draft communique showed on Thursday.</p>
+<h2>Breakingviews - Review: War on digital payment fails to hit target - Reuters</h2>
+<p>Do we choose to pay for our coffee with cards rather than cash? Most consumers would say they do. But Brett Scott disagrees. In “Cloudmoney: Cash, Cards, Crypto and the War for our Wallets”, the pro-cash campaigner argues digital payments are a “pre-destined …</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/official-correction-update-2-top-stablecoin-tether-boosts-us-treasuries-holdings-2022-05-19/">
+<a href="https://www.reuters.com/markets/europe/if-fed-has-choose-markets-could-get-much-uglier-2022-05-20/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/dNdPt1vCqDS8QQ7YM3pkS8UT9FY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WZFWF66YJ5M6BP6PQUTL3MZ7DQ.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/lJoM4KxBgkmhZ4djkBb75Fqf500=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/55ZX6ZKH4NJQFF5RATC6Y6OF3M.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>OFFICIAL CORRECTION UPDATE 2 Top stablecoin Tether boosts U.S. Treasuries holdings - Reuters</h2>
-<p>Tether, the world's largest stablecoin, said on Thursday it has boosted its holdings of U.S. government debt while cutting exposure to riskier assets, the first look at its reserves since the token was rocked by the crypto sector's recent sell-off.</p>
+<h2>Column: If Fed has to choose, markets could get much uglier - Reuters</h2>
+<p>If the U.S. Federal Reserve were to take its political cue at face value and focus solely on putting inflation back in its box, already battered financial markets could get much uglier and investors don't appear prepared for it.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/europe/crypto-crash-leaves-el-salvador-with-no-easy-exit-worsening-crisis-2022-05-19/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/oDdrMrkNRKCwVAGqmoQ29gdaHcI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QDA7HEPP75P3NNYPIW6LUQIZTE.jpg" align="center" alt="Reuters"/>
+<a href="https://amp.theguardian.com/commentisfree/2022/may/21/bitcoin-losing-its-cool-look-at-el-salvador">
+<span>The Guardian</span>
+<img src="https://i.guim.co.uk/img/media/c144d7b7094bd731dbfdbeac05b2f7a775c63718/0_64_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=b5753424a9388779bcfe5571d40754d2" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Analysis: Crypto crash leaves El Salvador with no easy exit from worsening crisis - Reuters</h2>
-<p>El Salvador's big bet on bitcoin, which the Central American nation has been buying since September, has soured in recent weeks as a cryptocurrency rout shaved over a third of the value of the government's holdings, Reuters calculations show.</p>
+<h2>Crypto is starting to lose its cool – just look at El Salvador | Rowan Moore</h2>
+<p>Fantasies of a Bitcoin City have been undermined by the country’s huge losses in cryptocurrencyTo its evangelists, bitcoin is a frictionless, empowering form of money that liberates citizens of the world from the shackles of banks and national governments. To…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/currencies/crypto-loving-skoreans-bet-luna-rising-ashes-worrying-regulator-2022-05-19/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/R0CA9nxbbHpdtPDv8fs24QQwjZA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5FVAN7WCNZOY3PAYFNGHSJ4JHM.jpg" align="center" alt="Reuters"/>
+<a href="https://amp.theguardian.com/business/2022/may/20/hsbc-banker-discredited-climate-crisis-warnings">
+<span>The Guardian</span>
+<img src="https://i.guim.co.uk/img/media/5345978018e12f208dc9bf3f173ed8e3fed8869c/0_97_4027_2416/master/4027.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2d61210fa46e5e733fa345ad629a985" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Crypto-loving S.Koreans bet on Luna rising from ashes, worrying regulator - Reuters</h2>
-<p>Reckoning they have little to lose with prices so ridiculously low, South Korean speculators in recent days have piled into Luna, a cryptocurrency that lost 99.99% of its value last week after its paired stablecoin TerraUSD collapsed.</p>
+<h2>HSBC pressured to sack banker who discredited climate crisis warnings</h2>
+<p>Speech by head of responsible investing Stuart Kirk dismissed global heating and joked about flooding risks HSBC is under pressure to fire a senior banker in charge of responsible investing after a speech in which he described warnings about the climate crisi…</p>
 </td>
 </table>
 <!-- Crypto News -->
