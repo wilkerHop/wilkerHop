@@ -115,36 +115,14 @@ And more **52 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.theverge.com/2022/5/20/23131647/terra-luna-do-kwon-stablecoin-anchor">
-<span>The Verge</span>
-<img src="https://cdn.vox-cdn.com/thumbor/IVL0qTILLdUK0KGUt8E3CQahHro=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22413649/acastro_210329_1777_nft_0004.jpg" align="center" alt="The Verge"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>How the Anchor protocol helped sink Terra</h2>
-<p>If a 20 percent interest rate sounds too good to be true, it probably is. Ultimately, Anchor weighed its investors down when Terra ran aground.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/breakingviews/review-war-digital-payment-fails-hit-target-2022-05-20/">
+<a href="https://www.reuters.com/technology/indias-top-crypto-app-coinswitch-calls-regulatory-peace-certainty-2022-05-22/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/WPWWFqLXMDoUcr83-KoW2i18bJo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QXDDOTSATJNEXI35WO3UAIZWF4.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/CjvWkTJTRAPe_CEPzqyze7fWa9I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5IDTCDXAMRPW5FG4SSTLRUR4R4.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Breakingviews - Review: War on digital payment fails to hit target - Reuters</h2>
-<p>Do we choose to pay for our coffee with cards rather than cash? Most consumers would say they do. But Brett Scott disagrees. In “Cloudmoney: Cash, Cards, Crypto and the War for our Wallets”, the pro-cash campaigner argues digital payments are a “pre-destined …</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/europe/if-fed-has-choose-markets-could-get-much-uglier-2022-05-20/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/lJoM4KxBgkmhZ4djkBb75Fqf500=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/55ZX6ZKH4NJQFF5RATC6Y6OF3M.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Column: If Fed has to choose, markets could get much uglier - Reuters</h2>
-<p>If the U.S. Federal Reserve were to take its political cue at face value and focus solely on putting inflation back in its box, already battered financial markets could get much uglier and investors don't appear prepared for it.</p>
+<h2>India's top crypto app CoinSwitch calls for regulatory 'peace, certainty' - Reuters</h2>
+<p>India must establish rules on cryptocurrencies to resolve regulatory uncertainty, protect investors and boost its crypto sector, CoinSwitch CEO Ashish Singhal said on Sunday.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -159,14 +137,36 @@ And more **52 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/business/2022/may/20/hsbc-banker-discredited-climate-crisis-warnings">
+<a href="https://amp.theguardian.com/technology/2022/may/22/tether-pays-out-10bn-in-withdrawal-since-crypto-crash">
 <span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/5345978018e12f208dc9bf3f173ed8e3fed8869c/0_97_4027_2416/master/4027.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2d61210fa46e5e733fa345ad629a985" align="center" alt="The Guardian"/>
+<img src="https://i.guim.co.uk/img/media/17c7bd8286e565a659cdac4a62f5fe2f68afc1bf/0_233_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=092ae8e00da8bda375a741a9b57af419" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>HSBC pressured to sack banker who discredited climate crisis warnings</h2>
-<p>Speech by head of responsible investing Stuart Kirk dismissed global heating and joked about flooding risks HSBC is under pressure to fire a senior banker in charge of responsible investing after a speech in which he described warnings about the climate crisi…</p>
+<h2>Tether pays out $10bn in withdrawals since start of crypto crash</h2>
+<p>Pace of withdrawals in May means ‘stablecoin’ company effectively dealing with slow-motion bank runTether, the multibillion dollar “stablecoin” that functions as the largest bank in the cryptocurrency economy, has paid out $10bn (£8bn) in withdrawals since th…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.cnet.com/personal-finance/crypto/after-luna-collapse-terra-looks-to-new-blockchain-this-weeks-top-bitcoin-and-crypto-news/">
+<span>CNET</span>
+<img src="https://www.cnet.com/a/img/resize/941676ec40a5f484a5a3421c0fab4fc66d83adf2/2022/04/23/ddcb4d2b-32be-43f0-b48f-f6d31e44bec9/crypto-story-1.png?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>After Luna Collapse, Terra Looks to New Blockchain. This Week's Top Bitcoin and Crypto News - CNET</h2>
+<p>All the bitcoin, cryptocurrency and NFT news for the week ending May 20.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.businessinsider.com/personal-finance/investment-strategies-teenage-investors-should-avoid-2022-5">
+<span>Business Insider</span>
+<img src="https://i.insider.com/6287d8fab0a8be00185fd098?width=1200&format=jpeg" align="center" alt="Business Insider"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>3 investment strategies teenagers should avoid, according to a 19-yer-old investor who started when he was 8</h2>
+<p>Jack Rosenthal, a 19-year-old investor, says young investors shouldn't put all their investments in crypto or invest in stocks that are overhyped.</p>
 </td>
 </table>
 <!-- Crypto News -->
