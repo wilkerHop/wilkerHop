@@ -126,14 +126,14 @@ And more **35 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/commentisfree/2022/may/21/bitcoin-losing-its-cool-look-at-el-salvador">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/c144d7b7094bd731dbfdbeac05b2f7a775c63718/0_64_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=b5753424a9388779bcfe5571d40754d2" align="center" alt="The Guardian"/>
+<a href="https://www.reuters.com/markets/us/crypto-crowd-dominate-davos-main-street-despite-price-crash-2022-05-23/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/NAUq_RP_WIuDHzpA5WDBCVrCiAU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DX2JV66KRJKNTOWB2TLKGJPCY4.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Crypto is starting to lose its cool – just look at El Salvador | Rowan Moore</h2>
-<p>Fantasies of a Bitcoin City have been undermined by the country’s huge losses in cryptocurrencyTo its evangelists, bitcoin is a frictionless, empowering form of money that liberates citizens of the world from the shackles of banks and national governments. To…</p>
+<h2>Crypto crowd dominate Davos main street despite price crash - Reuters</h2>
+<p>A free bitcoin pizza stall and a "Liquidity Lounge" were among the treats on offer for attendees at this year's meeting in Davos, where blockchain and cryptocurrency firms have taken over its main street, despite a recent crash in digital coin values.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -148,25 +148,25 @@ And more **35 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.cnet.com/personal-finance/crypto/after-luna-collapse-terra-looks-to-new-blockchain-this-weeks-top-bitcoin-and-crypto-news/">
+<a href="https://www.cnet.com/tech/services-and-software/gamestop-launching-digital-wallet-for-cryptocurrencies-nfts/">
 <span>CNET</span>
-<img src="https://www.cnet.com/a/img/resize/941676ec40a5f484a5a3421c0fab4fc66d83adf2/2022/04/23/ddcb4d2b-32be-43f0-b48f-f6d31e44bec9/crypto-story-1.png?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
+<img src="https://www.cnet.com/a/img/resize/00e1b8fca281f501a409d88e2eda84a4231959db/2022/02/03/f408f29c-7a96-4e3f-b04d-53f792972f8c/gettyimages-1235868944.jpg?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>After Luna Collapse, Terra Looks to New Blockchain. This Week's Top Bitcoin and Crypto News - CNET</h2>
-<p>All the bitcoin, cryptocurrency and NFT news for the week ending May 20.</p>
+<h2>GameStop Launching Digital Wallet for Cryptocurrencies, NFTs - CNET</h2>
+<p>The self-custodial Ethereum wallet will have its own Google Chrome extension and can be used to complete transactions on the company's upcoming NFT marketplace.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.businessinsider.com/personal-finance/investment-strategies-teenage-investors-should-avoid-2022-5">
+<a href="https://markets.businessinsider.com/news/currencies/nearly-half-crypto-investors-2021-six-figure-incomes-fed-survey-2022-5">
 <span>Business Insider</span>
-<img src="https://i.insider.com/6287d8fab0a8be00185fd098?width=1200&format=jpeg" align="center" alt="Business Insider"/>
+<img src="https://i.insider.com/6206e1403b86990018b30aef?width=1200&format=jpeg" align="center" alt="Business Insider"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>3 investment strategies teenagers should avoid, according to a 19-yer-old investor who started when he was 8</h2>
-<p>Jack Rosenthal, a 19-year-old investor, says young investors shouldn't put all their investments in crypto or invest in stocks that are overhyped.</p>
+<h2>Nearly half of US cryptocurrency investors last year had six-figure incomes, the Federal Reserve says in a new report</h2>
+<p>The Fed's Economic Well-Being of US Households report also found that 29% of crypto investors had an annual income of $50,000 or less.</p>
 </td>
 </table>
 <!-- Crypto News -->
