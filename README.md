@@ -115,14 +115,47 @@ And more **1 hr 29 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/indias-top-crypto-app-coinswitch-calls-regulatory-peace-certainty-2022-05-22/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/CjvWkTJTRAPe_CEPzqyze7fWa9I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5IDTCDXAMRPW5FG4SSTLRUR4R4.jpg" align="center" alt="Reuters"/>
+<a href="https://www.theverge.com/23138465/decoder-ukraine-war-cryptocurrency-michael-chobanian-interview-bitcoin-usdt">
+<span>The Verge</span>
+<img src="https://cdn.vox-cdn.com/thumbor/hyxIGAl42Cl6sDQJzy2cD3X4tEg=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23583410/VRG_ILLO_Decoder_Michael_Chobanian.jpg" align="center" alt="The Verge"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>India's top crypto app CoinSwitch calls for regulatory 'peace, certainty' - Reuters</h2>
-<p>India must establish rules on cryptocurrencies to resolve regulatory uncertainty, protect investors and boost its crypto sector, CoinSwitch CEO Ashish Singhal said on Sunday.</p>
+<h2>How Ukraine’s wide use of cryptocurrency is playing out during the war</h2>
+<p>Michael Chobanian, the president of the Blockchain Association of Ukraine, discusses how cryptocurrency and blockchain could reshape the Ukrainian government.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://gizmodo.com/gamestop-crypto-nft-wallet-blockchain-1848965386">
+<span>Gizmodo.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cd4c128b4182d7b2fba8152d7bb35733.jpg" align="center" alt="Gizmodo.com"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>GameStop Dunks Its Head Into the Crypto Kiddie Pool</h2>
+<p>GameStop has officially thrown itself headlong into the web3 vipers nest with a new app release, though it’s hard to say whether its proposed population of gamers and game developers will take up the company on its belated, head-first jump into the crypto sph…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://gizmodo.com/chancers-crypto-luna-do-kwon-terra-blockchain-luna-1848969712">
+<span>Gizmodo.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/68fb657a4aadaaa72bf7fef85fc890f3.jpg" align="center" alt="Gizmodo.com"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Guy Who Knocked on Luna Boss' Door Says He Lost Millions In Crypto Crash</h2>
+<p>The man who allegedly tried to pay a visit the head honcho of the Terra blockchain May 13 finally spoke out Tuesday, telling reporters the crash of Terra and Luna left him financially devastated, and that he wanted to hear directly from Terra’s boss what the …</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/markets/europe/cryptoverse-is-end-bitcoin-winter-nigh-2022-05-24/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/tskc85lFRu_oQwAPvUhDH1JIOVU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FNX6RIL72VISZBW5RI2INPQ2YA.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Cryptoverse: Is the end of the bitcoin winter nigh? - Reuters.com</h2>
+<p>The crypto winter is into its ninth week and bitcoin can't shake the chills.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -134,39 +167,6 @@ And more **1 hr 29 mins** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>Crypto crowd dominate Davos main street despite price crash - Reuters</h2>
 <p>A free bitcoin pizza stall and a "Liquidity Lounge" were among the treats on offer for attendees at this year's meeting in Davos, where blockchain and cryptocurrency firms have taken over its main street, despite a recent crash in digital coin values.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/technology/2022/may/22/tether-pays-out-10bn-in-withdrawal-since-crypto-crash">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/17c7bd8286e565a659cdac4a62f5fe2f68afc1bf/0_233_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=092ae8e00da8bda375a741a9b57af419" align="center" alt="The Guardian"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Tether pays out $10bn in withdrawals since start of crypto crash</h2>
-<p>Pace of withdrawals in May means ‘stablecoin’ company effectively dealing with slow-motion bank runTether, the multibillion dollar “stablecoin” that functions as the largest bank in the cryptocurrency economy, has paid out $10bn (£8bn) in withdrawals since th…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.cnet.com/tech/services-and-software/gamestop-launching-digital-wallet-for-cryptocurrencies-nfts/">
-<span>CNET</span>
-<img src="https://www.cnet.com/a/img/resize/00e1b8fca281f501a409d88e2eda84a4231959db/2022/02/03/f408f29c-7a96-4e3f-b04d-53f792972f8c/gettyimages-1235868944.jpg?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>GameStop Launching Digital Wallet for Cryptocurrencies, NFTs - CNET</h2>
-<p>The self-custodial Ethereum wallet will have its own Google Chrome extension and can be used to complete transactions on the company's upcoming NFT marketplace.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://markets.businessinsider.com/news/currencies/nearly-half-crypto-investors-2021-six-figure-incomes-fed-survey-2022-5">
-<span>Business Insider</span>
-<img src="https://i.insider.com/6206e1403b86990018b30aef?width=1200&format=jpeg" align="center" alt="Business Insider"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Nearly half of US cryptocurrency investors last year had six-figure incomes, the Federal Reserve says in a new report</h2>
-<p>The Fed's Economic Well-Being of US Households report also found that 29% of crypto investors had an annual income of $50,000 or less.</p>
 </td>
 </table>
 <!-- Crypto News -->
