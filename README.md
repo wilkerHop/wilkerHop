@@ -126,17 +126,6 @@ And more **1 hr 9 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://gizmodo.com/gamestop-crypto-nft-wallet-blockchain-1848965386">
-<span>Gizmodo.com</span>
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cd4c128b4182d7b2fba8152d7bb35733.jpg" align="center" alt="Gizmodo.com"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>GameStop Dunks Its Head Into the Crypto Kiddie Pool</h2>
-<p>GameStop has officially thrown itself headlong into the web3 vipers nest with a new app release, though it’s hard to say whether its proposed population of gamers and game developers will take up the company on its belated, head-first jump into the crypto sph…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://gizmodo.com/chancers-crypto-luna-do-kwon-terra-blockchain-luna-1848969712">
 <span>Gizmodo.com</span>
 <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/68fb657a4aadaaa72bf7fef85fc890f3.jpg" align="center" alt="Gizmodo.com"/>
@@ -159,14 +148,25 @@ And more **1 hr 9 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/us/crypto-crowd-dominate-davos-main-street-despite-price-crash-2022-05-23/">
+<a href="https://www.reuters.com/markets/currencies/cryptocurrency-crash-devalues-ukraines-government-crypto-fundraise-2022-05-25/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/NAUq_RP_WIuDHzpA5WDBCVrCiAU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DX2JV66KRJKNTOWB2TLKGJPCY4.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/BcHqKmj9_5qc5ERXRTQJy-IjzjE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ELTJZDSF4FM5XHWBZZJVAMPNIE.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Crypto crowd dominate Davos main street despite price crash - Reuters</h2>
-<p>A free bitcoin pizza stall and a "Liquidity Lounge" were among the treats on offer for attendees at this year's meeting in Davos, where blockchain and cryptocurrency firms have taken over its main street, despite a recent crash in digital coin values.</p>
+<h2>Cryptocurrency crash devalues Ukraine's government crypto fundraise - Reuters.com</h2>
+<p>Ukraine, battered by three months of war, plans to continue to tap crypto investors to help raise funds after a plunge in prices decimated the country’s fundraising efforts in May.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/markets/europe/one-ten-euro-zone-households-owns-crypto-assets-ecb-survey-2022-05-24/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/NBJTvhr2erHKXdO3QpOBytxHwmg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/26LPEUYGMFK6VP2Q3DVNDEUMEA.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>One in ten euro zone households owns crypto-assets -ECB survey - Reuters</h2>
+<p>One in ten euro zone households have bought crypto-assets such as bitcoin, with the rich only slightly more likely to own some than the poor, a European Central Bank study showed on Tuesday.</p>
 </td>
 </table>
 <!-- Crypto News -->
