@@ -115,39 +115,6 @@ And more **1 hr 1 min** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.theverge.com/23138465/decoder-ukraine-war-cryptocurrency-michael-chobanian-interview-bitcoin-usdt">
-<span>The Verge</span>
-<img src="https://cdn.vox-cdn.com/thumbor/hyxIGAl42Cl6sDQJzy2cD3X4tEg=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23583410/VRG_ILLO_Decoder_Michael_Chobanian.jpg" align="center" alt="The Verge"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>How Ukraine’s wide use of cryptocurrency is playing out during the war</h2>
-<p>Michael Chobanian, the president of the Blockchain Association of Ukraine, discusses how cryptocurrency and blockchain could reshape the Ukrainian government.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://gizmodo.com/chancers-crypto-luna-do-kwon-terra-blockchain-luna-1848969712">
-<span>Gizmodo.com</span>
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/68fb657a4aadaaa72bf7fef85fc890f3.jpg" align="center" alt="Gizmodo.com"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Guy Who Knocked on Luna Boss' Door Says He Lost Millions In Crypto Crash</h2>
-<p>The man who allegedly tried to pay a visit the head honcho of the Terra blockchain May 13 finally spoke out Tuesday, telling reporters the crash of Terra and Luna left him financially devastated, and that he wanted to hear directly from Terra’s boss what the …</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/europe/cryptoverse-is-end-bitcoin-winter-nigh-2022-05-24/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/tskc85lFRu_oQwAPvUhDH1JIOVU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FNX6RIL72VISZBW5RI2INPQ2YA.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Cryptoverse: Is the end of the bitcoin winter nigh? - Reuters.com</h2>
-<p>The crypto winter is into its ninth week and bitcoin can't shake the chills.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/markets/currencies/cryptocurrency-crash-devalues-ukraines-government-crypto-fundraise-2022-05-25/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/BcHqKmj9_5qc5ERXRTQJy-IjzjE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ELTJZDSF4FM5XHWBZZJVAMPNIE.jpg" align="center" alt="Reuters"/>
@@ -159,14 +126,47 @@ And more **1 hr 1 min** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/europe/one-ten-euro-zone-households-owns-crypto-assets-ecb-survey-2022-05-24/">
+<a href="https://www.reuters.com/markets/us/crypto-regulators-may-see-10-household-exposure-high-watermark-2022-05-25/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/NBJTvhr2erHKXdO3QpOBytxHwmg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/26LPEUYGMFK6VP2Q3DVNDEUMEA.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=96" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>One in ten euro zone households owns crypto-assets -ECB survey - Reuters</h2>
-<p>One in ten euro zone households have bought crypto-assets such as bitcoin, with the rich only slightly more likely to own some than the poor, a European Central Bank study showed on Tuesday.</p>
+<h2>Column: Crypto regulators may see 10% household exposure as high watermark - Reuters</h2>
+<p>Whatever the broader financial or economic stability risks of volatile crypto tokens, government watchdogs may reasonably balk at 10% household exposure to loosely-regulated speculative punts that double or halve in value every 6 months.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/business/finance/get-your-crypto-house-order-old-guard-tells-davos-debutantes-2022-05-26/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/CjvWkTJTRAPe_CEPzqyze7fWa9I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5IDTCDXAMRPW5FG4SSTLRUR4R4.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Get your crypto house in order, old guard tells Davos debutantes - Reuters</h2>
+<p>Cryptocurrency firms, many of which lined the main street in Davos this week, were told they will need to clean up their act before gaining complete acceptance from the World Economic Forum's old guard.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/markets/wealth/crypto-lender-babel-finance-valued-2-billion-after-latest-fundraising-2022-05-25/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/qtFOvHOgY-Bv63LX1PzCLfWs25w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SWBLTHOVWJMCXHGWN726BGSKJY.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Crypto lender Babel Finance valued at $2 billion after latest fundraising - Reuters.com</h2>
+<p>Hong Kong-based Babel Finance said on Wednesday it had raised $80 million in a new funding round that valued the cryptocurrency lender and asset manager at $2 billion.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/markets/us/pay-more-attention-ethereum-co-founder-says-crypto-crash-2022-05-25/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/XsA-mJuk-UfiaqX_lbwtVZ8Egp4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TK5SKXCQMNPBFOQOZZTJB55GHQ.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>'Pay more attention' Ethereum co-founder says of crypto crash - Reuters</h2>
+<p>Ethereum's co-founder Gavin Wood said cryptocurrency investors need to be more aware of what is backing their holdings after a market rout which wiped more than $800 billion off their value.</p>
 </td>
 </table>
 <!-- Crypto News -->
