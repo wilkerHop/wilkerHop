@@ -115,28 +115,6 @@ And more **1 hr** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/currencies/cryptocurrency-crash-devalues-ukraines-government-crypto-fundraise-2022-05-25/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/BcHqKmj9_5qc5ERXRTQJy-IjzjE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ELTJZDSF4FM5XHWBZZJVAMPNIE.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Cryptocurrency crash devalues Ukraine's government crypto fundraise - Reuters.com</h2>
-<p>Ukraine, battered by three months of war, plans to continue to tap crypto investors to help raise funds after a plunge in prices decimated the country’s fundraising efforts in May.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/us/crypto-regulators-may-see-10-household-exposure-high-watermark-2022-05-25/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=96" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Column: Crypto regulators may see 10% household exposure as high watermark - Reuters</h2>
-<p>Whatever the broader financial or economic stability risks of volatile crypto tokens, government watchdogs may reasonably balk at 10% household exposure to loosely-regulated speculative punts that double or halve in value every 6 months.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/business/finance/get-your-crypto-house-order-old-guard-tells-davos-debutantes-2022-05-26/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/CjvWkTJTRAPe_CEPzqyze7fWa9I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5IDTCDXAMRPW5FG4SSTLRUR4R4.jpg" align="center" alt="Reuters"/>
@@ -148,25 +126,47 @@ And more **1 hr** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/wealth/crypto-lender-babel-finance-valued-2-billion-after-latest-fundraising-2022-05-25/">
+<a href="https://www.reuters.com/markets/currencies/russia-mulls-allowing-cryptocurrency-international-payments-ifax-2022-05-27/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/qtFOvHOgY-Bv63LX1PzCLfWs25w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SWBLTHOVWJMCXHGWN726BGSKJY.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/6U8A_9TLEefvl0p1lDql8g2sMD4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3OL24TUV5JL5XGOPKVWKS7JCI4.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Crypto lender Babel Finance valued at $2 billion after latest fundraising - Reuters.com</h2>
-<p>Hong Kong-based Babel Finance said on Wednesday it had raised $80 million in a new funding round that valued the cryptocurrency lender and asset manager at $2 billion.</p>
+<h2>Russia mulls allowing cryptocurrency for international payments - Ifax - Reuters</h2>
+<p>Russia is considering allowing cryptocurrency to be used for international payments, Interfax news agency quoted a government official as saying on Friday.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/us/pay-more-attention-ethereum-co-founder-says-crypto-crash-2022-05-25/">
+<a href="https://www.reuters.com/markets/us/binance-registers-with-italys-regulator-amid-plans-expand-europe-2022-05-27/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/XsA-mJuk-UfiaqX_lbwtVZ8Egp4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TK5SKXCQMNPBFOQOZZTJB55GHQ.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/81I_Lji_RZoUtVEPtwkn2zNDhCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QJ5P2FLF75OF3EB6M5QHUG2SY4.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>'Pay more attention' Ethereum co-founder says of crypto crash - Reuters</h2>
-<p>Ethereum's co-founder Gavin Wood said cryptocurrency investors need to be more aware of what is backing their holdings after a market rout which wiped more than $800 billion off their value.</p>
+<h2>Binance registers with Italy's regulator amid plans to expand in Europe - Reuters</h2>
+<p>Binance said on Friday its legal entity in Italy had registered with the regulator in the country, as the major cryptocurrency exchange seeks to gain traction in Europe.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/markets/us/feds-brainard-we-cant-take-global-status-us-dollar-granted-2022-05-26/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/c39aFqtYuKPWFhs0jA62cBB-rog=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PFJ2AEY42BMY3C3V6SGXAPEX7Y.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Fed's Brainard: We can't take global status of U.S. dollar for granted - Reuters.com</h2>
+<p>The world is moving rapidly toward increasing use of digital payments and an official digital version of the U.S. dollar could help safeguard its global dominance as other countries issue their own, Federal Reserve Vice Chair Lael Brainard said on Thursday.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://markets.businessinsider.com/news/stocks/stock-market-news-today-positive-retail-earnings-drive-relief-rally-2022-5">
+<span>Business Insider</span>
+<img src="https://i.insider.com/61a5a29d1f8b8c00195ac655?width=1200&format=jpeg" align="center" alt="Business Insider"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Dow soars 516 points and Nasdaq climbs over 2% as strong earnings drive relief rally</h2>
+<p>Ongoing recession worries have yet to show up in weekly jobless claims, which fell 8,000 in the week ending May 21 to 210,000.</p>
 </td>
 </table>
 <!-- Crypto News -->
