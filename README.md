@@ -115,17 +115,6 @@ And more **1 hr** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/get-your-crypto-house-order-old-guard-tells-davos-debutantes-2022-05-26/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/CjvWkTJTRAPe_CEPzqyze7fWa9I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5IDTCDXAMRPW5FG4SSTLRUR4R4.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Get your crypto house in order, old guard tells Davos debutantes - Reuters</h2>
-<p>Cryptocurrency firms, many of which lined the main street in Davos this week, were told they will need to clean up their act before gaining complete acceptance from the World Economic Forum's old guard.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/markets/currencies/russia-mulls-allowing-cryptocurrency-international-payments-ifax-2022-05-27/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/6U8A_9TLEefvl0p1lDql8g2sMD4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3OL24TUV5JL5XGOPKVWKS7JCI4.jpg" align="center" alt="Reuters"/>
@@ -148,25 +137,36 @@ And more **1 hr** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/us/feds-brainard-we-cant-take-global-status-us-dollar-granted-2022-05-26/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/c39aFqtYuKPWFhs0jA62cBB-rog=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PFJ2AEY42BMY3C3V6SGXAPEX7Y.jpg" align="center" alt="Reuters"/>
+<a href="https://www.cnet.com/personal-finance/crypto/terra-2-0-launch-planned-following-luna-meltdown-this-weeks-top-bitcoin-and-crypto-news/">
+<span>CNET</span>
+<img src="https://www.cnet.com/a/img/resize/941676ec40a5f484a5a3421c0fab4fc66d83adf2/2022/04/23/ddcb4d2b-32be-43f0-b48f-f6d31e44bec9/crypto-story-1.png?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Fed's Brainard: We can't take global status of U.S. dollar for granted - Reuters.com</h2>
-<p>The world is moving rapidly toward increasing use of digital payments and an official digital version of the U.S. dollar could help safeguard its global dominance as other countries issue their own, Federal Reserve Vice Chair Lael Brainard said on Thursday.</p>
+<h2>Terra 2.0 Launch Planned Following Luna Meltdown. This Week's Top Bitcoin and Crypto News - CNET</h2>
+<p>All the bitcoin, cryptocurrency and NFT news for the week ending May 27.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://markets.businessinsider.com/news/stocks/stock-market-news-today-positive-retail-earnings-drive-relief-rally-2022-5">
+<a href="https://markets.businessinsider.com/news/currencies/crypto-avalanche-apecoin-tokens-5-worst-performing-cryptos-past-week-2022-5">
 <span>Business Insider</span>
-<img src="https://i.insider.com/61a5a29d1f8b8c00195ac655?width=1200&format=jpeg" align="center" alt="Business Insider"/>
+<img src="https://i.insider.com/61deffa01025b20018bb5698?width=1200&format=jpeg" align="center" alt="Business Insider"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Dow soars 516 points and Nasdaq climbs over 2% as strong earnings drive relief rally</h2>
-<p>Ongoing recession worries have yet to show up in weekly jobless claims, which fell 8,000 in the week ending May 21 to 210,000.</p>
+<h2>These were the 5 worst performing cryptos over the past week amid bitcoin bear market</h2>
+<p>With more than 19,000 cryptocurrencies in existence and counting, there are more than triple the number of crypto coins than there are US stocks.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.businessinsider.com/the-federal-reserve-makes-a-case-for-a-cbdc-2022-5">
+<span>Business Insider</span>
+<img src="https://i.insider.com/6290e3e6f099c40019569f47?width=1200&format=jpeg" align="center" alt="Business Insider"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>The Fed's plans for a CBDC raise concerns among trade groups that banks will lose their edge</h2>
+<p>Industry trade groups fear that a CBDC would shrink deposits at private banks and hinder banks' ability to offer credit.</p>
 </td>
 </table>
 <!-- Crypto News -->
