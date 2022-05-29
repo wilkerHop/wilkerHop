@@ -115,25 +115,14 @@ And more **1 hr** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/currencies/russia-mulls-allowing-cryptocurrency-international-payments-ifax-2022-05-27/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/6U8A_9TLEefvl0p1lDql8g2sMD4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3OL24TUV5JL5XGOPKVWKS7JCI4.jpg" align="center" alt="Reuters"/>
+<a href="https://www.cnet.com/personal-finance/crypto/terra-2-0-launched-today-following-luna-meltdown-this-weeks-top-bitcoin-and-crypto-news/">
+<span>CNET</span>
+<img src="https://www.cnet.com/a/img/resize/941676ec40a5f484a5a3421c0fab4fc66d83adf2/2022/04/23/ddcb4d2b-32be-43f0-b48f-f6d31e44bec9/crypto-story-1.png?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Russia mulls allowing cryptocurrency for international payments - Ifax - Reuters</h2>
-<p>Russia is considering allowing cryptocurrency to be used for international payments, Interfax news agency quoted a government official as saying on Friday.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/us/binance-registers-with-italys-regulator-amid-plans-expand-europe-2022-05-27/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/81I_Lji_RZoUtVEPtwkn2zNDhCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QJ5P2FLF75OF3EB6M5QHUG2SY4.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Binance registers with Italy's regulator amid plans to expand in Europe - Reuters</h2>
-<p>Binance said on Friday its legal entity in Italy had registered with the regulator in the country, as the major cryptocurrency exchange seeks to gain traction in Europe.</p>
+<h2>Terra 2.0 Is Now Live, Following Luna Meltdown. This Week's Top Bitcoin and Crypto News - CNET</h2>
+<p>All the bitcoin, cryptocurrency and NFT news for the week ending May 27.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -148,25 +137,38 @@ And more **1 hr** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://markets.businessinsider.com/news/currencies/crypto-avalanche-apecoin-tokens-5-worst-performing-cryptos-past-week-2022-5">
+<a href="https://markets.businessinsider.com/news/stocks/bob-farrell-stock-market-rules-high-inflation-fed-rate-hikes-2022-5">
 <span>Business Insider</span>
-<img src="https://i.insider.com/61deffa01025b20018bb5698?width=1200&format=jpeg" align="center" alt="Business Insider"/>
+<img src="https://i.insider.com/5f36baabe89ebf001f044a3d?width=1200&format=jpeg" align="center" alt="Business Insider"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>These were the 5 worst performing cryptos over the past week amid bitcoin bear market</h2>
-<p>With more than 19,000 cryptocurrencies in existence and counting, there are more than triple the number of crypto coins than there are US stocks.</p>
+<h2>A Wall Street legend's 10 market rules are still relevant decades later as stocks buckle under soaring inflation and higher interest rates, Bank of America says</h2>
+<p>Farrell spent his 45-year career working at Merrill Lynch and wrote these investing rules in 1998 when tech stocks dominated the market.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.businessinsider.com/the-federal-reserve-makes-a-case-for-a-cbdc-2022-5">
-<span>Business Insider</span>
-<img src="https://i.insider.com/6290e3e6f099c40019569f47?width=1200&format=jpeg" align="center" alt="Business Insider"/>
+<a href="https://cryptopotato.com/terra-2-0-is-live-here-are-the-exchanges-to-support-the-luna-airdrop/">
+<span>CryptoPotato</span>
+<img src="https://cryptopotato.com/wp-content/uploads/2022/05/Terra_Rebirth.jpg" align="center" alt="CryptoPotato"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>The Fed's plans for a CBDC raise concerns among trade groups that banks will lose their edge</h2>
-<p>Industry trade groups fear that a CBDC would shrink deposits at private banks and hinder banks' ability to offer credit.</p>
+<h2>Terra 2.0 is Live: Here Are the Exchanges to Support the LUNA Airdrop - CryptoPotato</h2>
+<p><ol><li>Terra 2.0 is Live: Here Are the Exchanges to Support the LUNA Airdrop  CryptoPotato
+</li><li>This is what's next for Terra as the failed crypto project attempts a new path forward  CNBC
+</li><li>Crypto: Luna 2.0 set to launch, Terra to burn leftover…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://venturebeat.com/2022/05/28/why-web3-represents-a-new-frontier-for-personal-data-ownership/">
+<span>VentureBeat</span>
+<img src="https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1246715578-e1624227330919.jpg?w=1200&strip=all" align="center" alt="VentureBeat"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Why Web3 represents a new frontier for personal data ownership</h2>
+<p>If Web3 innovators can establish a safe and private environment, users and data collectors can both profit from data under a user's control.</p>
 </td>
 </table>
 <!-- Crypto News -->
