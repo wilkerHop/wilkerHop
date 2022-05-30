@@ -115,25 +115,25 @@ And more **1 hr 1 min** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.cnet.com/personal-finance/crypto/terra-2-0-launched-today-following-luna-meltdown-this-weeks-top-bitcoin-and-crypto-news/">
-<span>CNET</span>
-<img src="https://www.cnet.com/a/img/resize/941676ec40a5f484a5a3421c0fab4fc66d83adf2/2022/04/23/ddcb4d2b-32be-43f0-b48f-f6d31e44bec9/crypto-story-1.png?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
+<a href="https://www.reuters.com/world/americas/bitcoin-lures-inflation-weary-argentines-despite-crypto-crash-2022-05-30/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/0_nRtXiqryIxmp8B0CK0du1r16c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2EDXF5CCB5NV7NGTN276CYUPTY.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Terra 2.0 Is Now Live, Following Luna Meltdown. This Week's Top Bitcoin and Crypto News - CNET</h2>
-<p>All the bitcoin, cryptocurrency and NFT news for the week ending May 27.</p>
+<h2>Bitcoin lures inflation-weary Argentines despite crypto crash - Reuters</h2>
+<p>In the Crypstation cafe in downtown Buenos Aires, trendy young Argentines order their lattes and pastries surrounded by screens with real-time cryptocurrency price quotes and a huge neon Bitcoin logo. The bill can be paid in digital money, too.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.cnet.com/personal-finance/crypto/terra-2-0-launch-planned-following-luna-meltdown-this-weeks-top-bitcoin-and-crypto-news/">
-<span>CNET</span>
-<img src="https://www.cnet.com/a/img/resize/941676ec40a5f484a5a3421c0fab4fc66d83adf2/2022/04/23/ddcb4d2b-32be-43f0-b48f-f6d31e44bec9/crypto-story-1.png?auto=webp&fit=crop&height=630&width=1200" align="center" alt="CNET"/>
+<a href="https://www.entrepreneur.com/article/426780">
+<span>Entrepreneur</span>
+<img src="https://assets.entrepreneur.com/content/3x2/2000/1652980806-GettyImages-1356301667.jpg" align="center" alt="Entrepreneur"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Terra 2.0 Launch Planned Following Luna Meltdown. This Week's Top Bitcoin and Crypto News - CNET</h2>
-<p>All the bitcoin, cryptocurrency and NFT news for the week ending May 27.</p>
+<h2>The Future is DeFi: Going Beyond the Traditional Norm</h2>
+<p>Decentralized finance is going to continue taking the world by storm.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -148,27 +148,25 @@ And more **1 hr 1 min** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://cryptopotato.com/terra-2-0-is-live-here-are-the-exchanges-to-support-the-luna-airdrop/">
-<span>CryptoPotato</span>
-<img src="https://cryptopotato.com/wp-content/uploads/2022/05/Terra_Rebirth.jpg" align="center" alt="CryptoPotato"/>
+<a href="https://nationalpost.com/news/politics/poilievre-could-be-vulnerable-pollster-says-as-support-for-conservative-leadership-frontrunner-softens">
+<span>National Post</span>
+<img src="https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2022/05/Pierre-Poilievre-1-2-3.jpg" align="center" alt="National Post"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Terra 2.0 is Live: Here Are the Exchanges to Support the LUNA Airdrop - CryptoPotato</h2>
-<p><ol><li>Terra 2.0 is Live: Here Are the Exchanges to Support the LUNA Airdrop  CryptoPotato
-</li><li>This is what's next for Terra as the failed crypto project attempts a new path forward  CNBC
-</li><li>Crypto: Luna 2.0 set to launch, Terra to burn leftover…</p>
+<h2>Pierre Poilievre 'could be vulnerable,' pollster says, as support softens for frontrunner - National Post</h2>
+<p>Pierre Poilievre 'could be vulnerable,' pollster says, as support softens for frontrunner  National PostView Full coverage on Google News</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://venturebeat.com/2022/05/28/why-web3-represents-a-new-frontier-for-personal-data-ownership/">
-<span>VentureBeat</span>
-<img src="https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1246715578-e1624227330919.jpg?w=1200&strip=all" align="center" alt="VentureBeat"/>
+<a href="https://www.bbc.co.uk/news/world-asia-india-61629133">
+<span>BBC News</span>
+<img src="https://ichef.bbci.co.uk/news/1024/branded_news/100BF/production/_124972756_fqykaolveaayrda.jpg" align="center" alt="BBC News"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Why Web3 represents a new frontier for personal data ownership</h2>
-<p>If Web3 innovators can establish a safe and private environment, users and data collectors can both profit from data under a user's control.</p>
+<h2>Sidhu Moose Wala: The edgy India rapper who died in gun violence</h2>
+<p>Sidhu Moose Wala won millions of fans but also upset some with his fascination for guns.</p>
 </td>
 </table>
 <!-- Crypto News -->
