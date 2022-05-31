@@ -115,6 +115,17 @@ And more **1 hr 1 min** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/markets/us/cryptoverse-will-you-grow-old-with-bitcoin-2022-05-31/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/tGptjIQ6x9V6a4EZHpuoFDNW_xY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TYVLVL6PJFOOFOYL27LAT5RLXE.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Cryptoverse: Will you grow old with bitcoin? - Reuters</h2>
+<p>If you assumed crypto was just a young person's game, think again.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/world/americas/bitcoin-lures-inflation-weary-argentines-despite-crypto-crash-2022-05-30/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/0_nRtXiqryIxmp8B0CK0du1r16c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2EDXF5CCB5NV7NGTN276CYUPTY.jpg" align="center" alt="Reuters"/>
@@ -126,47 +137,36 @@ And more **1 hr 1 min** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.entrepreneur.com/article/426780">
-<span>Entrepreneur</span>
-<img src="https://assets.entrepreneur.com/content/3x2/2000/1652980806-GettyImages-1356301667.jpg" align="center" alt="Entrepreneur"/>
+<a href="https://www.reuters.com/markets/europe/global-regulators-push-ahead-with-crypto-bank-capital-rules-2022-05-31/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/ThamELWcPiOIZwKBkbWjh3p4t1A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2H43ECDPSVI35E5DV3RAN4EAEI.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>The Future is DeFi: Going Beyond the Traditional Norm</h2>
-<p>Decentralized finance is going to continue taking the world by storm.</p>
+<h2>Global regulators push ahead with crypto bank capital rules - Reuters</h2>
+<p>Global regulators said on Tuesday they will complete work by year end on how much capital banks should hold to cover cryptoassets on their books.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://markets.businessinsider.com/news/stocks/bob-farrell-stock-market-rules-high-inflation-fed-rate-hikes-2022-5">
-<span>Business Insider</span>
-<img src="https://i.insider.com/5f36baabe89ebf001f044a3d?width=1200&format=jpeg" align="center" alt="Business Insider"/>
+<a href="https://www.reuters.com/technology/fidelitys-crypto-unit-double-down-hiring-this-year-2022-05-31/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/umRDKcsC9-6BELmRf5uv9_cTTNw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CUKP2Z7D5ZIYLPSBVWQVIWVXUA.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>A Wall Street legend's 10 market rules are still relevant decades later as stocks buckle under soaring inflation and higher interest rates, Bank of America says</h2>
-<p>Farrell spent his 45-year career working at Merrill Lynch and wrote these investing rules in 1998 when tech stocks dominated the market.</p>
+<h2>Fidelity's crypto unit to double down on hiring this year - Reuters</h2>
+<p>Fidelity Investments' digital assets arm will double down on hiring this year as it looks to beef up its resources to serve clients who want to invest in crypto assets that trade round the clock.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://nationalpost.com/news/politics/poilievre-could-be-vulnerable-pollster-says-as-support-for-conservative-leadership-frontrunner-softens">
-<span>National Post</span>
-<img src="https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2022/05/Pierre-Poilievre-1-2-3.jpg" align="center" alt="National Post"/>
+<a href="https://www.reuters.com/legal/transactional/new-york-couple-accused-laundering-45-bln-crypto-still-plea-talks-2022-05-31/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/-zvq-XMuCbYrmKcUeOaOwoCEtxM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FVEQOZR5FZPPVDW2CTJ5FCJS2I.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Pierre Poilievre 'could be vulnerable,' pollster says, as support softens for frontrunner - National Post</h2>
-<p>Pierre Poilievre 'could be vulnerable,' pollster says, as support softens for frontrunner  National PostView Full coverage on Google News</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.bbc.co.uk/news/world-asia-india-61629133">
-<span>BBC News</span>
-<img src="https://ichef.bbci.co.uk/news/1024/branded_news/100BF/production/_124972756_fqykaolveaayrda.jpg" align="center" alt="BBC News"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Sidhu Moose Wala: The edgy India rapper who died in gun violence</h2>
-<p>Sidhu Moose Wala won millions of fans but also upset some with his fascination for guns.</p>
+<h2>New York couple accused of laundering $4.5 bln in crypto still in plea talks - Reuters</h2>
+<p>A New York couple accused of laundering $4.5 billion in cryptocurrency tied to the 2016 hack of digital currency exchange Bitfinex are still negotiating a possible plea deal while reviewing more than 1.1 gigabytes of evidence in the case, prosecutors said.</p>
 </td>
 </table>
 <!-- Crypto News -->
