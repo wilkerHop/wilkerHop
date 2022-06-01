@@ -115,6 +115,17 @@ And more **1 hr 21 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/video/watch/idOV181431052022RP1">
+<span>Reuters</span>
+<img src="https://static.reuters.com/resources/r/?d=20220531&i=OV181431052022RP1&r=OV181431052022RP1&t=2" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Cryptoverse: crypto grows up - Reuters</h2>
+<p>From why virtual money may be growing up, to a warning from the Davos elites, we round up the week's big stories in cryptocurrencies. Kristy Kilburn reports.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/markets/us/cryptoverse-will-you-grow-old-with-bitcoin-2022-05-31/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/tGptjIQ6x9V6a4EZHpuoFDNW_xY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TYVLVL6PJFOOFOYL27LAT5RLXE.jpg" align="center" alt="Reuters"/>
@@ -123,17 +134,6 @@ And more **1 hr 21 mins** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>Cryptoverse: Will you grow old with bitcoin? - Reuters</h2>
 <p>If you assumed crypto was just a young person's game, think again.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/americas/bitcoin-lures-inflation-weary-argentines-despite-crypto-crash-2022-05-30/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/0_nRtXiqryIxmp8B0CK0du1r16c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2EDXF5CCB5NV7NGTN276CYUPTY.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Bitcoin lures inflation-weary Argentines despite crypto crash - Reuters</h2>
-<p>In the Crypstation cafe in downtown Buenos Aires, trendy young Argentines order their lattes and pastries surrounded by screens with real-time cryptocurrency price quotes and a huge neon Bitcoin logo. The bill can be paid in digital money, too.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
