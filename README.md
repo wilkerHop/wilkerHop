@@ -115,58 +115,58 @@ And more **1 hr 55 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/video/watch/idOV181431052022RP1">
-<span>Reuters</span>
-<img src="https://static.reuters.com/resources/r/?d=20220531&i=OV181431052022RP1&r=OV181431052022RP1&t=2" align="center" alt="Reuters"/>
+<a href="https://gizmodo.com/chipotle-bitcoin-ethereum-dogecoin-crypto-burritos-paym-1849006239">
+<span>Gizmodo.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a06df2b7927727af38b388d72e721dce.jpg" align="center" alt="Gizmodo.com"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cryptoverse: crypto grows up - Reuters</h2>
-<p>From why virtual money may be growing up, to a warning from the Davos elites, we round up the week's big stories in cryptocurrencies. Kristy Kilburn reports.</p>
+<h2>Chipotle Lovers Can Now Buy Burritos With Bitcoin, Ether, and More: Report</h2>
+<p>Customers at Chipotle will now be able to pay for their burritos with cryptocurrencies, including bitcoin, ether, and dogecoin, in a move that could help crypto become more mainstream, according to trade publication Restaurant Business. But there’s just one i…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/us/cryptoverse-will-you-grow-old-with-bitcoin-2022-05-31/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/tGptjIQ6x9V6a4EZHpuoFDNW_xY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TYVLVL6PJFOOFOYL27LAT5RLXE.jpg" align="center" alt="Reuters"/>
+<a href="https://amp.theguardian.com/technology/2022/jun/02/fbi-arrest-former-opensea-staffer-nathaniel-chastain-crypto-nfts">
+<span>The Guardian</span>
+<img src="https://i.guim.co.uk/img/media/ad7c746362a43372dd6e7fd25ebcac3944f5719a/0_230_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a01b650ec2885925ecc200fa2884c4e" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cryptoverse: Will you grow old with bitcoin? - Reuters</h2>
-<p>If you assumed crypto was just a young person's game, think again.</p>
+<h2>FBI sets sights on crypto economy with arrest of former OpenSea staffer</h2>
+<p>Ex-employee of the NFT marketplace, Nathaniel Chastain, charged with wire fraud and money launderingAn ex-employee of the leading NFT marketplace has been charged with wire fraud and money laundering offences in a sign that US law enforcement will no longer t…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/europe/global-regulators-push-ahead-with-crypto-bank-capital-rules-2022-05-31/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/ThamELWcPiOIZwKBkbWjh3p4t1A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2H43ECDPSVI35E5DV3RAN4EAEI.jpg" align="center" alt="Reuters"/>
+<a href="https://amp.theguardian.com/film/2022/jun/02/from-the-fly-to-a-history-of-violence-our-writers-pick-their-favourite-cronenberg-movies">
+<span>The Guardian</span>
+<img src="https://i.guim.co.uk/img/media/ff5b338205cacd723e1bcd8453e5f091df65efa2/0_0_1500_900/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f216074088b9f48471c4a118251e5c7b" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Global regulators push ahead with crypto bank capital rules - Reuters</h2>
-<p>Global regulators said on Tuesday they will complete work by year end on how much capital banks should hold to cover cryptoassets on their books.</p>
+<h2>From The Fly to A History of Violence: our writers pick their favourite Cronenberg movies</h2>
+<p>With the release of the director’s latest body horror Crimes of the Future, Guardian writers have singled out their most-loved Cronenberg offeringsCronenberg’s horror films could be described as unnerving and unsettling, or majestically gross, but they’re alm…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/fidelitys-crypto-unit-double-down-hiring-this-year-2022-05-31/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/umRDKcsC9-6BELmRf5uv9_cTTNw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CUKP2Z7D5ZIYLPSBVWQVIWVXUA.jpg" align="center" alt="Reuters"/>
+<a href="https://news.slashdot.org/story/22/06/01/171201/tech-experts-urge-washington-to-resist-crypto-industrys-influence">
+<span>Slashdot.org</span>
+<img src="https://a.fsdn.com/sd/topics/usa_64.png" align="center" alt="Slashdot.org"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Fidelity's crypto unit to double down on hiring this year - Reuters</h2>
-<p>Fidelity Investments' digital assets arm will double down on hiring this year as it looks to beef up its resources to serve clients who want to invest in crypto assets that trade round the clock.</p>
+<h2>Tech Experts Urge Washington To Resist Crypto Industry's Influence</h2>
+<p>A group of renowned technologists has joined forces to urge US lawmakers to crack down on the burgeoning cryptocurrencies industry, marking the first concerted effort to counter well-financed lobbying by blockchain companies. From a report: Harvard lecturer B…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/legal/transactional/new-york-couple-accused-laundering-45-bln-crypto-still-plea-talks-2022-05-31/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/-zvq-XMuCbYrmKcUeOaOwoCEtxM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FVEQOZR5FZPPVDW2CTJ5FCJS2I.jpg" align="center" alt="Reuters"/>
+<a href="https://markets.businessinsider.com/news/currencies/goldman-sachs-ftx-crypto-derivatives-partnership-cftc-cryptocurrency-trading-2022-6">
+<span>Business Insider</span>
+<img src="https://i.insider.com/6297823c3efa8c0019aa751c?width=1200&format=jpeg" align="center" alt="Business Insider"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>New York couple accused of laundering $4.5 bln in crypto still in plea talks - Reuters</h2>
-<p>A New York couple accused of laundering $4.5 billion in cryptocurrency tied to the 2016 hack of digital currency exchange Bitfinex are still negotiating a possible plea deal while reviewing more than 1.1 gigabytes of evidence in the case, prosecutors said.</p>
+<h2>Goldman Sachs may partner with FTX as the bank looks to expand its crypto derivatives offerings, report says</h2>
+<p>Goldman Sachs is in talks with FTX to onboard some of its derivatives products, Barron's reported Tuesday.</p>
 </td>
 </table>
 <!-- Crypto News -->
