@@ -115,6 +115,19 @@ And more **1 hr 55 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/new-york-cryptocurrency-bill-bitcoin-mining-climate-change-161126292.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2021-05/a8217250-bdfa-11eb-bfc4-2663225cea83" align="center" alt="Engadget"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>New York passes a bill to limit bitcoin mining</h2>
+<p>New York lawmakers have passed a bill
+ that would temporarily ban new bitcoin
+ mining operations. Early on Friday, state senators voted 36-27 to pass the legislation. It's now bound for the desk of Governor Kathy Hochul, who will sign it into law or veto th…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://gizmodo.com/chipotle-bitcoin-ethereum-dogecoin-crypto-burritos-paym-1849006239">
 <span>Gizmodo.com</span>
 <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a06df2b7927727af38b388d72e721dce.jpg" align="center" alt="Gizmodo.com"/>
@@ -123,6 +136,17 @@ And more **1 hr 55 mins** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>Chipotle Lovers Can Now Buy Burritos With Bitcoin, Ether, and More: Report</h2>
 <p>Customers at Chipotle will now be able to pay for their burritos with cryptocurrencies, including bitcoin, ether, and dogecoin, in a move that could help crypto become more mainstream, according to trade publication Restaurant Business. But there’s just one i…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/legal/transactional/crypto-warning-prompts-fund-adviser-sue-us-labor-agency-2022-06-02/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/TGChxGsgZjuZvwH_ekvW3CK6TJA=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UFQ2PYXZXBOQRK3Y6TEPXG7EFA.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Crypto warning prompts fund adviser to sue U.S. labor agency - Reuters</h2>
+<p>An investment adviser seeking to let workers invest their retirement funds in cryptocurrency sued the U.S. Department of Labor on Thursday, saying it acted arbitrarily in telling plan administrators to exercise "extreme care" around digital assets.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -137,36 +161,14 @@ And more **1 hr 55 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/film/2022/jun/02/from-the-fly-to-a-history-of-violence-our-writers-pick-their-favourite-cronenberg-movies">
+<a href="https://amp.theguardian.com/film/2022/jun/03/no-top-gun-mavericks-success-isnt-down-to-being-pro-america-and-anti-woke">
 <span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/ff5b338205cacd723e1bcd8453e5f091df65efa2/0_0_1500_900/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f216074088b9f48471c4a118251e5c7b" align="center" alt="The Guardian"/>
+<img src="https://i.guim.co.uk/img/media/995e7ddb413a63a59aeb0834ada322522f467443/0_1064_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=14d45366b6205c9879ddf72560e7dbd6" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>From The Fly to A History of Violence: our writers pick their favourite Cronenberg movies</h2>
-<p>With the release of the director’s latest body horror Crimes of the Future, Guardian writers have singled out their most-loved Cronenberg offeringsCronenberg’s horror films could be described as unnerving and unsettling, or majestically gross, but they’re alm…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://news.slashdot.org/story/22/06/01/171201/tech-experts-urge-washington-to-resist-crypto-industrys-influence">
-<span>Slashdot.org</span>
-<img src="https://a.fsdn.com/sd/topics/usa_64.png" align="center" alt="Slashdot.org"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Tech Experts Urge Washington To Resist Crypto Industry's Influence</h2>
-<p>A group of renowned technologists has joined forces to urge US lawmakers to crack down on the burgeoning cryptocurrencies industry, marking the first concerted effort to counter well-financed lobbying by blockchain companies. From a report: Harvard lecturer B…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://markets.businessinsider.com/news/currencies/goldman-sachs-ftx-crypto-derivatives-partnership-cftc-cryptocurrency-trading-2022-6">
-<span>Business Insider</span>
-<img src="https://i.insider.com/6297823c3efa8c0019aa751c?width=1200&format=jpeg" align="center" alt="Business Insider"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Goldman Sachs may partner with FTX as the bank looks to expand its crypto derivatives offerings, report says</h2>
-<p>Goldman Sachs is in talks with FTX to onboard some of its derivatives products, Barron's reported Tuesday.</p>
+<h2>No, Top Gun: Maverick’s success isn’t down to being pro-America and anti-woke</h2>
+<p>Right-wing pundits have tried to claim the sequel’s box office success as their success but there are enough examples to show that this isn’t the caseTop Gun: Maverick is poised to continue its epic box office run this weekend; with no major competition at US…</p>
 </td>
 </table>
 <!-- Crypto News -->
