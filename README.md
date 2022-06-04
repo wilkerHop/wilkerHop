@@ -128,47 +128,47 @@ And more **2 hrs 33 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://gizmodo.com/chipotle-bitcoin-ethereum-dogecoin-crypto-burritos-paym-1849006239">
+<a href="https://www.theverge.com/2022/6/4/23153052/blue-origin-new-shepard-launch-ns-21-watch-live">
+<span>The Verge</span>
+<img src="https://cdn.vox-cdn.com/thumbor/iGQVhbn5IhyZmg4kDebhIQys1oI=/0x184:3000x1755/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23606059/ns20_l_0_launch.jpeg" align="center" alt="The Verge"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Watch Blue Origin launch its fifth passenger flight to the edge of space</h2>
+<p>On June 4th, Blue Origin will launch a crew of six passengers to the edge of space and back on the company’s New Shepard rocket — the fifth crewed flight for the company.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://gizmodo.com/crypto-scams-1-billion-ftc-bitcoin-ether-tether-1849014424">
 <span>Gizmodo.com</span>
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a06df2b7927727af38b388d72e721dce.jpg" align="center" alt="Gizmodo.com"/>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/448dbaaa95a8867ee47301c82a442cf9.jpg" align="center" alt="Gizmodo.com"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Chipotle Lovers Can Now Buy Burritos With Bitcoin, Ether, and More: Report</h2>
-<p>Customers at Chipotle will now be able to pay for their burritos with cryptocurrencies, including bitcoin, ether, and dogecoin, in a move that could help crypto become more mainstream, according to trade publication Restaurant Business. But there’s just one i…</p>
+<h2>Americans Have Lost $1 Billion to Crypto Scams Since Last Year, Feds Say</h2>
+<p>Investing in Web3, the supposedly “transformative” environment of blockchain and cryptocurrency technologies, continues to be a revolutionary new way to lose a whole lot of money. Read more...</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/legal/transactional/crypto-warning-prompts-fund-adviser-sue-us-labor-agency-2022-06-02/">
+<a href="https://arstechnica.com/tech-policy/2022/06/ny-passes-us-first-moratorium-on-reviving-fossil-fuel-plants-to-mine-crypto/">
+<span>Ars Technica</span>
+<img src="https://cdn.arstechnica.net/wp-content/uploads/2022/06/getty-bitcoin-760x380.jpg" align="center" alt="Ars Technica"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>NY passes US-first moratorium on reviving fossil fuel plants to mine crypto</h2>
+<p>If signed by gov., bill would halt permits while state studies environmental impact.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/markets/us/crypto-scam-victims-lose-more-than-1-billion-since-2021-ftc-2022-06-03/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/TGChxGsgZjuZvwH_ekvW3CK6TJA=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UFQ2PYXZXBOQRK3Y6TEPXG7EFA.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/ThamELWcPiOIZwKBkbWjh3p4t1A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2H43ECDPSVI35E5DV3RAN4EAEI.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Crypto warning prompts fund adviser to sue U.S. labor agency - Reuters</h2>
-<p>An investment adviser seeking to let workers invest their retirement funds in cryptocurrency sued the U.S. Department of Labor on Thursday, saying it acted arbitrarily in telling plan administrators to exercise "extreme care" around digital assets.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/technology/2022/jun/02/fbi-arrest-former-opensea-staffer-nathaniel-chastain-crypto-nfts">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/ad7c746362a43372dd6e7fd25ebcac3944f5719a/0_230_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a01b650ec2885925ecc200fa2884c4e" align="center" alt="The Guardian"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>FBI sets sights on crypto economy with arrest of former OpenSea staffer</h2>
-<p>Ex-employee of the NFT marketplace, Nathaniel Chastain, charged with wire fraud and money launderingAn ex-employee of the leading NFT marketplace has been charged with wire fraud and money laundering offences in a sign that US law enforcement will no longer t…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/film/2022/jun/03/no-top-gun-mavericks-success-isnt-down-to-being-pro-america-and-anti-woke">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/995e7ddb413a63a59aeb0834ada322522f467443/0_1064_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=14d45366b6205c9879ddf72560e7dbd6" align="center" alt="The Guardian"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>No, Top Gun: Maverick’s success isn’t down to being pro-America and anti-woke</h2>
-<p>Right-wing pundits have tried to claim the sequel’s box office success as their success but there are enough examples to show that this isn’t the caseTop Gun: Maverick is poised to continue its epic box office run this weekend; with no major competition at US…</p>
+<h2>Crypto scam victims lose more than $1 billion since 2021 - FTC - Reuters</h2>
+<p>More than 46,000 people reported losing over $1 billion in cryptocurrency scams since the start of 2021, the Federal Trade Commission (FTC) said in a report on Friday.</p>
 </td>
 </table>
 <!-- Crypto News -->
