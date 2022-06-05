@@ -115,19 +115,6 @@ And more **2 hrs 34 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/new-york-cryptocurrency-bill-bitcoin-mining-climate-change-161126292.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2021-05/a8217250-bdfa-11eb-bfc4-2663225cea83" align="center" alt="Engadget"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>New York passes a bill to limit bitcoin mining</h2>
-<p>New York lawmakers have passed a bill
- that would temporarily ban new bitcoin
- mining operations. Early on Friday, state senators voted 36-27 to pass the legislation. It's now bound for the desk of Governor Kathy Hochul, who will sign it into law or veto th…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://www.theverge.com/2022/6/4/23153052/blue-origin-new-shepard-launch-ns-21-watch-live">
 <span>The Verge</span>
 <img src="https://cdn.vox-cdn.com/thumbor/iGQVhbn5IhyZmg4kDebhIQys1oI=/0x184:3000x1755/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23606059/ns20_l_0_launch.jpeg" align="center" alt="The Verge"/>
@@ -150,25 +137,36 @@ And more **2 hrs 34 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://arstechnica.com/tech-policy/2022/06/ny-passes-us-first-moratorium-on-reviving-fossil-fuel-plants-to-mine-crypto/">
-<span>Ars Technica</span>
-<img src="https://cdn.arstechnica.net/wp-content/uploads/2022/06/getty-bitcoin-760x380.jpg" align="center" alt="Ars Technica"/>
+<a href="https://amp.theguardian.com/technology/2022/jun/04/crypto-has-crashed-can-it-bounce-back">
+<span>The Guardian</span>
+<img src="https://i.guim.co.uk/img/media/0ff523f5019645caf71205664c1382367b8b4b2d/0_0_2480_1488/master/2480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=ab79b72817dd456843f01f0cd63d8945" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>NY passes US-first moratorium on reviving fossil fuel plants to mine crypto</h2>
-<p>If signed by gov., bill would halt permits while state studies environmental impact.</p>
+<h2>Crypto has crashed – can it bounce back?</h2>
+<p>Plummeting prices and lost life savings confirmed for many that the blockchain dream was too good to be true – and it may now struggle to hit past highsEven if you don’t live and breathe cryptocurrency, you’ve probably noticed some turmoil in the sector. Eye-…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/us/crypto-scam-victims-lose-more-than-1-billion-since-2021-ftc-2022-06-03/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/ThamELWcPiOIZwKBkbWjh3p4t1A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2H43ECDPSVI35E5DV3RAN4EAEI.jpg" align="center" alt="Reuters"/>
+<a href="https://amp.theguardian.com/business/2022/jun/04/penny-savings-taking-the-measure-of-money-at-the-ashmolean-museum">
+<span>The Guardian</span>
+<img src="https://i.guim.co.uk/img/media/87732d058ddf509c55721213462f81f4a6b02827/0_224_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e5beb9230e329251bf0efe4ecb613cf" align="center" alt="The Guardian"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Crypto scam victims lose more than $1 billion since 2021 - FTC - Reuters</h2>
-<p>More than 46,000 people reported losing over $1 billion in cryptocurrency scams since the start of 2021, the Federal Trade Commission (FTC) said in a report on Friday.</p>
+<h2>Penny savings: taking the measure of money at the Ashmolean museum</h2>
+<p>The Oxford museum’s Heberden coin room holds antique cash objects from around the world. As we test our faith in digital cryptocurrencies, what can we learn from its collection?Prof Chris Howgego carefully cradles the medal minted for the coronation of the bo…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.businessinsider.com/personal-finance/lost-money-following-bad-investing-advice-youtube-2022-6">
+<span>Business Insider</span>
+<img src="https://i.insider.com/629a35463efa8c0019aac19c?width=1200&format=jpeg" align="center" alt="Business Insider"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>I lost over $3,000 by following bad investing advice on YouTube, but it taught me an important lesson</h2>
+<p>Writer Chris Boutté got sucked into the Coinbase IPO and other stocks after watching hours and hours of personal finance content on YouTube.</p>
 </td>
 </table>
 <!-- Crypto News -->
