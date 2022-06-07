@@ -115,6 +115,18 @@ And more **1 hr 45 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/sec-is-investigating-binance-over-its-bnb-token-000556001.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-06/e7fc2d80-e5f3-11ec-bf55-329f9b11c800" align="center" alt="Engadget"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>SEC is investigating Binance over its BNB token</h2>
+<p>The SEC has reportedly opened an investigation into Binance to find out whether its BNB token was an unregistered security during its 2017 initial coin offering, reported
+Bloomberg. BNB coins are primarily used to pay transaction fees on Binance, currently t…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.engadget.com/the-morning-after-nas-as-gearing-up-for-another-artemis-test-111519836.html">
 <span>Engadget</span>
 <img src="https://s.yimg.com/os/creatr-uploaded-images/2022-06/f58bfed0-e580-11ec-bfc3-1c48a65039d3" align="center" alt="Engadget"/>
@@ -126,47 +138,36 @@ And more **1 hr 45 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.bbc.co.uk/news/world-africa-61565485">
-<span>BBC News</span>
-<img src="https://ichef.bbci.co.uk/news/1024/branded_news/394F/production/_125017641_gettyimages-1320532557.jpg" align="center" alt="BBC News"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Why the Central African Republic adopted Bitcoin</h2>
-<p>Some 90% of people in the Central African Republic lack access to the internet, needed to use Bitcoin.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/asian-wealth-managers-seen-wary-digital-assets-despite-soaring-demand-2022-06-06/">
+<a href="https://www.reuters.com/video/watch/idOV321407062022RP1">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/w2_sTwGhDDROXEy-8HNnLEFTKII=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GIBF7DBNYVJV3EOYKUWRZGRGYQ.jpg" align="center" alt="Reuters"/>
+<img src="https://static.reuters.com/resources/r/?d=20220607&i=OV321407062022RP1&r=OV321407062022RP1&t=2" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Asian wealth managers seen wary of digital assets despite soaring demand - Reuters.com</h2>
-<p>Wealth managers in Asia are holding back from offering digital assets to investors despite soaring demand due to a lack of understanding of these assets, according to an industry survey by consulting firm Accenture published on Monday.</p>
+<h2>Cryptoverse: after crypto winter, a thaw? - Reuters.com</h2>
+<p>From a sunnier outlook for alternative money, to why Coinbase is still feeling the chill, we round up the week's big stories in cryptocurrencies. Angela Johnston reports.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/world/us/texas-power-use-hit-record-high-economic-growth-hot-weather-2022-06-06/">
+<a href="https://www.reuters.com/markets/currencies/cryptoverse-early-birds-betting-bitcoins-bottoming-out-2022-06-07/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/1p4smJ1XNy3UHH1J7qwear9jO-Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LIEQWCPZBVIZTELV3QUFKTRUAI.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/SnJ4l0QrhsBZrxSUKltQhAxIlwc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z3VJUIOORRLABMHSJ3SPSLEK4A.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Texas power use to hit record high on economic growth, hot weather - Reuters.com</h2>
-<p>Power demand in Texas is set to break the all-time record this week, far ahead of the hottest days of summer, testing of the resilience of the state's power grid after issues earlier this year and last year's days-long blackout during a deep freeze.</p>
+<h2>Cryptoverse: The early birds betting bitcoin's bottoming out - Reuters.com</h2>
+<p>As the crypto winter creeps into June, the first signs of a thaw are emerging.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/business/2022/jun/06/crypto-crisis-regulation-cryptocurrencies-laws">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/dfae1f6f23dbf70814ec32c2aa441c6b9126e8b0/0_0_3200_1920/master/3200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=3f8af694ced9c54f822ce9d57a06ba08" align="center" alt="The Guardian"/>
+<a href="https://www.reuters.com/markets/europe/cryptoverse-early-birds-betting-bitcoins-bottoming-out-2022-06-07/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/tGptjIQ6x9V6a4EZHpuoFDNW_xY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TYVLVL6PJFOOFOYL27LAT5RLXE.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Crypto crisis means regulation will come sooner rather than later</h2>
-<p>Cryptocurrencies’ use in avoiding taxes, laws and capital controls makes restrictions seem inevitableWith cryptocurrency prices plummeting as central banks start to raise interest rates, many are wondering if this is the beginning of the end of the bubble. Pe…</p>
+<h2>Cryptoverse: The early birds betting bitcoin's bottoming out - Reuters.com</h2>
+<p>As the crypto winter creeps into June, the first signs of a thaw are emerging.</p>
 </td>
 </table>
 <!-- Crypto News -->
