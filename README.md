@@ -115,6 +115,17 @@ And more **1 hr 25 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://www.engadget.com/senate-crypto-regulation-bill-responsible-financial-innovation-act-143136481.html">
+<span>Engadget</span>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2021-05/22513880-acad-11eb-abfe-caa519d5e15f" align="center" alt="Engadget"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Senators introduce bipartisan bill to regulate crypto assets</h2>
+<p>Politicians are quickly seizing on US government efforts to study and regulate crypto. Reutersreports Senators Kirsten Gillibrand (D-NY) and Cynthia Lummis (R-WY) have introduced a bill, the Responsible Financial Innovation Act, that would forge a "complete r…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.engadget.com/sec-is-investigating-binance-over-its-bnb-token-000556001.html">
 <span>Engadget</span>
 <img src="https://s.yimg.com/os/creatr-uploaded-images/2022-06/e7fc2d80-e5f3-11ec-bf55-329f9b11c800" align="center" alt="Engadget"/>
@@ -127,47 +138,36 @@ Bloomberg. BNB coins are primarily used to pay transaction fees on Binance, curr
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/the-morning-after-nas-as-gearing-up-for-another-artemis-test-111519836.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-06/f58bfed0-e580-11ec-bfc3-1c48a65039d3" align="center" alt="Engadget"/>
+<a href="https://gizmodo.com/crypto-bitcoin-tether-1849029717">
+<span>Gizmodo.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0bd4150e881588f0829402395a998a5b.jpg" align="center" alt="Gizmodo.com"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>The Morning After: NASA gears up for another Artemis test</h2>
-<p>There’s plenty riding on NASA’s next-generation Space Launch System, the modern-day rocket that will carry the Artemis missions. But after delaying its most recent test to make urgent repairs to the fuel system, the SLS is once again ready for another milesto…</p>
+<h2>How the U.S. Government Regulates Crypto Could Come Down to Its Definition</h2>
+<p>What is crypto? Is it something that’s bought and sold like stock in a publicly traded company, or is it a commodity, something that itself can interact with futures agreements? It’s a question at the heart of new legislation that would grant oversight of dig…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/video/watch/idOV321407062022RP1">
-<span>Reuters</span>
-<img src="https://static.reuters.com/resources/r/?d=20220607&i=OV321407062022RP1&r=OV321407062022RP1&t=2" align="center" alt="Reuters"/>
+<a href="https://gizmodo.com/bitcoin-cryptocurrency-centralized-not-anonymous-study-1849029656">
+<span>Gizmodo.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d3390dc22b7788490c85b7ec69134874.jpg" align="center" alt="Gizmodo.com"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cryptoverse: after crypto winter, a thaw? - Reuters.com</h2>
-<p>From a sunnier outlook for alternative money, to why Coinbase is still feeling the chill, we round up the week's big stories in cryptocurrencies. Angela Johnston reports.</p>
+<h2>Bitcoin Wasn't as Decentralized or Anonymous as Crypto Bros Told You, Study Finds</h2>
+<p>A new study on bitcoin calls into question whether the digital currency is truly as decentralized and anonymous as its biggest devotees would have you believe. Read more...</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/currencies/cryptoverse-early-birds-betting-bitcoins-bottoming-out-2022-06-07/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/SnJ4l0QrhsBZrxSUKltQhAxIlwc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z3VJUIOORRLABMHSJ3SPSLEK4A.jpg" align="center" alt="Reuters"/>
+<a href="https://www.nytimes.com/2022/06/07/nyregion/cryptomining-ban-ny.html">
+<span>New York Times</span>
+<img src="https://static01.nyt.com/images/2022/06/07/nyregion/00ny-crypto1/00ny-crypto1-facebookJumbo.jpg" align="center" alt="New York Times"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Cryptoverse: The early birds betting bitcoin's bottoming out - Reuters.com</h2>
-<p>As the crypto winter creeps into June, the first signs of a thaw are emerging.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/markets/europe/cryptoverse-early-birds-betting-bitcoins-bottoming-out-2022-06-07/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/tGptjIQ6x9V6a4EZHpuoFDNW_xY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TYVLVL6PJFOOFOYL27LAT5RLXE.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Cryptoverse: The early birds betting bitcoin's bottoming out - Reuters.com</h2>
-<p>As the crypto winter creeps into June, the first signs of a thaw are emerging.</p>
+<h2>Fight Looms Over New York’s Bid to Slow Crypto-Mining Boom</h2>
+<p>Crypto interests are lobbying Gov. Kathy Hochul to veto a groundbreaking bill that would temporarily halt new crypto-mining projects at fossil-fuel burning plants.</p>
 </td>
 </table>
 <!-- Crypto News -->
