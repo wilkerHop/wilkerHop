@@ -126,29 +126,6 @@ And more **51 mins** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/sec-is-investigating-binance-over-its-bnb-token-000556001.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-06/e7fc2d80-e5f3-11ec-bf55-329f9b11c800" align="center" alt="Engadget"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>SEC is investigating Binance over its BNB token</h2>
-<p>The SEC has reportedly opened an investigation into Binance to find out whether its BNB token was an unregistered security during its 2017 initial coin offering, reported
-Bloomberg. BNB coins are primarily used to pay transaction fees on Binance, currently t…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://gizmodo.com/crypto-bitcoin-tether-1849029717">
-<span>Gizmodo.com</span>
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0bd4150e881588f0829402395a998a5b.jpg" align="center" alt="Gizmodo.com"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>How the U.S. Government Regulates Crypto Could Come Down to Its Definition</h2>
-<p>What is crypto? Is it something that’s bought and sold like stock in a publicly traded company, or is it a commodity, something that itself can interact with futures agreements? It’s a question at the heart of new legislation that would grant oversight of dig…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
 <a href="https://gizmodo.com/bitcoin-cryptocurrency-centralized-not-anonymous-study-1849029656">
 <span>Gizmodo.com</span>
 <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d3390dc22b7788490c85b7ec69134874.jpg" align="center" alt="Gizmodo.com"/>
@@ -160,14 +137,36 @@ Bloomberg. BNB coins are primarily used to pay transaction fees on Binance, curr
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.nytimes.com/2022/06/07/nyregion/cryptomining-ban-ny.html">
-<span>New York Times</span>
-<img src="https://static01.nyt.com/images/2022/06/07/nyregion/00ny-crypto1/00ny-crypto1-facebookJumbo.jpg" align="center" alt="New York Times"/>
+<a href="https://www.reuters.com/breakingviews/crypto-smackdown-does-more-harm-than-good-2022-06-08/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/T5ui2u9V3Az_KNHeQGXz32xD5Ws=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KHK4I2HUCBOMHGPST2KRYNFFMA.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Fight Looms Over New York’s Bid to Slow Crypto-Mining Boom</h2>
-<p>Crypto interests are lobbying Gov. Kathy Hochul to veto a groundbreaking bill that would temporarily halt new crypto-mining projects at fossil-fuel burning plants.</p>
+<h2>Breakingviews - Crypto smackdown does more harm than good - Reuters</h2>
+<p>Regulations often solve one problem while creating another. Such is the case with new cryptocurrency guidelines being suggested by the U.S. Securities and Exchange Commission. The watchdog wants firms that safeguard digital assets to mark that risk on their b…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://www.reuters.com/business/finance/republican-senator-says-fed-has-revoked-master-account-controversial-fintech-2022-06-09/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/He9mg1LAuepYSLgL0KCVGEr4M1U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4MNXYQ5DVZNR7HYTCXZTPRG4WY.jpg" align="center" alt="Reuters"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Republican senator says Fed has revoked master account for controversial fintech - Reuters.com</h2>
+<p>A Republican senator is demanding answers from the Federal Reserve Bank of Kansas City after he says it revoked a sought-after master account that had previously been granted to a fintech called Reserve Trust.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://amp.theguardian.com/football/2022/jun/09/web3-in-league-two-crawley-town-and-the-crypto-bros">
+<span>The Guardian</span>
+<img src="https://i.guim.co.uk/img/media/0d74246d5908275aae66b89959ca8920f86b0536/41_173_2783_1670/master/2783.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9be3db9cb39df2b8a76d83e93654f1fd" align="center" alt="The Guardian"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Web3 in League Two? Crawley Town and the ‘crypto bros’</h2>
+<p>Preston Johnson and Eben Smith claim to have a ‘digitally native’ vision, and have made a more traditional forward-thinking move by hiring Kevin Betsy as managerThe turf at the People’s Pension Stadium was relaid at the end of the season but was struggling to…</p>
 </td>
 </table>
 <!-- Crypto News -->
