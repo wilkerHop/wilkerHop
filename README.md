@@ -115,36 +115,47 @@ And more **51 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/senate-crypto-regulation-bill-responsible-financial-innovation-act-143136481.html">
+<a href="https://www.engadget.com/htc-teases-a-potential-viverse-phone-launch-for-june-28th-082533141.html">
 <span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2021-05/22513880-acad-11eb-abfe-caa519d5e15f" align="center" alt="Engadget"/>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-06/9a78d420-e88f-11ec-bbfd-dd22d0c9b1a0" align="center" alt="Engadget"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Senators introduce bipartisan bill to regulate crypto assets</h2>
-<p>Politicians are quickly seizing on US government efforts to study and regulate crypto. Reutersreports Senators Kirsten Gillibrand (D-NY) and Cynthia Lummis (R-WY) have introduced a bill, the Responsible Financial Innovation Act, that would forge a "complete r…</p>
+<h2>HTC teases a potential 'Viverse' phone launch for June 28th</h2>
+<p>Earlier this year HTC outlined its answer to Facebook's metaverse with Viverse, allowing you socialize, hold meetings and more in VR. Later on at Mobile World Congress, the company said it would launch a high-end smartphone with some kind of metaverse feature…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://gizmodo.com/bitcoin-cryptocurrency-centralized-not-anonymous-study-1849029656">
+<a href="https://www.theverge.com/2022/6/9/23161378/summer-game-fest-2022-news-trailers-announcements">
+<span>The Verge</span>
+<img src="https://cdn.vox-cdn.com/thumbor/1bGKQW4H195Kx5DyokbfnMzY-uA=/0x0:2280x1194/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23618142/3cf132d9_b6e7_4bfe_82a0_3944ac36e920_TCP_Screen14.jpg" align="center" alt="The Verge"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Summer Game Fest 2022: all the news and trailers</h2>
+<p>Geoff Keighley’s Summer Game Fest 2022 livestream featured announcements for The Callisto Protocol, Call of Duty: Modern Warfare II, and The Last of Us Part I.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://gizmodo.com/jay-z-jack-dorsey-bitcoin-academy-1849040407">
 <span>Gizmodo.com</span>
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d3390dc22b7788490c85b7ec69134874.jpg" align="center" alt="Gizmodo.com"/>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/48fbb5e09973afbe730474c5cb0aadd4.jpg" align="center" alt="Gizmodo.com"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Bitcoin Wasn't as Decentralized or Anonymous as Crypto Bros Told You, Study Finds</h2>
-<p>A new study on bitcoin calls into question whether the digital currency is truly as decentralized and anonymous as its biggest devotees would have you believe. Read more...</p>
+<h2>Jay-Z and Jack Dorsey Launch Bitcoin Academy for New Generation of Crypto Bros</h2>
+<p>Rapper and entrepreneur Shawn Carter, better known as Jay-Z, is bringing Bitcoin to the place where he grew up. On Thursday, Jay-Z and former Twitter CEO Jack Dorsey announced the launch of Bitcoin Academy, which will offer free classes on cryptocurrency for …</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/breakingviews/crypto-smackdown-does-more-harm-than-good-2022-06-08/">
+<a href="https://www.reuters.com/technology/crypto-regulation-efforts-need-keep-pace-with-market-growth-bank-canada-official-2022-06-10/">
 <span>Reuters</span>
-<img src="https://www.reuters.com/resizer/T5ui2u9V3Az_KNHeQGXz32xD5Ws=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KHK4I2HUCBOMHGPST2KRYNFFMA.jpg" align="center" alt="Reuters"/>
+<img src="https://www.reuters.com/resizer/wOdrg_8V8GIGsyoAagm_Hq97tAg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YLLV6FRGRZKLZDTA7P44D75IAQ.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Breakingviews - Crypto smackdown does more harm than good - Reuters</h2>
-<p>Regulations often solve one problem while creating another. Such is the case with new cryptocurrency guidelines being suggested by the U.S. Securities and Exchange Commission. The watchdog wants firms that safeguard digital assets to mark that risk on their b…</p>
+<h2>Crypto regulation efforts need to keep pace with market growth -Bank of Canada official - Reuters</h2>
+<p>The number of Canadians who own cryptoassets is growing rapidly and efforts to regulate the sector need to start keeping pace, a senior Bank of Canada official said, noting many people may not understand the risk of investing in products like bitcoin.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
@@ -156,17 +167,6 @@ And more **51 mins** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>Republican senator says Fed has revoked master account for controversial fintech - Reuters.com</h2>
 <p>A Republican senator is demanding answers from the Federal Reserve Bank of Kansas City after he says it revoked a sought-after master account that had previously been granted to a fintech called Reserve Trust.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/football/2022/jun/09/web3-in-league-two-crawley-town-and-the-crypto-bros">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/0d74246d5908275aae66b89959ca8920f86b0536/41_173_2783_1670/master/2783.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9be3db9cb39df2b8a76d83e93654f1fd" align="center" alt="The Guardian"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Web3 in League Two? Crawley Town and the ‘crypto bros’</h2>
-<p>Preston Johnson and Eben Smith claim to have a ‘digitally native’ vision, and have made a more traditional forward-thinking move by hiring Kevin Betsy as managerThe turf at the People’s Pension Stadium was relaid at the end of the season but was struggling to…</p>
 </td>
 </table>
 <!-- Crypto News -->
