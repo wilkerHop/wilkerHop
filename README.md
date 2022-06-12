@@ -115,58 +115,58 @@ And more **11 mins** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.engadget.com/htc-teases-a-potential-viverse-phone-launch-for-june-28th-082533141.html">
-<span>Engadget</span>
-<img src="https://s.yimg.com/os/creatr-uploaded-images/2022-06/9a78d420-e88f-11ec-bbfd-dd22d0c9b1a0" align="center" alt="Engadget"/>
+<a href="https://games.slashdot.org/story/22/06/11/1910206/a-billion-dollar-crypto-gaming-startup-promised-riches-and-delivered-disaster">
+<span>Slashdot.org</span>
+<img src="https://a.fsdn.com/sd/topics/games_64.png" align="center" alt="Slashdot.org"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>HTC teases a potential 'Viverse' phone launch for June 28th</h2>
-<p>Earlier this year HTC outlined its answer to Facebook's metaverse with Viverse, allowing you socialize, hold meetings and more in VR. Later on at Mobile World Congress, the company said it would launch a high-end smartphone with some kind of metaverse feature…</p>
+<h2>'A Billion-Dollar Crypto Gaming Startup Promised Riches and Delivered Disaster'</h2>
+<p>"Even many Axie regulars say it's not much fun, but that hasn't stopped people from dedicating hours to researching strategies, haunting Axie-themed Discord channels and Reddit forums, and paying for specialized software that helps them build stronger teams..…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/legal/transactional/crypto-firm-blockfi-hires-arnold-porter-lobbyists-after-record-sec-fine-2022-06-10/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/zXd3Zx_aJI3I3KDQh59huAC2W80=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VTLVR65JM5JYBD52MM7JK5DMXM.jpg" align="center" alt="Reuters"/>
+<a href="https://cryptofireside.com/do-kwon-in-even-more-trouble-2ad28d32806a">
+<span>Cryptofireside.com</span>
+<img src="https://miro.medium.com/freeze/max/576/1*gmuwDmmt160QYSH46kJc6A.gif" align="center" alt="Cryptofireside.com"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Crypto firm BlockFi hires Arnold & Porter lobbyists after record SEC fine - Reuters.com</h2>
-<p>Crypto lending platform BlockFi, which earlier this year paid a <a href="https://www.reuters.com/technology/crypto-lending-firm-blockfi-pay-100-mln-settle-us-sec-state-charges-2022-02-14" target="_blank">record fine</a> to the U.S. Securities and Exchange Com…</p>
+<h2>Is Do Kwon a Kwon-Artist?</h2>
+<p>A South Korean news agency has reported that the SEC is investigating Do Kwon and now asking questions about $80 million sent to secret wallets...</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/technology/crypto-regulation-efforts-need-keep-pace-with-market-growth-bank-canada-official-2022-06-10/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/wOdrg_8V8GIGsyoAagm_Hq97tAg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YLLV6FRGRZKLZDTA7P44D75IAQ.jpg" align="center" alt="Reuters"/>
+<a href="https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/">
+<span>Mollywhite.net</span>
+<img src="https://blog.mollywhite.net/assets/mollyandmax.png" align="center" alt="Mollywhite.net"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Crypto regulation efforts need to keep pace with market growth -Bank of Canada official - Reuters</h2>
-<p>The number of Canadians who own cryptoassets is growing rapidly and efforts to regulate the sector need to start keeping pace, a senior Bank of Canada official said, noting many people may not understand the risk of investing in products like bitcoin.</p>
+<h2>Is “acceptably non-dystopian” self-sovereign identity even possible?</h2>
+<p>In the recent paper about soulbound NFTs, Vitalik Buterin et al. write that they aim to build technology that is "acceptably non-dystopian". Do any of today's self-sovereign identity projects fit that bill?</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://amp.theguardian.com/lifeandstyle/2022/jun/10/you-be-the-judge-should-my-boyfriend-put-his-phone-on-silent">
-<span>The Guardian</span>
-<img src="https://i.guim.co.uk/img/media/861e31541f7aba49d68fb06f8cec11e0c33b4dff/1_0_2998_1800/master/2998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c0fbf7d96a93e25da7d53da285f749c" align="center" alt="The Guardian"/>
+<a href="https://github.com/LemmyNet/lemmy">
+<span>Github.com</span>
+<img src="https://opengraph.githubassets.com/ce6b37f83791ff041b3238b91733566d7871961c6df7f8f0d39b5d6d54cd9ef9/LemmyNet/lemmy" align="center" alt="Github.com"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>You be the judge: should my boyfriend put his phone on silent?</h2>
-<p>He says he needs it on for work; she says the constant bleeps and ringtones drive her to distraction. You make the call on who’s guilty<ul><li>Find out how to get a disagreement settled or be a You be the judge juror</li></ul>Derek’s phone constantly pings, b…</p>
+<h2>Open Source federated link aggregator in rust</h2>
+<p>🐀 Building a federated link aggregator in rust. Contribute to LemmyNet/lemmy development by creating an account on GitHub.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://markets.businessinsider.com/news/currencies/sec-investigation-terrausd-marketing-investor-protection-violations-luna-do-kwon-2022-6">
-<span>Business Insider</span>
-<img src="https://i.insider.com/62a36790ac96ba001991234f?width=1200&format=jpeg" align="center" alt="Business Insider"/>
+<a href="https://www.valerionappi.it/brng-en/">
+<span>Valerionappi.it</span>
+<img src="https://www.valerionappi.it/wp-content/uploads/2018/04/4259371525445560977.jpg" align="center" alt="Valerionappi.it"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>The SEC is investigating if TerraUSD's marketing violated investor protection regulations, report says</h2>
-<p>Terraform Labs is the firm behind TerraUSD, a stablecoin that sent shockwaves throughout crypto markets last month when it lost its dollar peg.</p>
+<h2>Generating true random numbers from bananas</h2>
+<p>It was a dreary afternoon in Milan last year when, procrastinating on studying, I was struck by a flash of genius. “What would happen if I made a banana-powered random number generator?“. I immediately went to tell my roommate, who was also an electronic engi…</p>
 </td>
 </table>
 <!-- Crypto News -->
