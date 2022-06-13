@@ -115,58 +115,58 @@ And more **0 secs** of 😁🖱💻🔌 (diverse file extensions).
 <table width="100%">
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://games.slashdot.org/story/22/06/11/1910206/a-billion-dollar-crypto-gaming-startup-promised-riches-and-delivered-disaster">
-<span>Slashdot.org</span>
-<img src="https://a.fsdn.com/sd/topics/games_64.png" align="center" alt="Slashdot.org"/>
+<a href="https://www.theverge.com/2022/6/13/23165401/defi-cryptocurrency-celsius-network-pause-withdrawals">
+<span>The Verge</span>
+<img src="https://cdn.vox-cdn.com/thumbor/rtDU7dALLjxGLs-7_Xbon075OgY=/0x358:5000x2976/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23623361/1239951757.jpg" align="center" alt="The Verge"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>'A Billion-Dollar Crypto Gaming Startup Promised Riches and Delivered Disaster'</h2>
-<p>"Even many Axie regulars say it's not much fun, but that hasn't stopped people from dedicating hours to researching strategies, haunting Axie-themed Discord channels and Reddit forums, and paying for specialized software that helps them build stronger teams..…</p>
+<h2>DeFi lending giant Celsius halts withdrawals</h2>
+<p>Celsius is a decentralized finance platform that’s one of the largest crypto lenders. It announced a “pause” on withdrawals as markets opened in Asia, leaving investors in the dark about what will happen next.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://cryptofireside.com/do-kwon-in-even-more-trouble-2ad28d32806a">
-<span>Cryptofireside.com</span>
-<img src="https://miro.medium.com/freeze/max/576/1*gmuwDmmt160QYSH46kJc6A.gif" align="center" alt="Cryptofireside.com"/>
+<a href="https://www.reuters.com/world/uk/boes-bailey-latest-crypto-turmoil-reinforces-concerns-2022-06-13/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/75vcVmI2QGYlZ1Yj9bCvcZzwWuo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RJM3T7OU45P2TDY2O6Z5CQTHFU.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Is Do Kwon a Kwon-Artist?</h2>
-<p>A South Korean news agency has reported that the SEC is investigating Do Kwon and now asking questions about $80 million sent to secret wallets...</p>
+<h2>BoE's Bailey: latest crypto turmoil reinforces concerns - Reuters.com</h2>
+<p>Bitcoin's slump on Monday after major U.S. crypto lending company Celsius Network froze withdrawals should remind investors that most crypto-assets have no intrinsic value, Bank of England Governor Andrew Bailey said.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/">
-<span>Mollywhite.net</span>
-<img src="https://blog.mollywhite.net/assets/mollyandmax.png" align="center" alt="Mollywhite.net"/>
+<a href="https://www.reuters.com/business/finance/world-crypto-lending-2022-06-13/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/JV9_2z7D2Ppeuej6tQZPYYnu69M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YLIKWS7CWVKU5APZEJUFPV3R2U.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Is “acceptably non-dystopian” self-sovereign identity even possible?</h2>
-<p>In the recent paper about soulbound NFTs, Vitalik Buterin et al. write that they aim to build technology that is "acceptably non-dystopian". Do any of today's self-sovereign identity projects fit that bill?</p>
+<h2>Explainer: The world of crypto lending - Reuters</h2>
+<p>Major U.S. cryptocurrency lending company Celsius Network froze withdrawals and transfers on Monday, citing "extreme" market conditions, sparking a sell-off across crypto markets. <a href="/technology/crypto-firm-celsius-pauses-all-transfers-withdrawals-betwe…</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://github.com/LemmyNet/lemmy">
-<span>Github.com</span>
-<img src="https://opengraph.githubassets.com/ce6b37f83791ff041b3238b91733566d7871961c6df7f8f0d39b5d6d54cd9ef9/LemmyNet/lemmy" align="center" alt="Github.com"/>
+<a href="https://www.reuters.com/business/finance/crypto-firm-blockfi-cut-headcount-by-20-2022-06-13/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=99" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Open Source federated link aggregator in rust</h2>
-<p>🐀 Building a federated link aggregator in rust. Contribute to LemmyNet/lemmy development by creating an account on GitHub.</p>
+<h2>Crypto firm BlockFi to cut headcount by 20% - Reuters</h2>
+<p>Cryptocurrency firm BlockFi said on Monday it would reduce its headcount by about 20% as it takes on a strategic review of its priorities amid difficult market conditions.</p>
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
-<a href="https://www.valerionappi.it/brng-en/">
-<span>Valerionappi.it</span>
-<img src="https://www.valerionappi.it/wp-content/uploads/2018/04/4259371525445560977.jpg" align="center" alt="Valerionappi.it"/>
+<a href="https://www.reuters.com/business/finance/binance-us-exchange-sued-by-crypto-investor-over-stablecoin-collapse-2022-06-13/">
+<span>Reuters</span>
+<img src="https://www.reuters.com/resizer/vXwV58Mbr9k7YjA-Q3W5OaRzjhw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GE4PWSGPXBOCNANOY7KXM76X2Q.jpg" align="center" alt="Reuters"/>
 </a>
 </td>
 <td valign="center" width="80%">
-<h2>Generating true random numbers from bananas</h2>
-<p>It was a dreary afternoon in Milan last year when, procrastinating on studying, I was struck by a flash of genius. “What would happen if I made a banana-powered random number generator?“. I immediately went to tell my roommate, who was also an electronic engi…</p>
+<h2>Binance U.S. exchange sued by crypto investor over stablecoin collapse - Reuters</h2>
+<p>Binance U.S. and its CEO were sued on Monday by a U.S. investor who alleges the cryptocurrency exchange falsely marketed Terra USD as a safe asset ahead of the so-called stablecoin's collapse in value last month.</p>
 </td>
 </table>
 <!-- Crypto News -->
