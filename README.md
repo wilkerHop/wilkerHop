@@ -126,6 +126,28 @@ And more **0 secs** of 😁🖱💻🔌 (diverse file extensions).
 </td>
 <tr>
 <td valign="top" align="center" width="20%">
+<a href="https://gizmodo.com/coinbase-lay-offs-crypto-bitcoin-1849057861">
+<span>Gizmodo.com</span>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d247600ed4f9f90c53650a2a9b7c2f60.jpg" align="center" alt="Gizmodo.com"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Crypto Platform Coinbase Cuts More Than 1,000 Staff</h2>
+<p>The crypto roller coaster ride continues to plummet downhill fast. Coinbase, one of the largest cryptocurrency exchange platforms, is laying off 18% of its staff, or about 1,100 employees, according to a company SEC filing. The news also came in a letter to s…</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
+<a href="https://arstechnica.com/tech-policy/2022/06/cryptocurrency-plunges-as-crypto-bank-celsius-suspends-withdrawals/">
+<span>Ars Technica</span>
+<img src="https://cdn.arstechnica.net/wp-content/uploads/2018/01/147294395_8933ad32a6_o-760x380.jpg" align="center" alt="Ars Technica"/>
+</a>
+</td>
+<td valign="center" width="80%">
+<h2>Cryptocurrency plunges as crypto “bank” Celsius suspends withdrawals</h2>
+<p>Celsius says "extreme market conditions" forced it to suspend withdrawals.</p>
+</td>
+<tr>
+<td valign="top" align="center" width="20%">
 <a href="https://www.reuters.com/world/uk/boes-bailey-latest-crypto-turmoil-reinforces-concerns-2022-06-13/">
 <span>Reuters</span>
 <img src="https://www.reuters.com/resizer/75vcVmI2QGYlZ1Yj9bCvcZzwWuo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RJM3T7OU45P2TDY2O6Z5CQTHFU.jpg" align="center" alt="Reuters"/>
@@ -145,28 +167,6 @@ And more **0 secs** of 😁🖱💻🔌 (diverse file extensions).
 <td valign="center" width="80%">
 <h2>Explainer: The world of crypto lending - Reuters</h2>
 <p>Major U.S. cryptocurrency lending company Celsius Network froze withdrawals and transfers on Monday, citing "extreme" market conditions, sparking a sell-off across crypto markets. <a href="/technology/crypto-firm-celsius-pauses-all-transfers-withdrawals-betwe…</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/crypto-firm-blockfi-cut-headcount-by-20-2022-06-13/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=99" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Crypto firm BlockFi to cut headcount by 20% - Reuters</h2>
-<p>Cryptocurrency firm BlockFi said on Monday it would reduce its headcount by about 20% as it takes on a strategic review of its priorities amid difficult market conditions.</p>
-</td>
-<tr>
-<td valign="top" align="center" width="20%">
-<a href="https://www.reuters.com/business/finance/binance-us-exchange-sued-by-crypto-investor-over-stablecoin-collapse-2022-06-13/">
-<span>Reuters</span>
-<img src="https://www.reuters.com/resizer/vXwV58Mbr9k7YjA-Q3W5OaRzjhw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GE4PWSGPXBOCNANOY7KXM76X2Q.jpg" align="center" alt="Reuters"/>
-</a>
-</td>
-<td valign="center" width="80%">
-<h2>Binance U.S. exchange sued by crypto investor over stablecoin collapse - Reuters</h2>
-<p>Binance U.S. and its CEO were sued on Monday by a U.S. investor who alleges the cryptocurrency exchange falsely marketed Terra USD as a safe asset ahead of the so-called stablecoin's collapse in value last month.</p>
 </td>
 </table>
 <!-- Crypto News -->
