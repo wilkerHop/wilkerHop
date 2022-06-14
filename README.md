@@ -86,8 +86,8 @@
 _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 
 1. 🥇 **Rust** with **5 hrs 15 mins** of pleasure.
-2. 🥈 **TypeScript** with **4 hrs 56 mins** of work.
-3. 🥉 **SQL** with **3 hrs 51 mins** of playing.
+2. 🥈 **TypeScript** with **3 hrs 50 mins** of work.
+3. 🥉 **SQL** with **2 hrs 9 mins** of playing.
 4. 🏅 **YAML** with **1 hr 33 mins** of extreme thinking.
 5. 🎖️ **JSON** with **1 hr 8 mins** of worrying bugs would appear.
 
