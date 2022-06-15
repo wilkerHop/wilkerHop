@@ -23,11 +23,9 @@
 
 ### <div align="center">Hi! My name is Wilker and I am a web developer</div>
 
-- 🌱 I’m currently studing Web3 and ways to decentralize applications
+- 🌱 I’m currently studing Rust and ways to decentralize applications
 
 - 🗣️ Let's discuss about clean code and best pratices
-
-- ⚡ Fun fact: I always use trailing commas on my projects
 
 <br/>
 
