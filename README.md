@@ -83,11 +83,11 @@
 
 _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 
-1. 🥇 **TypeScript** with **6 hrs 2 mins** of pleasure.
-2. 🥈 **YAML** with **1 hr** of work.
-3. 🥉 **SQL** with **46 mins** of playing.
-4. 🏅 **Markdown** with **43 mins** of extreme thinking.
-5. 🎖️ **Bash** with **24 mins** of worrying bugs would appear.
+1. 🥇 **TypeScript** with **6 hrs 31 mins** of pleasure.
+2. 🥈 **SQL** with **2 hrs 17 mins** of work.
+3. 🥉 **YAML** with **1 hr** of playing.
+4. 🏅 **Bash** with **45 mins** of extreme thinking.
+5. 🎖️ **Markdown** with **43 mins** of worrying bugs would appear.
 
 And more **16 mins** of 😁🖱💻🔌 (diverse file extensions).
 
