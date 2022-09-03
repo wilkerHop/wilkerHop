@@ -83,13 +83,13 @@
 
 _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 
-1. 🥇 **TypeScript** with **1 hr 7 mins** of pleasure.
-2. 🥈 **HTML** with **23 mins** of work.
-3. 🥉 **JSON** with **21 mins** of playing.
-4. 🏅 **YAML** with **20 mins** of extreme thinking.
+1. 🥇 **TypeScript** with **3 hrs 26 mins** of pleasure.
+2. 🥈 **JSON** with **36 mins** of work.
+3. 🥉 **HTML** with **33 mins** of playing.
+4. 🏅 **YAML** with **32 mins** of extreme thinking.
 5. 🎖️ **PHP** with **12 mins** of worrying bugs would appear.
 
-And more **2 hrs 16 mins** of 😁🖱💻🔌 (diverse file extensions).
+And more **2 hrs 3 mins** of 😁🖱💻🔌 (diverse file extensions).
 
 <!-- Wakatime Stats -->
 
