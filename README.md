@@ -83,8 +83,8 @@
 
 _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 
-1. 🥇 **TypeScript** with **3 hrs 2 mins** of pleasure.
-2. 🥈 **YAML** with **1 hr 19 mins** of work.
+1. 🥇 **TypeScript** with **3 hrs 51 mins** of pleasure.
+2. 🥈 **YAML** with **57 mins** of work.
 3. 🥉 **JSON** with **9 mins** of playing.
 4. 🏅 **JavaScript** with **1 min** of extreme thinking.
 5. 🎖️ **Bash** with **0 secs** of worrying bugs would appear.
