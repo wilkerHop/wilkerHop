@@ -89,7 +89,7 @@ _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 4. 🏅 **Bash** with **0 secs** of extreme thinking.
 5. 🎖️ **JavaScript** with **0 secs** of worrying bugs would appear.
 
-And more **5 mins** of 😁🖱💻🔌 (diverse file extensions).
+And more **1 hr 5 mins** of 😁🖱💻🔌 (diverse file extensions).
 
 <!-- Wakatime Stats -->
 
