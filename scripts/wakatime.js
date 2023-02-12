@@ -39,7 +39,9 @@ const getWakatimeTokens = async (refreshToken) => {
     data: querystring,
   };
 
-  const { data } = await axios(config);
+  const response = await axios(config);
+
+  const data = qs.parse(response.data);
 
   return {
     access_token: data.access_token,
