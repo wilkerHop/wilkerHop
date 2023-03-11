@@ -83,7 +83,7 @@
 
 _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 
-1. 🥇 **TypeScript** with **3 hrs 26 mins** of pleasure.
+1. 🥇 **TypeScript** with **3 hrs 20 mins** of pleasure.
 2. 🥈 **JSON** with **25 mins** of work.
 3. 🥉 **TSConfig** with **4 mins** of playing.
 4. 🏅 **Bash** with **4 mins** of extreme thinking.
