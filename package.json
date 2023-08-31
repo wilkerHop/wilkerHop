@@ -17,7 +17,7 @@
   "homepage": "https://github.com/wilkerHop/wilkerHop#readme",
   "dependencies": {
     "axios": "^0.26.1",
-    "mongodb": "^4.4.1",
+    "mongodb": "^4.17.0",
     "qs": "^6.10.3"
   }
 }
