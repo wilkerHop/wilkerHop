@@ -83,13 +83,13 @@
 
 _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 
-1. 🥇 **Assembly** with **17 mins** of pleasure.
-2. 🥈 **JSON** with **10 mins** of work.
-3. 🥉 **ActionScript 3** with **3 mins** of playing.
-4. 🏅 **Ezhil** with **3 mins** of extreme thinking.
-5. 🎖️ **Bash** with **2 mins** of worrying bugs would appear.
+1. 🥇 **TypeScript** with **5 hrs 13 mins** of pleasure.
+2. 🥈 **Python** with **31 mins** of work.
+3. 🥉 **Markdown** with **30 mins** of playing.
+4. 🏅 **Assembly** with **17 mins** of extreme thinking.
+5. 🎖️ **JSON** with **11 mins** of worrying bugs would appear.
 
-And more **5 hrs 13 mins** of 😁🖱💻🔌 (diverse file extensions).
+And more **2 mins** of 😁🖱💻🔌 (diverse file extensions).
 
 <!-- Wakatime Stats -->
 
