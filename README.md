@@ -83,13 +83,13 @@
 
 _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 
-1. 🥇 **Python** with **31 mins** of pleasure.
-2. 🥈 **Markdown** with **30 mins** of work.
-3. 🥉 **Text** with **9 mins** of playing.
-4. 🏅 **JSON** with **0 secs** of extreme thinking.
-5. 🎖️ **Prolog** with **0 secs** of worrying bugs would appear.
+1. 🥇 **TypeScript** with **1 hr 2 mins** of pleasure.
+2. 🥈 **JavaScript** with **11 mins** of work.
+3. 🥉 **CSS** with **7 mins** of playing.
+4. 🏅 **JSON** with **7 mins** of extreme thinking.
+5. 🎖️ **Markdown** with **2 mins** of worrying bugs would appear.
 
-And more **2 mins** of 😁🖱💻🔌 (diverse file extensions).
+And more **0 secs** of 😁🖱💻🔌 (diverse file extensions).
 
 <!-- Wakatime Stats -->
 
