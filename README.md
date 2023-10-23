@@ -95,7 +95,7 @@ And more **0 secs** of 😁🖱💻🔌 (diverse file extensions).
 
 ## Contribution Graph
 
-<img src="https://raw.githubusercontent.com/wilkerHop/wilkerHop/output/github-snake.svg" align="center" />
+<img src="https://raw.githubusercontent.com/wilkerHop/wilkerHop/output/github-snake-dark.svg" align="center" />
 
 <br/>
 
