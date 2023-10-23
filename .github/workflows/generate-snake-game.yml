@@ -10,10 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v0.0.18
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: push github-snake.svg to the main branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
