@@ -83,13 +83,13 @@
 
 _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 
-1. 🥇 **TypeScript** with **4 hrs 36 mins** of pleasure.
+1. 🥇 **TypeScript** with **5 hrs 35 mins** of pleasure.
 2. 🥈 **JSON** with **42 mins** of work.
 3. 🥉 **Rust** with **33 mins** of playing.
-4. 🏅 **Ezhil** with **17 mins** of extreme thinking.
-5. 🎖️ **JavaScript** with **14 mins** of worrying bugs would appear.
+4. 🏅 **CSV** with **26 mins** of extreme thinking.
+5. 🎖️ **Bash** with **19 mins** of worrying bugs would appear.
 
-And more **1 min** of 😁🖱💻🔌 (diverse file extensions).
+And more **18 mins** of 😁🖱💻🔌 (diverse file extensions).
 
 <!-- Wakatime Stats -->
 
