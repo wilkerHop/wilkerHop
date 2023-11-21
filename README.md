@@ -86,8 +86,8 @@ _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 1. 🥇 **TypeScript** with **5 hrs 3 mins** of pleasure.
 2. 🥈 **JSON** with **47 mins** of work.
 3. 🥉 **CSV** with **28 mins** of playing.
-4. 🏅 **JavaScript** with **2 mins** of extreme thinking.
-5. 🎖️ **CSS** with **0 secs** of worrying bugs would appear.
+4. 🏅 **Python** with **7 mins** of extreme thinking.
+5. 🎖️ **JavaScript** with **2 mins** of worrying bugs would appear.
 
 And more **0 secs** of 😁🖱💻🔌 (diverse file extensions).
 
