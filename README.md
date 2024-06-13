@@ -83,9 +83,9 @@
 
 _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 
-1. 🥇 **Python** with **2 hrs 41 mins** of pleasure.
-2. 🥈 **Markdown** with **38 mins** of work.
-3. 🥉 **YAML** with **35 mins** of playing.
+1. 🥇 **Python** with **4 hrs 1 min** of pleasure.
+2. 🥈 **YAML** with **45 mins** of work.
+3. 🥉 **Markdown** with **38 mins** of playing.
 4. 🏅 **JSON** with **15 mins** of extreme thinking.
 5. 🎖️ **Text** with **4 mins** of worrying bugs would appear.
 
