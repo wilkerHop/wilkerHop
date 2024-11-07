@@ -83,11 +83,11 @@
 
 _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 
-1. 🥇 **Python** with **45 mins** of pleasure.
-2. 🥈 **Bash** with **10 mins** of work.
-3. 🥉 **Text** with **4 mins** of playing.
-4. 🏅 **Git Config** with **1 min** of extreme thinking.
-5. 🎖️ **Java** with **0 secs** of worrying bugs would appear.
+1. 🥇 **Python** with **25 mins** of pleasure.
+2. 🥈 **YAML** with **13 mins** of work.
+3. 🥉 **Bash** with **11 mins** of playing.
+4. 🏅 **Text** with **3 mins** of extreme thinking.
+5. 🎖️ **TypeScript** with **3 mins** of worrying bugs would appear.
 
 And more **0 secs** of 😁🖱💻🔌 (diverse file extensions).
 
