@@ -85,7 +85,7 @@ _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 
 1. 🥇 **Python** with **55 mins** of pleasure.
 2. 🥈 **Bash** with **24 mins** of work.
-3. 🥉 **JSON** with **20 mins** of playing.
+3. 🥉 **JSON** with **21 mins** of playing.
 4. 🏅 **Text** with **14 mins** of extreme thinking.
 5. 🎖️ **YAML** with **12 mins** of worrying bugs would appear.
 
