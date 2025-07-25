@@ -84,7 +84,7 @@
 _Powered by [Wakatime](https://wakatime.com/@wilkerHop)_
 
 1. 🥇 **TypeScript** with **50 mins** of pleasure.
-2. 🥈 **Bash** with **39 mins** of work.
+2. 🥈 **Bash** with **40 mins** of work.
 3. 🥉 **Markdown** with **18 mins** of playing.
 4. 🏅 **JSON** with **3 mins** of extreme thinking.
 5. 🎖️ **Text** with **1 min** of worrying bugs would appear.
