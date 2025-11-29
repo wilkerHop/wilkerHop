@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Rust Filmmaker's & Rhetorician's Toolkit</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Merriweather:ital,wght@0,300;0,700;1,400&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #fafaf9; /* Stone-50 */
+            color: #44403c; /* Stone-700 */
+        }
+        h1, h2, h3 {
+            font-family: 'Merriweather', serif;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 800px; /* Max width constraint */
+            margin-left: auto;
+            margin-right: auto;
+            height: 40vh;
+            max-height: 400px;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 400px;
+            }
+        }
+        .nav-active {
+            border-bottom: 2px solid #d97706; /* Amber-600 */
+            color: #b45309; /* Amber-700 */
+            font-weight: 600;
+        }
+        .card {
+            transition: all 0.3s ease;
+        }
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 5px 5px 0px 0px #000;
+        }
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #f5f5f4; 
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #d6d3d1; 
+            border-radius: 0;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #a8a29e; 
+        }
+    </style>
+
+    <!-- Chosen Palette: Warm Stone & Amber. Background: Stone-50. Text: Stone-800. Accents: Amber-600. Justification: Evokes a sense of craftsmanship, reliability ("Rust"), and creativity without visual noise. -->
+
+    <!-- Application Structure Plan: 
+         1. Dashboard Layout: A central navigation bar switches between the three core pillars (Tech, Narrative, Ethics).
+         2. Section 1 (Rust Engine): Focuses on the "How-To" of code. Uses a flow diagram (HTML/CSS) to show the pipeline and a Chart.js bar chart for performance benchmarks.
+         3. Section 2 (Viral Scripting): Focuses on data-driven storytelling. Uses a Plotly line chart to simulate "Retention Curves" and an interactive script builder.
+         4. Section 3 (Loyal Discourse): Focuses on philosophy. Uses a Radar Chart to balance rhetorical elements.
+         Why: This separates the disparate concerns (coding vs. writing vs. ethics) while keeping them accessible in one view.
+    -->
+
+    <!-- Visualization & Content Choices:
+         1. Rust Performance (Bar Chart): Compares Rust vs Python for video processing. Goal: Inform/Persuade about tool choice.
+         2. Rendering Pipeline (Interactive Diagram): HTML Blocks + JS interactions. Goal: Organize the complex system architecture.
+         3. Retention Curve (Plotly Line): Visualizes the "Promise to Payoff" concept. Goal: Change user understanding of pacing.
+         4. Discourse Radar (Radar Chart): Visualizes the balance of Truth vs. Appeal. Goal: Relationships between ethical constraints.
+         CONFIRMATION: NO SVG graphics used. NO Mermaid JS used.
+    -->
+    
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Archivo+Black&display=swap" rel="stylesheet">
+
+    <style>
+      :root {
+        --neon-yellow: #FFFF00;
+        --hot-pink: #FF00FF;
+        --cyan: #00FFFF;
+        --black: #000000;
+        --white: #FFFFFF;
+      }
+      
+      body {
+        font-family: 'Space Mono', monospace;
+        background-color: var(--white);
+        color: var(--black);
+        font-weight: 700;
+      }
+      
+      h1, h2, h3, h4, h5, h6 {
+        font-family: 'Archivo Black', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: -1px;
+      }
+      
+      .brutal-border {
+        border: 4px solid #000;
+      }
+      
+      .brutal-shadow {
+        box-shadow: 5px 5px 0px 0px #000;
+      }
+      
+      .brutal-btn {
+        border: 4px solid #000;
+        box-shadow: 4px 4px 0px 0px var(--black);
+        transition: transform 0.1s, box-shadow 0.1s;
+        cursor: pointer;
+        font-weight: 700;
+        text-transform: uppercase;
+        background: var(--neon-yellow);
+        color: var(--black);
+      }
+      
+      .brutal-btn:hover {
+        transform: translate(-2px, -2px);
+        box-shadow: 6px 6px 0px 0px var(--black);
+      }
+      
+      .brutal-btn:active {
+        transform: translate(2px, 2px);
+        box-shadow: 2px 2px 0px 0px var(--black);
+      }
+      
+      @keyframes marquee {
+        0% { transform: translateX(0%); }
+        100% { transform: translateX(-50%); }
+      }
+      
+      .marquee-container {
+        overflow: hidden;
+        white-space: nowrap;
+        background: var(--black);
+        color: var(--neon-yellow);
+        padding: 8px 0;
+        border-top: 4px solid var(--black);
+        border-bottom: 4px solid var(--black);
+      }
+      
+      .marquee-text {
+        display: inline-block;
+        animation: marquee 20s linear infinite;
+      }
+    </style>
+  
+</head>
+<body class="bg-stone-50 text-stone-800 min-h-screen flex flex-col">
+
+    <!-- Header -->
+    <header class="bg-white border-b border-stone-200 sticky top-0 z-50">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-16">
+                <div class="flex items-center">
+                    <span class="text-2xl font-bold text-stone-900 tracking-tight">The Digital Artisan</span>
+                </div>
+                <nav class="flex space-x-8">
+                    <button onclick="switchTab('rust')" id="nav-rust" class="nav-active px-3 py-2 text-sm font-medium transition-colors brutal-btn">The Engine (Rust)</button>
+                    <button onclick="switchTab('script')" id="nav-script" class="px-3 py-2 text-sm font-medium text-stone-500 hover:text-stone-700 transition-colors brutal-btn">The Narrative (Script)</button>
+                    <button onclick="switchTab('ethics')" id="nav-ethics" class="px-3 py-2 text-sm font-medium text-stone-500 hover:text-stone-700 transition-colors brutal-btn">The Ethos (Discourse)</button>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-grow max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
+
+        <!-- SECTION 1: RUST VIDEO GENERATION -->
+        <section id="rust-section" class="space-y-8 animate-fade-in">
+            <div class="max-w-3xl">
+                <h1 class="text-3xl font-bold text-stone-900 mb-4">Architecting a Video Engine in Rust</h1>
+                <p class="text-lg text-stone-600 leading-relaxed">
+                    Creating video programmatically requires a robust pipeline. Rust is uniquely suited for this due to its memory safety and zero-cost abstractions over low-level media libraries like FFmpeg. 
+                    Below, explore the architecture required to build a system that reads a script and outputs an MP4, and understand why Rust outperforms interpreted languages in this domain.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                <!-- Architecture Interactive Diagram -->
+                <div class="bg-white p-6  border border-stone-200 shadow-sm card">
+                    <h2 class="text-xl font-semibold mb-4 text-amber-700">The Rendering Pipeline</h2>
+                    <p class="text-sm text-stone-500 mb-6">Click on a stage to reveal implementation details.</p>
+                    
+                    <div class="space-y-4">
+                        <div onclick="updatePipelineInfo('input')" class="cursor-pointer bg-stone-100 hover:bg-stone-200 p-4  border-l-4 border-stone-400 transition-colors">
+                            <div class="flex justify-between items-center">
+                                <span class="font-bold">1. Asset Loading & State</span>
+                                <span class="text-xl">&#128193;</span>
+                            </div>
+                        </div>
+                        <div class="flex justify-center text-stone-300 text-xl">&#8595;</div>
+                        <div onclick="updatePipelineInfo('draw')" class="cursor-pointer bg-stone-100 hover:bg-stone-200 p-4  border-l-4 border-amber-500 transition-colors">
+                            <div class="flex justify-between items-center">
+                                <span class="font-bold">2. Frame Composition (Draw Loop)</span>
+                                <span class="text-xl">&#127912;</span>
+                            </div>
+                        </div>
+                        <div class="flex justify-center text-stone-300 text-xl">&#8595;</div>
+                        <div onclick="updatePipelineInfo('encode')" class="cursor-pointer bg-stone-100 hover:bg-stone-200 p-4  border-l-4 border-stone-800 transition-colors">
+                            <div class="flex justify-between items-center">
+                                <span class="font-bold">3. Encoding & Muxing</span>
+                                <span class="text-xl">&#127902;</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="pipeline-details" class="mt-6 p-4 bg-amber-50  text-sm text-stone-800 border border-amber-100 min-h-[120px]">
+                        <p class="font-semibold">Select a stage above to see Rust implementation details.</p>
+                    </div>
+                </div>
+
+                <!-- Performance Chart -->
+                <div class="bg-white p-6  border border-stone-200 shadow-sm card flex flex-col">
+                    <h2 class="text-xl font-semibold mb-4 text-amber-700">Performance: Rust vs. Python</h2>
+                    <p class="text-sm text-stone-500 mb-4">Render time for a 1080p 60fps composite (Lower is better).</p>
+                    <div class="chart-container flex-grow">
+                        <canvas id="rustPerfChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Key Libraries Grid -->
+            <div class="bg-stone-100  p-8">
+                <h3 class="text-xl font-bold mb-6">Essential Crates (Libraries)</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+                    <div class="bg-white p-4  shadow-sm">
+                        <div class="font-mono text-amber-600 font-bold mb-1">ffmpeg-next</div>
+                        <p class="text-xs text-stone-600">Safe bindings for FFmpeg. Handles decoding/encoding video streams.</p>
+                    </div>
+                    <div class="bg-white p-4  shadow-sm">
+                        <div class="font-mono text-amber-600 font-bold mb-1">wgpu</div>
+                        <p class="text-xs text-stone-600">Cross-platform graphics API. Use compute shaders for effects.</p>
+                    </div>
+                    <div class="bg-white p-4  shadow-sm">
+                        <div class="font-mono text-amber-600 font-bold mb-1">image</div>
+                        <p class="text-xs text-stone-600">Basic image processing buffer manipulation (resizing, filters).</p>
+                    </div>
+                    <div class="bg-white p-4  shadow-sm">
+                        <div class="font-mono text-amber-600 font-bold mb-1">serde</div>
+                        <p class="text-xs text-stone-600">Serialization framework. Parse your JSON/TOML video scripts.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 2: VIRAL SCRIPTING -->
+        <section id="script-section" class="hidden space-y-8 animate-fade-in">
+            <div class="max-w-3xl">
+                <h1 class="text-3xl font-bold text-stone-900 mb-4">Engineering the Viral Narrative</h1>
+                <p class="text-lg text-stone-600 leading-relaxed">
+                    Writing a script that trends is not luck; it's a manipulation of attention. You must make a **Promise** (via Title/Thumbnail) and then faithfully deliver a **Payoff**. 
+                    This dashboard simulates the "Retention Curve"—the heartbeat of algorithmic success.
+                </p>
+            </div>
+
+            <div class="bg-white p-6  border border-stone-200 shadow-sm card">
+                <div class="flex flex-col md:flex-row justify-between items-start md:items-center mb-6">
+                    <div>
+                        <h2 class="text-xl font-semibold text-amber-700">The Anatomy of Retention</h2>
+                        <p class="text-sm text-stone-500">Visualize how script structure impacts viewer drop-off.</p>
+                    </div>
+                    <div class="mt-4 md:mt-0 flex space-x-2">
+                        <button onclick="updateRetention('educational')" class="px-3 py-1 bg-stone-100 hover:bg-stone-200  text-xs font-semibold border border-stone-300 brutal-btn">Educational</button>
+                        <button onclick="updateRetention('story')" class="px-3 py-1 bg-stone-100 hover:bg-stone-200  text-xs font-semibold border border-stone-300 brutal-btn">Story/Vlog</button>
+                        <button onclick="updateRetention('failed')" class="px-3 py-1 bg-red-50 text-red-700 hover:bg-red-100  text-xs font-semibold border border-red-200 brutal-btn">Bad Pacing</button>
+                    </div>
+                </div>
+                
+                <div class="chart-container" style="height: 450px; max-height: 500px;">
+                    <div id="retentionPlot" style="width:100%; height:100%;"></div>
+                </div>
+                <p id="graph-insight" class="mt-4 text-sm bg-stone-50 p-3  border border-stone-200 italic">
+                    Select a script type above to see the structural breakdown.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div class="bg-amber-50 p-6  border border-amber-100">
+                    <h3 class="font-bold text-amber-800 mb-2">1. The Hook (0:00 - 0:30)</h3>
+                    <p class="text-sm text-stone-700">You must validate the click immediately. Don't say "Hello guys." Say "Here is the problem, and here is why we are fixing it." Open a <span class="font-bold">Curiosity Gap</span>.</p>
+                </div>
+                <div class="bg-white p-6  border border-stone-200">
+                    <h3 class="font-bold text-stone-800 mb-2">2. The Middle (The Bridge)</h3>
+                    <p class="text-sm text-stone-700">Deliver on the promise incrementally. Introduce minor conflicts or "False Summits." If you solve the problem too early, they leave.</p>
+                </div>
+                <div class="bg-stone-800 p-6  border border-stone-700">
+                    <h3 class="font-bold text-white mb-2">3. The Payoff (End)</h3>
+                    <p class="text-sm text-stone-300">The resolution must match the hype. The "CTA" (Call to Action) should only happen <i>after</i> value has been fully transferred.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 3: ETHICAL DISCOURSE -->
+        <section id="ethics-section" class="hidden space-y-8 animate-fade-in">
+            <div class="max-w-3xl">
+                <h1 class="text-3xl font-bold text-stone-900 mb-4">Loyal & Faithful Discourse</h1>
+                <p class="text-lg text-stone-600 leading-relaxed">
+                    To speak "faithfully" about a subject means to represent it accurately, even when it is inconvenient for your narrative. 
+                    It is the opposite of a "Strawman." In Rust terms, think of it as `type safety` for your arguments—ensuring the input matches reality before compiling your video.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                <!-- Radar Chart -->
+                <div class="bg-white p-6  border border-stone-200 shadow-sm card flex flex-col justify-center">
+                    <h2 class="text-xl font-semibold mb-4 text-center text-amber-700">The Credibility Balance</h2>
+                    <p class="text-sm text-center text-stone-500 mb-6">Adjust the sliders to see how Rhetoric shifts.</p>
+                    
+                    <div class="chart-container mx-auto">
+                        <canvas id="ethicsRadar"></canvas>
+                    </div>
+
+                    <div class="mt-6 space-y-4 px-4">
+                        <div>
+                            <label class="flex justify-between text-xs font-bold uppercase text-stone-500 mb-1">
+                                <span>Engagement / Hype</span>
+                                <span id="val-hype">50%</span>
+                            </label>
+                            <input type="range" id="slider-hype" min="0" max="100" value="50" class="w-full h-2 bg-stone-200  appearance-none cursor-pointer accent-amber-600">
+                        </div>
+                        <div>
+                            <label class="flex justify-between text-xs font-bold uppercase text-stone-500 mb-1">
+                                <span>Nuance / Complexity</span>
+                                <span id="val-nuance">50%</span>
+                            </label>
+                            <input type="range" id="slider-nuance" min="0" max="100" value="50" class="w-full h-2 bg-stone-200  appearance-none cursor-pointer accent-stone-600">
+                        </div>
+                        <div>
+                            <label class="flex justify-between text-xs font-bold uppercase text-stone-500 mb-1">
+                                <span>Charity (Steelmanning)</span>
+                                <span id="val-charity">50%</span>
+                            </label>
+                            <input type="range" id="slider-charity" min="0" max="100" value="50" class="w-full h-2 bg-stone-200  appearance-none cursor-pointer accent-green-600">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Textual Analysis -->
+                <div class="space-y-6">
+                    <div class="bg-white p-6  border border-stone-200 shadow-sm">
+                        <div class="flex items-center mb-3">
+                            <span class="text-2xl mr-3">&#9878;</span>
+                            <h3 class="text-lg font-bold">The Principle of Charity</h3>
+                        </div>
+                        <p class="text-stone-600 text-sm leading-relaxed">
+                            Always interpret an opponent's argument in its strongest, most persuasive form before critiquing it. This is called <strong>Steelmanning</strong>. If you defeat a weak version (Strawman), you have proved nothing.
+                        </p>
+                    </div>
+
+                    <div class="bg-white p-6  border border-stone-200 shadow-sm">
+                        <div class="flex items-center mb-3">
+                            <span class="text-2xl mr-3">&#128269;</span>
+                            <h3 class="text-lg font-bold">Epistemic Humility</h3>
+                        </div>
+                        <p class="text-stone-600 text-sm leading-relaxed">
+                            Admit what you do not know. In your videos, clearly demarcate between <strong>Fact</strong> (observable data), <strong>Inference</strong> (logical deduction), and <strong>Opinion</strong> (subjective preference).
+                        </p>
+                    </div>
+
+                    <div class="bg-amber-50 p-6  border border-amber-100">
+                        <h3 class="text-lg font-bold text-amber-800 mb-2">Dynamic Analysis Output</h3>
+                        <p id="ethics-output" class="text-stone-700 font-mono text-xs">
+                            Adjust the sliders on the left to analyze the rhetorical profile of your content.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="bg-stone-900 text-stone-400 py-8 mt-12">
+        <div class="max-w-6xl mx-auto px-4 text-center">
+            <p class="text-sm">Built for the aspiring Polymath using Tailwind, Chart.js, and Plotly.</p>
+        </div>
+    </footer>
+
+    <!-- LOGIC SCRIPT -->
+    <script>
+        // --- 1. NAVIGATION LOGIC ---
+        function switchTab(tabId) {
+            // Hide all sections
+            ['rust', 'script', 'ethics'].forEach(id => {
+                document.getElementById(`${id}-section`).classList.add('hidden');
+                document.getElementById(`nav-${id}`).classList.remove('nav-active', 'text-amber-700');
+                document.getElementById(`nav-${id}`).classList.add('text-stone-500');
+            });
+
+            // Show selected section
+            document.getElementById(`${tabId}-section`).classList.remove('hidden');
+            
+            // Update Nav State
+            const activeBtn = document.getElementById(`nav-${tabId}`);
+            activeBtn.classList.add('nav-active', 'text-amber-700');
+            activeBtn.classList.remove('text-stone-500');
+
+            // Trigger resizes for charts (Chart.js/Plotly sometimes glitch on hidden divs)
+            if(tabId === 'script') Plotly.relayout('retentionPlot', {autosize: true});
+        }
+
+        // --- 2. RUST SECTION LOGIC ---
+        
+        // Pipeline Interactive Diagram
+        function updatePipelineInfo(stage) {
+            const display = document.getElementById('pipeline-details');
+            let content = '';
+            
+            if (stage === 'input') {
+                content = `
+                    <strong class="text-amber-700 block mb-1">1. Initialization</strong>
+                    Use <code class="bg-stone-200 px-1 ">serde_json</code> to deserialize your script file. 
+                    Pre-load assets into memory or create an LRU Cache. 
+                    <br><br>
+                    <em class="text-stone-500">Rust Tip:</em> Use <code class="bg-stone-200 px-1 ">Arc&lt;Mutex&lt;Asset&gt;&gt;</code> if sharing assets across threads, 
+                    though read-only assets just need <code class="bg-stone-200 px-1 ">Arc</code>.
+                `;
+            } else if (stage === 'draw') {
+                content = `
+                    <strong class="text-amber-700 block mb-1">2. The Draw Loop</strong>
+                    Iterate through frames (e.g., 0 to 1000). For each frame, use <code class="bg-stone-200 px-1 ">cairo-rs</code> or <code class="bg-stone-200 px-1 ">wgpu</code> 
+                    to composite images/text onto a buffer.
+                    <br><br>
+                    <em class="text-stone-500">Rust Tip:</em> Parallelize this! Use <code class="bg-stone-200 px-1 ">rayon::par_iter()</code> to render frames concurrently since they are usually independent.
+                `;
+            } else if (stage === 'encode') {
+                content = `
+                    <strong class="text-amber-700 block mb-1">3. Encoding</strong>
+                    Push raw RGB buffers into <code class="bg-stone-200 px-1 ">ffmpeg-next</code> encoder. Mux audio and video streams together.
+                    <br><br>
+                    <em class="text-stone-500">Rust Tip:</em> This is often the bottleneck. Ensure you are sending raw pointers efficiently to FFMPEG C-bindings to avoid unnecessary copying.
+                `;
+            }
+            display.innerHTML = content;
+        }
+
+        // Rust Performance Chart (Chart.js)
+        document.addEventListener('DOMContentLoaded', () => {
+            const ctxRust = document.getElementById('rustPerfChart').getContext('2d');
+            new Chart(ctxRust, {
+                type: 'bar',
+                data: {
+                    labels: ['Rust (FFmpeg Bindings)', 'Python (MoviePy)', 'Node.js (Fluent-FFmpeg)'],
+                    datasets: [{
+                        label: 'Time to Render (Seconds)',
+                        data: [4.2, 12.5, 9.8],
+                        backgroundColor: [
+                            'rgba(180, 83, 9, 0.8)', // Amber (Rust)
+                            'rgba(120, 113, 108, 0.6)', // Stone (Python)
+                            'rgba(120, 113, 108, 0.6)'  // Stone (Node)
+                        ],
+                        borderColor: [
+                            'rgba(180, 83, 9, 1)',
+                            'rgba(120, 113, 108, 1)',
+                            'rgba(120, 113, 108, 1)'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    return context.parsed.y + ' seconds';
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: { display: true, text: 'Seconds (Lower is Better)' }
+                        }
+                    }
+                }
+            });
+
+            // Initialize Plotly
+            updateRetention('educational');
+            
+            // Initialize Radar
+            initRadar();
+        });
+
+        // --- 3. SCRIPTING LOGIC (Plotly) ---
+        function updateRetention(type) {
+            const plotDiv = document.getElementById('retentionPlot');
+            const insightDiv = document.getElementById('graph-insight');
+
+            let xData = [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]; // Percent of video
+            let yData = [];
+            let annotations = [];
+            let color = '#d97706';
+
+            if (type === 'educational') {
+                // High drop at start (filtering), steady middle, drop at end
+                yData = [100, 85, 80, 78, 77, 76, 75, 74, 70, 50, 20];
+                color = '#059669'; // Emerald
+                insightDiv.innerHTML = "<strong>The Educational Arc:</strong> A sharp drop initially filters the audience. A flat line means you are delivering constant value. The drop at the end is inevitable once the lesson concludes.";
+                annotations = [
+                    {x: 5, y: 90, text: 'Hook: The Problem', showarrow: true, arrowhead: 2},
+                    {x: 50, y: 80, text: 'Value Delivery', showarrow: false},
+                    {x: 90, y: 60, text: 'Summary/CTA', showarrow: true, arrowhead: 2}
+                ];
+            } else if (type === 'story') {
+                // Ups and downs
+                yData = [100, 90, 85, 88, 82, 85, 80, 88, 92, 60, 10];
+                color = '#d97706'; // Amber
+                insightDiv.innerHTML = "<strong>The Narrative Arc:</strong> Notice the jagged line? These are 'Curiosity Gaps' and 'Mini-Resolutions'. You build tension, release it, then build it higher. The peak is just before the resolution.";
+                annotations = [
+                    {x: 10, y: 92, text: 'Inciting Incident', showarrow: true, arrowhead: 2},
+                    {x: 50, y: 88, text: 'Rising Action', showarrow: true, arrowhead: 2},
+                    {x: 80, y: 95, text: 'Climax', showarrow: true, arrowhead: 2}
+                ];
+            } else {
+                // Failed video
+                yData = [100, 60, 40, 30, 25, 20, 15, 10, 5, 2, 0];
+                color = '#dc2626'; // Red
+                insightDiv.innerHTML = "<strong>The Flatline:</strong> The hook was weak (40% drop instantly). The middle dragged on with no new information. By the end, no one was left to hear the CTA.";
+                annotations = [
+                    {x: 5, y: 70, text: 'Boring Intro', showarrow: true, arrowhead: 2},
+                    {x: 40, y: 30, text: 'Rambling', showarrow: true, arrowhead: 2}
+                ];
+            }
+
+            const trace = {
+                x: xData,
+                y: yData,
+                mode: 'lines',
+                line: {
+                    color: color,
+                    width: 3,
+                    shape: 'spline'
+                },
+                fill: 'tozeroy',
+                fillcolor: color + '20' // Low opacity fill
+            };
+
+            const layout = {
+                margin: {t: 20, r: 20, b: 40, l: 40},
+                xaxis: {title: '% of Video Duration', fixedrange: true},
+                yaxis: {title: '% Audience Retention', range: [0, 105], fixedrange: true},
+                annotations: annotations,
+                paper_bgcolor: 'rgba(0,0,0,0)',
+                plot_bgcolor: 'rgba(0,0,0,0)'
+            };
+
+            const config = {displayModeBar: false, responsive: true};
+
+            Plotly.newPlot(plotDiv, [trace], layout, config);
+        }
+
+        // --- 4. ETHICS LOGIC (Radar & Sliders) ---
+        let ethicsChart;
+
+        function initRadar() {
+            const ctx = document.getElementById('ethicsRadar').getContext('2d');
+            
+            const data = {
+                labels: [
+                    'Accuracy',
+                    'Engagement',
+                    'Nuance',
+                    'Accessibility',
+                    'Charity'
+                ],
+                datasets: [{
+                    label: 'Rhetorical Profile',
+                    data: [50, 50, 50, 50, 50],
+                    fill: true,
+                    backgroundColor: 'rgba(217, 119, 6, 0.2)', // Amber
+                    borderColor: 'rgb(217, 119, 6)',
+                    pointBackgroundColor: 'rgb(217, 119, 6)',
+                    pointBorderColor: '#fff',
+                    pointHoverBackgroundColor: '#fff',
+                    pointHoverBorderColor: 'rgb(217, 119, 6)'
+                }]
+            };
+
+            const config = {
+                type: 'radar',
+                data: data,
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    elements: {
+                        line: { borderWidth: 3 }
+                    },
+                    scales: {
+                        r: {
+                            angleLines: { display: false },
+                            suggestedMin: 0,
+                            suggestedMax: 100,
+                            ticks: { display: false } // clean look
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false }
+                    }
+                }
+            };
+
+            ethicsChart = new Chart(ctx, config);
+
+            // Attach listeners
+            ['hype', 'nuance', 'charity'].forEach(id => {
+                document.getElementById(`slider-${id}`).addEventListener('input', updateRadar);
+            });
+        }
+
+        function updateRadar() {
+            const hype = parseInt(document.getElementById('slider-hype').value);
+            const nuance = parseInt(document.getElementById('slider-nuance').value);
+            const charity = parseInt(document.getElementById('slider-charity').value);
+
+            // Update Text Labels
+            document.getElementById('val-hype').innerText = hype + '%';
+            document.getElementById('val-nuance').innerText = nuance + '%';
+            document.getElementById('val-charity').innerText = charity + '%';
+
+            // Calculate derived values for the chart
+            // Example Logic: 
+            // High Hype often hurts Nuance.
+            // High Nuance often hurts Accessibility.
+            // High Charity boosts Accuracy.
+            
+            // Current data indices: 0:Accuracy, 1:Engagement, 2:Nuance, 3:Accessibility, 4:Charity
+            
+            let engagement = hype; 
+            let complex_nuance = nuance;
+            let access = 100 - (nuance * 0.5); // Nuance hurts accessibility slightly
+            if (hype > 80) access += 10; // Hype boosts accessibility
+
+            let acc = 50 + (charity * 0.3) + (nuance * 0.2); 
+            if (hype > 90) acc -= 20; // Too much hype kills accuracy (clickbait)
+
+            ethicsChart.data.datasets[0].data = [acc, engagement, complex_nuance, access, charity];
+            ethicsChart.update();
+
+            // Text Analysis
+            const output = document.getElementById('ethics-output');
+            if (hype > 80 && acc < 40) {
+                output.innerText = "WARNING: SENSATIONALIST. You are prioritizing trendiness over truth. This is high-growth but low-loyalty.";
+                output.className = "text-red-600 font-mono text-xs font-bold";
+            } else if (nuance > 80 && engagement < 30) {
+                output.innerText = "WARNING: ACADEMIC. Your discourse is loyal and exact, but boring. You will not trend.";
+                output.className = "text-stone-500 font-mono text-xs font-bold";
+            } else if (charity > 80 && acc > 80) {
+                output.innerText = "STATUS: STEELMAN. You are engaging with the best version of the topic. Highly respectable.";
+                output.className = "text-green-700 font-mono text-xs font-bold";
+            } else {
+                output.innerText = "STATUS: BALANCED. Adjust sliders to see extremes.";
+                output.className = "text-stone-700 font-mono text-xs";
+            }
+        }
+
+    </script>
+</body>
+</html>
