@@ -8,10 +8,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/setup-node@v3
-        with: { node-version: 16.x }
+      - uses: actions/checkout@v3
 
-      - name: print github.ref
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Print branch name
         run: |
           echo '${{ github.ref }}'
-          node -p '`${{ github.ref }}`.split(`/`).at(-1)'
+          bun -e 'console.log("${{ github.ref }}".split("/").at(-1))'

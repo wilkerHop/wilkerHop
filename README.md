@@ -1,5 +1,6 @@
 <div align="center">
 <a href="https://wakatime.com/@bc2cf556-71f0-4f0c-8959-b70f09169463"><img src="https://wakatime.com/badge/user/bc2cf556-71f0-4f0c-8959-b70f09169463.svg" alt="Total time coded since Mar 8 2022" /></a>
+<a href="https://github.com/wilkerHop/wilkerHop/actions/workflows/health-checks.yml"><img src="https://github.com/wilkerHop/wilkerHop/actions/workflows/health-checks.yml/badge.svg" alt="Health Checks" /></a>
 </div>
 
 <br/>
@@ -100,6 +101,85 @@ And more **2 mins** of 😁🖱💻🔌 (diverse file extensions).
 <br/>
 
 <br/>
+
+
+<br/>
+
+## 🔧 Development Setup
+
+This repository uses **TypeScript** with **strict mode** and **Bun** runtime for automated README updates.
+
+### Prerequisites
+
+- [Bun](https://bun.sh) v1.0+ (or Node.js v16+ for development)
+- TypeScript 5.3+
+
+### Installation
+
+```bash
+# Install Bun (macOS, Linux, WSL)
+curl -fsSL https://bun.sh/install | bash
+
+# Install dependencies
+bun install
+```
+
+### Available Scripts
+
+```bash
+# Run Wakatime stats update
+bun run wakatime
+
+# Run news update
+bun run news
+
+# Run health checks
+bun run health-check
+
+# Type check all TypeScript files
+bun run type-check
+```
+
+### Project Structure
+
+```
+├── scripts/
+│   ├── wakatime.ts      # Fetches and updates Wakatime coding stats
+│   ├── news.ts          # Fetches latest news (configurable)
+│   └── health-check.ts  # Validates TypeScript compilation and setup
+├── .github/workflows/
+│   ├── health-checks.yml  # CI pipeline for health checks
+│   └── update-stats.yml   # Automated stats updates
+├── tsconfig.json        # TypeScript strict configuration
+└── bunfig.toml          # Bun runtime configuration
+```
+
+### Environment Variables
+
+The scripts require the following environment variables:
+
+**Wakatime Script:**
+- `MONGODB_URI` - MongoDB connection string
+- `WAKATIME_CLIENT_ID` - Wakatime OAuth client ID
+- `WAKATIME_CLIENT_SECRET` - Wakatime OAuth client secret
+- `WAKATIME_REDIRECT_URI` - Wakatime OAuth redirect URI
+
+**News Script:**
+- `URL` - News API endpoint URL
+
+### Health Checks
+
+The repository includes automated health checks that run:
+- ✅ TypeScript compilation validation
+- ✅ Script file existence checks
+- ✅ Configuration validation
+- ✅ Dependency verification
+
+Health checks run automatically on:
+- Every push to `main` branch
+- All pull requests
+- Daily at 9 AM UTC
+- Manual workflow dispatch
 
 ---
 

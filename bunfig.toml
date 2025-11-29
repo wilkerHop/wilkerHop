@@ -1,0 +1,16 @@
+[install]
+# Install dependencies from npm registry
+registry = "https://registry.npmjs.org/"
+
+[install.lockfile]
+# Save exact versions
+save = "exact"
+
+[run]
+# Enable bun shell
+shell = "bun"
+
+# TypeScript transpilation
+[transpiler]
+# Use Bun's built-in TypeScript transpiler
+tsconfig = "./tsconfig.json"

@@ -1,3 +1,9 @@
 node_modules
 *.log
 *.env
+package-lock.json
+.health/
+dist/
+*.tsbuildinfo
+bun.lockb
+
