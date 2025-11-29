@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Archivo+Black&display=swap');
+  
+  * {
+    @apply border-brutal-black;
+  }
+  
+  body {
+    @apply font-mono bg-brutal-white text-brutal-black;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-black uppercase tracking-tight;
+  }
+}
+
+@layer components {
+  /* Brutal Button */
+  .brutal-btn {
+    @apply inline-block px-6 py-3 bg-neon-yellow text-brutal-black;
+    @apply border-4 border-brutal-black font-bold uppercase tracking-wider;
+    @apply shadow-brutal hover:shadow-brutal-hover;
+    @apply transition-all duration-75;
+    @apply hover:translate-x-[2px] hover:translate-y-[2px];
+    @apply active:shadow-none active:translate-x-[5px] active:translate-y-[5px];
+  }
+  
+  .brutal-btn-pink {
+    @apply brutal-btn bg-hot-pink;
+  }
+  
+  .brutal-btn-cyan {
+    @apply brutal-btn bg-electric-cyan;
+  }
+  
+  /* Brutal Card */
+  .brutal-card {
+    @apply bg-brutal-white border-5 border-brutal-black p-6;
+    @apply shadow-brutal-lg hover:shadow-brutal;
+    @apply hover:translate-x-[4px] hover:translate-y-[4px];
+    @apply transition-all duration-100;
+  }
+  
+  /* Brutal Link */
+  .brutal-link {
+    @apply font-bold uppercase underline decoration-4 underline-offset-4;
+    @apply hover:text-hot-pink transition-colors;
+  }
+  
+  /* Brutal Container */
+  .brutal-container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  
+  /* Brutal Section */
+  .brutal-section {
+    @apply py-12 sm:py-16 lg:py-20;
+  }
+  
+  /* Stats Widget */
+  .brutal-stat {
+    @apply border-5 border-brutal-black p-8 text-center;
+    @apply shadow-brutal;
+  }
+  
+  /* Tag/Badge */
+  .brutal-tag {
+    padding: 0.25rem 0.75rem;
+    background-color: #000000;
+    color: #00FFFF;
+    border: 2px solid #00FFFF;
+    font-size: 0.75rem;
+    font-family: 'Space Mono', monospace;
+    text-transform: uppercase;
+    display: inline-block;
+  }
+  
+  /* Accent Border */
+  .brutal-accent-left {
+    @apply border-l-4;
+  }
+  
+  .brutal-accent-pink {
+    @apply border-hot-pink;
+  }
+  
+  .brutal-accent-cyan {
+    @apply border-electric-cyan;
+  }
+  
+  .brutal-accent-yellow {
+    @apply border-neon-yellow;
+  }
+  
+  .brutal-accent-green {
+    @apply border-neon-green;
+  }
+}
+
+@layer utilities {
+  /* Marquee Animation */
+  @keyframes marquee {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+  
+  .animate-marquee {
+    animation: marquee 30s linear infinite;
+  }
+  
+  /* Text Stroke */
+  .text-stroke {
+    -webkit-text-stroke: 2px black;
+    paint-order: stroke fill;
+  }
+}
