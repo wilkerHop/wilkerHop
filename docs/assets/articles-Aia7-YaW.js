@@ -1,4 +1,4 @@
-import{f as n,d as c}from"./utils-D1gQJICI.js";async function r(){try{const e=document.getElementById("articles-grid");if(!e){console.error("Articles grid element not found");return}e.innerHTML='<div class="col-span-full text-center text-2xl font-black uppercase">Loading articles...</div>';const{articles:t}=await n();if(t.length===0){e.innerHTML=`
+import{f as n,d as c}from"./utils-DOp5qTGZ.js";async function r(){try{const e=document.getElementById("articles-grid");if(!e){console.error("Articles grid element not found");return}e.innerHTML='<div class="col-span-full text-center text-2xl font-black uppercase">Loading articles...</div>';const{articles:t}=await n();if(t.length===0){e.innerHTML=`
         <div class="col-span-full text-center p-12">
           <div class="brutal-card bg-neon-yellow inline-block">
             <h2 class="text-3xl font-black uppercase mb-4">No Articles Yet</h2>
