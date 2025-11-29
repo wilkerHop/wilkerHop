@@ -68,6 +68,9 @@ export function filterRelevantRepos(repos: Repository[]): Repository[] {
 /**
  * Get repositories tagged with 'article' topic
  */
+/**
+ * Get repositories tagged with 'article' topic
+ */
 export function getArticleRepos(repos: Repository[]): ArticleRepo[] {
   return repos
     .filter(repo => repo.topics.includes('article'))
@@ -75,6 +78,8 @@ export function getArticleRepos(repos: Repository[]): ArticleRepo[] {
       ...repo,
       summary: repo.description || 'No description available',
       imageUrl: `https://opengraph.githubassets.com/1/${repo.full_name}`,
+      // Override homepage to point to local demo
+      homepage: `/wilkerHop/demos/${repo.name}/`
     }));
 }
 

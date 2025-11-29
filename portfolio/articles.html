@@ -19,10 +19,23 @@
             ARTICLES
           </h1>
         </div>
-        <a href="/wilkerHop/" 
-           class="brutal-btn bg-brutal-black text-neon-yellow">
-          ← BACK HOME
-        </a>
+        <div class="flex gap-4">
+          <!-- Demos Dropdown -->
+          <div class="relative group inline-block">
+            <button class="brutal-btn bg-neon-green flex items-center gap-2">
+              DEMOS
+              <span class="text-xs">▼</span>
+            </button>
+            <div id="demos-dropdown" class="hidden group-hover:block absolute right-0 top-full mt-2 w-64 bg-brutal-white border-4 border-brutal-black shadow-brutal z-50">
+              <div class="p-2 text-center font-mono text-sm">Loading...</div>
+            </div>
+          </div>
+          
+          <a href="/wilkerHop/" 
+             class="brutal-btn bg-brutal-black text-neon-yellow">
+            ← BACK HOME
+          </a>
+        </div>
       </div>
     </div>
   </header>

@@ -120,11 +120,6 @@ export function createRepoCard(repo: Repository): string {
  * Create article card HTML
  */
 export function createArticleCard(article: ArticleRepo): string {
-  // Only show articles that have a homepage (live demo)
-  if (!article.homepage) {
-    return '';
-  }
-  
   return `
     <article class="brutal-card bg-brutal-white border-5 border-brutal-black p-6
                     shadow-brutal-lg hover:shadow-brutal
@@ -143,7 +138,7 @@ export function createArticleCard(article: ArticleRepo): string {
       </div>
       <p class="text-base mb-6 leading-relaxed">${article.summary}</p>
       <div class="flex gap-4">
-        ${createBrutalButton('VIEW LIVE DEMO', article.homepage, 'bg-hot-pink')}
+        ${createBrutalButton('VIEW LIVE DEMO', article.homepage || '#', 'bg-hot-pink')}
       </div>
     </article>
   `;

@@ -47,6 +47,11 @@ jobs:
         working-directory: ./portfolio
         run: npm ci
 
+      - name: Fetch Live Demos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npx tsx scripts/fetch-demos.ts
+
       - name: Build portfolio
         working-directory: ./portfolio
         run: npm run build

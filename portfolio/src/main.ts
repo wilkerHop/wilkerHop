@@ -33,6 +33,22 @@ async function initPortfolio() {
       .map(repo => createRepoCard(repo))
       .join('');
       
+    // Populate Demos Dropdown
+    const demosDropdown = document.getElementById('demos-dropdown');
+    if (demosDropdown) {
+      const { articles } = await fetchGitHubData();
+      if (articles.length > 0) {
+        demosDropdown.innerHTML = articles.map(article => `
+          <a href="${article.homepage}" 
+             class="block px-4 py-3 border-b-2 border-brutal-black hover:bg-neon-yellow font-bold uppercase text-sm last:border-b-0 transition-colors">
+            ${article.name}
+          </a>
+        `).join('');
+      } else {
+        demosDropdown.innerHTML = '<div class="p-4 text-center font-mono text-sm">No demos available</div>';
+      }
+    }
+      
   } catch (error) {
     console.error('Error initializing portfolio:', error);
     const statsGrid = document.getElementById('stats-grid');

@@ -13,7 +13,11 @@
     "type": "git",
     "url": "git+https://github.com/wilkerHop/wilkerHop.git"
   },
-  "keywords": ["typescript", "bun", "automation"],
+  "keywords": [
+    "typescript",
+    "bun",
+    "automation"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -21,6 +25,7 @@
   },
   "homepage": "https://github.com/wilkerHop/wilkerHop#readme",
   "dependencies": {
+    "@octokit/rest": "^22.0.1",
     "axios": "^1.12.0",
     "mongodb": "^4.17.0",
     "qs": "^6.10.3"

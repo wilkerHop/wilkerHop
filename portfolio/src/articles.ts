@@ -16,8 +16,8 @@ async function initArticles() {
     // Fetch GitHub data
     const { articles } = await fetchGitHubData();
     
-    // Filter articles that have a homepage (live demo)
-    const liveArticles = articles.filter(article => article.homepage);
+    // All article repos are now live demos (built locally)
+    const liveArticles = articles;
     
     if (liveArticles.length === 0) {
       articlesGrid.innerHTML = `
@@ -36,6 +36,21 @@ async function initArticles() {
       .map(article => createArticleCard(article))
       .filter(html => html !== '') // Remove empty cards
       .join('');
+      
+    // Populate Demos Dropdown
+    const demosDropdown = document.getElementById('demos-dropdown');
+    if (demosDropdown) {
+      if (liveArticles.length > 0) {
+        demosDropdown.innerHTML = liveArticles.map(article => `
+          <a href="${article.homepage}" 
+             class="block px-4 py-3 border-b-2 border-brutal-black hover:bg-neon-yellow font-bold uppercase text-sm last:border-b-0 transition-colors">
+            ${article.name}
+          </a>
+        `).join('');
+      } else {
+        demosDropdown.innerHTML = '<div class="p-4 text-center font-mono text-sm">No demos available</div>';
+      }
+    }
       
   } catch (error) {
     console.error('Error initializing articles:', error);
