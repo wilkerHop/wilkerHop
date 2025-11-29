@@ -1,0 +1,27 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+*.pdb
+
+# Generated files
+generated_script.py
+render_output*.mp4
+animation_output.mp4
+
+# Cargo lock file (uncomment if this is a library)
+# Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Blender temp files
+*.blend1
+*.blend2
