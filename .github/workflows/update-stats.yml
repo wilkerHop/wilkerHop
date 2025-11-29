@@ -19,7 +19,7 @@ jobs:
           bun-version: latest
 
       - name: Install dependencies
-        run: bun install
+        run: bun install --no-save
 
       - name: Fetch Wakatime stats
         run: bun run scripts/wakatime.ts
@@ -35,4 +35,3 @@ jobs:
           message: 'docs: update news'
           add: 'README.md'
           default_author: github_actions
-

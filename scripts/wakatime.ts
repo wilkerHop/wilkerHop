@@ -74,33 +74,45 @@ function validateEnvironment(): Environment {
 // ============================================================================
 
 function createLanguageStatsWithOther(languages: LanguageStats[]): string {
+  if (languages.length === 0) {
+    return 'No language data available for the last 7 days.';
+  }
+
   const sorted = [...languages].sort((a) => (a.name === 'Other' ? -1 : 1));
   
-  if (sorted.length < 6) {
-    throw new Error('Expected at least 6 languages in stats');
-  }
+  // Find 'Other' category
+  const otherIndex = sorted.findIndex(lang => lang.name === 'Other');
+  const other = otherIndex >= 0 ? sorted[otherIndex] : null;
+  
+  // Get top languages (excluding 'Other')
+  const topLanguages = sorted.filter(lang => lang.name !== 'Other').slice(0, 5);
+  
+  // Emoji medals for top 5
+  const medals = ['🥇', '🥈', '🥉', '🏅', '🎖️'];
+  const descriptors = [
+    'of pleasure',
+    'of work',
+    'of playing',
+    'of extreme thinking',
+    'of worrying bugs would appear'
+  ];
+  
+  // Build language list
+  const languageList = topLanguages
+    .map((lang, index) => {
+      const medal = medals[index] ?? '🏆';
+      const descriptor = descriptors[index] ?? 'of coding';
+      return `${index + 1}. ${medal} **${lang.name}** with **${lang.text}** ${descriptor}.`;
+    })
+    .join('\n');
+  
+  // Add 'Other' category if available
+  const otherText = other 
+    ? `\n\nAnd more **${other.text}** of 😁🖱💻🔌 (diverse file extensions).`
+    : '';
 
-  const other = sorted[0];
-  const first = sorted[1];
-  const second = sorted[2];
-  const third = sorted[3];
-  const fourth = sorted[4];
-  const fifth = sorted[5];
-
-  if (!other || !first || !second || !third || !fourth || !fifth) {
-    throw new Error('Failed to extract language stats from sorted array');
-  }
-
-  // TODO: sum the other with the remaining languages
   // TODO: randomize the order of the languages end texts
-  return `
-1. 🥇 **${first.name}** with **${first.text}** of pleasure.
-2. 🥈 **${second.name}** with **${second.text}** of work.
-3. 🥉 **${third.name}** with **${third.text}** of playing.
-4. 🏅 **${fourth.name}** with **${fourth.text}** of extreme thinking.
-5. 🎖️ **${fifth.name}** with **${fifth.text}** of worrying bugs would appear.
-
-And more **${other.text}** of 😁🖱💻🔌 (diverse file extensions).`;
+  return languageList + otherText;
 }
 
 // ============================================================================
