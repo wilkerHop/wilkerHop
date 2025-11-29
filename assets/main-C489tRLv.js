@@ -1,6 +1,0 @@
-import{f as l,c as o,a as r,b as c}from"./utils-BnU8aLjB.js";async function i(){try{const n=document.getElementById("stats-grid"),e=document.getElementById("repos-grid");if(!n||!e){console.error("Required elements not found");return}n.innerHTML='<div class="col-span-full text-center text-2xl font-black uppercase">Loading stats...</div>',e.innerHTML='<div class="col-span-full text-center text-2xl font-black uppercase">Loading repositories...</div>';const{stats:t,repositories:s}=await l();n.innerHTML=`
-      ${o(t.totalRepos.toString(),"REPOSITORIES","bg-neon-yellow")}
-      ${o(r(t.totalStars),"TOTAL STARS","bg-hot-pink")}
-      ${o(r(t.totalForks),"TOTAL FORKS","bg-electric-cyan")}
-      ${o(t.languages[0]?.name||"N/A","TOP LANGUAGE","bg-neon-green")}
-    `,e.innerHTML=s.slice(0,12).map(a=>c(a)).join("")}catch(n){console.error("Error initializing portfolio:",n);const e=document.getElementById("stats-grid"),t=document.getElementById("repos-grid");e&&(e.innerHTML='<div class="col-span-full text-center text-red-600 font-black">Error loading stats</div>'),t&&(t.innerHTML='<div class="col-span-full text-center text-red-600 font-black">Error loading repositories</div>')}}document.readyState==="loading"?document.addEventListener("DOMContentLoaded",i):i();
