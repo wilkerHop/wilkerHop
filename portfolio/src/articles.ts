@@ -16,12 +16,15 @@ async function initArticles() {
     // Fetch GitHub data
     const { articles } = await fetchGitHubData();
     
-    if (articles.length === 0) {
+    // Filter articles that have a homepage (live demo)
+    const liveArticles = articles.filter(article => article.homepage);
+    
+    if (liveArticles.length === 0) {
       articlesGrid.innerHTML = `
         <div class="col-span-full text-center p-12">
           <div class="brutal-card bg-neon-yellow inline-block">
-            <h2 class="text-3xl font-black uppercase mb-4">No Articles Yet</h2>
-            <p class="font-mono">Add the 'article' topic to your repositories to showcase them here!</p>
+            <h2 class="text-3xl font-black uppercase mb-4">No Live Demos Yet</h2>
+            <p class="font-mono">Add the 'article' topic and a homepage URL to repositories to showcase live demos here!</p>
           </div>
         </div>
       `;
@@ -29,8 +32,9 @@ async function initArticles() {
     }
     
     // Render articles
-    articlesGrid.innerHTML = articles
+    articlesGrid.innerHTML = liveArticles
       .map(article => createArticleCard(article))
+      .filter(html => html !== '') // Remove empty cards
       .join('');
       
   } catch (error) {

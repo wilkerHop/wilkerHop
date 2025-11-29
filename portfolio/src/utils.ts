@@ -120,9 +120,10 @@ export function createRepoCard(repo: Repository): string {
  * Create article card HTML
  */
 export function createArticleCard(article: ArticleRepo): string {
-  const topics = article.topics.map(topic => 
-    `<span class="brutal-tag px-2 py-1 bg-brutal-black text-electric-cyan border-2 border-electric-cyan text-xs font-mono uppercase">${topic}</span>`
-  ).join('');
+  // Only show articles that have a homepage (live demo)
+  if (!article.homepage) {
+    return '';
+  }
   
   return `
     <article class="brutal-card bg-brutal-white border-5 border-brutal-black p-6
@@ -140,13 +141,9 @@ export function createArticleCard(article: ArticleRepo): string {
       <div class="brutal-accent-left brutal-accent-cyan pl-4 mb-4">
         <h2 class="text-2xl sm:text-3xl font-black uppercase">${article.name}</h2>
       </div>
-      <p class="text-base mb-4 leading-relaxed">${article.summary}</p>
-      <div class="flex flex-wrap gap-2 mb-6">
-        ${topics}
-      </div>
+      <p class="text-base mb-6 leading-relaxed">${article.summary}</p>
       <div class="flex gap-4">
-        ${createBrutalButton('READ ARTICLE', article.html_url, 'bg-electric-cyan')}
-        ${article.homepage ? createBrutalButton('LIVE DEMO', article.homepage, 'bg-hot-pink') : ''}
+        ${createBrutalButton('VIEW LIVE DEMO', article.homepage, 'bg-hot-pink')}
       </div>
     </article>
   `;
