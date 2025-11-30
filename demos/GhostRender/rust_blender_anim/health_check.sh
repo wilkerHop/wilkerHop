@@ -57,5 +57,42 @@ else
     exit 1
 fi
 
+# Check 6: Audio validation
+echo "✓ Validating generated audio file..."
+if [ ! -f "audio.wav" ]; then
+    echo "  ❌ audio.wav not found"
+    exit 1
+fi
+
+# Check file size (should be ~2.6MB for 30s audio at 44.1kHz, 16-bit, mono)
+AUDIO_SIZE=$(wc -c <audio.wav)
+MIN_SIZE=$((2000000))  # 2MB minimum
+MAX_SIZE=$((3000000))  # 3MB maximum
+
+if [ "$AUDIO_SIZE" -lt "$MIN_SIZE" ] || [ "$AUDIO_SIZE" -gt "$MAX_SIZE" ]; then
+    echo "  ❌ Audio file size unexpected: $AUDIO_SIZE bytes (expected ~2.6MB)"
+    exit 1
+fi
+echo "  ✅ Audio file size: $AUDIO_SIZE bytes"
+
+# Validate WAV header (RIFF/WAVE magic bytes)
+HEADER=$(hexdump -n 12 -e '12/1 "%c"' audio.wav 2>/dev/null)
+if [[ "$HEADER" != RIFF*WAVE ]]; then
+    echo "  ❌ Invalid WAV header (missing RIFF/WAVE magic bytes)"
+    exit 1
+fi
+echo "  ✅ Valid WAV header detected"
+
+# Check if file command recognizes it as audio
+if command -v file &> /dev/null; then
+    FILE_TYPE=$(file audio.wav)
+    if [[ "$FILE_TYPE" == *"WAVE audio"* ]] || [[ "$FILE_TYPE" == *"RIFF"* ]]; then
+        echo "  ✅ File recognized as WAV audio"
+    else
+        echo "  ⚠️  File type check inconclusive: $FILE_TYPE"
+    fi
+fi
+
+
 echo ""
 echo "✅ All health checks passed!"

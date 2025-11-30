@@ -42,18 +42,18 @@
                 <div class="stats-grid">
                     <div class="stat-card">
                         <span class="stat-value">Rust</span>
-                        <span class="stat-label">The Brain</span>
-                        <p style="font-size: 0.8rem; margin-top: 0.5rem;">Calculates pure math & physics.</p>
+                        <span class="stat-label">The Orchestrator</span>
+                        <p style="font-size: 0.8rem; margin-top: 0.5rem;">Calculates math, generates scripts, and manages threads.</p>
                     </div>
                     <div class="stat-card">
-                        <span class="stat-value">Python</span>
-                        <span class="stat-label">The Bridge</span>
-                        <p style="font-size: 0.8rem; margin-top: 0.5rem;">Auto-generated script with baked keyframes.</p>
+                        <span class="stat-value">Parallel</span>
+                        <span class="stat-label">The Pipeline</span>
+                        <p style="font-size: 0.8rem; margin-top: 0.5rem;">Splits 1800 frames into chunks for concurrent rendering.</p>
                     </div>
                     <div class="stat-card">
                         <span class="stat-value">Blender</span>
-                        <span class="stat-label">The Artist</span>
-                        <p style="font-size: 0.8rem; margin-top: 0.5rem;">Renders pixels in headless mode.</p>
+                        <span class="stat-label">The Worker</span>
+                        <p style="font-size: 0.8rem; margin-top: 0.5rem;">Multiple headless instances render video parts.</p>
                     </div>
                 </div>
             </section>
@@ -61,25 +61,31 @@
             <section>
                 <h2>The Code</h2>
                 <p>
-                    Here is the heart of the engine. Rust computes the sine wave position for every cube, for every frame, in microseconds.
+                    Here is the heart of the engine. Rust spawns multiple Blender instances, each rendering a chunk of the animation in parallel.
                 </p>
 <pre style="background: #000; color: #fff; padding: 1rem; border: 4px solid var(--text-color); overflow-x: auto;"><code>// src/main.rs
-for frame in 0..FRAMES {
-    for cube_index in 0..NUM_CUBES {
-        let time_step = frame as f32 * 0.2;
-        let offset = cube_index as f32 * 0.5;
+    for i in 0..CHUNKS {
+        let start_frame = i * frames_per_chunk;
+        let end_frame = (i + 1) * frames_per_chunk - 1;
         
-        // Pure math, zero overhead
-        let z_pos = (time_step + offset).sin() * 3.0;
-        
-        // Write to Python script buffer
-        writeln!(file, "cube = bpy.data.objects['Cube.{}']", cube_index)?;
-        writeln!(file, "cube.location.z = {:.4}", z_pos)?;
-        writeln!(file, "cube.keyframe_insert(data_path='location', frame={})", frame + 1)?;
-    }
-}</code></pre>
+        // Spawn a thread for each chunk
+        let handle = thread::spawn(move || {
+            let output_path = format!("//part_{}_", i); 
+            
+            Command::new(&blender_bin)
+                .arg("-b")
+                .arg(BLEND_FILE)
+                .arg("-o").arg(&output_path)
+                .arg("-s").arg(start_frame.to_string())
+                .arg("-e").arg(end_frame.to_string())
+                .arg("-a") // Render animation
+                .spawn()
+                .expect("Failed to spawn blender worker");
+        });
+        handles.push(handle);
+    }</code></pre>
                 <p>
-                    This generates a massive, flat Python script. No loops, no logic, just raw data assignment. Blender eats this for breakfast.
+                    This approach saturates the CPU cores, drastically reducing render time for long animations.
                 </p>
             </section>
 
@@ -97,7 +103,7 @@ for frame in 0..FRAMES {
                 </div>
                 
                 <p>
-                    <em>10 cubes, 60 frames, rendered headless on GitHub Actions runners.</em>
+                    <em>10 cubes, 1800 frames (30s), rendered in parallel on 4 chunks.</em>
                 </p>
             </section>
 
@@ -111,6 +117,9 @@ for frame in 0..FRAMES {
                 </p>
                 <p>
                     We fixed this by installing <code>xvfb</code> and <code>libgl1-mesa-dri</code> in our CI environment, and running Blender with <code>xvfb-run</code>.
+                </p>
+                <p>
+                    Another challenge was <strong>stitching the video parts</strong>. We used Blender's Sequence Editor (via another generated script) to concatenate the parallel chunks seamlessly.
                 </p>
             </section>
         </main>
