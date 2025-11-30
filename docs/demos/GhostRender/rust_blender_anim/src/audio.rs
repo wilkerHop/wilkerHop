@@ -16,19 +16,19 @@ pub fn generate_audio(filename: &str, duration_secs: u32) -> std::io::Result<()>
     let block_align = num_channels * bits_per_sample / 8;
 
     // WAV Header
-    write!(writer, "RIFF")?;
-    write!(writer, "{:4}", (36 + total_samples * 2))?; // ChunkSize
-    write!(writer, "WAVE")?;
-    write!(writer, "fmt ")?;
-    write!(writer, "{:4}", 16_u32)?; // Subchunk1Size (16 for PCM)
-    write!(writer, "{:2}", 1_u16)?; // AudioFormat (1 for PCM)
-    write!(writer, "{:2}", num_channels)?;
-    write!(writer, "{:4}", SAMPLE_RATE)?;
-    write!(writer, "{:4}", byte_rate)?;
-    write!(writer, "{:2}", block_align)?;
-    write!(writer, "{:2}", bits_per_sample)?;
-    write!(writer, "data")?;
-    write!(writer, "{:4}", total_samples * 2)?; // Subchunk2Size
+    writer.write_all(b"RIFF")?;
+    writer.write_all(&(36 + total_samples * 2).to_le_bytes())?; // ChunkSize
+    writer.write_all(b"WAVE")?;
+    writer.write_all(b"fmt ")?;
+    writer.write_all(&16_u32.to_le_bytes())?; // Subchunk1Size (16 for PCM)
+    writer.write_all(&1_u16.to_le_bytes())?; // AudioFormat (1 for PCM)
+    writer.write_all(&num_channels.to_le_bytes())?;
+    writer.write_all(&SAMPLE_RATE.to_le_bytes())?;
+    writer.write_all(&byte_rate.to_le_bytes())?;
+    writer.write_all(&block_align.to_le_bytes())?;
+    writer.write_all(&bits_per_sample.to_le_bytes())?;
+    writer.write_all(b"data")?;
+    writer.write_all(&(total_samples * 2).to_le_bytes())?; // Subchunk2Size
 
     // Audio Data Generation
     let beat_interval = SAMPLE_RATE * 60 / BPM;
