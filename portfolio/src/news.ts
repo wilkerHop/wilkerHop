@@ -11,7 +11,7 @@ function createNewsCard(article: NewsArticle, index: number = 0): HTMLElement {
   const bentoClass = getBentoCardClass(index, 'news');
   card.className = `${bentoClass} bg-brutal-white border-5 border-brutal-black shadow-brutal hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all`;
   
-  const imageUrl = article.urlToImage || 'https://via.placeholder.com/400x200/000000/FFFF00?text=News';
+  const imageUrl = article.urlToImage || 'https://placehold.co/400x200/000000/FFFF00?text=News';
   const publishedDate = new Date(article.publishedAt).toLocaleDateString('en-US', {
     year: 'numeric',
     month: 'short',
@@ -24,7 +24,7 @@ function createNewsCard(article: NewsArticle, index: number = 0): HTMLElement {
         src="${imageUrl}" 
         alt="${article.title}"
         class="w-full h-full object-cover"
-        onerror="this.src='https://via.placeholder.com/400x200/000000/FFFF00?text=News'"
+        onerror="this.src='https://placehold.co/400x200/000000/FFFF00?text=News'"
       />
     </div>
     <div class="p-6">
