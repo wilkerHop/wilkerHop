@@ -10,6 +10,7 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, 'index.html'),
         articles: resolve(__dirname, 'articles.html'),
+        news: resolve(__dirname, 'news.html'),
       },
     },
   },
