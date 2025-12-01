@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Rust
+target/
+Cargo.lock
+
+# Generated files
+rust_blender_anim/audio.wav
+rust_blender_anim/setup_scene.py
+rust_blender_anim/generated_script.py
+rust_blender_anim/scene.blend
+rust_blender_anim/scene.blend1
+rust_blender_anim/concat_script.py
+rust_blender_anim/part_*.mp4
+rust_blender_anim/animation_output.mp4
+rust_blender_anim/render_output*.mp4

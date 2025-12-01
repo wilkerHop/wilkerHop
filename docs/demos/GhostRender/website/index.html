@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GhostRender: Decoupling Math from Pixels</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>GhostRender</h1>
+            <p>Decoupling Math from Pixels</p>
+        </header>
+
+        <main>
+            <section>
+                <h2>The Problem</h2>
+                <p>
+                    <strong>Why calculate physics in Python when Rust exists?</strong>
+                </p>
+                <p>
+                    We love Blender's Python API. It's flexible, accessible, and great for tooling. 
+                    But when you're calculating millions of particle positions or complex wave functions per frame, 
+                    Python's Global Interpreter Lock (GIL) and dynamic typing become a bottleneck.
+                </p>
+                <p>
+                    <span class="highlight">The frame rate drops. The viewport stutters. The artist waits.</span>
+                </p>
+            </section>
+
+            <section>
+                <h2>The Solution</h2>
+                <p>
+                    <strong>GhostRender</strong> proposes a radical shift: <span class="highlight">The Pipeline Approach</span>.
+                </p>
+                <p>
+                    Instead of asking Blender to <em>think</em>, we only ask it to <em>draw</em>. 
+                    We move the heavy lifting to <strong>Rust</strong>, a systems programming language known for blazing speed and memory safety.
+                </p>
+                
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <span class="stat-value">Rust</span>
+                        <span class="stat-label">The Orchestrator</span>
+                        <p style="font-size: 0.8rem; margin-top: 0.5rem;">Calculates math, generates scripts, and manages threads.</p>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-value">Parallel</span>
+                        <span class="stat-label">The Pipeline</span>
+                        <p style="font-size: 0.8rem; margin-top: 0.5rem;">Splits 1800 frames into chunks for concurrent rendering.</p>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-value">Blender</span>
+                        <span class="stat-label">The Worker</span>
+                        <p style="font-size: 0.8rem; margin-top: 0.5rem;">Multiple headless instances render video parts.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section>
+                <h2>The Code</h2>
+                <p>
+                    Here is the heart of the engine. Rust spawns multiple Blender instances, each rendering a chunk of the animation in parallel.
+                </p>
+<pre style="background: #000; color: #fff; padding: 1rem; border: 4px solid var(--text-color); overflow-x: auto;"><code>// src/main.rs
+    for i in 0..CHUNKS {
+        let start_frame = i * frames_per_chunk;
+        let end_frame = (i + 1) * frames_per_chunk - 1;
+        
+        // Spawn a thread for each chunk
+        let handle = thread::spawn(move || {
+            let output_path = format!("//part_{}_", i); 
+            
+            Command::new(&blender_bin)
+                .arg("-b")
+                .arg(BLEND_FILE)
+                .arg("-o").arg(&output_path)
+                .arg("-s").arg(start_frame.to_string())
+                .arg("-e").arg(end_frame.to_string())
+                .arg("-a") // Render animation
+                .spawn()
+                .expect("Failed to spawn blender worker");
+        });
+        handles.push(handle);
+    }</code></pre>
+                <p>
+                    This approach saturates the CPU cores, drastically reducing render time for long animations.
+                </p>
+            </section>
+
+            <section>
+                <h2>The Evidence</h2>
+                <p>
+                    Talk is cheap. Here is the artifact produced automatically by our CI pipeline on the latest commit.
+                </p>
+                
+                <div class="video-container">
+                    <video controls autoplay loop muted>
+                        <source src="animation_output.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+                
+                <p>
+                    <em>10 cubes, 1800 frames (30s), rendered in parallel on 4 chunks.</em>
+                </p>
+            </section>
+
+            <section>
+                <h2>The "Gotchas"</h2>
+                <p>
+                    Building this wasn't free. We learned that headless rendering on Linux requires a virtual framebuffer (XVFB).
+                </p>
+                <p class="highlight">
+                    Error: "Unable to open a display"
+                </p>
+                <p>
+                    We fixed this by installing <code>xvfb</code> and <code>libgl1-mesa-dri</code> in our CI environment, and running Blender with <code>xvfb-run</code>.
+                </p>
+                <p>
+                    Another challenge was <strong>stitching the video parts</strong>. We used Blender's Sequence Editor (via another generated script) to concatenate the parallel chunks seamlessly.
+                </p>
+            </section>
+        </main>
+
+        <footer>
+            <p>
+                <a href="https://github.com/wilkerHop/GhostRender">View Source on GitHub</a>
+            </p>
+            <p>
+                Generated at: <script>document.write(new Date().toUTCString());</script>
+            </p>
+        </footer>
+    </div>
+</body>
+</html>

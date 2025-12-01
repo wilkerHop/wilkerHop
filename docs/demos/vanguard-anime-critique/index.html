@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Aesthetics of Subversion: Vanguard Anime Critique</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Archivo+Black&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --neon-yellow: #FFFF00;
+            --hot-pink: #FF00FF;
+            --cyan: #00FFFF;
+            --black: #000000;
+            --white: #FFFFFF;
+        }
+        
+        body {
+            font-family: 'Space Mono', monospace;
+            background-color: var(--white);
+            color: var(--black);
+            font-weight: 700;
+        }
+        
+        h1, h2, h3, .brutal-font {
+            font-family: 'Archivo Black', sans-serif;
+            text-transform: uppercase;
+            letter-spacing: -1px;
+        }
+        
+        /* BRUTAL BORDERS & SHADOWS */
+        .brutal-border {
+            border: 4px solid var(--black);
+        }
+        
+        .brutal-shadow {
+            box-shadow: 5px 5px 0px 0px var(--black);
+        }
+        
+        .brutal-shadow-sm {
+            box-shadow: 3px 3px 0px 0px var(--black);
+        }
+        
+        .brutal-shadow-lg {
+            box-shadow: 8px 8px 0px 0px var(--black);
+        }
+        
+        /* BUTTONS WITH TRANSLATION EFFECT */
+        .brutal-btn {
+            border: 4px solid var(--black);
+            box-shadow: 4px 4px 0px 0px var(--black);
+            transition: transform 0.1s, box-shadow 0.1s;
+            cursor: pointer;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+        
+        .brutal-btn:hover {
+            transform: translate(-2px, -2px);
+            box-shadow: 6px 6px 0px 0px var(--black);
+        }
+        
+       .brutal-btn:active {
+            transform: translate(2px, 2px);
+            box-shadow: 2px 2px 0px 0px var(--black);
+        }
+        
+        /* TAB STYLES */
+        .active-tab {
+            background-color: var(--neon-yellow);
+            color: var(--black);
+            border: 4px solid var(--black);
+            box-shadow: 0px 4px 0px 0px var(--black);
+        }
+        
+        .inactive-tab {
+            background-color: var(--white);
+            color: var(--black);
+            border: 4px solid var(--black);
+            box-shadow: none;
+        }
+        
+        .inactive-tab:hover {
+            background-color: var(--cyan);
+        }
+        
+        /* CHART CONTAINER */
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+            max-height: 400px;
+            border: 4px solid var(--black);
+            background: var(--white);
+            padding: 10px;
+            box-shadow: 5px 5px 0px 0px var(--black);
+        }
+        
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 350px;
+            }
+        }
+        
+        /* MATRIX BUTTON STYLES */
+        .matrix-btn.active {
+            background-color: var(--hot-pink);
+            color: var(--white);
+        }
+        
+        .matrix-btn:not(.active) {
+            background-color: var(--white);
+            color: var(--black);
+        }
+        
+        .matrix-btn:not(.active):hover {
+            background-color: var(--cyan);
+        }
+        
+        /* MARQUEE ANIMATION */
+        @keyframes marquee {
+            0% { transform: translateX(0%); }
+            100% { transform: translateX(-50%); }
+        }
+        
+        .marquee-container {
+            overflow: hidden;
+            white-space: nowrap;
+            background: var(--black);
+            color: var(--neon-yellow);
+            padding: 8px 0;
+            border-top: 4px solid var(--black);
+            border-bottom: 4px solid var(--black);
+        }
+        
+        .marquee-text {
+            display: inline-block;
+            animation: marquee 20s linear infinite;
+        }
+        
+        /* CUSTOM SCROLLBAR */
+        .custom-scroll::-webkit-scrollbar {
+            width: 8px;
+        }
+        
+        .custom-scroll::-webkit-scrollbar-track {
+            background: var(--white);
+            border: 2px solid var(--black);
+        }
+        
+        .custom-scroll::-webkit-scrollbar-thumb {
+            background: var(--black);
+            border: 2px solid var(--black);
+        }
+        
+        /* FADE IN */
+        .fade-in {
+            animation: fadeIn 0.3s ease-in-out;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        /* ASYMMETRICAL CARDS */
+        .card-asymmetric {
+            clip-path: polygon(0 0, 100% 5%, 100% 100%, 0 95%);
+        }
+        
+        /* HOVER EFFECTS */
+        .hover-neon:hover {
+            background-color: var(--neon-yellow) !important;
+            color: var(--black) !important;
+        }
+        
+        .hover-pink:hover {
+            background-color: var(--hot-pink) !important;
+            color: var(--white) !important;
+        }
+        
+        .hover-cyan:hover {
+            background-color: var(--cyan) !important;
+            color: var(--black) !important;
+        }
+    </style>
+</head>
+<body class="antialiased min-h-screen flex flex-col">
+
+    <!-- Marquee Banner -->
+    <div class="marquee-container">
+        <div class="marquee-text">
+            ⚡ VANGUARD CRITIQUE PROTOCOL ACTIVATED ⚡ REJECT CONSUMER REVIEW ⚡ EMBRACE IDEOLOGICAL SUBVERSION ⚡ VANGUARD CRITIQUE PROTOCOL ACTIVATED ⚡ REJECT CONSUMER REVIEW ⚡ EMBRACE IDEOLOGICAL SUBVERSION ⚡
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="bg-black text-white py-8 px-6 brutal-border border-t-0 border-l-0 border-r-0">
+        <div class="max-w-7xl mx-auto">
+            <div class="flex flex-col md:flex-row justify-between items-start md:items-end gap-6">
+                <div>
+                    <h2 class="text-xs uppercase tracking-widest mb-2" style="color: var(--cyan);">VANGUARD COPYWRITER PROTOCOL</h2>
+                    <h1 class="text-4xl md:text-6xl font-bold brutal-font leading-tight" style="color: var(--neon-yellow);">THE AESTHETICS<br>OF SUBVERSION</h1>
+                    <p class="mt-4 max-w-2xl text-base" style="color: var(--white);">A methodology for exhaustive, ideological, and structural anime franchise discourse.</p>
+                </div>
+                <div class="brutal-border brutal-shadow px-6 py-4" style="background-color: var(--hot-pink);">
+                    <div class="text-xs uppercase text-white">CASE STUDY</div>
+                    <div class="text-2xl font-bold brutal-font text-white">FULLMETAL<br>ALCHEMIST</div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="sticky top-0 z-50 bg-white border-b-4 border-black py-2">
+        <div class="max-w-7xl mx-auto px-6">
+            <div class="flex space-x-4 overflow-x-auto">
+                <button onclick="switchTab('manifesto')" id="tab-manifesto" class="active-tab px-6 py-3 text-sm brutal-btn focus:outline-none">I. THE METHODOLOGY</button>
+                <button onclick="switchTab('casestudy')" id="tab-casestudy" class="inactive-tab px-6 py-3 text-sm brutal-btn focus:outline-none">II. FMA CASE STUDY</button>
+                <button onclick="switchTab('synthesis')" id="tab-synthesis" class="inactive-tab px-6 py-3 text-sm brutal-btn focus:outline-none">III. VANGUARD SYNTHESIS</button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content Area -->
+    <main class="flex-grow max-w-7xl mx-auto px-6 py-8 w-full">
+
+        <!-- SECTION 1: THE METHODOLOGY -->
+        <div id="view-manifesto" class="fade-in block">
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+                
+                <!-- Introduction Context -->
+                <div class="lg:col-span-12 mb-4">
+                    <div class="brutal-border brutal-shadow p-6" style="background-color: var(--neon-yellow); border-left-width: 12px;">
+                        <p class="text-lg leading-relaxed">
+                            TO ENGAGE IN "VANGUARD CRITIQUE" IS TO REJECT SIMPLE CONSUMER REVIEW. IT REQUIRES POSITIONING ANALYSIS AS AN INTERVENTION INTO ESTABLISHED NORMS.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Theory Column -->
+                <div class="lg:col-span-7 space-y-6">
+                    <div class="brutal-border brutal-shadow p-6" style="background-color: var(--white);">
+                        <h3 class="text-3xl font-bold mb-6 brutal-font">THE VANGUARD MANIFESTO</h3>
+                        <div class="space-y-4">
+                            <div class="brutal-border p-4" style="background-color: var(--cyan);">
+                                <p><strong>1. IDEOLOGICAL SUBVERSION:</strong> The narrative text is a site for political discourse. A critique must link fictional mechanics to real-world power structures.</p>
+                            </div>
+                            <div class="brutal-border p-4" style="background-color: var(--hot-pink); color: white;">
+                                <p><strong>2. SUBJECTIVE-OBJECTIVE HARMONY:</strong> The "gut reaction" must be substantiated by systematic analysis. Bias is acknowledged and mitigated through evidence.</p>
+                            </div>
+                            <div class="brutal-border p-4" style="background-color: var(--neon-yellow);">
+                                <p><strong>3. INSTITUTIONAL CRITIQUE:</strong> Analyze the product as the result of industrial forces—production committees, animator overwork, market demands.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="brutal-border brutal-shadow p-6" style="background-color: var(--white);">
+                        <h3 class="text-3xl font-bold mb-4 brutal-font">FACET ANALYSIS FRAMEWORK</h3>
+                        <p class="mb-4 text-sm">DECOMPOSING A FRANCHISE REQUIRES DISTINCT LENSES.</p>
+                        <!-- Chart Container for Radar -->
+                        <div class="chart-container">
+                            <canvas id="radarChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Interactive "Voice" Comparator -->
+                <div class="lg:col-span-5">
+                    <div class="brutal-border brutal-shadow-lg p-6 h-full" style="background-color: var(--white);">
+                        <h3 class="text-2xl font-bold mb-4 brutal-font">RHETORICAL SHIFT</h3>
+                        <p class="text-sm mb-6">EXPERIENCE THE DIFFERENCE BETWEEN STANDARD JOURNALISM AND VANGUARD CRITIQUE.</p>
+                        
+                        <div class="flex space-x-3 mb-6">
+                            <button onclick="setRhetoric('standard')" id="btn-std" class="brutal-btn px-4 py-2 text-xs" style="background-color: var(--neon-yellow);">STANDARD REVIEW</button>
+                            <button onclick="setRhetoric('vanguard')" id="btn-van" class="brutal-btn px-4 py-2 text-xs" style="background-color: var(--white);">VANGUARD CRITIQUE</button>
+                        </div>
+
+                        <div id="rhetoric-content" class="brutal-border p-6 min-h-[200px]" style="background-color: var(--white);">
+                            <h4 class="font-bold mb-2 uppercase">Topic: Character Design (Chibi)</h4>
+                            <p class="text-sm">"The show uses funny chibi faces to break the tension. It's cute and makes the characters likable, though sometimes it clashes with the serious moments."</p>
+                        </div>
+                        <div class="mt-4 text-xs italic">
+                            *THE VANGUARD WRITER CULTIVATES A UNIQUE PERSPECTIVE, DILIGENTLY SEARCHING FOR NON-OBVIOUS CONNECTIONS.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SECTION 2: FMA CASE STUDY -->
+        <div id="view-casestudy" class="hidden fade-in">
+            <!-- Context Intro -->
+            <div class="mb-8">
+                <div class="brutal-border brutal-shadow p-6" style="background-color: var(--cyan);">
+                    <p class="text-lg leading-relaxed">
+                        FULLMETAL ALCHEMIST SERVES AS THE PRIMARY DATASET FOR THIS METHODOLOGY. BY ANALYZING THE QUANTITATIVE METRICS AND THE DEEP PHILOSOPHICAL DIVERGENCE BETWEEN THE 2003 AND 2009 (BROTHERHOOD) ADAPTATIONS, WE MOVE BEYOND "FIDELITY" TO CRITIQUE THE COMPETING IDEOLOGIES.
+                    </p>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-8">
+                <!-- Quantitative Data Column -->
+                <div class="brutal-border brutal-shadow p-6" style="background-color: var(--white);">
+                    <h3 class="text-3xl font-bold mb-2 brutal-font">FRANCHISE METRICS</h3>
+                    <p class="text-sm mb-6">COMPARATIVE DATA EXTRACTED FROM FRANCHISE HISTORY.</p>
+                    
+                    <!-- Chart Container for Bar -->
+                    <div class="chart-container">
+                        <canvas id="barChart"></canvas>
+                    </div>
+                    
+                    <div class="mt-6 grid grid-cols-3 gap-4 text-center border-t-4 border-black pt-4">
+                        <div class="brutal-border p-3" style="background-color: var(--hot-pink); color: white;">
+                            <div class="text-3xl font-bold brutal-font">9.33</div>
+                            <div class="text-xs uppercase">MEAN SCORE</div>
+                        </div>
+                        <div class="brutal-border p-3" style="background-color: var(--neon-yellow);">
+                            <div class="text-3xl font-bold brutal-font">3</div>
+                            <div class="text-xs uppercase">MAJOR TITLES</div>
+                        </div>
+                        <div class="brutal-border p-3" style="background-color: var(--cyan);">
+                            <div class="text-3xl font-bold brutal-font">119</div>
+                            <div class="text-xs uppercase">TOTAL EPS</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Structural Analysis Column -->
+                <div class="brutal-border brutal-shadow p-6" style="background-color: var(--white);">
+                    <h3 class="text-3xl font-bold mb-2 brutal-font">PRODUCTION & AUTHORITY</h3>
+                    <p class="text-sm mb-6">ANALYZING THE "AUTEUR VS. FIDELITY" CONFLICT IN PRODUCTION LEADERSHIP.</p>
+                    
+                    <div class="space-y-4">
+                        <div class="brutal-border brutal-shadow-sm p-4" style="background-color: var(--cyan); border-left-width: 8px;">
+                            <div class="flex justify-between items-center mb-2">
+                                <h4 class="font-bold text-xl brutal-font">FMA 2003</h4>
+                                <span class="brutal-border px-3 py-1 text-xs bg-black text-white">AUTEUR-DRIVEN</span>
+                            </div>
+                            <ul class="text-sm space-y-2">
+                                <li><strong>DIRECTOR:</strong> Seiji Mizushima (character drama & moral ambiguity)</li>
+                                <li><strong>CONTEXT:</strong> Source material deficit forced original content</li>
+                                <li><strong>MUSIC:</strong> Michiru Oshima (folk-inspired, intimate, tragic)</li>
+                            </ul>
+                        </div>
+
+                        <div class="brutal-border brutal-shadow-sm p-4" style="background-color: var(--neon-yellow); border-left-width: 8px;">
+                            <div class="flex justify-between items-center mb-2">
+                                <h4 class="font-bold text-xl brutal-font">BROTHERHOOD (2009)</h4>
+                                <span class="brutal-border px-3 py-1 text-xs bg-black text-white">FIDELITY-DRIVEN</span>
+                            </div>
+                            <ul class="text-sm space-y-2">
+                                <li><strong>DIRECTOR:</strong> Yasuhiro Irie (manga structure & global scale)</li>
+                                <li><strong>CONTEXT:</strong> Wait for manga completion to ensure "True" ending</li>
+                                <li><strong>MUSIC:</strong> Akira Senju (expansive, orchestral, epic)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- The Comparative Divergence Matrix -->
+            <div class="brutal-border brutal-shadow-lg overflow-hidden" style="background-color: var(--black); color: var(--white);">
+                <div class="p-8">
+                    <h3 class="text-4xl font-bold mb-4 brutal-font" style="color: var(--neon-yellow);">COMPARATIVE DIVERGENCE MATRIX</h3>
+                    <p class="mb-8 max-w-3xl">THIS MATRIX SYNTHESIZES THE IDEOLOGICAL DISTINCTIONS GENERATED BY NARRATIVE CHOICES. CLICK A VECTOR TO EXPLORE THE PHILOSOPHICAL DIVERGENCE.</p>
+
+                    <div class="flex flex-wrap gap-3 mb-8">
+                        <button onclick="updateMatrix('truth')" class="matrix-btn active brutal-btn px-6 py-3 text-sm">TRUTH & REALITY</button>
+                        <button onclick="updateMatrix('sin')" class="matrix-btn brutal-btn px-6 py-3 text-sm">NATURE OF SIN</button>
+                        <button onclick="updateMatrix('history')" class="matrix-btn brutal-btn px-6 py-3 text-sm">HISTORY & POLITICS</button>
+                    </div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <!-- FMA 03 Side -->
+                        <div class="brutal-border brutal-shadow p-6" style="background-color: var(--cyan); color: var(--black);">
+                            <h4 class="text-xs uppercase tracking-widest mb-2 font-bold">FMA 2003: POST-MODERN EXISTENTIALISM</h4>
+                            <h5 id="matrix-03-title" class="text-2xl font-bold mb-4 brutal-font">THE SUBJECTIVE LIE</h5>
+                            <p id="matrix-03-desc" class="leading-relaxed text-sm">
+                                Equivalent Exchange is revealed to be a falsehood. The energy source is souls from our world (post-WWI). The series argues that objective morality does not exist, and systems are inherently flawed.
+                            </p>
+                        </div>
+                        
+                        <!-- Brotherhood Side -->
+                        <div class="brutal-border brutal-shadow p-6" style="background-color: var(--hot-pink); color: var(--white);">
+                            <h4 class="text-xs uppercase tracking-widest mb-2 font-bold">BROTHERHOOD: CLASSICAL ORDER</h4>
+                            <h5 id="matrix-bh-title" class="text-2xl font-bold mb-4 brutal-font">THE OBJECTIVE TRUTH</h5>
+                            <p id="matrix-bh-desc" class="leading-relaxed text-sm">
+                                Equivalent Exchange is a universal, cosmic law (Mass Conservation). Truth exists. Redemption is achieved by embracing humility within this objective order.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SECTION 3: SYNTHESIS -->
+        <div id="view-synthesis" class="hidden fade-in">
+             <!-- Context Intro -->
+             <div class="mb-8">
+                <div class="brutal-border brutal-shadow p-6" style="background-color: var(--hot-pink); color: white;">
+                    <p class="text-lg leading-relaxed">
+                        THE GOAL OF THE VANGUARD COPYWRITER IS TO PRODUCE A CRITIQUE THAT IS BOTH EXHAUSTIVE AND PIONEERING. USE THIS SYNTHESIS TOOLKIT TO ENSURE YOUR DISCOURSE MEETS THE RHETORICAL DEMANDS OF THE METHODOLOGY.
+                    </p>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- Checklist -->
+                <div class="brutal-border brutal-shadow p-6" style="background-color: var(--neon-yellow); border-top-width: 12px;">
+                    <h3 class="text-2xl font-bold mb-4 brutal-font">CRITIQUE CHECKLIST</h3>
+                    <ul class="space-y-3">
+                        <li class="flex items-start">
+                            <span class="mr-2 text-2xl">✓</span>
+                            <span class="text-sm"><strong>IDEOLOGICAL LINK:</strong> Connect fictional mechanics to real-world power/politics</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2 text-2xl">✓</span>
+                            <span class="text-sm"><strong>INSTITUTIONAL FACTOR:</strong> Mention production committees, staffing, or budget</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2 text-2xl">✓</span>
+                            <span class="text-sm"><strong>AESTHETIC FUNCTION:</strong> Analyze style as rhetorical device, not just "good art"</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="mr-2 text-2xl">✓</span>
+                            <span class="text-sm"><strong>CONTROVERSY:</strong> Use fan debates as data points rather than mirroring consensus</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Key Terminology -->
+                <div class="brutal-border brutal-shadow p-6" style="background-color: var(--cyan); border-top-width: 12px;">
+                    <h3 class="text-2xl font-bold mb-4 brutal-font">CRITICAL VOCABULARY</h3>
+                    <dl class="space-y-3">
+                        <div class="brutal-border p-3 bg-white">
+                            <dt class="text-sm font-bold uppercase">Facet Analysis</dt>
+                            <dd class="text-xs">Decomposing media into mutually exclusive components (Genre, History, Craft).</dd>
+                        </div>
+                        <div class="brutal-border p-3 bg-white">
+                            <dt class="text-sm font-bold uppercase">Pacing Divergence</dt>
+                            <dd class="text-xs">A quantifiable index of commercial compromise or strategic adaptation choice.</dd>
+                        </div>
+                        <div class="brutal-border p-3 bg-white">
+                            <dt class="text-sm font-bold uppercase">Series Kousei</dt>
+                            <dd class="text-xs">Series composition/head writer; key for narrative consistency.</dd>
+                        </div>
+                    </dl>
+                </div>
+
+                <!-- Final Output Format -->
+                <div class="brutal-border brutal-shadow p-6" style="background-color: var(--black); color: var(--white);">
+                    <h3 class="text-2xl font-bold mb-4 brutal-font" style="color: var(--neon-yellow);">THE VANGUARD CONCLUSION</h3>
+                    <p class="text-sm mb-4">THE CONCLUSION MUST ASSERT A UNIQUE, CHALLENGING THESIS.</p>
+                    <div class="brutal-border p-4 text-xs italic" style="background-color: var(--hot-pink); color: white;">
+                        "The 2003 series, shaped by directorial autonomy... produced a Post-Modern Existential Thesis... Conversely, Brotherhood... emphasized restorative justice and community."
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="brutal-border border-b-0 border-l-0 border-r-0 py-6 text-center text-xs" style="background-color: var(--black); color: var(--white);">
+        <p>&copy; 2023 VANGUARD ANALYTICAL FRAMEWORK. BASED ON "THE AESTHETICS OF SUBVERSION".</p>
+    </footer>
+
+    <!-- JavaScript Logic -->
+    <script>
+        // --- 1. Navigation Logic ---
+        function switchTab(tabId) {
+            // Update Tab Styles
+            const tabs = ['manifesto', 'casestudy', 'synthesis'];
+            tabs.forEach(t => {
+                const btn = document.getElementById(`tab-${t}`);
+                const view = document.getElementById(`view-${t}`);
+                if (t === tabId) {
+                    btn.classList.remove('inactive-tab');
+                    btn.classList.add('active-tab');
+                    btn.style.backgroundColor = 'var(--neon-yellow)';
+                    view.classList.remove('hidden');
+                } else {
+                    btn.classList.add('inactive-tab');
+                    btn.classList.remove('active-tab');
+                    btn.style.backgroundColor = 'var(--white)';
+                    view.classList.add('hidden');
+                }
+            });
+
+            // Re-render charts if hidden (fixes sizing issues)
+            if (tabId === 'manifesto') renderRadarChart();
+            if (tabId === 'casestudy') renderBarChart();
+        }
+
+        // --- 2. Chart Configurations ---
+        
+        // Data derived from Report with NEO-BRUTALIST COLORS
+        const radarData = {
+            labels: ['Aesthetic Function', 'Narrative Structure', 'Thematic/Ideological', 'Production/Auteur', 'Historical Context'],
+            datasets: [{
+                label: 'Vanguard Analysis Scope',
+                data: [90, 85, 95, 80, 75],
+                fill: true,
+                backgroundColor: 'rgba(255, 0, 255, 0.3)', // Hot Pink transparent
+                borderColor: '#FF00FF',
+                pointBackgroundColor: '#FF00FF',
+                pointBorderColor: '#000',
+                pointHoverBackgroundColor: '#FFFF00',
+                pointHoverBorderColor: '#000',
+                borderWidth: 3
+            },
+            {
+                label: 'Standard Review Scope',
+                data: [60, 90, 40, 20, 10],
+                fill: true,
+                backgroundColor: 'rgba(0, 255, 255, 0.2)', 
+                borderColor: '#00FFFF',
+                pointBackgroundColor: '#00FFFF',
+                pointBorderColor: '#000',
+                borderWidth: 3
+            }]
+        };
+
+        const barData = {
+            labels: ['Fullmetal Alchemist (03)', 'FMA: Brotherhood', 'Brotherhood Specials'],
+            datasets: [{
+                label: 'Personal Rating (1-10)',
+                data: [10, 9, 9],
+                backgroundColor: '#FF00FF', // Hot Pink
+                borderColor: '#000',
+                borderWidth: 3,
+                order: 1
+            }, {
+                label: 'Episodes Watched',
+                data: [51, 64, 4],
+                backgroundColor: '#00FFFF', // Cyan
+                borderColor: '#000',
+                borderWidth: 3,
+                type: 'bar',
+                order: 2
+            }]
+        };
+
+        let radarChartInstance = null;
+        let barChartInstance = null;
+
+        function renderRadarChart() {
+            const ctx = document.getElementById('radarChart').getContext('2d');
+            if (radarChartInstance) radarChartInstance.destroy();
+            radarChartInstance = new Chart(ctx, {
+                type: 'radar',
+                data: radarData,
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        r: {
+                            angleLines: { color: '#000', lineWidth: 2 },
+                            grid: { color: '#000', lineWidth: 2 },
+                            pointLabels: {
+                                font: { size: 11, family: 'Space Mono', weight: 'bold' },
+                                color: '#000'
+                            },
+                            ticks: {
+                                backdropColor: '#FFFF00',
+                                color: '#000',
+                                font: { weight: 'bold' }
+                            },
+                            suggestedMin: 0,
+                            suggestedMax: 100
+                        }
+                    },
+                    plugins: {
+                        legend: { 
+                            position: 'bottom',
+                            labels: {
+                                font: { family: 'Space Mono', weight: 'bold' },
+                                color: '#000',
+                                boxWidth: 20,
+                                boxHeight: 20
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderBarChart() {
+            const ctx = document.getElementById('barChart').getContext('2d');
+            if (barChartInstance) barChartInstance.destroy();
+            barChartInstance = new Chart(ctx, {
+                type: 'bar',
+                data: barData,
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            grid: { color: '#000', lineWidth: 2 },
+                            ticks: {
+                                color: '#000',
+                                font: { weight: 'bold', family: 'Space Mono' }
+                            }
+                        },
+                        x: {
+                            grid: { display: false },
+                            ticks: {
+                                color: '#000',
+                                font: { weight: 'bold', family: 'Space Mono', size: 10 }
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: { 
+                            position: 'bottom',
+                            labels: {
+                                font: { family: 'Space Mono', weight: 'bold' },
+                                color: '#000',
+                                boxWidth: 20,
+                                boxHeight: 20
+                            }
+                        },
+                        tooltip: {
+                            backgroundColor: '#000',
+                            titleColor: '#FFFF00',
+                            bodyColor: '#FFF',
+                            borderColor: '#000',
+                            borderWidth: 3,
+                            titleFont: { weight: 'bold', family: 'Space Mono' },
+                            bodyFont: { weight: 'bold', family: 'Space Mono' },
+                            callbacks: {
+                                label: function(context) {
+                                    return context.dataset.label + ': ' + context.raw;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // --- 3. Interaction Logic: Rhetorical Shift ---
+        const rhetoricData = {
+            standard: {
+                title: "TOPIC: CHARACTER DESIGN (CHIBI)",
+                text: "\"The show uses funny chibi faces to break the tension. It's cute and makes the characters likable, though sometimes it clashes with the serious moments.\"",
+                bgColor: "var(--white)",
+                borderColor: "var(--black)"
+            },
+            vanguard: {
+                title: "TOPIC: AESTHETIC FUNCTION & TRAUMA",
+                text: "\"A vanguard analysis examines 'super deformed' styles not as comedy, but as deliberate rhetorical devices that modulate audience reception, buffering the depiction of intense violence or psychological trauma.\"",
+                bgColor: "var(--hot-pink)",
+                borderColor: "var(--black)"
+            }
+        };
+
+        function setRhetoric(type) {
+            const contentBox = document.getElementById('rhetoric-content');
+            const btnStd = document.getElementById('btn-std');
+            const btnVan = document.getElementById('btn-van');
+            const data = rhetoricData[type];
+
+            const textColor = type === 'vanguard' ? 'color: white;' : 'color: black;';
+            contentBox.innerHTML = `<h4 class="font-bold mb-2 uppercase" style="${textColor}">${data.title}</h4><p class="text-sm" style="${textColor}">${data.text}</p>`;
+            contentBox.style.backgroundColor = data.bgColor;
+
+            // Button Styles
+            if(type === 'standard') {
+                btnStd.style.backgroundColor = 'var(--neon-yellow)';
+                btnStd.style.color = 'var(--black)';
+                btnVan.style.backgroundColor = 'var(--white)';
+                btnVan.style.color = 'var(--black)';
+            } else {
+                btnVan.style.backgroundColor = 'var(--hot-pink)';
+                btnVan.style.color = 'var(--white)';
+                btnStd.style.backgroundColor = 'var(--white)';
+                btnStd.style.color = 'var(--black)';
+            }
+        }
+
+        // --- 4. Interaction Logic: Matrix Comparison ---
+        const matrixData = {
+            truth: {
+                v03: {
+                    title: "THE SUBJECTIVE LIE",
+                    desc: "Equivalent Exchange is revealed to be a falsehood. The energy source is souls from our world (post-WWI). The series argues that objective morality does not exist, and systems are inherently flawed."
+                },
+                bh: {
+                    title: "THE OBJECTIVE TRUTH",
+                    desc: "Equivalent Exchange is a universal, cosmic law (Mass Conservation). Truth exists. Redemption is achieved by embracing humility within this objective order. Arrogance is defying this order."
+                }
+            },
+            sin: {
+                v03: {
+                    title: "PERSONAL ATONEMENT",
+                    desc: "Homunculi are the literal products of failed Human Transmutations (e.g., Sloth is the Elric mother). Sin is personal, intimate, and requires individual confrontation with one's failures."
+                },
+                bh: {
+                    title: "INSTITUTIONAL/COSMIC EVIL",
+                    desc: "Homunculi are externalized flaws extracted from the villain, Father. The conflict is about combating a centralized, conspiracy-driven power structure rather than personal failure."
+                }
+            },
+            history: {
+                v03: {
+                    title: "THE WEIMAR TRAGEDY",
+                    desc: "Amestris mirrors the Weimar Republic (post-WWI Germany). The ending strands Edward in our world (Munich 1923), linking the failure of Alchemy to the failure of Modernity leading to Fascism."
+                },
+                bh: {
+                    title: "RESTORATIVE JUSTICE",
+                    desc: "The Elric brothers act as activists who dismantle the corrupt state but rebuild the community. The focus is on optimism, reclaiming the nation, and the possibility of a just future."
+                }
+            }
+        };
+
+        function updateMatrix(key) {
+            const data = matrixData[key];
+            
+            // Update Text
+            document.getElementById('matrix-03-title').innerText = data.v03.title;
+            document.getElementById('matrix-03-desc').innerText = data.v03.desc;
+            document.getElementById('matrix-bh-title').innerText = data.bh.title;
+            document.getElementById('matrix-bh-desc').innerText = data.bh.desc;
+
+            // Update Buttons
+            const buttons = document.querySelectorAll('.matrix-btn');
+            buttons.forEach(btn => {
+                const btnText = btn.innerText.toLowerCase();
+                const isActive = (key === 'truth' && btnText.includes('truth')) ||
+                                (key === 'sin' && btnText.includes('sin')) ||
+                                (key === 'history' && btnText.includes('history'));
+                
+                if (isActive) {
+                    btn.classList.add('active');
+                    btn.style.backgroundColor = 'var(--hot-pink)';
+                    btn.style.color = 'var(--white)';
+                } else {
+                    btn.classList.remove('active');
+                    btn.style.backgroundColor = 'var(--white)';
+                    btn.style.color = 'var(--black)';
+                }
+            });
+        }
+
+        // Initialization
+        window.onload = function() {
+            renderRadarChart();
+            // Start on tab 1
+        };
+
+    </script>
+</body>
+</html>

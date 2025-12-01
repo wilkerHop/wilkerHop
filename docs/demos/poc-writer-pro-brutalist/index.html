@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Art of the Modern Technical PoC Article</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+    <style>
+        /* NEO-BRUTALIST DESIGN SYSTEM */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            font-weight: 700;
+        }
+        
+        /* Custom scrollbar - Brutalist style */
+        ::-webkit-scrollbar {
+            width: 12px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #fff;
+            border-left: 4px solid #000;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #000;
+            border: 2px solid #fff;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #FF0000;
+        }
+        
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+            max-height: 400px;
+            border: 5px solid #000;
+            box-shadow: 10px 10px 0 #000;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 350px;
+            }
+        }
+
+        .nav-item.active {
+            background-color: #000;
+            color: #fff;
+            border-left: 8px solid #FF0000;
+            font-weight: 900;
+        }
+
+        .brutalist-shadow {
+            box-shadow: 8px 8px 0 #000;
+        }
+        
+        .brutalist-shadow-sm {
+            box-shadow: 4px 4px 0 #000;
+        }
+        
+        .brutalist-border {
+            border: 5px solid #000;
+        }
+        
+        .brutalist-border-thin {
+            border: 3px solid #000;
+        }
+        
+        /* No transitions for brutalism */
+        button, a, .nav-item {
+            transition: none !important;
+        }
+        
+        button:hover, .nav-item:hover {
+            background-color: #000 !important;
+            color: #fff !important;
+        }
+        
+        input:focus {
+            outline: 5px solid #FF0000;
+            outline-offset: 0;
+        }
+    </style>
+    <!-- NEO-BRUTALIST PALETTE: Background: #FFFFFF (Pure White). Primary Text: #000000 (Pure Black). Accent: #FF0000 (Bold Red). Borders: 5px solid black. Shadows: Hard offset 8px/8px. Typography: Monospace, Bold. -->
+    
+    <!-- Application Structure Plan: 
+         1. Dashboard Layout: Sidebar navigation for major phases of writing (Research, Structure, Writing, Visuals).
+         2. "The Hook" (Home): High-level stats on why technical writing is changing.
+         3. Interactive Structure Builder: A clickable flow showing the ideal anatomy of a PoC article.
+         4. Engagement Metrics: Charts showing the impact of "Storytelling" vs "Documentation".
+         5. The "Golden Ratio": Interactive donut chart for Content Mix (Code vs Text vs Visuals). 
+         6. Checklist: A functional checklist for the user to track their own article's readiness.
+         Why: This structure breaks the daunting task of writing into manageable, actionable modules, mirroring the "Agile" approach often used in the PoCs themselves.
+    -->
+
+    <!-- Visualization & Content Choices:
+         1. Engagement Trends (Line Chart): Shows attention span over time in an article. Goal: Inform user where to place hooks. Interaction: Hover to see tips per reading minute.
+         2. Content Mix (Doughnut): Visualizes the ideal balance of text, code, and media. Goal: Inform.
+         3. Anatomy Map (Interactive List): Clickable list of article sections (Title, Problem, Solution, etc.) that updates a detail view. Goal: Organize/Teach structure.
+         4. Headline Scorer (Input + Logic): Simple simulated logic to "grade" a headline. Goal: Engage/Practice.
+         5. Checklist (Checkbox list): State-managed list. Goal: Utility.
+    -->
+    
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+</head>
+<body class="bg-white text-black font-mono selection:bg-red-600 selection:text-white" style="background: #fff; color: #000;">
+
+    <div class="flex h-screen overflow-hidden">
+        <!-- Sidebar Navigation -->
+        <nav class="w-64 bg-white flex-shrink-0 flex flex-col hidden md:flex brutalist-border" style="background: #fff; border-right: 5px solid #000;">
+            <div class="p-6" style="border-bottom: 5px solid #000;">
+                <h1 class="text-xl font-bold tracking-tight" style="color: #000;">POC WRITER <span style="color: #FF0000;">PRO</span></h1>
+                <p class="text-xs mt-1" style="color: #000;">MODERN TECHNICAL WRITING GUIDE</p>
+            </div>
+            <div class="flex-1 overflow-y-auto py-4">
+                <ul class="space-y-2">
+                    <li><button onclick="navTo('overview')" id="nav-overview" class="nav-item w-full text-left px-6 py-3 font-bold active" style="background: #000; color: #fff; border: 3px solid #000;">OVERVIEW & TRENDS</button></li>
+                    <li><button onclick="navTo('structure')" id="nav-structure" class="nav-item w-full text-left px-6 py-3 font-bold" style="background: #fff; color: #000; border: 3px solid #000;">THE ANATOMY OF A POC</button></li>
+                    <li><button onclick="navTo('engagement')" id="nav-engagement" class="nav-item w-full text-left px-6 py-3 font-bold" style="background: #fff; color: #000; border: 3px solid #000;">ENGAGEMENT METRICS</button></li>
+                    <li><button onclick="navTo('checklist')" id="nav-checklist" class="nav-item w-full text-left px-6 py-3 font-bold" style="background: #fff; color: #000; border: 3px solid #000;">LAUNCH CHECKLIST</button></li>
+                </ul>
+            </div>
+            <div class="p-4" style="border-top: 5px solid #000;">
+                <div class="p-3 text-xs brutalist-border brutalist-shadow-sm" style="background: #FF0000; color: #fff;">
+                    <strong>TIP:</strong> READERS SKIM. MAKE YOUR HEADERS TELL THE STORY.
+                </div>
+            </div>
+        </nav>
+
+        <!-- Main Content Area -->
+        <main class="flex-1 overflow-y-auto relative scroll-smooth" id="main-content">
+            
+            <!-- Mobile Header -->
+            <div class="md:hidden bg-white p-4 flex justify-between items-center sticky top-0 z-20" style="border-bottom: 5px solid #000; background: #fff;">
+                <h1 class="font-bold" style="color: #000;">POC WRITER PRO</h1>
+                <select onchange="navTo(this.value)" class="font-bold p-2 brutalist-border" style="background: #fff; color: #000; border: 3px solid #000;">
+                    <option value="overview">Overview</option>
+                    <option value="structure">Structure</option>
+                    <option value="engagement">Engagement</option>
+                    <option value="checklist">Checklist</option>
+                </select>
+            </div>
+
+            <div class="max-w-5xl mx-auto p-6 md:p-10 space-y-12 pb-24">
+
+                <!-- SECTION: OVERVIEW -->
+                <section id="overview" class="space-y-8 animate-fade-in">
+                    <div class="space-y-2">
+                        <span class="font-bold tracking-wide uppercase text-xs" style="color: #FF0000;">PHASE 1: RESEARCH & CONTEXT</span>
+                        <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #000;">WRITING TECHNICAL POCS IN 2025</h2>
+                        <p class="text-lg max-w-3xl leading-relaxed" style="color: #000;">
+                            The era of dry, documentation-style articles is over. Modern technical writing treats a Proof of Concept (PoC) like a product launch: it needs a narrative, visual evidence, and immediate value. This guide deconstructs how to write articles that developers actually read.
+                        </p>
+                    </div>
+
+                    <div class="grid md:grid-cols-2 gap-6">
+                        <div class="bg-white p-6 brutalist-border brutalist-shadow" style="background: #fff;">
+                            <h3 class="font-bold mb-2 flex items-center gap-2" style="color: #000;">
+                                <span class="w-8 h-8 flex items-center justify-center font-black" style="background: #FF0000; color: #fff; border: 3px solid #000;">1</span>
+                                THE SHIFT TO "SHOW, DON'T JUST TELL"
+                            </h3>
+                            <p class="text-sm" style="color: #000;">
+                                Readers ignore walls of text. The trend is <strong>Explorable Explanations</strong>. Use diagrams, gifs of the terminal, or interactive code blocks. Your PoC isn't just code; it's a solution to a problem.
+                            </p>
+                        </div>
+                        <div class="bg-white p-6 brutalist-border brutalist-shadow" style="background: #fff;">
+                            <h3 class="font-bold mb-2 flex items-center gap-2" style="color: #000;">
+                                <span class="w-8 h-8 flex items-center justify-center font-black" style="background: #FF0000; color: #fff; border: 3px solid #000;">2</span>
+                                THE "BUILD IN PUBLIC" VIBE
+                            </h3>
+                            <p class="text-sm" style="color: #000;">
+                                Perfection is suspicious. Modern articles embrace the "gotchas," the failed attempts, and the pivot. Authenticity builds trust. Frame your PoC as a journey of discovery.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Content Mix Chart -->
+                    <div class="bg-white p-6 brutalist-border brutalist-shadow" style="background: #fff;">
+                        <h3 class="font-bold mb-4" style="color: #000;">THE GOLDEN RATIO OF MODERN TECH CONTENT</h3>
+                        <p class="text-sm mb-6" style="color: #000;">IDEALLY, YOUR ARTICLE SHOULD BALANCE THESE THREE ELEMENTS TO MAINTAIN FLOW.</p>
+                        <div class="flex flex-col md:flex-row items-center gap-8">
+                            <div class="w-full md:w-1/2 flex justify-center">
+                                <div class="chart-container" style="height: 250px; max-height: 250px;">
+                                    <canvas id="contentMixChart"></canvas>
+                                </div>
+                            </div>
+                            <div class="w-full md:w-1/2 space-y-4">
+                                <div id="mix-details" class="p-4 brutalist-border" style="background: #fff; border: 3px solid #000;">
+                                    <p class="font-bold" style="color: #000;">HOVER OVER THE CHART SEGMENTS TO SEE DETAILS.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <hr style="border: none; border-top: 5px solid #000; margin: 2rem 0;">
+
+                <!-- SECTION: STRUCTURE -->
+                <section id="structure" class="space-y-8">
+                    <div class="space-y-2">
+                        <span class="font-bold tracking-wide uppercase text-xs" style="color: #FF0000;">PHASE 2: BLUEPRINT</span>
+                        <h2 class="text-3xl font-bold" style="color: #000;">THE ANATOMY OF A KILLER POC ARTICLE</h2>
+                        <p class="max-w-3xl" style="color: #000;">
+                            Don't start with "Introduction." Start with the problem. Explore the optimal structure below by clicking the sections.
+                        </p>
+                    </div>
+
+                    <div class="grid lg:grid-cols-12 gap-6">
+                        <!-- Interactive List -->
+                        <div class="lg:col-span-4 space-y-2" id="structure-list">
+                            <!-- JS will populate buttons here -->
+                        </div>
+
+                        <!-- Detail View -->
+                        <div class="lg:col-span-8">
+                            <div id="structure-detail" class="h-full bg-white p-8 brutalist-border brutalist-shadow relative overflow-hidden" style="background: #fff;">
+                                <div class="absolute top-0 right-0 p-4 opacity-10">
+                                    <span class="text-9xl" style="font-family: Georgia, serif; color: #000;">"</span>
+                                </div>
+                                <h3 id="detail-title" class="text-2xl font-bold mb-4" style="color: #000;">SELECT A SECTION...</h3>
+                                <p id="detail-desc" class="leading-relaxed mb-6" style="color: #000;">CLICK ON THE LEFT SIDEBAR TO LEARN HOW TO CRAFT EACH PART OF YOUR ARTICLE.</p>
+                                <div id="detail-tips" class="p-4 hidden brutalist-border" style="background: #FF0000; color: #fff; border-left: 8px solid #000;">
+                                    <p class="text-sm font-bold">PRO TIP</p>
+                                    <p id="detail-tip-text" class="text-sm text-orange-900 mt-1"></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <hr style="border: none; border-top: 5px solid #000; margin: 2rem 0;">
+
+                <!-- SECTION: ENGAGEMENT -->
+                <section id="engagement" class="space-y-8">
+                    <div class="space-y-2">
+                        <span class="font-bold tracking-wide uppercase text-xs" style="color: #FF0000;">PHASE 3: RETENTION</span>
+                        <h2 class="text-3xl font-bold" style="color: #000;">KEEPING THE READER'S ATTENTION</h2>
+                        <p class="max-w-3xl" style="color: #000;">
+                            Technical readers are ruthless skimmers. See how different article styles perform over time.
+                        </p>
+                    </div>
+
+                    <div class="bg-white p-6 brutalist-border brutalist-shadow" style="background: #fff;">
+                        <div class="chart-container">
+                            <canvas id="retentionChart"></canvas>
+                        </div>
+                        <div class="mt-6 grid grid-cols-1 md:grid-cols-3 gap-4 text-center">
+                            <div class="p-3 brutalist-border" style="background: #fff; border: 3px solid #000;">
+                                <div class="text-2xl font-bold" style="color: #000;">15 SEC</div>
+                                <div class="text-xs uppercase tracking-wide font-bold" style="color: #000;">AVG. HOOK TIME</div>
+                            </div>
+                            <div class="p-3 brutalist-border" style="background: #FF0000; border: 3px solid #000;">
+                                <div class="text-2xl font-bold" style="color: #fff;">3X</div>
+                                <div class="text-xs uppercase tracking-wide font-bold" style="color: #fff;">MORE SHARES W/ DIAGRAM</div>
+                            </div>
+                            <div class="p-3 brutalist-border" style="background: #fff; border: 3px solid #000;">
+                                <div class="text-2xl font-bold" style="color: #000;">1,500</div>
+                                <div class="text-xs uppercase tracking-wide font-bold" style="color: #000;">IDEAL WORD COUNT</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Headline Optimizer Tool -->
+                    <div class="p-8 brutalist-border brutalist-shadow" style="background: #000; color: #fff;">
+                        <h3 class="text-xl font-bold mb-2">HEADLINE SIMULATOR</h3>
+                        <p class="text-sm mb-6" style="color: #fff;">TYPE A POTENTIAL TITLE FOR YOUR POC ARTICLE TO SEE IF IT HITS THE TRENDS.</p>
+                        
+                        <div class="flex flex-col sm:flex-row gap-2">
+                            <input type="text" id="headline-input" placeholder="e.g., How I built a React app..." class="flex-1 p-3 font-bold" style="background: #fff; color: #000; border: 3px solid #000;">
+                            <button onclick="analyzeHeadline()" class="font-bold py-3 px-6" style="background: #FF0000; color: #fff; border: 3px solid #000;">ANALYZE</button>
+                        </div>
+                        
+                        <div id="headline-feedback" class="mt-4 hidden p-4 brutalist-border" style="background: #fff; color: #000; border: 3px solid #000;">
+                            <!-- Feedback injected here -->
+                        </div>
+                    </div>
+                </section>
+
+                <hr style="border: none; border-top: 5px solid #000; margin: 2rem 0;">
+
+                <!-- SECTION: CHECKLIST -->
+                <section id="checklist" class="space-y-8">
+                    <div class="space-y-2">
+                        <span class="font-bold tracking-wide uppercase text-xs" style="color: #FF0000;">PHASE 4: LAUNCH</span>
+                        <h2 class="text-3xl font-bold" style="color: #000;">THE PRE-PUBLISH CHECKLIST</h2>
+                        <p style="color: #000;">ENSURE YOUR POC ARTICLE IS READY FOR THE WORLD.</p>
+                    </div>
+
+                    <div class="bg-white brutalist-border brutalist-shadow overflow-hidden" style="background: #fff;">
+                        <div class="p-6 flex justify-between items-center" style="background: #000; color: #fff; border-bottom: 5px solid #000;">
+                            <h3 class="font-bold">READINESS SCORE</h3>
+                            <span id="progress-text" class="font-bold text-xl" style="color: #FF0000;">0%</span>
+                        </div>
+                        <div id="checklist-container">
+                            <!-- Checklist items injected via JS -->
+                        </div>
+                    </div>
+                </section>
+
+            </div>
+        </main>
+    </div>
+
+    <script>
+        // --- DATA STORE ---
+        
+        const structureData = [
+            {
+                id: 'hook',
+                title: "1. The Hook (The 'Why')",
+                desc: "Don't start with setup instructions. Start with the pain point. Define the specific problem this PoC solves. Use a 'Before/After' comparison if possible.",
+                tip: "Try starting with a bold claim or a common frustration (e.g., 'React Context is slow. Here is how I fixed it.')"
+            },
+            {
+                id: 'hypothesis',
+                title: "2. The Technical Hypothesis",
+                desc: "Briefly explain the theory. 'If we combine X library with Y pattern, we should see Z result.' This sets the stage for the experiment.",
+                tip: "Keep this under 200 words. Get to the code quickly."
+            },
+            {
+                id: 'setup',
+                title: "3. The Setup (Minimal)",
+                desc: "Skip `npm install`. Assume the reader knows the basics. Link to a repo for the full setup. Show only the specific configuration that matters for the PoC.",
+                tip: "Use collapsible details elements for boilerplate code so it doesn't clutter the flow."
+            },
+            {
+                id: 'implementation',
+                title: "4. The Core Implementation",
+                desc: "The meat of the article. Show the 2-3 critical functions or components that make the magic happen. Annotate the code heavily.",
+                tip: "Don't dump a 100-line file. Break it into snippets of 10-15 lines and explain the logic between them."
+            },
+            {
+                id: 'results',
+                title: "5. The Results (Evidence)",
+                desc: "Did it work? Show metrics, screenshots, or a recorded GIF. Be honest about limitations—this adds credibility.",
+                tip: "Benchmarks are gold. 'Reduced render time by 40ms' is better than 'It felt faster'."
+            },
+            {
+                id: 'future',
+                title: "6. Conclusion & Next Steps",
+                desc: "Summarize what you learned. What would you do differently in production? Invite readers to fork the repo.",
+                tip: "End with a question to drive comments (e.g., 'Have you tried this approach with Vue?')."
+            }
+        ];
+
+        const checklistItems = [
+            "Repo Link included at the top (and bottom)",
+            "At least one diagram or flowchart included",
+            "Code blocks are formatted and highlighted",
+            "Intro hook focuses on a problem, not just technology",
+            "Benchmarks or concrete results are present",
+            "Mobile-friendly check (images aren't too wide)",
+            "Honest disclaimer about 'Production Readiness'"
+        ];
+
+        const mixData = {
+            labels: ['Narrative/Text', 'Code Snippets', 'Visuals (Diagrams/UI)'],
+            data: [40, 35, 25],
+            details: [
+                "The glue that holds it together. Tells the story of the problem and solution.",
+                "The evidence. Crucial, but should be curated. No boilerplate.",
+                "The engagement driver. Architecture diagrams, results charts, UI screenshots."
+            ]
+        };
+
+        // --- STATE MANAGEMENT ---
+        let checklistState = new Array(checklistItems.length).fill(false);
+
+        // --- INITIALIZATION ---
+        document.addEventListener('DOMContentLoaded', () => {
+            initStructureBuilder();
+            initCharts();
+            initChecklist();
+            // Select first structure item by default
+            selectStructure(0);
+        });
+
+        // --- NAVIGATION LOGIC ---
+        function navTo(sectionId) {
+            // Scroll to section
+            const element = document.getElementById(sectionId);
+            if (element) {
+                element.scrollIntoView({ behavior: 'smooth' });
+            }
+            
+            // Update UI active state
+            document.querySelectorAll('.nav-item').forEach(el => {
+                el.classList.remove('active', 'bg-slate-100', 'border-l-4', 'border-slate-600', 'font-semibold');
+                el.classList.add('hover:bg-slate-50');
+            });
+
+            const activeBtn = document.getElementById(`nav-${sectionId}`);
+            if (activeBtn) {
+                activeBtn.classList.add('active');
+            }
+        }
+
+        // --- COMPONENT: STRUCTURE BUILDER ---
+        function initStructureBuilder() {
+            const container = document.getElementById('structure-list');
+            container.innerHTML = structureData.map((item, index) => `
+                <button onclick="selectStructure(${index})" id="struct-btn-${index}" 
+                    class="w-full text-left p-4 bg-white flex items-center justify-between group font-bold" style="background: #fff; color: #000; border: 3px solid #000;">
+                    <span class="text-sm">${item.title.toUpperCase()}</span>
+                    <span>→</span>
+                </button>
+            `).join('');
+        }
+
+        function selectStructure(index) {
+            // Update Buttons
+            structureData.forEach((_, i) => {
+                const btn = document.getElementById(`struct-btn-${i}`);
+                if (i === index) {
+                    btn.style.background = '#FF0000';
+                    btn.style.color = '#fff';
+                    btn.style.borderWidth = '5px';
+                } else {
+                    btn.style.background = '#fff';
+                    btn.style.color = '#000';
+                    btn.style.borderWidth = '3px';
+                }
+            });
+
+            // Update Detail View
+            const data = structureData[index];
+            const titleEl = document.getElementById('detail-title');
+            const descEl = document.getElementById('detail-desc');
+            const tipsContainer = document.getElementById('detail-tips');
+            const tipText = document.getElementById('detail-tip-text');
+
+            titleEl.textContent = data.title.toUpperCase();
+            descEl.textContent = data.desc;
+            tipText.textContent = data.tip;
+            tipText.style.color = '#fff';
+            tipsContainer.classList.remove('hidden');
+        }
+
+        // --- COMPONENT: CHARTS ---
+        function initCharts() {
+            // 1. Content Mix Chart (Doughnut)
+            const ctxMix = document.getElementById('contentMixChart').getContext('2d');
+            const mixChart = new Chart(ctxMix, {
+                type: 'doughnut',
+                data: {
+                    labels: mixData.labels,
+                    datasets: [{
+                        data: mixData.data,
+                        backgroundColor: ['#fff', '#000', '#FF0000'], // White, Black, Red
+                        borderColor: ['#000', '#000', '#000'],
+                        borderWidth: 3
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { 
+                            position: 'bottom', 
+                            labels: { 
+                                usePointStyle: true, 
+                                font: { size: 12, weight: 'bold', family: "'Courier New', Courier, monospace" },
+                                color: '#000'
+                            } 
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    // Update the detail text on hover
+                                    const index = context.dataIndex;
+                                    document.getElementById('mix-details').innerHTML = `
+                                        <p class="font-bold" style="color: #000;">${mixData.labels[index].toUpperCase()} (${mixData.data[index]}%)</p>
+                                        <p style="color: #000; margin-top: 0.5rem;">${mixData.details[index]}</p>
+                                    `;
+                                    return context.label + ': ' + context.parsed + '%';
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+
+            // 2. Retention Chart (Line)
+            const ctxRet = document.getElementById('retentionChart').getContext('2d');
+            new Chart(ctxRet, {
+                type: 'line',
+                data: {
+                    labels: ['0%', '20%', '40%', '60%', '80%', '100% (FINISH)'],
+                    datasets: [
+                        {
+                            label: 'TRADITIONAL "WALL OF TEXT"',
+                            data: [100, 45, 30, 15, 10, 5],
+                            borderColor: '#000',
+                            borderWidth: 2,
+                            tension: 0,
+                            pointRadius: 0
+                        },
+                        {
+                            label: 'MODERN VISUAL POC',
+                            data: [100, 85, 75, 65, 50, 40],
+                            borderColor: '#FF0000',
+                            borderWidth:4,
+                            backgroundColor: 'rgba(255, 0, 0, 0.1)',
+                            fill: true,
+                            tension: 0,
+                            pointBackgroundColor: '#fff',
+                            pointBorderColor: '#FF0000',
+                            pointBorderWidth: 3,
+                            pointRadius: 6
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            title: { display: true, text: '% READERS REMAINING', font: { weight: 'bold', family: "'Courier New', Courier, monospace" } },
+                            grid: { color: '#000', lineWidth: 1 },
+                            ticks: { font: { weight: 'bold', family: "'Courier New', Courier, monospace" } },
+                            min: 0,
+                            max: 100
+                        },
+                        x: {
+                            title: { display: true, text: 'ARTICLE PROGRESS', font: { weight: 'bold', family: "'Courier New', Courier, monospace" } },
+                            grid: { display: false },
+                            ticks: { font: { weight: 'bold', family: "'Courier New', Courier, monospace" } }
+                        }
+                    },
+                    plugins: {
+                        legend: { 
+                            position: 'top', 
+                            align: 'end',
+                            labels: { font: { weight: 'bold', family: "'Courier New', Courier, monospace" } }
+                        },
+                        tooltip: {
+                            mode: 'index',
+                            intersect: false,
+                        }
+                    }
+                }
+            });
+        }
+
+        // --- COMPONENT: HEADLINE ANALYZER ---
+        function analyzeHeadline() {
+            const input = document.getElementById('headline-input').value.toLowerCase();
+            const feedbackEl = document.getElementById('headline-feedback');
+            
+            if (!input) return;
+
+            feedbackEl.classList.remove('hidden');
+            let score = 0;
+            let feedback = [];
+
+            // Simple heuristics
+            if (input.includes('how') || input.includes('guide') || input.includes('tutorial')) {
+                score += 1;
+                feedback.push("✅ Uses clear utility words (How/Guide).");
+            }
+            if (input.includes('built') || input.includes('create') || input.includes('designed')) {
+                score += 1;
+                feedback.push("✅ Action-oriented (Implies building).");
+            }
+            if (input.length > 60) {
+                feedback.push("⚠️ A bit long. Try to keep it punchy (under 60 chars).");
+            } else {
+                score += 1;
+                feedback.push("✅ Good length.");
+            }
+            if (input.includes('?') || input.includes(':')) {
+                 score += 1;
+                 feedback.push("✅ Good structure (Question or Subtitle used).");
+            }
+
+            // Specific word check
+            if (input.includes('poc') || input.includes('proof of concept')) {
+                 feedback.push("💡 Tip: Instead of just 'PoC', mention the specific tech stack.");
+            }
+
+            let color = score >= 3 ? '#00FF00' : '#FF0000';
+            
+            feedbackEl.innerHTML = `
+                <div class="font-bold mb-2 text-2xl" style="color: ${color};">SCORE: ${score}/4</div>
+                <ul class="space-y-2 text-sm font-bold" style="color: #000;">
+                    ${feedback.map(f => `<li>${f}</li>`).join('')}
+                </ul>
+            `;
+        }
+
+        // --- COMPONENT: CHECKLIST ---
+        function initChecklist() {
+            const container = document.getElementById('checklist-container');
+            container.innerHTML = checklistItems.map((item, index) => `
+                <div class="p-4 flex items-center gap-4 cursor-pointer" style="border-bottom: 3px solid #000;" onclick="toggleCheck(${index})">
+                    <div id="check-circle-${index}" class="w-8 h-8 flex items-center justify-center" style="background: #fff; color: #fff; border: 3px solid #000;">
+                        <svg class="w-5 h-5 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M5 13l4 4L19 7"></path></svg>
+                    </div>
+                    <span class="font-bold select-none" style="color: #000;" id="check-text-${index}">${item.toUpperCase()}</span>
+                </div>
+            `).join('');
+        }
+
+        function toggleCheck(index) {
+            checklistState[index] = !checklistState[index];
+            
+            // Visual Update
+            const circle = document.getElementById(`check-circle-${index}`);
+            const icon = circle.querySelector('svg');
+            const text = document.getElementById(`check-text-${index}`);
+            
+            if (checklistState[index]) {
+                circle.style.background = '#FF0000';
+                circle.style.borderColor = '#000';
+                circle.style.borderWidth = '3px';
+                icon.classList.remove('hidden');
+                text.style.textDecoration = 'line-through';
+                text.style.opacity = '0.5';
+            } else {
+                circle.style.background = '#fff';
+                circle.style.borderColor = '#000';
+                circle.style.borderWidth = '3px';
+                icon.classList.add('hidden');
+                text.style.textDecoration = 'none';
+                text.style.opacity = '1';
+            }
+
+            // Progress Update
+            const completed = checklistState.filter(Boolean).length;
+            const percent = Math.round((completed / checklistItems.length) *  100);
+            const progressEl = document.getElementById('progress-text');
+            progressEl.textContent = `${percent}%`;
+            
+            // Celebration
+            if (percent === 100) {
+                progressEl.style.color = '#00FF00';
+                progressEl.textContent = "READY TO PUBLISH! 🚀";
+            } else {
+                progressEl.style.color = '#FF0000';
+            }
+        }
+
+    </script>
+</body>
+</html>
