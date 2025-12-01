@@ -33,7 +33,7 @@ async function initArticles() {
     
     // Render articles
     articlesGrid.innerHTML = liveArticles
-      .map(article => createArticleCard(article))
+      .map((article, index) => createArticleCard(article, index))
       .filter(html => html !== '') // Remove empty cards
       .join('');
       

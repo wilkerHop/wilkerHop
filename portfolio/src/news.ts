@@ -1,13 +1,15 @@
 import { fetchGitHubData } from './github-api';
 import { extractTopics, fetchNews } from './news-api';
 import type { NewsArticle } from './types';
+import { getBentoCardClass } from './utils';
 
 /**
  * Render a single news card
  */
-function createNewsCard(article: NewsArticle): HTMLElement {
+function createNewsCard(article: NewsArticle, index: number = 0): HTMLElement {
   const card = document.createElement('article');
-  card.className = 'bg-brutal-white border-5 border-brutal-black shadow-brutal hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all';
+  const bentoClass = getBentoCardClass(index, 'news');
+  card.className = `${bentoClass} bg-brutal-white border-5 border-brutal-black shadow-brutal hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all`;
   
   const imageUrl = article.urlToImage || 'https://via.placeholder.com/400x200/000000/FFFF00?text=News';
   const publishedDate = new Date(article.publishedAt).toLocaleDateString('en-US', {
@@ -97,8 +99,8 @@ function renderNews(articles: NewsArticle[]): void {
   }
   
   grid.innerHTML = '';
-  articles.forEach(article => {
-    grid.appendChild(createNewsCard(article));
+  articles.forEach((article, index) => {
+    grid.appendChild(createNewsCard(article, index));
   });
 }
 

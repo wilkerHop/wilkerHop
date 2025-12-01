@@ -82,15 +82,50 @@ export function createBrutalButton(text: string, href: string, colorClass = 'bg-
 }
 
 /**
+ * Get bento card size class based on index and type
+ */
+export function getBentoCardClass(index: number, type: 'stat' | 'repo' | 'article' | 'news'): string {
+  if (type === 'stat') {
+    // Stats: First two are larger
+    if (index === 0) return 'bento-card bento-card-large'; // Total Repos
+    if (index === 1) return 'bento-card bento-card-medium'; // Total Stars
+    return 'bento-card bento-card-small';
+  }
+  
+  if (type === 'repo') {
+    // Repos: First one large, next 2 medium, rest small
+    if (index === 0) return 'bento-card bento-card-large';
+    if (index === 1 || index === 2) return 'bento-card bento-card-medium';
+    return 'bento-card bento-card-small';
+  }
+  
+  if (type === 'article') {
+    // Articles: First one wide, others alternate medium/small
+    if (index === 0) return 'bento-card bento-card-wide';
+    return index % 2 === 0 ? 'bento-card bento-card-small' : 'bento-card bento-card-medium';
+  }
+  
+  if (type === 'news') {
+    // News: First two medium, others small
+    if (index === 0 || index === 1) return 'bento-card bento-card-medium';
+    return 'bento-card bento-card-small';
+  }
+  
+  return 'bento-card bento-card-small';
+}
+
+/**
  * Create repository card HTML
  */
-export function createRepoCard(repo: Repository): string {
+export function createRepoCard(repo: Repository, index: number = 0): string {
   const topics = repo.topics.slice(0, 5).map(topic => 
     `<span class="brutal-tag px-2 py-1 bg-brutal-black text-neon-cyan border-2 border-neon-cyan text-xs font-mono uppercase">${topic}</span>`
   ).join('');
   
+  const bentoClass = getBentoCardClass(index, 'repo');
+  
   return `
-    <div class="brutal-card bg-brutal-white border-5 border-brutal-black p-6
+    <div class="${bentoClass} bg-brutal-white border-5 border-brutal-black p-6
                 shadow-brutal-lg hover:shadow-brutal
                 hover:translate-x-[4px] hover:translate-y-[4px]
                 transition-all duration-100">
@@ -119,9 +154,11 @@ export function createRepoCard(repo: Repository): string {
 /**
  * Create article card HTML
  */
-export function createArticleCard(article: ArticleRepo): string {
+export function createArticleCard(article: ArticleRepo, index: number = 0): string {
+  const bentoClass = getBentoCardClass(index, 'article');
+  
   return `
-    <article class="brutal-card bg-brutal-white border-5 border-brutal-black p-6
+    <article class="${bentoClass} bg-brutal-white border-5 border-brutal-black p-6
                     shadow-brutal-lg hover:shadow-brutal
                     hover:translate-x-[4px] hover:translate-y-[4px]
                     transition-all duration-100">
@@ -147,10 +184,12 @@ export function createArticleCard(article: ArticleRepo): string {
 /**
  * Create stats widget HTML
  */
-export function createStatWidget(label: string, value: string | number, colorClass: string): string {
+export function createStatWidget(label: string, value: string | number, colorClass: string, index: number = 0): string {
+  const bentoClass = getBentoCardClass(index, 'stat');
+  
   return `
-    <div class="brutal-stat ${colorClass} border-5 border-brutal-black p-6 sm:p-8 text-center
-                shadow-brutal">
+    <div class="${bentoClass} ${colorClass} border-5 border-brutal-black p-6 sm:p-8 text-center
+                shadow-brutal flex flex-col justify-center items-center">
       <div class="text-4xl sm:text-5xl font-black mb-2">${value}</div>
       <div class="text-xs sm:text-sm font-mono uppercase tracking-widest">${label}</div>
     </div>

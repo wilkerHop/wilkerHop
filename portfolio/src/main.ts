@@ -20,17 +20,17 @@ async function initPortfolio() {
     const { stats, repositories } = await fetchGitHubData();
     
     // Render stats
-    statsGrid.innerHTML = `
-      ${createStatWidget(stats.totalRepos.toString(), 'REPOSITORIES', 'bg-neon-yellow')}
-      ${createStatWidget(formatNumber(stats.totalStars), 'TOTAL STARS', 'bg-hot-pink')}
-      ${createStatWidget(formatNumber(stats.totalForks), 'TOTAL FORKS', 'bg-electric-cyan')}
-      ${createStatWidget(stats.languages[0]?.name || 'N/A', 'TOP LANGUAGE', 'bg-neon-green')}
-    `;
+    statsGrid.innerHTML = [
+      createStatWidget(stats.totalRepos.toString(), 'REPOSITORIES', 'bg-neon-yellow', 0),
+      createStatWidget(formatNumber(stats.totalStars), 'TOTAL STARS', 'bg-hot-pink', 1),
+      createStatWidget(formatNumber(stats.totalForks), 'TOTAL FORKS', 'bg-electric-cyan', 2),
+      createStatWidget(stats.languages[0]?.name || 'N/A', 'TOP LANGUAGE', 'bg-neon-green', 3),
+    ].join('');
     
     // Render repositories
     reposGrid.innerHTML = repositories
       .slice(0, 12) // Show top 12
-      .map(repo => createRepoCard(repo))
+      .map((repo, index) => createRepoCard(repo, index))
       .join('');
       
     // Populate Demos Dropdown
