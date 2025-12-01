@@ -123,20 +123,24 @@ export function createRepoCard(repo: Repository, index: number = 0): string {
   ).join('');
   
   const bentoClass = getBentoCardClass(index, 'repo');
+  const isLarge = index === 0;
+  
+  const titleSize = isLarge ? 'text-2xl sm:text-4xl' : 'text-xl sm:text-2xl';
+  const descStyle = isLarge ? 'text-base line-clamp-4' : 'text-sm line-clamp-3';
   
   return `
     <div class="${bentoClass} bg-brutal-white border-5 border-brutal-black p-6
                 shadow-brutal-lg hover:shadow-brutal
                 hover:translate-x-[4px] hover:translate-y-[4px]
-                transition-all duration-100">
+                transition-all duration-100 flex flex-col">
       <div class="brutal-accent-left brutal-accent-pink pl-4 mb-4">
-        <h3 class="text-xl sm:text-2xl font-black uppercase">${repo.name}</h3>
+        <h3 class="${titleSize} font-black uppercase break-words">${repo.name}</h3>
       </div>
-      <p class="text-sm mb-4 line-clamp-3">${repo.description || 'No description'}</p>
+      <p class="${descStyle} mb-4 flex-grow">${repo.description || 'No description'}</p>
       <div class="flex flex-wrap gap-2 mb-4">
         ${topics}
       </div>
-      <div class="flex justify-between items-center text-sm">
+      <div class="flex justify-between items-center text-sm mt-auto">
         <div class="flex gap-4">
           ${repo.language ? `<span class="font-mono">💻 ${repo.language}</span>` : ''}
           <span class="font-mono">⭐ ${repo.stargazers_count}</span>
@@ -156,26 +160,36 @@ export function createRepoCard(repo: Repository, index: number = 0): string {
  */
 export function createArticleCard(article: ArticleRepo, index: number = 0): string {
   const bentoClass = getBentoCardClass(index, 'article');
+  const isWide = index === 0;
+  
+  // Adjust layout for wide card
+  const contentWrapperClass = isWide ? 'flex flex-col md:flex-row gap-6 h-full' : 'flex flex-col h-full';
+  const imageWrapperClass = isWide ? 'w-full md:w-1/2 h-64 md:h-auto' : 'w-full h-48 mb-6';
+  const textWrapperClass = isWide ? 'w-full md:w-1/2 flex flex-col justify-center' : 'flex flex-col flex-grow';
   
   return `
     <article class="${bentoClass} bg-brutal-white border-5 border-brutal-black p-6
                     shadow-brutal-lg hover:shadow-brutal
                     hover:translate-x-[4px] hover:translate-y-[4px]
                     transition-all duration-100">
-      ${article.imageUrl ? `
-        <div class="border-4 border-brutal-black mb-6 overflow-hidden">
-          <img src="${article.imageUrl}" 
-               alt="${article.name}" 
-               class="w-full h-48 object-cover"
-               loading="lazy">
+      <div class="${contentWrapperClass}">
+        ${article.imageUrl ? `
+          <div class="border-4 border-brutal-black overflow-hidden flex-shrink-0 ${imageWrapperClass}">
+            <img src="${article.imageUrl}" 
+                 alt="${article.name}" 
+                 class="w-full h-full object-cover"
+                 loading="lazy">
+          </div>
+        ` : ''}
+        <div class="${textWrapperClass}">
+          <div class="brutal-accent-left brutal-accent-cyan pl-4 mb-4">
+            <h2 class="text-2xl sm:text-3xl font-black uppercase">${article.name}</h2>
+          </div>
+          <p class="text-base mb-6 leading-relaxed flex-grow">${article.summary}</p>
+          <div class="flex gap-4 mt-auto">
+            ${createBrutalButton('VIEW LIVE DEMO', article.homepage || '#', 'bg-hot-pink')}
+          </div>
         </div>
-      ` : ''}
-      <div class="brutal-accent-left brutal-accent-cyan pl-4 mb-4">
-        <h2 class="text-2xl sm:text-3xl font-black uppercase">${article.name}</h2>
-      </div>
-      <p class="text-base mb-6 leading-relaxed">${article.summary}</p>
-      <div class="flex gap-4">
-        ${createBrutalButton('VIEW LIVE DEMO', article.homepage || '#', 'bg-hot-pink')}
       </div>
     </article>
   `;

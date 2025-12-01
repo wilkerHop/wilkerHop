@@ -9,7 +9,13 @@ import { getBentoCardClass } from './utils';
 function createNewsCard(article: NewsArticle, index: number = 0): HTMLElement {
   const card = document.createElement('article');
   const bentoClass = getBentoCardClass(index, 'news');
-  card.className = `${bentoClass} bg-brutal-white border-5 border-brutal-black shadow-brutal hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all`;
+  const isSmall = index >= 2;
+  
+  const titleClass = isSmall ? 'text-xl' : 'text-2xl';
+  const descClass = isSmall ? 'hidden' : 'font-mono text-sm mb-4 line-clamp-3 flex-grow';
+  const imageContainerClass = isSmall ? 'h-32' : 'aspect-video';
+  
+  card.className = `${bentoClass} bg-brutal-white border-5 border-brutal-black shadow-brutal hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all flex flex-col`;
   
   const imageUrl = article.urlToImage || 'https://placehold.co/400x200/000000/FFFF00?text=News';
   const publishedDate = new Date(article.publishedAt).toLocaleDateString('en-US', {
@@ -19,7 +25,7 @@ function createNewsCard(article: NewsArticle, index: number = 0): HTMLElement {
   });
   
   card.innerHTML = `
-    <div class="aspect-video bg-brutal-black border-b-5 border-brutal-black overflow-hidden">
+    <div class="${imageContainerClass} bg-brutal-black border-b-5 border-brutal-black overflow-hidden flex-shrink-0">
       <img 
         src="${imageUrl}" 
         alt="${article.title}"
@@ -27,25 +33,27 @@ function createNewsCard(article: NewsArticle, index: number = 0): HTMLElement {
         onerror="this.src='https://placehold.co/400x200/000000/FFFF00?text=News'"
       />
     </div>
-    <div class="p-6">
+    <div class="p-6 flex flex-col flex-grow">
       <div class="flex items-center gap-2 mb-3">
         <span class="brutal-badge bg-hot-pink text-xs">${article.source.name}</span>
         <span class="text-xs font-mono text-gray-600">${publishedDate}</span>
       </div>
-      <h3 class="text-2xl font-black uppercase mb-3 leading-tight">
+      <h3 class="${titleClass} font-black uppercase mb-3 leading-tight">
         ${article.title}
       </h3>
-      <p class="font-mono text-sm mb-4 line-clamp-3">
+      <p class="${descClass}">
         ${article.description || 'No description available'}
       </p>
-      <a 
-        href="${article.url}" 
-        target="_blank" 
-        rel="noopener noreferrer"
-        class="brutal-btn bg-neon-yellow text-sm inline-block"
-      >
-        READ MORE →
-      </a>
+      <div class="mt-auto pt-4">
+        <a 
+          href="${article.url}" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          class="brutal-btn bg-neon-yellow text-sm inline-block"
+        >
+          READ MORE →
+        </a>
+      </div>
     </div>
   `;
   
