@@ -9,6 +9,7 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 
         body {
             font-family: 'Plus Jakarta Sans', sans-serif;
@@ -60,9 +61,15 @@
             from { opacity: 0; transform: translateY(10px); }
             to { opacity: 1; transform: translateY(0); }
         }
+        
+        /* Mini-App Scale Wrapper */
+        .mini-app-scale {
+            transform: scale(0.95);
+            transform-origin: center;
+        }
     </style>
     <!-- Chosen Palette: "Organic Modernism" - Preserved. -->
-    <!-- Application Structure: Updated with "Resonance 2025" branding strategy. -->
+    <!-- Application Structure: Updated Snippet Logic to render full-layout simulations. -->
     <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
 </head>
 <body class="antialiased selection:bg-orange-100">
@@ -121,12 +128,12 @@
             </div>
         </section>
 
-        <!-- SECTION 2: The Trend Radar (With Visual Snippets) -->
+        <!-- SECTION 2: The Trend Radar (With Full App Snippets) -->
         <section id="section-trends" class="scroll-mt-24">
             <div class="mb-8">
                 <h2 class="text-3xl font-bold text-stone-800 mb-3">The Trend Landscape</h2>
                 <p class="text-stone-600 max-w-2xl">
-                    Explore the five dominant movements shaping the web. Select a trend from the list to see a <span class="text-[#D97757] font-semibold">live visual snippet</span> and its analytical profile.
+                    Explore the five dominant movements shaping the web. Select a trend to see a <span class="text-[#D97757] font-semibold">Mini-App Simulation</span> demonstrating how the aesthetic applies to a full interface, not just a component.
                 </p>
             </div>
 
@@ -143,11 +150,12 @@
                     <div class="bg-white rounded-xl border border-stone-200 p-6 shadow-sm">
                         <div class="flex justify-between items-center mb-4">
                             <h3 id="trend-title" class="text-xl font-bold text-stone-800">Select a Trend</h3>
-                            <span class="text-xs font-medium text-stone-400 uppercase tracking-wider">Visual Snippet</span>
+                            <span class="text-xs font-medium text-stone-400 uppercase tracking-wider">Full Layout Preview</span>
                         </div>
                         
                         <!-- The Snippet Container -->
-                        <div id="trend-preview" class="w-full bg-stone-50 rounded-lg border border-stone-100 p-8 flex items-center justify-center min-h-[200px] overflow-hidden">
+                        <!-- Height increased to accommodate full layout feel -->
+                        <div id="trend-preview" class="w-full bg-stone-50 rounded-lg border border-stone-100 p-4 flex items-center justify-center min-h-[350px] overflow-hidden relative">
                             <!-- Dynamic CSS Visuals injected here -->
                         </div>
 
@@ -291,50 +299,106 @@
 
     <!-- JavaScript Implementation -->
     <script>
-        // --- 1. DATA STORE (Enhanced with Snippet HTML) ---
+        // --- 1. DATA STORE (Enhanced with FULL UI Snippets) ---
         const reportData = {
             trends: [
                 {
                     id: 'neomorphic',
                     title: 'Neomorphic Tactility 2.0',
-                    desc: 'A shift away from flat design towards soft, haptic-like visuals. This uses subtle shadows and light to create depth that signals interactivity, crucial for Spatial Web readiness.',
+                    desc: 'A shift away from flat design towards soft, haptic-like visuals. This applies to whole dashboard systems where depth hierarchy signals "active" states vs "static" data.',
                     driver: 'AR/VR Readiness',
                     value: 'Higher Click Confidence',
                     tags: ['Soft Shadows', 'Concave/Convex', 'Low Contrast'],
                     stats: [80, 90, 60, 85, 70],
-                    // CSS Visual Representation
+                    // FULL APP UI: Smart Home Dashboard
                     snippetHTML: `
-                        <div class="flex flex-col items-center justify-center gap-6 w-full max-w-sm">
-                            <div class="relative w-full h-32 bg-[#E0E5EC] rounded-xl flex items-center justify-evenly shadow-inner p-4">
-                                <!-- Convex Button -->
-                                <div class="w-16 h-16 rounded-xl bg-[#E0E5EC] shadow-[6px_6px_12px_#b8b9be,-6px_-6px_12px_#ffffff] flex items-center justify-center text-stone-500">
-                                    <span class="text-2xl font-bold">+</span>
+                        <div class="w-full h-full bg-[#E0E5EC] p-4 flex gap-4 mini-app-scale font-sans">
+                            <!-- Sidebar -->
+                            <div class="w-16 flex flex-col items-center gap-6 py-4">
+                                <div class="w-10 h-10 rounded-xl bg-[#E0E5EC] shadow-[5px_5px_10px_#bebebe,-5px_-5px_10px_#ffffff] flex items-center justify-center text-stone-600 font-bold">H</div>
+                                <div class="w-8 h-8 rounded-full bg-[#E0E5EC] shadow-[inset_3px_3px_6px_#bebebe,inset_-3px_-3px_6px_#ffffff] flex items-center justify-center text-xs">🏠</div>
+                                <div class="w-8 h-8 rounded-full bg-[#E0E5EC] shadow-[5px_5px_10px_#bebebe,-5px_-5px_10px_#ffffff] flex items-center justify-center text-xs">⚙️</div>
+                            </div>
+                            <!-- Main Content -->
+                            <div class="flex-1 flex flex-col gap-4">
+                                <div class="flex justify-between items-center">
+                                    <h3 class="text-stone-600 font-bold">Living Room</h3>
+                                    <div class="w-32 h-8 rounded-full bg-[#E0E5EC] shadow-[inset_3px_3px_6px_#bebebe,inset_-3px_-3px_6px_#ffffff] flex items-center px-3 text-xs text-stone-400">Search...</div>
                                 </div>
-                                <!-- Concave Display -->
-                                <div class="w-32 h-12 rounded-full bg-[#E0E5EC] shadow-[inset_6px_6px_12px_#b8b9be,inset_-6px_-6px_12px_#ffffff] flex items-center justify-center text-xs font-semibold text-stone-500 tracking-wide">
-                                    ACTIVE
+                                <div class="grid grid-cols-2 gap-4">
+                                    <!-- Card 1: Temp -->
+                                    <div class="bg-[#E0E5EC] rounded-2xl shadow-[8px_8px_16px_#bebebe,-8px_-8px_16px_#ffffff] p-4 flex flex-col justify-between h-32">
+                                        <div class="flex justify-between">
+                                            <span class="text-xs text-stone-500 font-bold">TEMP</span>
+                                            <div class="w-3 h-3 rounded-full bg-green-400 shadow-[0_0_5px_rgba(74,222,128,0.8)]"></div>
+                                        </div>
+                                        <div class="self-center w-16 h-16 rounded-full bg-[#E0E5EC] shadow-[inset_3px_3px_6px_#bebebe,inset_-3px_-3px_6px_#ffffff] flex items-center justify-center text-stone-600 font-bold text-lg">22°</div>
+                                    </div>
+                                    <!-- Card 2: Lights -->
+                                    <div class="bg-[#E0E5EC] rounded-2xl shadow-[8px_8px_16px_#bebebe,-8px_-8px_16px_#ffffff] p-4 flex flex-col justify-between h-32">
+                                        <span class="text-xs text-stone-500 font-bold">LIGHTS</span>
+                                        <div class="flex gap-2 mt-2">
+                                            <div class="w-8 h-8 rounded-lg bg-[#E0E5EC] shadow-[inset_3px_3px_6px_#bebebe,inset_-3px_-3px_6px_#ffffff] flex items-center justify-center text-[10px] text-[#D97757] font-bold">ON</div>
+                                            <div class="w-8 h-8 rounded-lg bg-[#E0E5EC] shadow-[3px_3px_6px_#bebebe,-3px_-3px_6px_#ffffff] flex items-center justify-center text-[10px] text-stone-400">OFF</div>
+                                        </div>
+                                        <div class="w-full h-2 bg-[#E0E5EC] rounded-full shadow-[inset_2px_2px_4px_#bebebe,inset_-2px_-2px_4px_#ffffff] mt-2">
+                                            <div class="w-2/3 h-full bg-stone-400 rounded-full"></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
-                            <span class="text-xs text-stone-400 font-mono">CSS: box-shadow (inset & drop)</span>
                         </div>
                     `
                 },
                 {
                     id: 'bento',
                     title: 'Fluid Bento Grids',
-                    desc: 'The "Bento Box" layout dominates, but in 2025 it is fully fluid. Content blocks resize dynamically based on importance and AI-determined user intent.',
+                    desc: 'The "Bento Box" layout applied to a Media Portfolio. It abandons rows for a fluid mosaic where primary content (Video/Article) takes 2x2 space and utility widgets take 1x1.',
                     driver: 'Content Density',
                     value: 'Modular Scalability',
                     tags: ['Grid', 'Dynamic Sizing', 'Card UI'],
                     stats: [70, 95, 50, 90, 95],
+                    // FULL APP UI: Media Portfolio / News Feed
                     snippetHTML: `
-                        <div class="w-full max-w-sm aspect-video bg-white p-2 rounded-xl shadow-sm border border-stone-200">
-                            <div class="grid grid-cols-4 grid-rows-3 gap-2 h-full">
-                                <div class="col-span-2 row-span-2 bg-stone-100 rounded-lg flex items-center justify-center text-xs text-stone-400">Main</div>
-                                <div class="col-span-2 bg-[#D97757] rounded-lg opacity-80"></div>
-                                <div class="bg-stone-200 rounded-lg"></div>
-                                <div class="bg-stone-100 rounded-lg"></div>
-                                <div class="col-span-4 bg-stone-800 rounded-lg flex items-center justify-center text-xs text-stone-400">Footer/CTA</div>
+                        <div class="w-full h-full bg-white p-2 flex flex-col gap-2 font-sans mini-app-scale">
+                            <!-- Nav Strip -->
+                            <div class="flex justify-between items-center px-2 py-1 border-b border-stone-100 mb-1">
+                                <span class="font-bold text-sm tracking-tighter">GRID.OS</span>
+                                <div class="flex gap-2 text-[10px] text-stone-400"><span>Art</span><span>Tech</span><span>Biz</span></div>
+                            </div>
+                            <!-- Bento Grid -->
+                            <div class="grid grid-cols-4 grid-rows-4 gap-2 h-full">
+                                <!-- Hero Item -->
+                                <div class="col-span-2 row-span-2 bg-stone-100 rounded-2xl p-4 flex flex-col justify-end relative overflow-hidden group">
+                                    <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
+                                    <div class="absolute top-2 right-2 bg-white px-2 py-0.5 rounded-full text-[8px] font-bold">LIVE</div>
+                                    <span class="relative text-xs font-bold text-stone-800 z-10">Main Story: 2025 Trends</span>
+                                </div>
+                                <!-- Sidebar Stat -->
+                                <div class="col-span-1 row-span-1 bg-[#F4F2ED] rounded-2xl p-2 flex flex-col justify-center items-center">
+                                    <span class="text-[10px] text-stone-400 uppercase">Visits</span>
+                                    <span class="text-lg font-bold text-[#D97757]">42k</span>
+                                </div>
+                                <!-- Sidebar Image -->
+                                <div class="col-span-1 row-span-1 bg-stone-800 rounded-2xl relative overflow-hidden">
+                                    <div class="w-full h-full opacity-50 bg-[radial-gradient(circle,theme(colors.stone.500)_1px,transparent_1px)] bg-[length:4px_4px]"></div>
+                                </div>
+                                <!-- Mid Wide -->
+                                <div class="col-span-2 row-span-1 bg-[#D97757] text-white rounded-2xl p-3 flex items-center justify-between">
+                                    <span class="text-xs font-medium">New Podcast Ep.</span>
+                                    <div class="w-6 h-6 rounded-full bg-white/20 flex items-center justify-center">▶</div>
+                                </div>
+                                <!-- Tall Sidebar -->
+                                <div class="col-span-1 row-span-2 bg-stone-50 border border-stone-200 rounded-2xl p-2 flex flex-col gap-1">
+                                    <div class="h-1 w-full bg-stone-200 rounded"></div>
+                                    <div class="h-1 w-2/3 bg-stone-200 rounded"></div>
+                                    <div class="h-1 w-3/4 bg-stone-200 rounded"></div>
+                                    <div class="mt-auto text-[8px] text-stone-400 text-center">More ↓</div>
+                                </div>
+                                <!-- Footer Wide -->
+                                <div class="col-span-3 row-span-1 bg-stone-900 rounded-2xl flex items-center px-4">
+                                    <span class="text-white text-xs font-mono">Subscribe to newsletter →</span>
+                                </div>
                             </div>
                         </div>
                     `
@@ -342,20 +406,51 @@
                 {
                     id: 'green',
                     title: 'Eco-Minimalism',
-                    desc: 'Sustainability is now a primary KPI. Dark mode defaults (on OLED), typography-light designs, and code-splitting are used to minimize carbon footprint.',
+                    desc: 'A super-lightweight Article Reader. By using system fonts, omitting images, and defaulting to dark mode on compatible screens, this layout consumes 90% less energy.',
                     driver: 'Climate Regulation',
                     value: 'Cost Reduction',
                     tags: ['Dark Mode', 'Monospace', 'Low Res'],
                     stats: [60, 85, 75, 80, 100],
+                    // FULL APP UI: Text-Based Reader
                     snippetHTML: `
-                        <div class="w-full max-w-sm h-32 bg-[#1a1a1a] rounded-lg border border-stone-700 p-4 font-mono text-green-400 flex flex-col justify-between shadow-lg">
-                            <div class="flex justify-between items-start border-b border-stone-800 pb-2">
-                                <span class="text-xs uppercase tracking-widest">Low_Energy_Mode</span>
-                                <div class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></div>
+                        <div class="w-full h-full bg-[#111111] text-[#999] font-mono p-4 flex flex-col gap-4 mini-app-scale border border-stone-800">
+                            <!-- Header -->
+                            <div class="flex justify-between items-end border-b border-[#333] pb-2">
+                                <div>
+                                    <h1 class="text-white text-sm font-bold tracking-widest uppercase">The_Daily_Eco</h1>
+                                    <span class="text-[10px] text-green-500">● Live Connection</span>
+                                </div>
+                                <div class="text-[10px] border border-[#333] px-2 py-1 rounded">SIZE: 12KB</div>
                             </div>
-                            <div class="space-y-1">
-                                <div class="text-xs text-stone-500">Page_Weight: 45kb</div>
-                                <div class="text-lg font-bold">CO2: 0.04g</div>
+                            
+                            <!-- Main Content Area -->
+                            <div class="flex gap-4 h-full">
+                                <!-- Sidebar Nav -->
+                                <div class="w-1/4 flex flex-col gap-2 text-[10px] border-r border-[#333] pr-2">
+                                    <span class="text-white hover:text-green-400 cursor-pointer">>> Home</span>
+                                    <span class="hover:text-green-400 cursor-pointer">-- World</span>
+                                    <span class="hover:text-green-400 cursor-pointer">-- Tech</span>
+                                    <span class="hover:text-green-400 cursor-pointer">-- Climate</span>
+                                    <div class="mt-auto text-[8px] text-[#444]">v.2.0.4</div>
+                                </div>
+
+                                <!-- Article Body -->
+                                <div class="flex-1 overflow-hidden relative">
+                                    <h2 class="text-white text-lg font-serif mb-2">The Age of Less</h2>
+                                    <p class="text-[10px] leading-relaxed mb-2 text-[#888]">
+                                        Web design has reached a tipping point. We are stripping away the non-essential div tags, heavy scripts, and autoplay videos.
+                                    </p>
+                                    <p class="text-[10px] leading-relaxed text-[#888]">
+                                        <span class="text-white bg-[#333] px-1"> > </span> This interface uses zero images. The contrast ratio is optimized for OLED savings.
+                                    </p>
+                                    
+                                    <!-- Code Block Vis -->
+                                    <div class="mt-3 p-2 bg-[#000] border border-[#333] text-[8px] text-green-600 font-mono">
+                                        <span class="text-purple-400">function</span> <span class="text-blue-400">saveEnergy</span>() {<br>
+                                        &nbsp;&nbsp;return <span class="text-yellow-600">true</span>;<br>
+                                        }
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     `
@@ -363,41 +458,101 @@
                 {
                     id: 'ai-ui',
                     title: 'Generative UI',
-                    desc: 'Interfaces that build themselves. The layout changes based on who is looking at it. An elderly user gets larger text; a power user gets dense data tables.',
+                    desc: 'One app, two distinct interfaces generated on the fly. Left: A high-density "Pro Mode" for analysts. Right: A high-accessibility "Focus Mode" for casual users.',
                     driver: 'Personalization',
                     value: 'Conversion Rate',
                     tags: ['Adaptive', 'Large Type', 'High Contrast'],
                     stats: [50, 80, 100, 95, 60],
+                    // FULL APP UI: Split Screen Banking App
                     snippetHTML: `
-                        <div class="w-full max-w-sm bg-white p-4 rounded-xl border-2 border-dashed border-stone-300 flex flex-col gap-3 relative overflow-hidden">
-                            <div class="absolute top-0 right-0 bg-blue-100 text-blue-600 text-[10px] px-2 py-1 rounded-bl-lg">Gen_AI Active</div>
-                            <div class="h-6 bg-stone-100 rounded w-3/4 animate-pulse"></div>
-                            <div class="h-4 bg-stone-50 rounded w-full"></div>
-                            <div class="flex gap-2 mt-2">
-                                <div class="h-8 bg-stone-800 rounded w-1/3"></div>
-                                <div class="h-8 bg-stone-200 rounded w-1/3"></div>
+                        <div class="w-full h-full flex mini-app-scale rounded-lg overflow-hidden shadow-sm border border-stone-200">
+                            
+                            <!-- LEFT: Pro Mode (Complex) -->
+                            <div class="w-1/2 bg-white border-r border-stone-200 p-3 flex flex-col gap-2 relative">
+                                <div class="absolute top-0 left-0 bg-blue-600 text-white text-[8px] px-2 py-1 font-bold">USER: ANALYST</div>
+                                <div class="mt-4 flex justify-between items-end border-b pb-1 border-stone-200">
+                                    <span class="text-[10px] font-bold text-stone-800">Portfolio</span>
+                                    <span class="text-[10px] text-green-600 font-mono">+2.4%</span>
+                                </div>
+                                <!-- Dense Table -->
+                                <div class="space-y-1">
+                                    <div class="flex justify-between text-[8px] text-stone-500 bg-stone-50 p-1 rounded">
+                                        <span>AAPL</span> <span>182.4</span> <span>+0.2</span>
+                                    </div>
+                                    <div class="flex justify-between text-[8px] text-stone-500 bg-stone-50 p-1 rounded">
+                                        <span>GOOG</span> <span>134.1</span> <span>-0.1</span>
+                                    </div>
+                                    <div class="flex justify-between text-[8px] text-stone-500 bg-stone-50 p-1 rounded">
+                                        <span>TSLA</span> <span>245.5</span> <span>+1.5</span>
+                                    </div>
+                                </div>
+                                <!-- Mini Chart -->
+                                <div class="mt-auto h-16 flex items-end gap-1 pb-2 border-b border-stone-200">
+                                    <div class="w-2 h-4 bg-stone-300"></div>
+                                    <div class="w-2 h-8 bg-stone-300"></div>
+                                    <div class="w-2 h-6 bg-stone-300"></div>
+                                    <div class="w-2 h-10 bg-blue-600"></div>
+                                    <div class="w-2 h-5 bg-stone-300"></div>
+                                </div>
                             </div>
+
+                            <!-- RIGHT: Access Mode (Simple) -->
+                            <div class="w-1/2 bg-[#FFFCF5] p-3 flex flex-col gap-3 relative">
+                                <div class="absolute top-0 right-0 bg-stone-800 text-white text-[8px] px-2 py-1 font-bold">USER: SENIOR</div>
+                                
+                                <div class="mt-6 text-center">
+                                    <div class="text-[10px] uppercase tracking-widest text-stone-500 mb-1">Total Balance</div>
+                                    <div class="text-2xl font-bold text-stone-900">$24,500</div>
+                                </div>
+
+                                <div class="flex flex-col gap-2 mt-2">
+                                    <button class="w-full bg-[#D97757] text-white py-2 rounded-lg shadow-sm text-xs font-bold">Send Money</button>
+                                    <button class="w-full bg-white border border-stone-300 text-stone-600 py-2 rounded-lg text-xs font-bold">View History</button>
+                                </div>
+                            </div>
+
                         </div>
                     `
                 },
                 {
                     id: 'micro',
                     title: 'Scrollytelling',
-                    desc: 'Scrolling triggers complex animations that tell a story. This turns passive reading into active exploration, keeping bounce rates significantly lower.',
+                    desc: 'A Product Landing Page simulation. As the user (hypothetically) scrolls, elements are placed in deep Z-space, creating a parallax narrative rather than static sections.',
                     driver: 'Engagement',
                     value: 'Brand Retention',
                     tags: ['Motion', 'Scroll Triggers', 'Narrative'],
                     stats: [95, 60, 80, 50, 40],
+                    // FULL APP UI: Parallax Landing
                     snippetHTML: `
-                        <div class="w-full max-w-sm h-32 bg-stone-50 rounded-xl border border-stone-200 relative overflow-hidden flex items-center p-6">
-                            <div class="absolute right-4 top-4 bottom-4 w-1.5 bg-stone-200 rounded-full">
-                                <div class="h-1/3 w-full bg-[#D97757] rounded-full absolute top-8"></div>
+                        <div class="w-full h-full bg-gradient-to-b from-stone-900 to-stone-800 p-4 relative overflow-hidden flex flex-col items-center justify-center mini-app-scale text-center">
+                            
+                            <!-- Fake Scrollbar -->
+                            <div class="absolute right-2 top-4 bottom-4 w-1 bg-white/10 rounded-full">
+                                <div class="w-full h-1/4 bg-[#D97757] rounded-full absolute top-1/3 shadow-[0_0_10px_#D97757]"></div>
                             </div>
-                            <div class="space-y-1 z-10">
-                                <div class="text-2xl font-bold text-stone-300 transform translate-y-[-10px]">Scroll</div>
-                                <div class="text-2xl font-bold text-[#D97757] transform scale-110 origin-left">Reveals</div>
-                                <div class="text-2xl font-bold text-stone-300 transform translate-y-[10px]">Story</div>
+
+                            <!-- Background Elements (Parallax Layers) -->
+                            <div class="absolute top-10 left-10 w-24 h-24 bg-purple-500/20 rounded-full blur-xl animate-pulse"></div>
+                            <div class="absolute bottom-10 right-10 w-32 h-32 bg-blue-500/10 rounded-full blur-xl"></div>
+                            
+                            <!-- Floating Card (Midground) -->
+                            <div class="relative z-10 bg-white/5 backdrop-blur-md border border-white/10 p-6 rounded-2xl transform rotate-3 shadow-2xl mb-4 max-w-[200px]">
+                                <h3 class="text-white font-bold text-lg mb-1">The Future</h3>
+                                <p class="text-[10px] text-stone-300">is not static.</p>
                             </div>
+
+                            <!-- Text (Foreground) -->
+                            <h1 class="relative z-20 text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-stone-400">
+                                Scroll to<br>Discover
+                            </h1>
+
+                            <div class="mt-8 text-white/50 text-xs animate-bounce">
+                                ↓
+                            </div>
+
+                            <!-- Depth cue lines -->
+                            <div class="absolute top-1/2 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-white/20 to-transparent transform -translate-y-1/2 z-0"></div>
+
                         </div>
                     `
                 }
