@@ -1,0 +1,172 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  health-checks:
+    name: Health Checks
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Install Rust
+      uses: dtolnay/rust-toolchain@stable
+    
+    - name: Cache cargo registry
+      uses: actions/cache@v3
+      with:
+        path: ~/.cargo/registry
+        key: ${{ runner.os }}-cargo-registry-${{ hashFiles('**/Cargo.lock') }}
+    
+    - name: Cache cargo index
+      uses: actions/cache@v3
+      with:
+        path: ~/.cargo/git
+        key: ${{ runner.os }}-cargo-index-${{ hashFiles('**/Cargo.lock') }}
+    
+    - name: Cache cargo build
+      uses: actions/cache@v3
+      with:
+        path: target
+        key: ${{ runner.os }}-cargo-build-target-${{ hashFiles('**/Cargo.lock') }}
+    
+    - name: Run health checks
+      run: |
+        cd rust_blender_anim
+        chmod +x health_check.sh
+        ./health_check.sh
+    
+    - name: Run Clippy
+      run: |
+        cd rust_blender_anim
+        cargo clippy -- -D warnings
+    
+    - name: Run tests
+      run: |
+        cd rust_blender_anim
+        cargo test --verbose
+
+  build-and-render:
+    name: Build and Render Video
+    needs: health-checks
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Install Rust
+      uses: dtolnay/rust-toolchain@stable
+    
+    - name: Cache cargo build
+      uses: actions/cache@v3
+      with:
+        path: target
+        key: ${{ runner.os }}-cargo-build-target-${{ hashFiles('rust_blender_anim/Cargo.lock') }}
+    
+    - name: Install Blender
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y wget xz-utils libxi6 libxrender1 libgl1 libgl1-mesa-dri libxxf86vm1 libxfixes3 libxkbcommon-x11-0 libsm6 libx11-6 libxext6 xvfb libegl1
+        
+        # Download Blender 3.6 LTS
+        wget -q https://download.blender.org/release/Blender3.6/blender-3.6.15-linux-x64.tar.xz
+        tar -xf blender-3.6.15-linux-x64.tar.xz
+        
+        # Add to PATH
+        echo "$(pwd)/blender-3.6.15-linux-x64" >> $GITHUB_PATH
+        
+        # Verify installation
+        ./blender-3.6.15-linux-x64/blender --version
+    
+    - name: Build Rust application
+      run: |
+        cd rust_blender_anim
+        cargo build --release
+    
+    - name: Cache rendered video
+      id: video-cache
+      uses: actions/cache@v3
+      with:
+        path: rust_blender_anim/animation_output.mp4
+        # Updated cache key to depend on Rust source and Cargo files
+        key: video-artifact-v3-${{ runner.os }}-${{ hashFiles('rust_blender_anim/src/**/*.rs') }}-${{ hashFiles('rust_blender_anim/Cargo.lock') }}
+
+    - name: Render video with Rust Pipeline
+      if: steps.video-cache.outputs.cache-hit != 'true'
+      run: |
+        cd rust_blender_anim
+        export LIBGL_ALWAYS_SOFTWARE=1
+        # Add Blender to PATH so Rust can find it
+        export PATH=$PATH:$(pwd)/../blender-3.6.15-linux-x64
+        
+        # Run the Rust binary (which manages parallel rendering)
+        xvfb-run -a cargo run --release
+    
+    - name: Verify output
+      if: steps.video-cache.outputs.cache-hit != 'true'
+      run: |
+        cd rust_blender_anim
+        if [ -f "animation_output.mp4" ]; then
+          echo "✅ Video rendered successfully: animation_output.mp4"
+          ls -lh animation_output.mp4
+        else
+          echo "❌ Error: animation_output.mp4 not found!"
+          exit 1
+        fi
+    
+    - name: Upload video artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: rendered-video
+        path: rust_blender_anim/animation_output.mp4
+        retention-days: 30
+    
+    - name: Upload generated script
+      uses: actions/upload-artifact@v4
+      with:
+        name: generated-script
+        path: rust_blender_anim/setup_scene.py
+        retention-days: 7
+
+  deploy-pages:
+    name: Deploy to GitHub Pages
+    needs: build-and-render
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Download video artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: rendered-video
+        path: website
+
+    - name: Rename video for website
+      run: |
+        ls -lh website/
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./website
+        force_orphan: true
+        user_name: 'github-actions[bot]'
+        user_email: 'github-actions[bot]@users.noreply.github.com'
