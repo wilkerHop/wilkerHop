@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resonance 2025: The Era of Adaptive Calm</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: #FDFCF8; /* Warm off-white */
+            color: #2D2A26; /* Soft charcoal */
+        }
+
+        /* Strict Chart Container Styling */
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px; 
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+            max-height: 400px;
+        }
+
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 350px;
+            }
+        }
+
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #F0EFE9; }
+        ::-webkit-scrollbar-thumb { background: #D1CEC7; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #B0ADA6; }
+
+        /* Interactive Elements */
+        .trend-card {
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .trend-card.active {
+            border-left: 4px solid #D97757; /* Terracotta Accent */
+            background-color: #F4F2ED;
+        }
+        .nav-btn.active {
+            color: #D97757;
+            border-bottom: 2px solid #D97757;
+        }
+
+        /* Animation utilities */
+        .fade-in-up {
+            animation: fadeInUp 0.5s ease-out forwards;
+        }
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        /* Mini-App Scale Wrapper */
+        .mini-app-scale {
+            transform: scale(0.95);
+            transform-origin: center;
+        }
+    </style>
+    <!-- Chosen Palette: "Organic Modernism" - Preserved. -->
+    <!-- Application Structure: Updated Snippet Logic to render full-layout simulations. -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+</head>
+<body class="antialiased selection:bg-orange-100">
+
+    <!-- Navigation -->
+    <nav class="sticky top-0 z-50 bg-[#FDFCF8]/95 backdrop-blur-sm border-b border-stone-200">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16 items-center">
+                <div class="font-bold text-xl tracking-tight text-stone-800 flex items-center gap-2">
+                    <span class="w-2 h-2 rounded-full bg-[#D97757]"></span>
+                    Resonance<span class="text-stone-400 font-light">2025</span>
+                </div>
+                <div class="hidden md:flex space-x-8">
+                    <button onclick="navigate('section-summary')" class="nav-btn active px-3 py-2 text-sm font-medium text-stone-600 hover:text-[#D97757] transition-colors">Summary</button>
+                    <button onclick="navigate('section-trends')" class="nav-btn px-3 py-2 text-sm font-medium text-stone-600 hover:text-[#D97757] transition-colors">Trend Radar</button>
+                    <button onclick="navigate('section-data')" class="nav-btn px-3 py-2 text-sm font-medium text-stone-600 hover:text-[#D97757] transition-colors">The Data</button>
+                    <button onclick="navigate('section-future')" class="nav-btn px-3 py-2 text-sm font-medium text-stone-600 hover:text-[#D97757] transition-colors">2026 Promises</button>
+                </div>
+                <!-- Mobile Menu Placeholder -->
+                <div class="md:hidden">
+                    <button class="text-stone-600 font-medium">Menu</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content Container -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-20">
+
+        <!-- SECTION 1: Executive Summary -->
+        <section id="section-summary" class="animate-fade-in">
+            <div class="bg-[#F4F2ED] rounded-2xl p-8 md:p-12 shadow-sm border border-stone-100 relative overflow-hidden">
+                <!-- Decorative background element -->
+                <div class="absolute top-0 right-0 w-64 h-64 bg-[#D97757] opacity-5 rounded-full filter blur-3xl transform translate-x-1/2 -translate-y-1/2"></div>
+                
+                <div class="max-w-3xl mx-auto text-center space-y-6 relative z-10">
+                    <div class="inline-block px-3 py-1 bg-white rounded-full border border-stone-200 text-xs font-semibold text-stone-500 uppercase tracking-widest mb-2">Annual Industry Report</div>
+                    <h1 class="text-4xl md:text-6xl font-bold text-stone-900 tracking-tight mb-4">
+                        Resonance <span class="text-[#D97757]">2025</span>
+                    </h1>
+                    <h2 class="text-xl md:text-2xl font-light text-stone-600">The Era of Adaptive Calm</h2>
+                    <p class="text-lg text-stone-600 leading-relaxed mt-4">
+                        We have pivoted from the <em>Attention Economy</em> to the <strong>Intention Economy</strong>. <br class="hidden md:inline"> Resonance 2025 synthesizes data from 5,000+ digital products to map the new standard of anticipatory, calm, and sustainable design.
+                    </p>
+                    <div class="flex justify-center gap-4 mt-8">
+                        <div class="flex flex-col items-center p-4 bg-white rounded-lg shadow-sm w-32 border border-stone-100">
+                            <span class="text-2xl font-bold text-[#8DA399]">92%</span>
+                            <span class="text-xs text-stone-500 uppercase tracking-wide mt-1">AI Adoption</span>
+                        </div>
+                        <div class="flex flex-col items-center p-4 bg-white rounded-lg shadow-sm w-32 border border-stone-100">
+                            <span class="text-2xl font-bold text-[#D97757]">-40%</span>
+                            <span class="text-xs text-stone-500 uppercase tracking-wide mt-1">Cognitive Load</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 2: The Trend Radar (With Full App Snippets) -->
+        <section id="section-trends" class="scroll-mt-24">
+            <div class="mb-8">
+                <h2 class="text-3xl font-bold text-stone-800 mb-3">The Trend Landscape</h2>
+                <p class="text-stone-600 max-w-2xl">
+                    Explore the five dominant movements shaping the web. Select a trend to see a <span class="text-[#D97757] font-semibold">Mini-App Simulation</span> demonstrating how the aesthetic applies to a full interface, not just a component.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+                <!-- Left: Trend List -->
+                <div class="lg:col-span-4 space-y-3" id="trend-list">
+                    <!-- Dynamic JS content here -->
+                </div>
+
+                <!-- Right: Visualization & Details -->
+                <div class="lg:col-span-8 space-y-6">
+                    
+                    <!-- Visual Snippet Box -->
+                    <div class="bg-white rounded-xl border border-stone-200 p-6 shadow-sm">
+                        <div class="flex justify-between items-center mb-4">
+                            <h3 id="trend-title" class="text-xl font-bold text-stone-800">Select a Trend</h3>
+                            <span class="text-xs font-medium text-stone-400 uppercase tracking-wider">Full Layout Preview</span>
+                        </div>
+                        
+                        <!-- The Snippet Container -->
+                        <!-- Height increased to accommodate full layout feel -->
+                        <div id="trend-preview" class="w-full bg-stone-50 rounded-lg border border-stone-100 p-4 flex items-center justify-center min-h-[350px] overflow-hidden relative">
+                            <!-- Dynamic CSS Visuals injected here -->
+                        </div>
+
+                        <p id="trend-desc" class="text-stone-600 mt-4 text-sm leading-relaxed border-l-4 border-[#D97757] pl-4">
+                            Interact with the list on the left to analyze specific design movements.
+                        </p>
+                    </div>
+
+                    <!-- Radar Chart & Metrics -->
+                    <div class="bg-white rounded-xl border border-stone-200 p-6 shadow-sm grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <div class="chart-container md:h-[250px]">
+                            <canvas id="trendRadarChart"></canvas>
+                        </div>
+                        <div class="flex flex-col justify-center space-y-4">
+                            <div>
+                                <span class="block text-xs font-semibold text-stone-400 uppercase">Primary Driver</span>
+                                <span id="trend-driver" class="block text-lg text-stone-800 font-medium">-</span>
+                            </div>
+                            <div>
+                                <span class="block text-xs font-semibold text-stone-400 uppercase">Business Value</span>
+                                <span id="trend-value" class="block text-lg text-stone-800 font-medium">-</span>
+                            </div>
+                            <div class="pt-4 border-t border-stone-100">
+                                <span class="block text-xs font-semibold text-stone-400 uppercase mb-2">Key Characteristic</span>
+                                <div id="trend-tags" class="flex flex-wrap gap-2">
+                                    <!-- Dynamic tags -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 3: Data Deep Dive -->
+        <section id="section-data" class="scroll-mt-24">
+            <div class="mb-8 flex flex-col md:flex-row md:items-end justify-between gap-4">
+                <div>
+                    <h2 class="text-3xl font-bold text-stone-800 mb-3">Performance & User Metrics</h2>
+                    <p class="text-stone-600 max-w-2xl">
+                        Quantitative analysis of 2025's design shifts. Compare how new design patterns impact user retention and server costs.
+                    </p>
+                </div>
+                <!-- Filter Control -->
+                <div class="bg-white p-1 rounded-lg border border-stone-200 inline-flex shadow-sm">
+                    <button onclick="updateDataView('retention')" class="data-filter-btn active px-4 py-2 text-sm font-medium rounded-md bg-[#F4F2ED] text-stone-800 hover:bg-stone-50 transition-all">User Retention</button>
+                    <button onclick="updateDataView('performance')" class="data-filter-btn px-4 py-2 text-sm font-medium rounded-md text-stone-500 hover:bg-stone-50 hover:text-stone-800 transition-all">Tech Performance</button>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <!-- Bar Chart -->
+                <div class="bg-white rounded-xl border border-stone-200 p-6 shadow-sm hover:shadow-md transition-shadow">
+                    <h3 class="text-lg font-semibold text-stone-700 mb-4">Impact Analysis (Legacy vs. Modern)</h3>
+                    <div class="chart-container">
+                        <canvas id="comparisonChart"></canvas>
+                    </div>
+                </div>
+
+                <!-- Doughnut Chart -->
+                <div class="bg-white rounded-xl border border-stone-200 p-6 shadow-sm hover:shadow-md transition-shadow">
+                    <h3 class="text-lg font-semibold text-stone-700 mb-4">Device Usage Distribution 2025</h3>
+                    <div class="chart-container">
+                        <canvas id="deviceChart"></canvas>
+                    </div>
+                    <div class="mt-4 text-sm text-stone-600 text-center bg-stone-50 p-2 rounded">
+                        <p>Spatial/AR devices have grown by <span class="text-[#D97757] font-bold">+150%</span> since 2023.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 4: The 2026 Promise -->
+        <section id="section-future" class="scroll-mt-24 pb-12">
+            <div class="mb-10 text-center">
+                <h2 class="text-3xl font-bold text-stone-800 mb-3">The Promise of 2026</h2>
+                <p class="text-stone-600 max-w-2xl mx-auto">
+                    The Resonance roadmap for the immediate future. Click on a quarter to reveal the predicted technology standard.
+                </p>
+            </div>
+
+            <div class="relative max-w-4xl mx-auto">
+                <div class="absolute left-1/2 transform -translate-x-1/2 h-full w-0.5 bg-stone-200"></div>
+
+                <div class="space-y-12" id="timeline-container">
+                    <!-- Q1 2026 -->
+                    <div class="relative flex items-center justify-between group cursor-pointer" onclick="this.classList.toggle('active')">
+                        <div class="w-5/12 text-right pr-8">
+                            <h4 class="text-xl font-bold text-stone-800">Q1 2026</h4>
+                            <span class="text-sm text-[#D97757] font-medium">The Biometric Web</span>
+                        </div>
+                        <div class="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 bg-stone-300 rounded-full border-4 border-[#FDFCF8] group-hover:bg-[#D97757] transition-colors z-10"></div>
+                        <div class="w-5/12 pl-8">
+                            <div class="bg-white p-4 rounded-lg shadow-sm border border-stone-100 transition-all group-hover:-translate-y-1 group-hover:shadow-md">
+                                <h5 class="font-semibold text-stone-700">Emotion-Responsive UI</h5>
+                                <p class="text-sm text-stone-500 mt-2">Real-time layout simplification based on cursor velocity and scroll frustration metrics.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Q2 2026 -->
+                    <div class="relative flex items-center justify-between group cursor-pointer">
+                        <div class="w-5/12 text-right pr-8">
+                            <div class="bg-white p-4 rounded-lg shadow-sm border border-stone-100 transition-all group-hover:-translate-y-1 group-hover:shadow-md">
+                                <h5 class="font-semibold text-stone-700">No-Code 3D Engines</h5>
+                                <p class="text-sm text-stone-500 mt-2">Lightweight, immersive 3D product backgrounds become standard on e-commerce sites.</p>
+                            </div>
+                        </div>
+                        <div class="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 bg-stone-300 rounded-full border-4 border-[#FDFCF8] group-hover:bg-[#8DA399] transition-colors z-10"></div>
+                        <div class="w-5/12 pl-8">
+                            <h4 class="text-xl font-bold text-stone-800">Q2 2026</h4>
+                            <span class="text-sm text-[#8DA399] font-medium">Depth Democratization</span>
+                        </div>
+                    </div>
+
+                    <!-- Q3 2026 -->
+                    <div class="relative flex items-center justify-between group cursor-pointer">
+                        <div class="w-5/12 text-right pr-8">
+                            <h4 class="text-xl font-bold text-stone-800">Q3 2026</h4>
+                            <span class="text-sm text-[#D97757] font-medium">The End of Search Bars</span>
+                        </div>
+                        <div class="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 bg-stone-300 rounded-full border-4 border-[#FDFCF8] group-hover:bg-[#D97757] transition-colors z-10"></div>
+                        <div class="w-5/12 pl-8">
+                            <div class="bg-white p-4 rounded-lg shadow-sm border border-stone-100 transition-all group-hover:-translate-y-1 group-hover:shadow-md">
+                                <h5 class="font-semibold text-stone-700">Predictive Navigation</h5>
+                                <p class="text-sm text-stone-500 mt-2">AI agents pre-fetch content based on context, replacing keywords with intent mapping.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="bg-white border-t border-stone-200 mt-12 py-12">
+        <div class="max-w-7xl mx-auto px-4 text-center">
+            <p class="text-stone-500 text-sm">© 2025 Resonance Report. Built for interactive analysis.</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript Implementation -->
+    <script>
+        // --- 1. DATA STORE (Enhanced with FULL UI Snippets) ---
+        const reportData = {
+            trends: [
+                {
+                    id: 'neomorphic',
+                    title: 'Neomorphic Tactility 2.0',
+                    desc: 'A shift away from flat design towards soft, haptic-like visuals. This applies to whole dashboard systems where depth hierarchy signals "active" states vs "static" data.',
+                    driver: 'AR/VR Readiness',
+                    value: 'Higher Click Confidence',
+                    tags: ['Soft Shadows', 'Concave/Convex', 'Low Contrast'],
+                    stats: [80, 90, 60, 85, 70],
+                    // FULL APP UI: Smart Home Dashboard
+                    snippetHTML: `
+                        <div class="w-full h-full bg-[#E0E5EC] p-4 flex gap-4 mini-app-scale font-sans">
+                            <!-- Sidebar -->
+                            <div class="w-16 flex flex-col items-center gap-6 py-4">
+                                <div class="w-10 h-10 rounded-xl bg-[#E0E5EC] shadow-[5px_5px_10px_#bebebe,-5px_-5px_10px_#ffffff] flex items-center justify-center text-stone-600 font-bold">H</div>
+                                <div class="w-8 h-8 rounded-full bg-[#E0E5EC] shadow-[inset_3px_3px_6px_#bebebe,inset_-3px_-3px_6px_#ffffff] flex items-center justify-center text-xs">🏠</div>
+                                <div class="w-8 h-8 rounded-full bg-[#E0E5EC] shadow-[5px_5px_10px_#bebebe,-5px_-5px_10px_#ffffff] flex items-center justify-center text-xs">⚙️</div>
+                            </div>
+                            <!-- Main Content -->
+                            <div class="flex-1 flex flex-col gap-4">
+                                <div class="flex justify-between items-center">
+                                    <h3 class="text-stone-600 font-bold">Living Room</h3>
+                                    <div class="w-32 h-8 rounded-full bg-[#E0E5EC] shadow-[inset_3px_3px_6px_#bebebe,inset_-3px_-3px_6px_#ffffff] flex items-center px-3 text-xs text-stone-400">Search...</div>
+                                </div>
+                                <div class="grid grid-cols-2 gap-4">
+                                    <!-- Card 1: Temp -->
+                                    <div class="bg-[#E0E5EC] rounded-2xl shadow-[8px_8px_16px_#bebebe,-8px_-8px_16px_#ffffff] p-4 flex flex-col justify-between h-32">
+                                        <div class="flex justify-between">
+                                            <span class="text-xs text-stone-500 font-bold">TEMP</span>
+                                            <div class="w-3 h-3 rounded-full bg-green-400 shadow-[0_0_5px_rgba(74,222,128,0.8)]"></div>
+                                        </div>
+                                        <div class="self-center w-16 h-16 rounded-full bg-[#E0E5EC] shadow-[inset_3px_3px_6px_#bebebe,inset_-3px_-3px_6px_#ffffff] flex items-center justify-center text-stone-600 font-bold text-lg">22°</div>
+                                    </div>
+                                    <!-- Card 2: Lights -->
+                                    <div class="bg-[#E0E5EC] rounded-2xl shadow-[8px_8px_16px_#bebebe,-8px_-8px_16px_#ffffff] p-4 flex flex-col justify-between h-32">
+                                        <span class="text-xs text-stone-500 font-bold">LIGHTS</span>
+                                        <div class="flex gap-2 mt-2">
+                                            <div class="w-8 h-8 rounded-lg bg-[#E0E5EC] shadow-[inset_3px_3px_6px_#bebebe,inset_-3px_-3px_6px_#ffffff] flex items-center justify-center text-[10px] text-[#D97757] font-bold">ON</div>
+                                            <div class="w-8 h-8 rounded-lg bg-[#E0E5EC] shadow-[3px_3px_6px_#bebebe,-3px_-3px_6px_#ffffff] flex items-center justify-center text-[10px] text-stone-400">OFF</div>
+                                        </div>
+                                        <div class="w-full h-2 bg-[#E0E5EC] rounded-full shadow-[inset_2px_2px_4px_#bebebe,inset_-2px_-2px_4px_#ffffff] mt-2">
+                                            <div class="w-2/3 h-full bg-stone-400 rounded-full"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    `
+                },
+                {
+                    id: 'bento',
+                    title: 'Fluid Bento Grids',
+                    desc: 'The "Bento Box" layout applied to a Media Portfolio. It abandons rows for a fluid mosaic where primary content (Video/Article) takes 2x2 space and utility widgets take 1x1.',
+                    driver: 'Content Density',
+                    value: 'Modular Scalability',
+                    tags: ['Grid', 'Dynamic Sizing', 'Card UI'],
+                    stats: [70, 95, 50, 90, 95],
+                    // FULL APP UI: Media Portfolio / News Feed
+                    snippetHTML: `
+                        <div class="w-full h-full bg-white p-2 flex flex-col gap-2 font-sans mini-app-scale">
+                            <!-- Nav Strip -->
+                            <div class="flex justify-between items-center px-2 py-1 border-b border-stone-100 mb-1">
+                                <span class="font-bold text-sm tracking-tighter">GRID.OS</span>
+                                <div class="flex gap-2 text-[10px] text-stone-400"><span>Art</span><span>Tech</span><span>Biz</span></div>
+                            </div>
+                            <!-- Bento Grid -->
+                            <div class="grid grid-cols-4 grid-rows-4 gap-2 h-full">
+                                <!-- Hero Item -->
+                                <div class="col-span-2 row-span-2 bg-stone-100 rounded-2xl p-4 flex flex-col justify-end relative overflow-hidden group">
+                                    <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
+                                    <div class="absolute top-2 right-2 bg-white px-2 py-0.5 rounded-full text-[8px] font-bold">LIVE</div>
+                                    <span class="relative text-xs font-bold text-stone-800 z-10">Main Story: 2025 Trends</span>
+                                </div>
+                                <!-- Sidebar Stat -->
+                                <div class="col-span-1 row-span-1 bg-[#F4F2ED] rounded-2xl p-2 flex flex-col justify-center items-center">
+                                    <span class="text-[10px] text-stone-400 uppercase">Visits</span>
+                                    <span class="text-lg font-bold text-[#D97757]">42k</span>
+                                </div>
+                                <!-- Sidebar Image -->
+                                <div class="col-span-1 row-span-1 bg-stone-800 rounded-2xl relative overflow-hidden">
+                                    <div class="w-full h-full opacity-50 bg-[radial-gradient(circle,theme(colors.stone.500)_1px,transparent_1px)] bg-[length:4px_4px]"></div>
+                                </div>
+                                <!-- Mid Wide -->
+                                <div class="col-span-2 row-span-1 bg-[#D97757] text-white rounded-2xl p-3 flex items-center justify-between">
+                                    <span class="text-xs font-medium">New Podcast Ep.</span>
+                                    <div class="w-6 h-6 rounded-full bg-white/20 flex items-center justify-center">▶</div>
+                                </div>
+                                <!-- Tall Sidebar -->
+                                <div class="col-span-1 row-span-2 bg-stone-50 border border-stone-200 rounded-2xl p-2 flex flex-col gap-1">
+                                    <div class="h-1 w-full bg-stone-200 rounded"></div>
+                                    <div class="h-1 w-2/3 bg-stone-200 rounded"></div>
+                                    <div class="h-1 w-3/4 bg-stone-200 rounded"></div>
+                                    <div class="mt-auto text-[8px] text-stone-400 text-center">More ↓</div>
+                                </div>
+                                <!-- Footer Wide -->
+                                <div class="col-span-3 row-span-1 bg-stone-900 rounded-2xl flex items-center px-4">
+                                    <span class="text-white text-xs font-mono">Subscribe to newsletter →</span>
+                                </div>
+                            </div>
+                        </div>
+                    `
+                },
+                {
+                    id: 'green',
+                    title: 'Eco-Minimalism',
+                    desc: 'A super-lightweight Article Reader. By using system fonts, omitting images, and defaulting to dark mode on compatible screens, this layout consumes 90% less energy.',
+                    driver: 'Climate Regulation',
+                    value: 'Cost Reduction',
+                    tags: ['Dark Mode', 'Monospace', 'Low Res'],
+                    stats: [60, 85, 75, 80, 100],
+                    // FULL APP UI: Text-Based Reader
+                    snippetHTML: `
+                        <div class="w-full h-full bg-[#111111] text-[#999] font-mono p-4 flex flex-col gap-4 mini-app-scale border border-stone-800">
+                            <!-- Header -->
+                            <div class="flex justify-between items-end border-b border-[#333] pb-2">
+                                <div>
+                                    <h1 class="text-white text-sm font-bold tracking-widest uppercase">The_Daily_Eco</h1>
+                                    <span class="text-[10px] text-green-500">● Live Connection</span>
+                                </div>
+                                <div class="text-[10px] border border-[#333] px-2 py-1 rounded">SIZE: 12KB</div>
+                            </div>
+                            
+                            <!-- Main Content Area -->
+                            <div class="flex gap-4 h-full">
+                                <!-- Sidebar Nav -->
+                                <div class="w-1/4 flex flex-col gap-2 text-[10px] border-r border-[#333] pr-2">
+                                    <span class="text-white hover:text-green-400 cursor-pointer">>> Home</span>
+                                    <span class="hover:text-green-400 cursor-pointer">-- World</span>
+                                    <span class="hover:text-green-400 cursor-pointer">-- Tech</span>
+                                    <span class="hover:text-green-400 cursor-pointer">-- Climate</span>
+                                    <div class="mt-auto text-[8px] text-[#444]">v.2.0.4</div>
+                                </div>
+
+                                <!-- Article Body -->
+                                <div class="flex-1 overflow-hidden relative">
+                                    <h2 class="text-white text-lg font-serif mb-2">The Age of Less</h2>
+                                    <p class="text-[10px] leading-relaxed mb-2 text-[#888]">
+                                        Web design has reached a tipping point. We are stripping away the non-essential div tags, heavy scripts, and autoplay videos.
+                                    </p>
+                                    <p class="text-[10px] leading-relaxed text-[#888]">
+                                        <span class="text-white bg-[#333] px-1"> > </span> This interface uses zero images. The contrast ratio is optimized for OLED savings.
+                                    </p>
+                                    
+                                    <!-- Code Block Vis -->
+                                    <div class="mt-3 p-2 bg-[#000] border border-[#333] text-[8px] text-green-600 font-mono">
+                                        <span class="text-purple-400">function</span> <span class="text-blue-400">saveEnergy</span>() {<br>
+                                        &nbsp;&nbsp;return <span class="text-yellow-600">true</span>;<br>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    `
+                },
+                {
+                    id: 'ai-ui',
+                    title: 'Generative UI',
+                    desc: 'One app, two distinct interfaces generated on the fly. Left: A high-density "Pro Mode" for analysts. Right: A high-accessibility "Focus Mode" for casual users.',
+                    driver: 'Personalization',
+                    value: 'Conversion Rate',
+                    tags: ['Adaptive', 'Large Type', 'High Contrast'],
+                    stats: [50, 80, 100, 95, 60],
+                    // FULL APP UI: Split Screen Banking App
+                    snippetHTML: `
+                        <div class="w-full h-full flex mini-app-scale rounded-lg overflow-hidden shadow-sm border border-stone-200">
+                            
+                            <!-- LEFT: Pro Mode (Complex) -->
+                            <div class="w-1/2 bg-white border-r border-stone-200 p-3 flex flex-col gap-2 relative">
+                                <div class="absolute top-0 left-0 bg-blue-600 text-white text-[8px] px-2 py-1 font-bold">USER: ANALYST</div>
+                                <div class="mt-4 flex justify-between items-end border-b pb-1 border-stone-200">
+                                    <span class="text-[10px] font-bold text-stone-800">Portfolio</span>
+                                    <span class="text-[10px] text-green-600 font-mono">+2.4%</span>
+                                </div>
+                                <!-- Dense Table -->
+                                <div class="space-y-1">
+                                    <div class="flex justify-between text-[8px] text-stone-500 bg-stone-50 p-1 rounded">
+                                        <span>AAPL</span> <span>182.4</span> <span>+0.2</span>
+                                    </div>
+                                    <div class="flex justify-between text-[8px] text-stone-500 bg-stone-50 p-1 rounded">
+                                        <span>GOOG</span> <span>134.1</span> <span>-0.1</span>
+                                    </div>
+                                    <div class="flex justify-between text-[8px] text-stone-500 bg-stone-50 p-1 rounded">
+                                        <span>TSLA</span> <span>245.5</span> <span>+1.5</span>
+                                    </div>
+                                </div>
+                                <!-- Mini Chart -->
+                                <div class="mt-auto h-16 flex items-end gap-1 pb-2 border-b border-stone-200">
+                                    <div class="w-2 h-4 bg-stone-300"></div>
+                                    <div class="w-2 h-8 bg-stone-300"></div>
+                                    <div class="w-2 h-6 bg-stone-300"></div>
+                                    <div class="w-2 h-10 bg-blue-600"></div>
+                                    <div class="w-2 h-5 bg-stone-300"></div>
+                                </div>
+                            </div>
+
+                            <!-- RIGHT: Access Mode (Simple) -->
+                            <div class="w-1/2 bg-[#FFFCF5] p-3 flex flex-col gap-3 relative">
+                                <div class="absolute top-0 right-0 bg-stone-800 text-white text-[8px] px-2 py-1 font-bold">USER: SENIOR</div>
+                                
+                                <div class="mt-6 text-center">
+                                    <div class="text-[10px] uppercase tracking-widest text-stone-500 mb-1">Total Balance</div>
+                                    <div class="text-2xl font-bold text-stone-900">$24,500</div>
+                                </div>
+
+                                <div class="flex flex-col gap-2 mt-2">
+                                    <button class="w-full bg-[#D97757] text-white py-2 rounded-lg shadow-sm text-xs font-bold">Send Money</button>
+                                    <button class="w-full bg-white border border-stone-300 text-stone-600 py-2 rounded-lg text-xs font-bold">View History</button>
+                                </div>
+                            </div>
+
+                        </div>
+                    `
+                },
+                {
+                    id: 'micro',
+                    title: 'Scrollytelling',
+                    desc: 'A Product Landing Page simulation. As the user (hypothetically) scrolls, elements are placed in deep Z-space, creating a parallax narrative rather than static sections.',
+                    driver: 'Engagement',
+                    value: 'Brand Retention',
+                    tags: ['Motion', 'Scroll Triggers', 'Narrative'],
+                    stats: [95, 60, 80, 50, 40],
+                    // FULL APP UI: Parallax Landing
+                    snippetHTML: `
+                        <div class="w-full h-full bg-gradient-to-b from-stone-900 to-stone-800 p-4 relative overflow-hidden flex flex-col items-center justify-center mini-app-scale text-center">
+                            
+                            <!-- Fake Scrollbar -->
+                            <div class="absolute right-2 top-4 bottom-4 w-1 bg-white/10 rounded-full">
+                                <div class="w-full h-1/4 bg-[#D97757] rounded-full absolute top-1/3 shadow-[0_0_10px_#D97757]"></div>
+                            </div>
+
+                            <!-- Background Elements (Parallax Layers) -->
+                            <div class="absolute top-10 left-10 w-24 h-24 bg-purple-500/20 rounded-full blur-xl animate-pulse"></div>
+                            <div class="absolute bottom-10 right-10 w-32 h-32 bg-blue-500/10 rounded-full blur-xl"></div>
+                            
+                            <!-- Floating Card (Midground) -->
+                            <div class="relative z-10 bg-white/5 backdrop-blur-md border border-white/10 p-6 rounded-2xl transform rotate-3 shadow-2xl mb-4 max-w-[200px]">
+                                <h3 class="text-white font-bold text-lg mb-1">The Future</h3>
+                                <p class="text-[10px] text-stone-300">is not static.</p>
+                            </div>
+
+                            <!-- Text (Foreground) -->
+                            <h1 class="relative z-20 text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-stone-400">
+                                Scroll to<br>Discover
+                            </h1>
+
+                            <div class="mt-8 text-white/50 text-xs animate-bounce">
+                                ↓
+                            </div>
+
+                            <!-- Depth cue lines -->
+                            <div class="absolute top-1/2 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-white/20 to-transparent transform -translate-y-1/2 z-0"></div>
+
+                        </div>
+                    `
+                }
+            ],
+            comparative: {
+                retention: {
+                    labels: ['Flat Design (2023)', 'Neomorphic (2025)', 'Gen UI (2025)'],
+                    data: [120, 180, 310], // Average seconds on site
+                    label: 'Avg. Time on Site (Seconds)',
+                    color: '#8DA399'
+                },
+                performance: {
+                    labels: ['Flat Design (2023)', 'Neomorphic (2025)', 'Gen UI (2025)'],
+                    data: [0.8, 1.2, 2.5], // Load time in seconds
+                    label: 'Avg. Interaction to Paint (Seconds)',
+                    color: '#D97757'
+                }
+            },
+            devices: {
+                labels: ['Mobile', 'Desktop', 'Tablet', 'Spatial/Headset'],
+                data: [55, 30, 5, 10],
+                colors: ['#2D2A26', '#8DA399', '#D97757', '#E5E5E5']
+            }
+        };
+
+        // --- 2. STATE MANAGEMENT ---
+        let currentTrendIndex = 0;
+        let radarChartInstance = null;
+        let comparisonChartInstance = null;
+        let deviceChartInstance = null;
+
+        // --- 3. INITIALIZATION ---
+        document.addEventListener('DOMContentLoaded', () => {
+            initTrendList();
+            initRadarChart();
+            initComparisonChart();
+            initDeviceChart();
+            updateTrendDetail(0); // Load first trend
+        });
+
+        // --- 4. NAVIGATION LOGIC ---
+        function navigate(sectionId) {
+            document.getElementById(sectionId).scrollIntoView({ behavior: 'smooth' });
+            document.querySelectorAll('.nav-btn').forEach(btn => btn.classList.remove('active', 'text-[#D97757]', 'border-b-2'));
+            event.target.classList.add('active', 'text-[#D97757]', 'border-b-2');
+        }
+
+        // --- 5. TREND SECTION LOGIC ---
+        function initTrendList() {
+            const listContainer = document.getElementById('trend-list');
+            reportData.trends.forEach((trend, index) => {
+                const btn = document.createElement('div');
+                btn.className = `trend-card p-4 rounded-lg cursor-pointer border border-transparent hover:bg-white hover:shadow-sm ${index === 0 ? 'active' : ''}`;
+                btn.innerHTML = `
+                    <div class="flex items-center justify-between">
+                        <h4 class="font-bold text-stone-700">${trend.title}</h4>
+                        <span class="text-xs font-mono text-stone-400">0${index + 1}</span>
+                    </div>
+                    <p class="text-xs text-stone-500 mt-1 truncate">${trend.desc}</p>
+                `;
+                btn.onclick = () => {
+                    document.querySelectorAll('.trend-card').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    updateTrendDetail(index);
+                };
+                listContainer.appendChild(btn);
+            });
+        }
+
+        function updateTrendDetail(index) {
+            const trend = reportData.trends[index];
+            
+            // Text Updates
+            document.getElementById('trend-title').innerText = trend.title;
+            document.getElementById('trend-desc').innerText = trend.desc;
+            document.getElementById('trend-driver').innerText = trend.driver;
+            document.getElementById('trend-value').innerText = trend.value;
+
+            // Visual Snippet Injection
+            const previewContainer = document.getElementById('trend-preview');
+            previewContainer.innerHTML = trend.snippetHTML;
+            
+            // Add Fade Animation to snippet
+            previewContainer.firstElementChild.classList.add('fade-in-up');
+
+            // Tag Updates
+            const tagContainer = document.getElementById('trend-tags');
+            tagContainer.innerHTML = '';
+            trend.tags.forEach(tag => {
+                const span = document.createElement('span');
+                span.className = 'px-2 py-1 bg-[#F4F2ED] text-stone-600 text-xs rounded-md font-medium';
+                span.innerText = tag;
+                tagContainer.appendChild(span);
+            });
+
+            // Chart Updates
+            if (radarChartInstance) {
+                radarChartInstance.data.datasets[0].data = trend.stats;
+                radarChartInstance.data.datasets[0].label = trend.title;
+                radarChartInstance.update();
+            }
+        }
+
+        function initRadarChart() {
+            const ctx = document.getElementById('trendRadarChart').getContext('2d');
+            radarChartInstance = new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: ['Aesthetics', 'Functionality', 'Innovation', 'Accessibility', 'Performance'],
+                    datasets: [{
+                        label: 'Trend Metric',
+                        data: [0, 0, 0, 0, 0],
+                        backgroundColor: 'rgba(217, 119, 87, 0.2)',
+                        borderColor: '#D97757',
+                        pointBackgroundColor: '#fff',
+                        pointBorderColor: '#D97757',
+                        pointHoverBackgroundColor: '#D97757',
+                        pointHoverBorderColor: '#fff'
+                    }]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    scales: {
+                        r: {
+                            beginAtZero: true,
+                            max: 100,
+                            ticks: { display: false },
+                            grid: { color: '#E5E5E5' },
+                            pointLabels: {
+                                font: { family: "'Plus Jakarta Sans', sans-serif", size: 11 },
+                                color: '#57534E'
+                            }
+                        }
+                    },
+                    plugins: { legend: { display: false } }
+                }
+            });
+        }
+
+        // --- 6. DATA VISUALIZATION LOGIC ---
+        function initComparisonChart() {
+            const ctx = document.getElementById('comparisonChart').getContext('2d');
+            const initialData = reportData.comparative.retention;
+            
+            comparisonChartInstance = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: initialData.labels,
+                    datasets: [{
+                        label: initialData.label,
+                        data: initialData.data,
+                        backgroundColor: initialData.color,
+                        borderRadius: 6,
+                        barThickness: 40
+                    }]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    responsive: true,
+                    plugins: {
+                        legend: { display: true, position: 'bottom', labels: { boxWidth: 10 } },
+                        tooltip: {
+                            backgroundColor: '#2D2A26',
+                            padding: 10,
+                            bodyFont: { family: "'Plus Jakarta Sans', sans-serif" }
+                        }
+                    },
+                    scales: {
+                        y: { beginAtZero: true, grid: { display: false } },
+                        x: { grid: { display: false } }
+                    }
+                }
+            });
+        }
+
+        function updateDataView(type) {
+            const buttons = document.querySelectorAll('.data-filter-btn');
+            buttons.forEach(btn => {
+                if(btn.innerText.toLowerCase().includes(type === 'retention' ? 'retention' : 'performance')) {
+                    btn.classList.add('bg-[#F4F2ED]', 'text-stone-800');
+                    btn.classList.remove('text-stone-500');
+                } else {
+                    btn.classList.remove('bg-[#F4F2ED]', 'text-stone-800');
+                    btn.classList.add('text-stone-500');
+                }
+            });
+
+            const newData = reportData.comparative[type];
+            comparisonChartInstance.data.datasets[0].data = newData.data;
+            comparisonChartInstance.data.datasets[0].label = newData.label;
+            comparisonChartInstance.data.datasets[0].backgroundColor = newData.color;
+            comparisonChartInstance.update();
+        }
+
+        function initDeviceChart() {
+            const ctx = document.getElementById('deviceChart').getContext('2d');
+            deviceChartInstance = new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: reportData.devices.labels,
+                    datasets: [{
+                        data: reportData.devices.data,
+                        backgroundColor: reportData.devices.colors,
+                        borderWidth: 0,
+                        hoverOffset: 4
+                    }]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    cutout: '70%',
+                    plugins: {
+                        legend: { position: 'right', labels: { usePointStyle: true, boxWidth: 8, font: { size: 11 } } }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>

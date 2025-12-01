@@ -1,0 +1,139 @@
+/* Neo-Brutalist Design System */
+:root {
+    --bg-color: #f0f0f0;
+    --text-color: #1a1a1a;
+    --accent-color: #ff3e00; /* Vibrant Orange */
+    --secondary-color: #00ebc7; /* Cyan */
+    --border-width: 4px;
+    --shadow-offset: 6px;
+    --font-main: 'Courier New', Courier, monospace;
+    --font-heading: 'Arial Black', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: var(--font-main);
+    margin: 0;
+    padding: 2rem;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    border: var(--border-width) solid var(--text-color);
+    background-color: #fff;
+    box-shadow: var(--shadow-offset) var(--shadow-offset) 0px var(--text-color);
+    padding: 2rem;
+}
+
+header {
+    border-bottom: var(--border-width) solid var(--text-color);
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    text-align: center;
+}
+
+h1 {
+    font-family: var(--font-heading);
+    text-transform: uppercase;
+    font-size: 3rem;
+    margin: 0;
+    letter-spacing: -2px;
+    text-shadow: 3px 3px 0px var(--secondary-color);
+}
+
+h2 {
+    font-family: var(--font-heading);
+    text-transform: uppercase;
+    background-color: var(--text-color);
+    color: #fff;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin-top: 2rem;
+    transform: rotate(-1deg);
+}
+
+p {
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+}
+
+.highlight {
+    background-color: var(--secondary-color);
+    padding: 0.2rem 0.5rem;
+    font-weight: bold;
+    border: 2px solid var(--text-color);
+}
+
+.video-container {
+    border: var(--border-width) solid var(--text-color);
+    padding: 1rem;
+    background-color: var(--accent-color);
+    margin: 2rem 0;
+    box-shadow: var(--shadow-offset) var(--shadow-offset) 0px var(--text-color);
+}
+
+video {
+    width: 100%;
+    display: block;
+    border: 2px solid var(--text-color);
+    background-color: #000;
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.stat-card {
+    border: var(--border-width) solid var(--text-color);
+    padding: 1rem;
+    text-align: center;
+    background-color: #fff;
+    transition: transform 0.2s;
+}
+
+.stat-card:hover {
+    transform: translate(-3px, -3px);
+    box-shadow: 6px 6px 0px var(--text-color);
+}
+
+.stat-value {
+    display: block;
+    font-family: var(--font-heading);
+    font-size: 2.5rem;
+    color: var(--accent-color);
+}
+
+.stat-label {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+footer {
+    margin-top: 4rem;
+    text-align: center;
+    font-size: 0.9rem;
+    border-top: var(--border-width) solid var(--text-color);
+    padding-top: 1rem;
+}
+
+a {
+    color: var(--text-color);
+    text-decoration: none;
+    border-bottom: 3px solid var(--accent-color);
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: var(--accent-color);
+    color: #fff;
+}
