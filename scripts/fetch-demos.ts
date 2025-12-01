@@ -27,7 +27,7 @@ async function fetchDemos() {
     console.log(`Fetching repositories for ${GITHUB_USERNAME}...`);
     const { data: repos } = await octokit.repos.listForUser({
       username: GITHUB_USERNAME,
-      type: 'public',
+      type: 'owner',
       per_page: 100,
     });
 
