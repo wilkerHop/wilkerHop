@@ -28,7 +28,7 @@
     "@octokit/rest": "^22.0.1",
     "axios": "^1.12.0",
     "mongodb": "^4.17.0",
-    "qs": "^6.10.3"
+    "qs": "^6.14.1"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",
